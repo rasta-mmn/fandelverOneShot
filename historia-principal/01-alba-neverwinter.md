@@ -1,4 +1,4 @@
-# 01 — O alba
+# 0.2 — O alba
 
 **Objetivo:** a partida. A noite e a **Sera** já aconteceram na [taberna](01B-taberna-el-yunque-alegre.md).
 

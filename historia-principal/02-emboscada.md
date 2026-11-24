@@ -1,4 +1,4 @@
-# 02 — La Senda de Triboar
+# 0.3 — La Senda de Triboar
 
 **Objetivo:** la emboscada, los caballos de **Gundren**, y a **Sera** arrastrada al matorral.
 

@@ -1,4 +1,4 @@
-# 12 — Phandalin
+# Phandalin
 
 **Objetivo:** fechar, conforme a **Sera** esteja no pescante ou no carro.
 

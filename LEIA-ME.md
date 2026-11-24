@@ -34,22 +34,24 @@ Lê isto em voz alta. As fotos só abrem no clique.
 
 ## Ordem
 
+Antes da gruta o número é 0.1, 0.2, 0.3, 0.4. Na gruta, o número é o da sala no mapa.
+
 | | |
 |---|---|
-| [00](historia-principal/00-sera-e-relogio.md) | Ficha e relógio. Também estão ao lado, nesta página. |
-| [01B](historia-principal/01B-taberna-el-yunque-alegre.md) | Taberna El Yunque Alegre |
-| [01](historia-principal/01-alba-neverwinter.md) | Alba e partida |
-| [02](historia-principal/02-emboscada.md) | Senda de Triboar |
-| [03](historia-principal/03-senda.md) | Rastro e armadilhas |
-| [04](historia-principal/04-area-1-boca.md) | Boca |
-| [05](historia-principal/05-area-2-vigias.md) | Vigias |
-| [06](historia-principal/06-area-3-perrera.md) | Lobos |
-| [07](historia-principal/07-area-4-pasaje.md) | Passagem |
-| [08](historia-principal/08-area-5-puente.md) | Ponte |
-| [09](historia-principal/09-area-7-tanques.md) | Tanques |
-| [10](historia-principal/10-area-6-sera.md) | Sera e Yeemik |
-| [11](historia-principal/11-area-8-klarg.md) | Klarg |
-| [12](historia-principal/12-phandalin.md) | Phandalin |
+| [Ficha](historia-principal/00-sera-e-relogio.md) | Relógio. Também está ao lado, nesta página. |
+| [0.1](historia-principal/01B-taberna-el-yunque-alegre.md) | Taberna, Neverwinter |
+| [0.2](historia-principal/01-alba-neverwinter.md) | Alba, saída da cidade |
+| [0.3](historia-principal/02-emboscada.md) | Emboscada, Senda de Triboar |
+| [0.4](historia-principal/03-senda.md) | Rastro até a boca |
+| [1](historia-principal/04-area-1-boca.md) | Boca |
+| [2](historia-principal/05-area-2-vigias.md) | Vigias |
+| [3](historia-principal/06-area-3-perrera.md) | Lobos |
+| [4](historia-principal/07-area-4-pasaje.md) | Passagem |
+| [5](historia-principal/08-area-5-puente.md) | Ponte |
+| [6](historia-principal/10-area-6-sera.md) | Sera e Yeemik |
+| [7](historia-principal/09-area-7-tanques.md) | Tanques |
+| [8](historia-principal/11-area-8-klarg.md) | Klarg |
+| [Fora](historia-principal/12-phandalin.md) | Phandalin |
 
 Decisões, só quando a saída o disser: [mapa](decisoes/00-mapa.md).
 

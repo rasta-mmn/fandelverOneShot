@@ -1,4 +1,4 @@
-# 06 — Os lobos
+# 3 — Os lobos
 
 **Objetivo:** a perrera, as correntes, e a chaminé que sobe até **Klarg**.
 

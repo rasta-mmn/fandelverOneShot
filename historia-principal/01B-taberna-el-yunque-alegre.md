@@ -1,4 +1,4 @@
-# 01B — Taberna El Yunque Alegre
+# 0.1 — Taberna El Yunque Alegre
 
 Eventos secundários, enquanto a noite corre. A **Sera** entra quando quiseres puxar a missão.
 

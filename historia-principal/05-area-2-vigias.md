@@ -1,4 +1,4 @@
-# 05 — Os vigias
+# 2 — Os vigias
 
 **Objetivo:** os dois da clareira, antes que o resto da caverna acorde.
 

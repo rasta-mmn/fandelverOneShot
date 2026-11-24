@@ -1,4 +1,4 @@
-# 09 — Os tanques
+# 7 — Os tanques
 
 **Objetivo:** os três das presas, e o que a água faz se a pedra ceder.
 

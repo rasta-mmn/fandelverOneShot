@@ -1,4 +1,4 @@
-# 11 — Klarg
+# 8 — Klarg
 
 **Objetivo:** o osgo, o lobo, e as caixas do carro.
 

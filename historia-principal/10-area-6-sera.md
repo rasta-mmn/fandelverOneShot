@@ -1,4 +1,4 @@
-# 10 — Sera e Yeemik
+# 6 — Sera e Yeemik
 
 **Objetivo:** o poste. Se ainda há marcas, a chantagem. Se não há, o silêncio.
 

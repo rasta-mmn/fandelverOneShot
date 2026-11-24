@@ -1,4 +1,4 @@
-# 03 — O rastro
+# 0.4 — O rastro
 
 **Objetivo:** a trilha até a boca, e as duas armadilhas. Cada uma que disparar tira **1 marca**.
 
