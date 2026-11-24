@@ -1,40 +1,42 @@
 # Flechas de goblin
 
-Lê isto em voz alta. É a abertura, no alto da encosta, antes da taberna. As fotos só abrem no clique.
+Lê isto em voz alta. Primeiro os dois no carro. A cidade só depois de eles partirem. As fotos só abrem no clique.
 
-**Muestra** a cidade.
-
-![Neverwinter](laminas/portadas/c-partida.jpg)
-
-> Desde esta cuesta, Neverwinter no cabe en la boca.
->
-> Las torres se apilan como si un rey se hubiera puesto todas las coronas y se hubiera sentado en la colina a ver quién pestañea primero. Murallas de piedra vieja. Un río que parte la ciudad. El puerto, allá abajo, suelta humo y mástiles. El bosque se aparta del camino, y el camino, muy educado, baja hacia la puerta.
->
-> De aquí parece un juramento. De cerca va a oler a pescado, a cuerda mojada y a alguien que cobra por mirar. Disfruten el juramento. Dura lo que tarda un enano en abrir la boca.
-
-**Muestra** os dois. O anão estende a pedra. O guerreiro já está arrependido.
+**Muestra** os dois.
 
 ![Gundren y Sildar](laminas/personagens/p-gundren-sildar.jpg)
 
-> Gundren Buscapiedras es famoso en el Norte del mismo modo que un trueno: todo el mundo lo oye, nadie lo invitó, y la taberna sonríe cuando entra. Hoy su objetivo cabe en un carro. Comida para Phandalin. El otro objetivo viaja en el tubo del mapa, y de ese no habla. Todavía.
+> El carro avanza rodando y las ruedas marcan el ritmo sobre el camino. A su lado viajan Gundren Buscapiedras y Sildar.
 >
-> El carro ya es de ustedes. Dijeron que sí. Diez piezas de oro por cabeza si la carga llega entera. Harina, cerdo salado, cerveza, queso, pan, faroles y aceite. Cien piezas, si alguien quiere contarlas. Gundren no va a dejar que las cuenten.
+> Gundren es famoso en el Norte igual que un trueno: todo el mundo lo oye, nadie lo invitó y la taberna se alegra cuando entra. Hoy su plan inmediato cabe en el carro: comida para el pueblo de Phandalin. Lo otro va dentro de un tubo de mapas en su cadera, y de eso todavía no habla.
 >
-> Para junto a la carreta. Sildar, capa azul, tiene cara de haberse arrepentido en el primer cuarto de legua y de haber seguido igual.
+> El trato ya está cerrado. Diez monedas de oro para cada uno si la carga llega completa: harina, cerdo salado, cerveza, queso, pan, faroles y aceite. Todo el cargamento vale unas cien monedas de oro, y Gundren no tiene ninguna prisa en que se pongan a contarlas.
 >
-> —Aquí se bajan —dice Gundren, y les pone en la mano una piedra gris, de río, con una muesca—. Neverwinter es enorme y yo soy bajito, así que escuchen una sola vez. Taberna El Yunque Alegre, calle del puerto. El letrero es un yunque riéndose de ustedes. Pongan la piedra en la mesa. No la escondan. Doña Sera Calder no busca caras. Busca la piedra. Pasan la noche ahí. Al alba sale el carro, y ella va en el pescante.
+> Sildar, de capa azul, tiene cara de haberse arrepentido en el primer cuarto de legua y de haber seguido caminando solo por terquedad.
 >
-> Sildar ni saluda.
+> —Aquí se bajan —dice Gundren, y les deja en la mano una piedra gris de río, marcada con una muesca—. Neverwinter es gigante y yo soy chaparro, así que escuchen bien: taberna El Yunque Alegre, en la calle del puerto. El cartel es un yunque riéndose de ustedes. Dejen la piedra a la vista en la mesa. Doña Sera Calder no busca caras; busca esa piedra. Duermen ahí esta noche. Al amanecer sale el carro, y ella va en el pescante.
 >
-> —Si se comen la piedra, no los busco.
+> Sildar ni siquiera los saluda.
 >
-> Dos caballos. El tubo del mapa golpea la cadera del enano. Bajan la cuesta sin ustedes.
+> —Y por favor, no se coman la piedra —añade Gundren—. Si lo hacen, no los voy a buscar.
 >
-> La ciudad queda abajo. La piedra pesa poco y obliga mucho. ¿Bajan ya, o se quedan a discutir con el paisaje?
+> Gundren y Sildar montan en el carro y el vehículo sigue en marcha, dejando atrás el tramo inicial mientras el tubo del mapa golpea contra la cadera del enano.
+
+**Muestra** a cidade, quando a encosta dobra.
+
+![Neverwinter](laminas/portadas/c-partida.jpg)
+
+> Al doblar la cuesta, Neverwinter aparece entera frente a ustedes y parece enorme hasta para el viento.
+>
+> Las torres se amontonan sobre la colina como si un rey se hubiera puesto todas las coronas a la vez y mirara quién parpadea primero. Hay murallas de piedra vieja, un río que corta la ciudad en dos y un puerto allá abajo lleno de mástiles y humo. El bosque se abre y el camino baja directo hacia la puerta principal.
+>
+> Desde aquí arriba parece una postal épica. De cerca va a oler a pescado, a soga mojada y a alguien cobrando por mirar. Disfruten la vista mientras dure: dura lo que tarda un enano en abrir la boca.
+>
+> La ciudad queda abajo. La piedra pesa poco, pero ya es un compromiso. ¿Bajan hacia el puerto o se quedan mirando el paisaje?
 
 ## Agora
 
-Abre o [00](historia-principal/00-sera-e-relogio.md) e deixa-o aberto. Não o leias. A noite, a pedra na mesa e a **Sera** estão na [01](historia-principal/01-alba-neverwinter.md).
+Abre o [00](historia-principal/00-sera-e-relogio.md) e deixa-o aberto. Não o leias. O carro segue com o **Gundren** até ao pátio. Eles descem a pé. A noite, a pedra na mesa e a **Sera** estão na [01](historia-principal/01-alba-neverwinter.md).
 
 ## Ordem
 
