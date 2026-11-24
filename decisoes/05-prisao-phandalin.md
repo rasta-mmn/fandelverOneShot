@@ -1,47 +1,47 @@
-# Decisão — Phandalin os prende
+# A praça
 
-História alternativa. Usa isto só se abandonaram a Sera e seguiram até a vila com o carro vazio.
+**Objetivo:** **Phandalin** sem a **Sera**, a cela, e a noite para sair.
 
-Não abras as áreas da caverna. O relógio, se algum dia voltarem, já está em 0.
+O relógio, se algum dia voltarem à caverna, já está em **0**.
 
-Chegam com bois, carro sem caixas, e sem doña Sera. Um lenhador viu-os na senda. Barthen esperava a sócia e a comida do povo. Harbin Wester, o alcaide, precisa de um culpado antes que a praça se volte contra ele.
+## Entrada
 
----
+Não mostres a cela ainda.
 
-## Parte 1 — A acusação
+> Llegan con el carro lleno y el pescante vacío. Al principio la plaza corre hacia la comida. Luego Elmar Barthen mira las riendas sueltas y el jirón de capa gris enganchado en la madera.
+>
+> Las puertas se cierran. En un minuto hay horcas, ballestas y antorchas.
+>
+> —Doña Sera pagó ese carro para que el pueblo comiera —dice. La voz le tiembla—. Y ustedes la dejaron atrás.
+>
+> El hierro de la celda se cierra a la espalda. Afuera piden justicia al alba.
 
-Portada do ramo: [c-prisao.jpg](../laminas/portadas/c-prisao.jpg). Na praça, o rosto de [Harbin](../laminas/personagens/p-harbin.jpg).
+**Muestra** a [cela](../laminas/15-prision.jpg), o [Harbin](../laminas/personagens/p-harbin.jpg) se alguém perguntar quem mandou fechar, e o [Pip](../laminas/personagens/p-pip.jpg) no banco. Na fuga, a [noite](../laminas/paisagens/l-noite-vila.jpg).
 
-**Muestra** a lámina da cela quando a porta fechar. Na cela, [Pip](../laminas/personagens/p-pip.jpg). Na fuga, a paisagem [l-noite-vila.jpg](../laminas/paisagens/l-noite-vila.jpg).
+> Pip se duerme en el taburete. Las llaves cuelgan de un clavo, no del cinturón. Arriba, alguien arrastra un banco.
+>
+> Si quieren salir, es esta noche.
+>
+> ¿Hablan con el muchacho, o miran el clavo?
 
-![Prisão](../laminas/15-prision.jpg)
+## O que há aqui
 
-> No hay juicio. Hay una sala de madera, dos guardias cansados y unas barras de hierro bajo el ayuntamiento. Harbin no los mira a los ojos. «Al amanecer dirán, delante del pueblo, qué hicieron con doña Sera y con el carro.» La puerta cierra. Arriba, alguien arrastra un banco. Abajo se quedan con un joven guardia, Pip, que se duerme en el taburete con las llaves colgando.
+- As armas estão num baú ao lado da cela. Fechadura CD 12, ou a chave no prego.
+- **Pip.** Persuasão CD 12: abre se prometem voltar a procurá-la. Ele ouviu goblins na senda.
+- Tirar a chave: Prestidigitação CD 13. Falha por 5 ou mais: acorda e grita.
+- Varão podre: Atletismo CD 15, saem pelo postigo, e há perseguição até a horta.
+- Ao amanhecer, se ainda estão dentro, **Harbin** leva-os à praça. Falar custa +2 na CD.
 
-Harbin não quer a verdade. Quer a praça calada até de manhã. Barthen está zangado e assustado. Acredita que abandonaram a Sera. Não é um vilão: é um homem a quem falta a sócia.
+Se saem:
 
----
+> Corren entre coles. Detrás, dos antorchas. En la cresta del este arde una fogata verde, breve.
+>
+> Phandalin se queda atrás. La fogata no.
+>
+> ¿Vuelven hacia esa luz, o toman el camino de Neverwinter?
 
-## Parte 2 — Sair da cela
+## Saída
 
-Uma saída basta. Deixa o grupo procurar. Se emperram, Pip ressona alto e as chaves batem na fivela.
-
-1. **Convencer Pip.** Persuasão CD 12. Ele ouviu goblins na senda e não acredita na história do roubo. Abre se prometem voltar a procurá-la. Cumprir ou não já é deles.
-2. **Tirar as chaves.** Prestidigitação CD 13 enquanto ele dorme. Se falham por 5 ou mais, acorda e grita.
-3. **O varão podre.** Atletismo CD 15 e saem pelo postigo. Fazem barulho. Pip acorda. Há perseguição até a horta.
-
-Se ainda estão presos ao amanhecer, Harbin leva-os à praça. Falar custa então +2 na CD. A multidão quer as caixas, não a explicação.
-
----
-
-## Parte 3 — A fuga
-
-Se saem de noite:
-
-> Corren entre coles y cercas. Detrás, dos antorchas. Delante, el camino oscuro a Neverwinter. En la cresta del este arde una fogata que no es de pastores: verde, breve, de goblin. Phandalin encerró a los únicos que podían haber vuelto a esa cueva. La ciudad queda atrás. La fogata no.
-
-Perseguição: Furtividade em grupo CD 12, ou um round de corrida e perdem-se no campo.
-
-A história alternativa fecha aqui. Ficam foragidos, com a caverna ainda acesa na colina.
-
-Se mais tarde quiserem entrar na caverna mesmo assim, a Sera já está na lámina da morte e Klarg continua com as caixas. Aí sim voltas à [área 1](../historia-principal/04-area-1-boca.md), com o relógio em zero.
+- Fuga: Furtividade em grupo CD 12, ou um round de corrida e perdem-se no campo. Ficam foragidos.
+- Se voltam à caverna na mesma noite, a **Sera** já está na lâmina da morte. **Klarg** ainda tem as caixas. Abre a [boca](../historia-principal/04-area-1-boca.md) com o relógio a **0**.
+- Provar o nome com as caixas recuperadas é conversa para depois, à porta de **Barthen**, e ele não abre de noite.

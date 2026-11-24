@@ -1,32 +1,34 @@
-# 06 — Área 3, a perrera
+# 06 — Os lobos
 
-**Muestra** a lámina.
+**Objetivo:** a perrera, as correntes, e a chaminé que sobe até **Klarg**.
 
-![Lobos](../laminas/07-perrera.jpg)
+## Entrada
 
-## Ler em voz alta
+**Muestra** os [lobos](../laminas/07-perrera.jpg).
 
-> Unos escalones bajan a una cámara que huele a pelo mojado y a cadena. Tres lobos tiran de un barrote clavado en una estalagmita. No llegan a los escalones. En la pared este hay una grieta estrecha, babosa, que sube a oscuras.
+> Unos escalones suben a la derecha. Antes de ver la sala, el olor llega: pelo mojado, estiércol, carne podrida.
+>
+> Tres lobos tiran de unas cadenas. El hierro está clavado a una estalagmita, y el perno canta cada vez que tiran. No llegan a los escalones. La espuma les cae del hocico.
+>
+> A la derecha de la roca, una grieta estrecha sube a oscuras. Huele a hollín.
+>
+> ¿Se quedan en los escalones, o bajan?
 
-## Lobos
+## O que há aqui
 
-Atacam qualquer um que não seja goblin e suba os degraus.
+- Três lobos. Atacam quem descer. Não chegam ao cimo dos degraus enquanto a corrente aguentar.
+- Acalmar: Trato com Animais CD 15. Com comida do carro, CD 10.
+- Se os provocam de longe, cada turno a corrente faz Atletismo CD 15. O primeiro sucesso baixa a CD a 10. O segundo solta um lobo, e esse já pisa os degraus.
+- Chaminé: 9 m até a **área 8**. Atletismo CD 10. Sucesso à metade da velocidade. 5 ou menos: 1d6 por cada 3 m. Subir antes de ver a **Sera**: **−1 marca.**
 
-- Trato com Animais CD 15 para os acalmar.
-- Se lhes derem comida do carro, a CD desce a 10. Então deixam passar.
+## Objetos no combate
 
-## A chaminé
+- **Estalagmite:** cobertura média. O perno da corrente está nesta pedra.
+- **Degraus:** terreno elevado. Os lobos não chegam enquanto a corrente não ceder.
+- **Chaminé:** a volta que não passa pela porta do **Klarg**.
 
-Fenda na parede leste. Nove metros até o cubil de Klarg (área 8).
+## Saída
 
-Atletismo CD 10. Sucesso: sobe à metade da velocidade. 5 ou menos: cai 1d6 por cada 3 metros.
-
-Subir por aqui até Klarg **antes** de ver a Sera custa **−1 marca**.
-
-## Se lutam com os lobos à vista da boca
-
-Os goblins de fora não entram. Em cada turno tentam soltar uma corrente: Atletismo CD 15. No primeiro sucesso, a seguinte desce a 10. No segundo, um lobo fica livre.
-
-## Seguir
-
-Voltar ao corredor e subir: [área 4](07-area-4-pasaje.md). Subir a chaminé: [área 8](11-area-8-klarg.md), e marca o relógio.
+- Passam sem luta, ou ficam nos degraus: o [corredor](07-area-4-pasaje.md) continua.
+- Sobem a fenda: [Klarg](11-area-8-klarg.md), e a marca se a **Sera** ainda não foi vista.
+- Ignorar a sala não custa marca. Os lobos ficam.

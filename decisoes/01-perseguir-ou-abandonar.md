@@ -1,30 +1,24 @@
-# Decisão — perseguir ou abandonar
+# Perseguir ou seguir
 
-Abre isto no fim da [emboscada](../historia-principal/02-emboscada.md). O relógio começa em 5 neste momento.
+**Objetivo:** o carro vazio no pescante, e a escolha em voz alta.
 
-Pergunta em voz alta, e espera que o grupo decida. Não empurres.
+## Entrada
 
-## Ler para pôr a escolha na mesa
-
-> El carro sigue aquí. Los bueyes también. Doña Sera no. El rastro del goblin que huyó entra en el bosque, hacia el norte, y la tierra está removida como si hubieran arrastrado a alguien.
+> El polvo baja. El carro sigue aquí. Los bueyes también. El pescante está vacío. En las zarzas, la capa gris de Sera cuelga hecha jirones.
 >
-> Phandalin queda al este, a un día de camino, con las manos vacías. La cueva, si el rastro no miente, queda mucho más cerca.
+> El rastro de los tacones entra en el bosque, hacia el noroeste. Phandalin queda al este, a un día, con las manos llenas de comida y sin ella.
+>
+> Si dejan el carro aquí, la carga se queda al sol. Si siguen hacia el pueblo, nadie sabe cuánto aguanta ella.
+>
+> ¿Qué deciden?
 
-## Se perseguem
+## O que há aqui
 
-- Escondem o carro e atam os bois.
-- Continuam em [03 — a senda](../historia-principal/03-senda.md).
-- O relógio corre com armadilhas, barulho e desvios.
+- Perseguir: escondem o carro, atam os bois, e abrem o [rastro](../historia-principal/03-senda.md). O relógio segue em **5**, menos o que a luta já gastou.
+- Seguir para **Phandalin** sem ela: o relógio vai a **0**. Abre a [praça](05-prisao-phandalin.md).
+- Descanso curto antes da caverna: **−1**. Dormir: **0**.
+- Se a seguraram na emboscada e ela está no carro, a pergunta muda. Ela mesma aponta o mato: «Se llevaron el tubo, y volverán por mí. O vamos ahora, o esta capa no sirve de nada.» Perseguir continua a ser a senda. Ir ao povoado com ela viva não é a prisão. É um descanso, e o relógio anda.
 
-## Se abandonam
+## Saída
 
-- Seguem para Phandalin com bois, carro vazio e sem a Sera.
-- Não uses os arquivos da caverna.
-- Abre [05 — a prisão](05-prisao-phandalin.md).
-- Se algum dia voltarem à caverna, o relógio já está em 0. A Sera está morta. Klarg ainda tem as caixas.
-
-## Meio-termo que ainda é perseguir
-
-Parar para um descanso curto antes de entrar na caverna: **−1 marca**, e seguem a senda.
-
-Dormir, ou entrar em Phandalin para pedir ajuda e só depois voltar: o relógio vai a **0**. Se entram na vila e ficam, a prisão dispara na mesma. Se dão meia-volta na porta, sem beber nem vender os bois, Barthen grita que voltem já. Não há prisão, mas a Sera já não respira quando chegarem ao poste.
+Eles dizem. Não escolhas por eles.

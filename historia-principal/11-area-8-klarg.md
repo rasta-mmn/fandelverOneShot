@@ -1,39 +1,41 @@
-# 11 — Área 8, Klarg
+# 11 — Klarg
 
-Retrato, no momento em que ele fala: [p-klarg.jpg](../laminas/personagens/p-klarg.jpg). O lobo: [p-rasgador.jpg](../laminas/personagens/p-rasgador.jpg).
+**Objetivo:** o osgo, o lobo, e as caixas do carro.
 
-**Muestra** a lámina da sala ao entrar.
+Se chegam aqui antes da **área 6**: **−1 marca.** Se o trato já custou **−2**, não marques outra vez.
 
-![Klarg](../laminas/13-klarg.jpg)
+## Entrada
 
-Se chegam aqui antes da área 6: **−1 marca**. Anota no relógio. Se aceitaram o trato de Yeemik, as −2 marcas desse trato já incluem a ida. Não marques as duas coisas.
+**Muestra** o [cubil](../laminas/13-klarg.jpg) e, quando ele falar, o [retrato](../laminas/personagens/p-klarg.jpg). O lobo é o [Rasgador](../laminas/personagens/p-rasgador.jpg).
 
-## Ler em voz alta
+Se ninguém avisou:
 
-> Brasas en el centro. Sacos y cajas hasta el techo bajo, varias con un león azul pintado. Un osgo enorme habla solo, en tercera persona, como si ya fuera señor de la guerra. A su lado, un lobo lleno de cicatrices. Dos goblins lo escuchan con los dientes apretados. Klarg no es del todo cuerdo, y los goblins lo odian.
+> Huele a brasa y a saco húmedo. En el centro, un brasero lleno hasta el borde. Detrás, puntas de piedra. Contra la pared, cajas. En varias, un león azul pintado, sin letras.
+>
+> Una bestia enorme se golpea el pecho. A los pies, un lobo lleno de cicatrices enseña los dientes. Dos goblins miran el fuego como si les debiera dinero.
+>
+> —¿Quién entra en la cueva de Klarg? —ruge, hablando de sí mismo—. ¡Klarg hará un trono con esos huesos!
 
-## Como está a sala
+Se a **área 7** avisou, não leias o discurso. A sala parece vazia. Ele e o lobo estão atrás dos sacos. O primeiro passo para o meio é a emboscada.
 
-- Klarg, o lobo **Rasgador**, dois goblins.
-- Se a área 7 avisou: Klarg e o lobo esperam atrás dos sacos, cobertura média.
-- Se ninguém avisou: boa hipótese de os surpreender. A chaminé que vem da perrera é a entrada que ele não vigia.
-- Brasas: 1 de fogo a quem as pisa, 1d6 a quem cai dentro. Uma vez por turno.
-- Se Rasgador morre, Klarg foge pela chaminé até a perrera e depois para fora.
-- Sacos: cobertura média.
+## O que há aqui
 
-## Tesouro
+- **Klarg**, **Rasgador**, dois goblins.
+- Se avisado: começam atrás dos sacos, cobertura média.
+- Brasas: 1 de fogo ao pisar, 1d6 se empurrado para dentro. Uma vez por turno.
+- Se **Rasgador** morre, **Klarg** foge pela chaminé até a perrera.
+- Baú entre as caixas: 600 pc, 110 pp, duas poções de cura, um sapo de jade com olhos de ouro (40 po).
+- As caixas do leão são de **Linene**. **50 po** se as devolvem. As da **Sera** estão no mesmo monte. Faz falta o carro.
 
-Num baú, entre os sacos:
+## Objetos no combate
 
-- 600 pc
-- 110 pp
-- 2 poções de cura
-- um sapo de jade com olhos de ouro (40 po)
+- **Estalagmites:** cobertura média, para os dois lados.
+- **Sacos:** cobertura média. É aqui que ele espera, se foi avisado.
+- **Brasas:** a regra está em cima.
+- **Chaminé:** Atletismo CD 10 até a **área 3**. A entrada que ele não vigia.
 
-As caixas com o leão azul são do Escudo do León. Linene paga **50 po** se as devolverem em Phandalin.
+## Saída
 
-As caixas da Sera, a farinha e a carne, estão no mesmo monte. Faz falta o carro para as levar.
-
-## Seguir
-
-Se a Sera ainda está no poste, volta à [área 6](10-area-6-sera.md) e aplica o relógio outra vez. Se já a têm, ou se levam o corpo e a carga, põe o carro na estrada e abre [Phandalin](12-phandalin.md).
+- Caem, ou ele foge e o baú fica: as caixas podem ir no carro. Com a **Sera**, ou com o corpo, abre [Phandalin](12-phandalin.md).
+- Se ela ainda está no poste, voltar à [área 6](10-area-6-sera.md) e ler o relógio outra vez.
+- Sem as caixas, **Barthen** recebe só os dois sacos do mato.

@@ -1,27 +1,33 @@
-# 07 — Área 4, o pasaje
+# 07 — A passagem
 
-Enquanto sobem, antes da ponte: [l-corredor.jpg](../laminas/paisagens/l-corredor.jpg).
+**Objetivo:** o túnel, a laje fina, e a ponte lá em cima.
 
-**Muestra** a lámina do pasaje ao subir.
+## Entrada
 
-![Pasaje oeste](../laminas/16-pasaje-oeste.jpg)
+Enquanto sobem, **muestra** o [corredor](../laminas/paisagens/l-corredor.jpg). Quando olharem para cima, a [passagem](../laminas/16-pasaje-oeste.jpg).
 
-## Ler em voz alta
+> El túnel sube. El arroyo cae a la izquierda en escalones blancos, y el ruido llena la piedra. Sin luz, el suelo se adivina por el agua.
+>
+> A un lado, el repecho es una losa más clara y más fina que el resto. Bajo ella, el vacío.
+>
+> Muy arriba, una cuerda cruza la bóveda. Está deshilachada. Por dentro, la fibra es blanca.
+>
+> ¿Pisan esa losa, o siguen el agua?
 
-> El túnel sube. El arroyo cae a su izquierda en escalones blancos. En la sombra, un corredor se va al oeste. Más arriba, entre las cuerdas y las tablas, hay algo que no debería aguantar el peso de un niño.
+## O que há aqui
 
-## A ponte na sombra
+- Sem luz, a partir daqui, não se vê o chão.
+- **Escarpa:** mais de 45 kg parte a laje. Destreza CD 10, ou 2d6 e caído. Metade se a salvaguarda passa, e caído na mesma.
+- Se levam luz, ou não se escondem, o goblin da ponte vê-os e corre para leste. A água vem no turno seguinte.
 
-O goblin da área 5 está escondido lá em cima, distraído. Percepção contra a Furtividade dele para o ver.
+## Objetos no combate
 
-Se alguém leva luz, ou não se esconde, ele vê o grupo. Não dispara ainda: corre para leste gritar a inundação. Passa sem ser visto só se a Furtividade dele não supera a Percepção passiva de quem possa olhar.
+- **Escarpa:** a laje fina. A regra está em cima.
+- **Rápidos:** empurrar para os degraus de água deixa a criatura caída no degrau de baixo. O ruído tapa um grito curto. Não tapa uma tocha.
+- **Ponte:** a corda desfiada. Os pontos e a queda estão na [área 5](08-area-5-puente.md).
 
-A lámina da ponte em si está na [área 5](08-area-5-puente.md). Mostra essa quando eles olharem para cima de propósito, ou quando ele se mexer.
+## Saída
 
-## O corredor oeste
-
-Terreno difícil. O repecho entre as duas cornijas aguanta menos de 45 kg. Se parte: Destreza CD 10, 2d6 e caído, ou metade do dano e caído se a salvaguarda passar.
-
-## Seguir
-
-Quem sobe à ponte: [área 5](08-area-5-puente.md). O corredor principal também reparte depois entre a [sala da Sera](10-area-6-sera.md) e os [tanques](09-area-7-tanques.md). Se o relógio está baixo, empurra a mesa para a área 6.
+- Seguem a água, sem serem vistos: [ponte](08-area-5-puente.md).
+- Ele os vê: abre já os [tanques](09-area-7-tanques.md). **−1 marca** se ainda não chegaram à **Sera** e estão no túnel.
+- O túnel, se não sobem à ponte nem pisam a laje, reparte entre a [área 6](10-area-6-sera.md) e a [área 7](09-area-7-tanques.md). A água não vem enquanto o vigia não gritar.

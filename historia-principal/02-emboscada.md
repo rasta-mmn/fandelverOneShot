@@ -1,42 +1,52 @@
-# 02 — Emboscada
+# 02 — A Senda de Triboar
 
-Antes da curva, deixa [a senda](../laminas/paisagens/l-senda.jpg). Quando o caminho aperta, troca para [o barranco](../laminas/paisagens/l-barranco.jpg). Portada do bloco: [c-emboscada.jpg](../laminas/portadas/c-emboscada.jpg).
+**Objetivo:** a emboscada, os cavalos de **Gundren**, e a **Sera** levada para o mato.
 
-Meio-dia. Senda de Triboar. Bosque fechado, barranco dos dois lados.
+## Entrada
 
-**Muestra** a lámina do encontro. O rosto de um goblin, se quiseres um close: [p-goblin.jpg](../laminas/personagens/p-goblin.jpg).
+Meio-dia. Antes da curva, **muestra** a [senda](../laminas/paisagens/l-senda.jpg). Quando o bosque fechar, troca para o [barranco](../laminas/paisagens/l-barranco.jpg) e depois para a [emboscada](../laminas/03-emboscada.jpg).
 
-![Emboscada](../laminas/03-emboscada.jpg)
+> Llevan medio día por la Senda de Triboar. El bosque se cierra a los dos lados. Espinas, barranco, un paso estrecho. Los pájaros se callan. Solo quedan las ruedas y el resuello de los bueyes.
+>
+> La curva apesta a sangre vieja. A quince metros, dos caballos cruzan el camino. La tierra debajo está negra. En los ijares, flechas de pluma negra.
+>
+> Sera tira de las riendas. El carro se detiene.
+>
+> —Esos son los caballos de Gundren.
+>
+> Los matorrales se mueven sin viento. ¿Qué hacen?
 
-## Ler em voz alta
+## Quando a luta começar
 
-> El camino dobla y se estrecha. A unos quince metros, dos caballos muertos cortan el paso. Llevan flechas de pluma negra. Hace un día que cayeron. El bosque no deja ver más allá de las zarzas.
+Quatro goblins, dois de cada lado. O quinto já está no mato, junto à roda da **Sera**. Não o descrevas até ele a puxar.
 
-## O que há
+No segundo turno, se ninguém está no pescante a segurá-la, lê:
 
-- Os cavalos são de Gundren e Sildar. Mortos há um dia. O tubo de mapas está vazio.
-- Quatro goblins, dois de cada lado. Furtividade +6.
-- Rola Furtividade de cada goblin contra a Percepção passiva de cada personagem. Quem ficar abaixo está surpreso e perde o primeiro turno.
-- Iniciativa normal depois disso.
-- Quando três goblins caem, o quarto foge trilha adentro, para o norte.
+> Una mano verde sale de las zarzas, al lado de la rueda. Agarra a Sera por el brazo. Ella suelta las riendas. La capa gris se engancha en las espinas y se queda allí, hecha jirones, mientras la arrastran hacia el noroeste.
+>
+> —¡Klarg la tendrá igual! —chilla una voz entre las hojas.
 
-## Ler quando o último foge
+Se alguém está junto dela e a segura, o quinto tenta na mesma. Disputa de Atletismo contra quem a segurar. Se o goblin perde, ela fica no carro, sem capa, e o que foge grita a mesma frase. O rastro continua.
 
-> El último goblin suelta el arco, chilla y se mete en el verde. Detrás de él queda un rastro sucio de talones y de algo que arrastraron.
+Quando três dos quatro caem, o último corre para o mesmo mato.
 
-Sera e as caixas já não estão. Ficam os bois, o carro e dois sacos no mato.
+> El último suelta el arco y se mete en el verde. Detrás queda barro revuelto, y el rastro de unos tacones arrastrados.
 
-## Se capturarem um goblin
+## O que há aqui
 
-Ele sabe isto, e mente mal:
+- Cavalos de **Gundren** e **Sildar**. Mortos há um dia. O tubo de mapas está vazio no chão.
+- Quatro goblins lutam. Furtividade +6 contra a Percepção passiva. Quem ficar abaixo perde o primeiro turno.
+- Dois disparam. Dois vêm ao corpo a corpo.
+- O quinto só quer a **Sera**. Foge para noroeste, terreno difícil. A capa fica nos espinhos.
+- Ficam os bois, o carro e dois sacos. O resto vai com os que fogem.
+- O relógio começa agora, em **5**. Anota em [00](00-sera-e-relogio.md).
 
-- Na caverna há menos de vinte.
-- Manda o osgo Klarg. Klarg obedece ao rei Grol, no Castillo Cragmaw, umas vinte milhas a nordeste, no Bosque de Neverwinter.
-- A Aranha Negra pagou a tribo para caçar o anão Gundren e tirar-lhe o que levasse. O anão e um mapa já vão para Grol.
-- A mulher do carro está na sala comum, amarrada a um poste.
+Se capturam um e ele fala:
 
-## DECISÃO
+> —¡La cueva del arroyo! ¡Klarg manda! ¡El enano ya se fue con el rey Grol! ¡La mujer está con Yeemik!
 
-Para aqui. Abre [perseguir ou abandonar](../decisoes/01-perseguir-ou-abandonar.md).
+## Saída
 
-O relógio da Sera começa agora, em 5. Anota em [00](00-sera-e-relogio.md).
+Há um rastro para noroeste e uma capa nos espinhos. Para aqui. Abre [perseguir ou seguir](../decisoes/01-perseguir-ou-abandonar.md).
+
+Se o grupo cai, acordam sem a **Sera** e sem as caixas. O relógio corre na mesma.

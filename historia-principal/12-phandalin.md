@@ -1,27 +1,48 @@
-# 12 — Phandalin, a entrega
+# 12 — Phandalin
 
-Só se voltam com a carga, com a Sera, ou com o corpo. Se abandonaram o resgate e entraram na vila de mãos vazias, não uses este arquivo: a cena é a [prisão](../decisoes/05-prisao-phandalin.md).
+**Objetivo:** fechar, conforme a **Sera** esteja no pescante ou no carro.
 
-Portada: [c-phandalin.jpg](../laminas/portadas/c-phandalin.jpg). Depois o vale, [l-vale.jpg](../laminas/paisagens/l-vale.jpg), e a rua, [l-rua.jpg](../laminas/paisagens/l-rua.jpg).
+## Entrada
 
-**Muestra** a lámina da chegada. Na porta do armazém: paisagem [l-barthen.jpg](../laminas/paisagens/l-barthen.jpg) e o rosto [p-barthen.jpg](../laminas/personagens/p-barthen.jpg). Se entregam as caixas do leão, [Linene](../laminas/personagens/p-linene.jpg).
+**Muestra** a portada e depois o vale.
 
-![Phandalin](../laminas/14-phandalin.jpg)
+![Phandalin](../laminas/portadas/c-phandalin.jpg)
 
-## Se ela vive
+![Vale](../laminas/paisagens/l-vale.jpg)
 
-> Phandalin aparece al final de la tarde, casas de madera y humo bajo, las colinas oscuras detrás. Elmar Barthen sale del almacén antes de que el carro pare. Ve a Sera, ve las cajas, y por un momento no puede hablar. Después cuenta diez monedas de oro para cada uno, manda abrir la cocina y dice que esta noche el pueblo duerme más tranquilo.
+Se ela vive:
 
-Barthen paga os 10 po combinados. Se trouxeram as caixas do leão azul, Linene paga mais 50 po ao grupo.
+> Las colinas se abren. Tejados de madera, humo bajo, luz de tarde. Huele a pan.
+>
+> En la plaza, frente a Provisiones de Barthen, la gente sale al ver el vestido burdeos, sucio, todavía con la falda abierta en el muslo. Sera baja del pescante. Le tiembla una rodilla. No suelta la rienda hasta que la rueda para.
+>
+> Elmar Barthen sale del almacén. Se le queda la boca abierta. Ella habla antes.
+>
+> —Estos tres no son simples escoltas. Sin ellos, hoy no hay pan.
+>
+> Alguien abre la puerta de la posada. Sale olor a estofado.
+>
+> ¿Entran, o cuentan primero las cajas?
 
-## Se ela morreu e trazem o corpo e a carga
+**Muestra** [Barthen](../laminas/personagens/p-barthen.jpg) na porta. Se há caixas do leão, [Linene](../laminas/personagens/p-linene.jpg) aparece depois, sem discurso. Paga e assente.
 
-> Barthen cuenta las monedas en silencio. Manda entrar las cajas. A Sera la reciben dos vecinos, sin preguntas. La puerta de la posada queda abierta, pero nadie brinda.
+Se ela morreu:
 
-Paga na mesma os 10 po. Não há brinde. Se trouxeram as caixas do leão, Linene paga os 50 po sem festa.
+> El viento que baja de la montaña entra en la plaza antes que el carro. No hay vítores.
+>
+> Cuando ven el cuerpo en la parte de atrás, tapado con lo que queda de la capa gris, las puertas se cierran. Elmar Barthen se quita el sombrero. Toma las riendas. No los mira.
+>
+> —Descarguen la comida. Cobren. Váyanse antes de que anochezca.
+>
+> ¿Bajan las cajas, o se quedan en el pescante?
 
-## Fecho
+## O que há aqui
 
-A história acaba aqui. Gundren continua desaparecido. Não abras esse fio salvo se alguém perguntar.
+- **10 po** cada um, vivos ou mortos, se a carga chega.
+- Se ela vive, pode juntar mais **50 po** em **Phandalin**, como prometeu no caminho se a escoltaram até ao fim. Se não o disse na caverna, diz aqui, baixinho, à porta.
+- Caixas do leão: **Linene** paga **50 po**.
+- **Gundren** continua desaparecido. Uma frase, só se perguntarem: o mapa já não estava no tubo.
 
-Experiência, se quiseres número: 75 PX a cada um pela emboscada e pela senda, e 275 por neutralizar Klarg e os seus. Salvar a Sera sem matar a caverna inteira paga o mesmo.
+## Saída
+
+A história acaba na praça. Se ela vive, a porta da posada fica aberta. Se morreu, a praça fica em silêncio e o pagamento é posto na mão, sem brinde.

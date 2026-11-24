@@ -1,32 +1,35 @@
-# 09 — Área 7, os tanques
+# 09 — Os tanques
 
-**Muestra** os tanques ao verem a água. A lámina da onda só no turno em que a presa rompe.
+**Objetivo:** os três das presas, e o que a água faz se a pedra ceder.
 
-![Tanques](../laminas/12-tanques.jpg)
+## Entrada
 
-Três goblins. Se o da ponte avisou, estão prontos. O ruído da cascata tapa o combate: Klarg não ouve esta sala, e esta sala não ouve Klarg.
+**Muestra** os [tanques](../laminas/12-tanques.jpg). A onda, só se a pedra ceder.
 
-No primeiro turno de luta, um goblin corre à área 8 avisar Klarg.
+> El rugido de la cascada llena el pecho. Casi no se oyen los propios pasos. El agua cae a dos balsas negras, sujetas por muros de piedra apilada a mano.
+>
+> En el muro más cercano, una piedra de arriba ya se mueve. Al lado hay un montón de escombros, bajo, a la altura de una rodilla.
+>
+> Tres goblins esperan sobre el dique, las lanzas apoyadas en la roca.
+>
+> ¿Se acercan al muro, o buscan otro túnel?
 
-## Ler em voz alta
+## O que há aqui
 
-> El agua cae por una grieta y llena dos balsas negras. Unos diques de piedra suelta las contienen. Tres goblins esperan encima, con las lanzas apoyadas en la roca, como si el muro ya estuviera condenado.
+- Três goblins. O ruído tapa o combate: **Klarg** não ouve esta sala, e esta sala não o ouve.
+- No primeiro turno de luta, um corre para leste avisar **Klarg**.
+- Se a ponte já deu o sinal, estão prontos e a presa parte no turno seguinte. **−1 marca** se a onda apanha o grupo antes da **Sera**.
+- Se o vigia não avisou, as presas ainda seguram a água.
+- Partir o dique é a inundação. Quem está no corredor: Força CD 10, ou vai à boca, caído, 1d6.
 
-## A inundação
+## Objetos no combate
 
-No turno seguinte ao sinal, começam a partir as presas. Na iniciativa dos goblins, no turno de depois, a água desce da área 7 à boca. **−1 marca** se o grupo está no túnel.
+- **Dique:** a pedra que já se mexe. Partir isto é a onda.
+- **Escombros:** terreno difícil e cobertura média. Espalhar o monte não parte a presa.
+- **Cascata:** tapa a voz. Não tapa quem corre para leste à vista.
 
-**Muestra** a onda e lê:
+## Saída
 
-![Inundação](../laminas/09-inundacion.jpg)
-
-> El pasillo se llena de un trueno. Una pared de agua negra baja hacia ustedes, alta como un hombre, y se lleva las tablas sueltas por delante.
-
-- Quem está na perrera está a salvo, ou trepa.
-- Quem está no corredor ou sobre uma presa: Força CD 10. Se falha, fica caído, vai até a boca e sofre 1d6.
-- Se o vigia da ponte não chegou a avisar, uma presa ou as duas já estão vazias e o arroio corre livre.
-- O goblin da ponte só pede uma segunda onda se a primeira não limpou o túnel.
-
-## Seguir
-
-Um goblin a correr para leste leva a [Klarg](11-area-8-klarg.md). A Sera, se ainda não a viram, está na [área 6](10-area-6-sera.md).
+- Calam o que corre e a presa fica: **Klarg** não é avisado por aqui. A **Sera**, se ainda não a viram, está na [área 6](10-area-6-sera.md).
+- A onda apanha-os antes: **−1 marca**. O que fugiu para leste abre [Klarg](11-area-8-klarg.md).
+- Ignorar a sala deixa a água presa, enquanto ninguém gritar o sinal.

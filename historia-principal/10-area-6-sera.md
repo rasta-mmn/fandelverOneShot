@@ -1,39 +1,51 @@
-# 10 — Área 6, Sera
+# 10 — Sera e Yeemik
 
-Portada, antes de abrires a sala: [c-resgate.jpg](../laminas/portadas/c-resgate.jpg). Não tem ninguém no poste.
+**Objetivo:** o poste. Se ainda há marcas, a chantagem. Se não há, o silêncio.
 
-Não mostres a lámina dela ao entrar. Primeiro a paisagem vazia: [l-sala-comum.jpg](../laminas/paisagens/l-sala-comum.jpg). Quando a voz de cima falar, o rosto é [Yeemik](../laminas/personagens/p-yeemik.jpg). A lámina da Sera só quando olharem o repecho sul.
+Confere o relógio em [00](00-sera-e-relogio.md) antes de leres o repecho.
 
-Confere as marcas em [00](00-sera-e-relogio.md). O texto de viva ou morta está em [esta decisão](../decisoes/03-relogio-viva-ou-morta.md).
+## Entrada
 
-## Ler ao entrar
+Não mostres a **Sera** ao entrar. Primeiro a sala.
 
-> El humo pica. Huele a cuero mal curtido y a comida quemada. La caverna se parte en dos niveles, con un repecho de tres metros. Abajo, al norte, cinco goblins rodean un fuego. Arriba, al sur, hay un poste grueso, y una voz que no es de goblin.
+**Muestra** a [sala vazia](../laminas/paisagens/l-sala-comum.jpg) só até eles olharem para cima. Depois troca.
 
-Se o relógio já está em 0, troca a última frase: não há voz. Há silêncio no poste.
+> El humo pica. Huele a cuero mal curtido y a carne que no se sabe de qué es. La caverna se parte en dos. Abajo, un fuego. Unas brasas sueltas brillan en el borde de la piedra, a la altura de las botas.
+>
+> Cinco goblins ríen alrededor. Las miradas se les van arriba, a un repecho de tres metros.
+>
+> Allí hay un poste. Y una voz que no es de goblin.
+>
+> ¿Suben, o se quedan con el fuego?
 
-## Quem está
+Quando olharem o repecho, se ainda há marcas, **muestra** [Yeemik](../laminas/personagens/p-yeemik.jpg) e a [Sera viva](../laminas/10-sera-viva.jpg). Lê isto e segue:
 
-- Cinco goblins em baixo, junto ao fogo, lado norte, perto da entrada.
-- Yeemik em cima, lado sul, 12 pontos de golpe. Segundo de Klarg. Covarde. É o único que fala.
-- Sera amarrada ao poste de madeira, no lado sul, junto de Yeemik.
+> Doña Sera está atada al poste, los brazos en alto. El vestido burdeos, de escote bajo, está rasgado en el hombro y en el muslo. Tiene el pómulo negro. Una hoja oxidada le toca el cuello.
+>
+> Detrás, un goblin más alto le rodea el cuello con el brazo.
+>
+> —¡Un paso más y la dama aprende a volar!
+>
+> Ella mantiene la barbilla alta. La voz le sale ronca.
+>
+> —No hagan tratos con alimañas por mí. La carga de Phandalin es lo que importa.
+>
+> Yeemik escupe al fuego.
+>
+> —¡Escuchen! Klarg es un bruto. Tráiganme su cabeza y se la devuelvo entera. Si suben por estas piedras, la empujo ahora. ¿Tenemos un trato?
 
-## Se ainda há marcas
+Se o relógio está em **0**, não leias o diálogo. **Muestra** a [Sera morta](../laminas/11-sera-muerta.jpg) e passa à [decisão](../decisoes/03-relogio-viva-ou-morta.md). É o rosto do retrato, desabada, queixo no peito. Cortes nos braços, no peito e na perna. Lanças no chão, crânios e fogo verde ao fundo. Nada cravado nela.
 
-Abre a decisão e **muestra** `10-sera-viva.jpg`.
+## O que há aqui
 
-Yeemik, se continua de pé ao chegar o turno dele, oferece trégua. Abre [o trato](../decisoes/04-trato-yeemik.md).
+- Cinco goblins em baixo, junto ao fogo. **Yeemik** em cima, 12 pontos de golpe. É o único que fala.
+- Com 5 a 3 marcas ela está de pé na corda e pode falar. Com 2 ou 1, pesa na corda, fica a 1 ponto, e tem de ser carregada.
+- Se o derrubam antes do turno dele, não a empurra. Cortam as cordas.
+- As brasas: pisar custa 1 de fogo. Empurrar alguém para dentro, 1d6. Uma vez por turno.
 
-Se o derrubam antes desse turno, não chega a disparar-lhe. Cortam as cordas e ela está livre.
+## Saída
 
-## Se o relógio está em 0
-
-**Muestra** `11-sera-muerta.jpg`. Yeemik não negoceia. Luta.
-
-O texto para ler está na decisão do relógio.
-
-## Seguir
-
-Com Sera livre, ou com o corpo, podem sair. As caixas ainda estão com [Klarg](11-area-8-klarg.md). Sem as caixas, Barthen recebe só os dois sacos do mato.
-
-Quando deixam a caverna e põem o carro na estrada de Phandalin, abre [12](12-phandalin.md).
+- Ela vive e as cordas caem: podem sair, ou ir às caixas em [Klarg](11-area-8-klarg.md). Com ela, ou com o corpo, o carro na estrada abre [Phandalin](12-phandalin.md).
+- **Yeemik** chega ao turno dele e ela vive: abre o [trato](../decisoes/04-trato-yeemik.md).
+- Relógio a **0**: não há trato. Ele luta. O texto está na [decisão](../decisoes/03-relogio-viva-ou-morta.md).
+- Ir ao cubil antes desta sala custa **−1**. O trato, se o aceitam, custa **−2**. Não marques as duas.

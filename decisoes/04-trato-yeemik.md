@@ -1,25 +1,29 @@
-# Decisão — o trato de Yeemik
+# O trato
 
-Só se a Sera está viva e Yeemik chega ao turno dele sem ter caído. Se o relógio já está em 0, este arquivo não se usa.
+**Objetivo:** a cabeça de **Klarg** contra a **Sera**, e a traição quando voltarem.
 
-## Ler
+Só se ela está viva e **Yeemik** chega ao turno dele. Se o relógio está em **0**, este arquivo não se usa.
 
-> «¡Tregua! Este humano se muere si dan un paso. Klarg se cree rey. Tráiganme su cabeza y la suelto.»
+## Entrada
 
-Ele está no repecho, ao lado do poste. É covarde. Quer o lugar de Klarg e não confia no grupo. O grupo faz bem em não confiar nele.
+Se já lesses a oferta na [área 6](../historia-principal/10-area-6-sera.md), não a repitas. Lê só isto, com a lâmina dela ainda na mesa:
 
-## Se aceitam
+> Yeemik aprieta el brazo. La hoja no se aparta del cuello.
+>
+> —La cabeza del oso. Luego la mujer. Si suben, vuela.
+>
+> Ella no aparta la mirada de ustedes.
+>
+> ¿Aceptan?
 
-- Yeemik fica com a Sera.
-- Vão à [área 8](../historia-principal/11-area-8-klarg.md).
-- O relógio perde **2 marcas** durante essa ida. Anota já, antes do combate.
-- Se as marcas chegam a 0 no caminho, ao voltarem ela está na lámina da morte. Yeemik encolhe os ombros.
-- Se ainda há marcas e trazem a cabeça, Yeemik pede um resgate em ouro mesmo assim. Não larga a Sera de mão beijada. Aí a mesa decide se paga, se mente, ou se o ataca. Se o atacam com ela ainda atada, ele tenta disparar-lhe no primeiro turno.
+## O que há aqui
 
-## Se recusam
+- Aceitam: ela fica com ele. Vão a [Klarg](../historia-principal/11-area-8-klarg.md). O relógio perde **2** agora.
+- Se as marcas chegam a **0** no caminho, ao voltarem ela está na lâmina da morte. Ele encolhe os ombros.
+- Se voltam com a cabeça e ela vive, ele pede também o ouro do baú antes de soltar. Não larga a corda de mão beijada.
+- Recusam, ou sobem: ele empurra-a do repecho de 3 m. 1d6. Cai a 0. Três rounds para a estabilizar. O combate começa.
+- Se o derrubam antes do turno, não há trato e não há empurrão.
 
-Yeemik dispara-lhe. Ela cai a 0. Morre em três rounds sem estabilização. O combate começa.
+## Saída
 
-## Se o derrubam antes do turno dele
-
-Não há trato e não há disparo. Cortam as cordas. Ela fica no estado que o relógio já marcou.
+A cabeça, o ouro, ou a queda. A **Sera** ou sai na corda, ou sai nos braços de alguém, ou não sai.

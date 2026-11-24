@@ -1,37 +1,35 @@
-# Decisão — viva ou morta
+# Viva ou morta
 
-Abre isto quando olharem o repecho sul da [área 6](../historia-principal/10-area-6-sera.md). As marcas estão em [00](../historia-principal/00-sera-e-relogio.md).
+**Objetivo:** a frase do poste, quando o relógio chega a zero. Se ainda há marcas, o diálogo já foi lido na [área 6](../historia-principal/10-area-6-sera.md). Não o repitas.
 
-A lámina do fracasso mostra-a morta, vestido rasgado, sangue seco, amarrada ao poste.
+## Se ainda há marcas
 
-## 5, 4 ou 3 marcas — viva
+Não leias outra caixa. Ela está na corda. O [trato](04-trato-yeemik.md) abre se **Yeemik** chega ao turno dele.
 
-**Muestra** a lámina.
+## Se o relógio está em 0
 
-![Sera viva](../laminas/10-sera-viva.jpg)
-
-> Doña Sera está atada al poste, los brazos en alto. El vestido burdeos, ya de escote bajo y falda abierta, está rasgado en el hombro y en el muslo, pegado de barro. Tiene el pómulo negro, el labio partido y las muñecas en carne viva. Los mira. Está viva, y todavía parece dueña de sí.
-
-Anda se a segurarem. Pode falar. Se Yeemik ainda está de pé, abre [o trato](04-trato-yeemik.md).
-
-## 2 ou 1 marca — viva, por pouco
-
-A mesma lámina. Muda só a voz:
-
-> Apenas abre los ojos. El golpe de la mejilla se le ha puesto oscuro. Intenta decir un nombre y no le sale. Hay que cargarla.
-
-Fica a 1 ponto de golpe. Não anda. Yeemik ainda pode oferecer o trato, se não o derrubaram.
-
-## 0 marcas — morta
-
-**Muestra** a outra lámina. Yeemik não oferece trégua. Luta para guardar o posto.
+**Muestra** a lâmina. É a Sera do retrato, desabada, queixo no peito. Cortes nos braços, no peito e na perna. À volta: lanças no chão, escudos, crânios e um fogo verde ao fundo. Nada cravado nela. A capa voltou aos ombros. Lê o que se vê.
 
 ![Sera morta](../laminas/11-sera-muerta.jpg)
 
-> Llegan tarde. Sera está contra el mismo poste, la cabeza caída, los ojos cerrados. El vestido burdeos sigue siendo el de escote bajo y la falda abierta, ahora sucio, rasgado en la sisa y en el muslo, con sangre seca en la tela, en el pecho y en la muñeca atada. Ya no se mueve. El fuego sigue ardiendo como si nadie hubiera tenido prisa.
+> Cuando levantan la vista, ya no está de pie.
+>
+> Doña Sera se ha deslizado por el poste. El cuerpo ya no se sostiene. La cabeza le cae hacia adelante, la barbilla contra el pecho. Los ojos están cerrados. Hay cortes en los brazos, en el pecho y en la pierna. Alrededor, lanzas clavadas en el suelo, escudos y calaveras. Al fondo arde un fuego verde.
+>
+> Ya no respira. Llegaron tarde.
+>
+> Yeemik se limpia la hoja en su propia túnica.
+>
+> —Demasiado lentos.
+>
+> Los cinco de abajo ya no ríen. ¿Bajan el cuerpo, o suben a por él?
 
-Podem levar o corpo. As caixas continuam com Klarg. O final de Phandalin usa o parágrafo escuro em [12](../historia-principal/12-phandalin.md).
+## O que há aqui
 
-## Se Yeemik lhe dispara ainda com marcas
+- Morta. **Yeemik** não oferece trato. Os cinco e ele lutam.
+- **Yeemik** tem 12 pontos de golpe.
+- Se a empurram do repecho ainda viva, noutro momento: 1d6, cai a 0, e morre em três rounds sem estabilização.
 
-Ela cai a 0, mesmo que o relógio não estivesse em zero. Morre em três rounds se ninguém a estabiliza. Se a estabilizam, fica no estado "viva, por pouco".
+## Saída
+
+Podem levar o corpo. As caixas continuam com **Klarg**. O final é o parágrafo frio de [Phandalin](../historia-principal/12-phandalin.md).

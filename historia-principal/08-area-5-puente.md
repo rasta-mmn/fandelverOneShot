@@ -1,28 +1,39 @@
-# 08 — Área 5, a ponte
+# 08 — A ponte
 
-**Muestra** a lámina.
+**Objetivo:** o vigia, a corda desfiada, e a onda se ele gritar.
 
-![Ponte](../laminas/08-puente.jpg)
+## Entrada
 
-Um goblin vigia. Está distraído. Se não a viram desde a área 4, veem-na agora.
+**Muestra** a [ponte](../laminas/08-puente.jpg).
 
-## Ler em voz alta
+> El túnel sigue subiendo. Cada vez se oye más cerca una cascada. Encima, el puente de cuerda cruje. La soga del lado de ustedes está deshilachada, blanca por dentro. Abajo, el agua es blanca.
+>
+> Hay alguien agachado en las tablas. Casi es parte de la sombra.
+>
+> ¿Lo han visto antes de que él los vea a ustedes?
 
-> Una pasarela de tablas claras y cuerda cruza el vacío, a seis metros del agua. Al otro lado el túnel sigue. Encima de las tablas, casi parte de la sombra, hay un goblin agachado con un arco corto. No parece estar mirando muy bien.
+Se ele os vê, lê logo:
 
-## A ponte
+> Arriba, una sombra agita los brazos y chilla. Un segundo después la montaña truena.
+>
+> Un muro de agua negra baja por el túnel, alto como un hombre, derecho hacia ustedes.
 
-- 6 metros acima do arroio.
-- Classe de Armadura 5, 10 pontos de golpe. A 0 parte-se.
-- Quem está em cima quando parte: Destreza CD 10, ou 2d6 e caído.
-- Descer pela parede: Atletismo CD 15.
+**Muestra** a [onda](../laminas/09-inundacion.jpg) nessa frase.
 
-## Se o goblin os vê
+## O que há aqui
 
-Grita o sinal para a área 7 e depois dispara. Abre já [os tanques](09-area-7-tanques.md): a inundação começa no turno seguinte ao sinal.
+- Um goblin. A Furtividade dele contra a Percepção de quem olha para cima. Com luz, ele vê o grupo.
+- Ponte: 6 m, CA 5, 10 pontos. A 0 parte. Quem está em cima: Destreza CD 10, ou 2d6 e caído na água. Uma corda atada antes de cruzar segura quem vai preso a ela.
+- Escalar a parede: Atletismo CD 15.
+- A onda vem no turno seguinte ao grito. Quem está no túnel: Força CD 10, ou vai até a boca, caído, 1d6. **−1 marca** se ainda não viram a **Sera**. A **área 3** está fora da onda. Se a primeira não limpa o túnel, ele pode pedir a segunda.
 
-Se o derrubam antes do grito, a água não vem.
+## Objetos no combate
 
-## Seguir
+- **Ponte:** cortar a corda branca é atacar a ponte.
+- **Água:** cair da ponte usa a salvaguarda da ponte. O grito do vigia chega aos tanques na mesma.
 
-Do outro lado do complexo: [Sera, área 6](10-area-6-sera.md) ou [tanques, área 7](09-area-7-tanques.md).
+## Saída
+
+- Em silêncio: a água fica nos tanques. Do outro lado, [Sera](10-area-6-sera.md) ou [tanques](09-area-7-tanques.md).
+- Ele grita: a onda, e a marca se ela ainda não foi vista.
+- Atravessar à luz é ser visto. Ele grita, e só depois dispara.
