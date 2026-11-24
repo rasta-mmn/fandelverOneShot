@@ -8,7 +8,7 @@ Deixa este arquivo aberto a sessão inteira. Marca com um X cada círculo que ca
 
 **Doña Sera Calder**, 41 anos. Sócia de Provisiones de Barthen, em Phandalin. Veio a Neverwinter buscar o carro e não larga a carga com desconhecidos.
 
-Aparência: pele oliva, olhos castanhos, cabelo castanho com fios grisalhos num coque baixo. Vestido burdeos simples, camisa de linho creme, capa cinza, broche de bronze, botas gastas. Sem joias, sem brincos, sem anéis.
+Aparência: 41 anos, pele oliva, olhos castanhos, cabelo castanho com fios grisalhos numa trança solta. Corpo forte, ombros largos, cintura marcada, pernas firmes. Vestido burdeos justo, decote quadrado, manga curta, fenda alta numa coxa, cinto de couro, botas gastas. Capa curta cinza caída nos ombros. Sem joias. É simples, e mesmo assim provocante.
 
 Não combate. Com 5 a 3 marcas, anda se a segurarem. Com 2 ou 1, fica a 1 ponto de golpe e precisa ser carregada.
 
