@@ -88,6 +88,23 @@ def convert(md):
         if not line.strip():
             flush()
             continue
+        if line.strip() == "[[retrato]]":
+            flush()
+            out.append('<img class="retrato" src="../laminas/personagens/p-sera.jpg" alt="Doña Sera Calder">')
+            continue
+        if line.strip() == "[[relogio]]":
+            flush()
+            marks = "".join(
+                f'<button type="button" class="marca" aria-label="Marca {n}"></button>' for n in range(1, 6)
+            )
+            out.append(
+                '<div class="relogio" data-relogio>'
+                '<p class="relogio-num"><span data-restam>5</span> marcas</p>'
+                f'<div class="marcas">{marks}</div>'
+                "<p>Clica para gastar. Clica outra vez para devolver.</p>"
+                "</div>"
+            )
+            continue
         if line.startswith("#"):
             flush()
             level = len(line) - len(line.lstrip("#"))
@@ -155,6 +172,26 @@ visor.addEventListener("click", () => {{ visor.hidden = true; }});
 document.addEventListener("keydown", (e) => {{
   if (e.key === "Escape") visor.hidden = true;
 }});
+const relogio = document.querySelector("[data-relogio]");
+if (relogio) {{
+  const marcas = [...relogio.querySelectorAll(".marca")];
+  const restam = relogio.querySelector("[data-restam]");
+  const chave = "fandelver-relogio";
+  const guardadas = JSON.parse(localStorage.getItem(chave) || "[]");
+  marcas.forEach((marca, i) => {{ if (guardadas[i]) marca.classList.add("gasta"); }});
+  const pintar = () => {{
+    restam.textContent = String(marcas.filter((marca) => !marca.classList.contains("gasta")).length);
+    localStorage.setItem(chave, JSON.stringify(marcas.map((marca) => marca.classList.contains("gasta"))));
+  }};
+  pintar();
+  relogio.addEventListener("click", (e) => {{
+    const marca = e.target.closest(".marca");
+    if (!marca) return;
+    e.stopPropagation();
+    marca.classList.toggle("gasta");
+    pintar();
+  }});
+}}
 </script>
 </body>
 </html>
@@ -172,10 +209,12 @@ def main():
         aside = None
         if dest.name == "index.html":
             sheet = convert((ROOT / "historia-principal" / "00-sera-e-relogio.md").read_text(encoding="utf-8"))
-            aside = sheet.replace('href="../', 'href="')
+            aside = sheet.replace('href="../', 'href="').replace('src="../', 'src="')
         dest.write_text(page(title, body, 0 if dest.name == "index.html" else depth, aside), encoding="utf-8")
         text = dest.read_text(encoding="utf-8")
-        if "<p></p>" in text or "<h" not in text or "<img src=" in text or "parentElement" not in text:
+        if "<p></p>" in text or "<h" not in text or "parentElement" not in text:
+            raise SystemExit(f"bad html: {dest}")
+        if "<img src=" in text and 'class="retrato"' not in text:
             raise SystemExit(f"bad html: {dest}")
         print(dest.relative_to(ROOT))
 

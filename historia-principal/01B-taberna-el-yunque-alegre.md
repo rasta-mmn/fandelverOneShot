@@ -53,13 +53,9 @@ Quando já tiverem jogado, ou quando quiseres puxar o fio, a **Sera** entra.
 
 > La puerta vuelve a abrirse y el murmullo de la taberna baja un tono.
 
-**Muestra** a entrada.
+**Muestra** a entrada. Tom: cine, presença firme.
 
 ![Sera entra](../laminas/p-sera-entrada.jpg)
-
-**Muestra** o retrato. Tom: cine, presença firme.
-
-![Doña Sera Calder](../laminas/personagens/p-sera.jpg)
 
 > Entra doña Sera Calder, de cuarenta y un años, de piel oliva, hombros anchos y paso firme. Lleva una trenza castaña con canas cayendo a un lado, un vestido burdeos ajustado de escote bajo, manga corta y abertura en el muslo, ceñido con un cinturón de cuero y rematado con una capa gris corta caída sobre los hombros. Calza botas gastadas y no lleva ni una joya.
 >

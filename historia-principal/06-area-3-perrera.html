@@ -41,6 +41,26 @@ visor.addEventListener("click", () => { visor.hidden = true; });
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") visor.hidden = true;
 });
+const relogio = document.querySelector("[data-relogio]");
+if (relogio) {
+  const marcas = [...relogio.querySelectorAll(".marca")];
+  const restam = relogio.querySelector("[data-restam]");
+  const chave = "fandelver-relogio";
+  const guardadas = JSON.parse(localStorage.getItem(chave) || "[]");
+  marcas.forEach((marca, i) => { if (guardadas[i]) marca.classList.add("gasta"); });
+  const pintar = () => {
+    restam.textContent = String(marcas.filter((marca) => !marca.classList.contains("gasta")).length);
+    localStorage.setItem(chave, JSON.stringify(marcas.map((marca) => marca.classList.contains("gasta"))));
+  };
+  pintar();
+  relogio.addEventListener("click", (e) => {
+    const marca = e.target.closest(".marca");
+    if (!marca) return;
+    e.stopPropagation();
+    marca.classList.toggle("gasta");
+    pintar();
+  });
+}
 </script>
 </body>
 </html>

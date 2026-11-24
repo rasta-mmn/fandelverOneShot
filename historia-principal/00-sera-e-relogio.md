@@ -1,5 +1,7 @@
 # Sera e o relógio
 
+[[retrato]]
+
 Ficha e relógio. Não leias à mesa. Marca com um X cada círculo que cair.
 
 ## O que há aqui
@@ -15,7 +17,7 @@ Ficha e relógio. Não leias à mesa. Marca com um X cada círculo que cair.
 
 Começa em 5 quando a emboscada termina.
 
-`[ ] [ ] [ ] [ ] [ ]`
+[[relogio]]
 
 | O que acontece | Marcas |
 |---|---|

@@ -39,7 +39,25 @@ aside.ficha {
   padding: 0.2rem 0.9rem 1rem;
   font-size: 0.92rem;
 }
-aside.ficha h1 { font-size: 1.2rem; }
+img.retrato { width: 100%; height: auto; margin: 0.4rem 0 0.8rem; border-radius: 2px; }
+.relogio { margin: 0.4rem 0 1rem; }
+.relogio-num { margin: 0 0 0.45rem; font-size: 1.35rem; }
+.relogio-num span { font-weight: 700; }
+.marcas { display: flex; gap: 0.4rem; }
+button.marca {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  border: 2px solid #8a3b32;
+  background: #fffaf3;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+button.marca.gasta { background: #8a3b32; }
+button.marca.gasta::after { content: "×"; color: #fffaf3; font-size: 1.3rem; line-height: 1; }
 aside.ficha h2, aside.ficha h3 { font-size: 1rem; }
 aside.ficha blockquote { font-size: 1rem; }
 h3 { font-size: 1.05rem; margin: 1.4rem 0 0.4rem; }
