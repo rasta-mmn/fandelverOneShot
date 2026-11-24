@@ -1,33 +1,15 @@
 # Sera e o relógio
 
-Deixa este arquivo aberto a sessão inteira. Marca com um X cada círculo que cair.
-
-## Objetivo da cena
-
-Ter num olhar quem é a Sera, o que vale a carga, e quantas marcas ainda lhe restam.
-
-## Entrada
-
-O retrato da **Sera** entra na [noite da taberna](01-alba-neverwinter.md), quando ela vê a pedra. A encosta e o **Gundren** já foram lidos na página inicial. Não leias esta caixa à mesa.
-
-![Doña Sera Calder](../laminas/02-retrato-sera.jpg)
-
-Na imagem: a trança com fios grisalhos, o decote do vestido burdeos, a fenda na coxa, o cinto e a capa curta nos ombros. Sem joias. O mesmo rosto está em [p-sera.jpg](../laminas/personagens/p-sera.jpg).
-
-> Doña Sera Calder. Cuarenta y un años. El sol le da en la trenza: castaña, con canas.
->
-> Vestido burdeos, justo. Escote bajo. Manga corta. La falda se abre en un muslo. Cinto de cuero. Capa gris, corta, caída de los hombros. Botas gastadas. Sin joyas.
->
-> La trenza cae a un lado. Las manos van sueltas. Así está en el retrato, de pie en el camino.
+Ficha e relógio. Não leias à mesa. Marca com um X cada círculo que cair.
 
 ## O que há aqui
 
 - **Doña Sera Calder**, 41 anos. Sócia de **Provisiones de Barthen**, em **Phandalin**. Veio a **Neverwinter** buscar o carro e não larga a carga com desconhecidos.
-- Corpo forte, ombros largos, cintura marcada, pernas firmes. Pele oliva, olhos castanhos. Vestido burdeos justo, decote baixo, manga curta, fenda alta, cinto de couro, botas gastas, capa curta cinza caída nos ombros. Sem joias.
+- Corpo forte, ombros largos, cintura marcada, pernas firmes. Pele oliva, olhos castanhos. Trança castanha com fios grisalhos. Vestido burdeos justo, decote baixo, manga curta, fenda alta, cinto de couro, botas gastas, capa curta cinza caída nos ombros. Sem joias.
 - Não combate. Com 5 a 3 marcas, anda se a segurarem. Com 2 ou 1, fica a 1 ponto de golpe e precisa ser carregada.
 - Pagamento de **Gundren Buscapiedras**: **10 po** para cada personagem, pagos por **Elmar Barthen** na entrega. O carro vale **100 po**.
 - **Carga:** sacos de farinha, carne salgada, barris de cerveja, pão, empanadas, queijo de cabra, farois e um barril de azeite. Os goblins levam as caixas. Ficam os bois, o carro e dois sacos no mato. O resto está no cubil de **Klarg** (área 8).
-- **Gundren** e **Sildar Hallwinter** saíram na noite anterior. O mapa já vai para o rei **Grol**, no **Castillo Cragmaw**. Não estão nesta caverna.
+- **Gundren** e **Sildar Hallwinter** já partiram com o mapa, a caminho do **Castillo Cragmaw**, para o rei **Grol**. Não estão na taberna nem na caverna.
 
 ### Relógio — 5 marcas
 

@@ -118,8 +118,12 @@ def convert(md):
     return "\n".join(out)
 
 
-def page(title, body, depth):
+def page(title, body, depth, aside=None):
     home = "index.html" if depth == 0 else "../" * depth + "index.html"
+    if aside:
+        content = f'<div class="mesa">\n<main>\n{body}\n</main>\n<aside class="ficha">\n{aside}\n</aside>\n</div>'
+    else:
+        content = f"<main>\n{body}\n</main>"
     return f"""<!DOCTYPE html>
 <html lang="pt">
 <head>
@@ -130,9 +134,7 @@ def page(title, body, depth):
 </head>
 <body>
 <header><a href="{home}">Flechas de goblin</a></header>
-<main>
-{body}
-</main>
+{content}
 <div id="visor" hidden>
 <img alt="">
 <p>Clica outra vez para fechar</p>
@@ -167,7 +169,11 @@ def main():
         depth = len(path.relative_to(ROOT).parts) - 1
         body = convert(md)
         dest = ROOT / "index.html" if path.name == "LEIA-ME.md" else path.with_suffix(".html")
-        dest.write_text(page(title, body, 0 if dest.name == "index.html" else depth), encoding="utf-8")
+        aside = None
+        if dest.name == "index.html":
+            sheet = convert((ROOT / "historia-principal" / "00-sera-e-relogio.md").read_text(encoding="utf-8"))
+            aside = sheet.replace('href="../', 'href="')
+        dest.write_text(page(title, body, 0 if dest.name == "index.html" else depth, aside), encoding="utf-8")
         text = dest.read_text(encoding="utf-8")
         if "<p></p>" in text or "<h" not in text or "<img src=" in text or "parentElement" not in text:
             raise SystemExit(f"bad html: {dest}")

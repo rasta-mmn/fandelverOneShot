@@ -19,6 +19,34 @@ header {
 }
 header a { color: var(--ink); font-weight: 700; text-decoration: none; }
 main { max-width: 40rem; margin: 0 auto; padding: 1.5rem 1.2rem 4rem; }
+.mesa {
+  display: grid;
+  grid-template-columns: minmax(0, 42rem) minmax(16rem, 22rem);
+  gap: 1.2rem;
+  max-width: 68rem;
+  margin: 0 auto;
+  padding: 1.2rem 1.2rem 3rem;
+  align-items: start;
+}
+.mesa main { max-width: none; margin: 0; padding: 0; }
+aside.ficha {
+  position: sticky;
+  top: 0.6rem;
+  max-height: calc(100vh - 1.2rem);
+  overflow: auto;
+  background: var(--speak);
+  border: 1px solid var(--line);
+  padding: 0.2rem 0.9rem 1rem;
+  font-size: 0.92rem;
+}
+aside.ficha h1 { font-size: 1.2rem; }
+aside.ficha h2, aside.ficha h3 { font-size: 1rem; }
+aside.ficha blockquote { font-size: 1rem; }
+h3 { font-size: 1.05rem; margin: 1.4rem 0 0.4rem; }
+@media (max-width: 860px) {
+  .mesa { grid-template-columns: 1fr; }
+  aside.ficha { position: static; max-height: none; }
+}
 h1 { font-size: 1.8rem; line-height: 1.2; margin: 0 0 1rem; }
 h2 { font-size: 1.25rem; margin: 2rem 0 0.6rem; }
 p { margin: 0.7rem 0; }

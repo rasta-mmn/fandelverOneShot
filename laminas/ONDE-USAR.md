@@ -23,6 +23,7 @@ Deixa no ecrã enquanto descreves. Não substituem a lámina do encontro.
 
 | Quando | Arquivo |
 |---|---|
+| A noite no Yunque Alegre, com os três jogos | [paisagens/l-yunque.jpg](paisagens/l-yunque.jpg) |
 | Ainda dentro da taberna, antes de saírem | [paisagens/l-taverna.jpg](paisagens/l-taverna.jpg) |
 | A manhã na Senda de Triboar, antes da curva | [paisagens/l-senda.jpg](paisagens/l-senda.jpg) |
 | O caminho estreita, barranco dos dois lados | [paisagens/l-barranco.jpg](paisagens/l-barranco.jpg) |

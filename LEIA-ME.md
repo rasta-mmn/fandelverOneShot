@@ -36,8 +36,9 @@ Lê isto em voz alta. As fotos só abrem no clique.
 
 | | |
 |---|---|
-| [00](historia-principal/00-sera-e-relogio.md) | Relógio. Deixa aberto. Não leias à mesa. |
-| [01](historia-principal/01-alba-neverwinter.md) | Noite, Sera, alba |
+| [00](historia-principal/00-sera-e-relogio.md) | Ficha e relógio. Também estão ao lado, nesta página. |
+| [01B](historia-principal/01B-taberna-el-yunque-alegre.md) | Taberna El Yunque Alegre |
+| [01](historia-principal/01-alba-neverwinter.md) | Alba e partida |
 | [02](historia-principal/02-emboscada.md) | Senda de Triboar |
 | [03](historia-principal/03-senda.md) | Rastro e armadilhas |
 | [04](historia-principal/04-area-1-boca.md) | Boca |
