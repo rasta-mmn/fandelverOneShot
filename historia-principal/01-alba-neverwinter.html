@@ -13,14 +13,14 @@
 <p><strong>Objetivo:</strong> que eles conheçam a <strong>Sera</strong> à mesa, durmam na taberna, e saiam com ela ao alba.</p>
 <h2>Entrada</h2>
 <p><strong>Muestra</strong> a taberna enquanto ainda é noite.</p>
-<p><img src="../laminas/paisagens/l-taverna.jpg" alt="Taberna"></p>
+<p><button type="button" class="mostrar" data-src="../laminas/paisagens/l-taverna.jpg">Mostrar: Taberna</button></p>
 <blockquote><p>La lluvia corre por el cristal. Dentro, la leña cruje y la mesa huele a cerveza y a estofado. Un enano de barba gruesa deja tres monedas junto a las jarras y se sienta sin pedir permiso.</p><p>—Gundren Buscapiedras —dice—. Mañana el carro sale a Phandalin. Diez piezas de oro para cada uno, si la carga llega. Yo me voy esta noche, con Sildar. Ustedes salen al alba.</p><p>Empuja la puerta de la cocina con la bota. Entra una mujer. Vestido burdeos, justo, escote bajo, la falda abierta en un muslo. La capa gris le cuelga de los hombros. No lleva ni un anillo.</p><p>—Doña Sera Calder —dice Gundren—. La comida del pueblo es suya. Si el carro se pierde, se pierde con ella.</p></blockquote>
-<p>Se olham para o anão, <strong>muestra</strong> o <img src="../laminas/personagens/p-gundren.jpg" alt="Gundren">. Se perguntam pelo guerreiro, <img src="../laminas/personagens/p-sildar.jpg" alt="Sildar"> está à porta, capa azul, e só levanta a mão. Já vai sair.</p>
-<p><strong>Muestra</strong> a <img src="../laminas/personagens/p-sera.jpg" alt="Sera"> quando ela falar.</p>
+<p>Se olham para o anão, <strong>muestra</strong> o <button type="button" class="mostrar" data-src="../laminas/personagens/p-gundren.jpg">Mostrar: Gundren</button>. Se perguntam pelo guerreiro, <button type="button" class="mostrar" data-src="../laminas/personagens/p-sildar.jpg">Mostrar: Sildar</button> está à porta, capa azul, e só levanta a mão. Já vai sair.</p>
+<p><strong>Muestra</strong> a <button type="button" class="mostrar" data-src="../laminas/personagens/p-sera.jpg">Mostrar: Sera</button> quando ela falar.</p>
 <blockquote><p>Sera apoya una mano en el respaldo de una silla. Los mira uno por uno.</p><p>—No soy un fardo. Viajo en el pescante. Si algo sale mal en el camino, no suelten las riendas… ni a mí. Esta noche duermen aquí. El carro está en el patio, con dos bueyes y un muchacho que no se duerme si le pagan la cena.</p><p>Gundren se levanta. El tubo de mapas le golpea la cadera.</p><p>—Al alba, Phandalin queda a dos días por la Senda de Triboar. Nos vemos allí.</p><p>La puerta se cierra. Afuera, dos caballos se alejan sobre las piedras mojadas. El fuego baja. Las jarras quedan vacías. Arriba, las camas crujen y la lluvia sigue.</p></blockquote>
 <p>De manhã, tira a taberna. <strong>Muestra</strong> a portada e depois a saída.</p>
-<p><img src="../laminas/portadas/c-partida.jpg" alt="Partida"></p>
-<p><img src="../laminas/01-alba-neverwinter.jpg" alt="Alba"></p>
+<p><button type="button" class="mostrar" data-src="../laminas/portadas/c-partida.jpg">Mostrar: Partida</button></p>
+<p><button type="button" class="mostrar" data-src="../laminas/01-alba-neverwinter.jpg">Mostrar: Alba</button></p>
 <blockquote><p>El sol apenas tiñe de naranja los muros cuando las ruedas crujen sobre los adoquines. El aire huele a pan, a salitre y a buey. Sera ya está en el pescante. La capa gris sobre el burdeos. Las riendas en las manos. Los nudillos, blancos.</p><p>Atrás van los sacos, la carne salada, la cerveza, el aceite y los faroles.</p><p>Ella los mira por encima del hombro.</p><p>—Gundren lleva horas de ventaja. El pueblo espera esta comida. ¿Cómo viajan? ¿Conmigo, abriendo camino, o cerrando atrás?</p></blockquote>
 <h2>Diálogos, se falarem na noite</h2>
 <ul><li>Se perguntam o que há no carro: «Harina, cerdo, cerveza, queso, pan, faroles y aceite. Cien piezas de oro, si alguien quiere contarlo. Yo no pienso dejar que lo cuenten.»</li><li>Se perguntam por Gundren: «El enano encontró algo en las colinas. No es asunto de esta mesa. El asunto es que el carro llegue.»</li><li>Se oferecem para ir já: «De noche, la Senda se come a los listos. Duerman. Yo vigilo el patio hasta el segundo vaso.»</li><li>Sildar, se o travam à porta: «Si Gundren corre, yo corro con él. Ustedes cuidan de ella. Es más terca que el enano.»</li></ul>
@@ -29,5 +29,26 @@
 <h2>Saída</h2>
 <p>Eles respondem à pergunta dela, ou sobem para o carro em silêncio. A estrada abre. Sem encontro até o meio-dia. A seguir, <a href="02-emboscada.html">02</a>.</p>
 </main>
+<div id="visor" hidden>
+<img alt="">
+<p>Clica outra vez para fechar</p>
+</div>
+<script>
+const visor = document.getElementById("visor");
+const foto = visor.querySelector("img");
+document.body.addEventListener("click", (e) => {
+  const btn = e.target.closest(".mostrar");
+  if (btn) {
+    foto.src = btn.dataset.src;
+    foto.alt = btn.textContent;
+    visor.hidden = false;
+    return;
+  }
+  if (!visor.hidden) visor.hidden = true;
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") visor.hidden = true;
+});
+</script>
 </body>
 </html>

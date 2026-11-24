@@ -12,11 +12,11 @@
 <h1>08 — A ponte</h1>
 <p><strong>Objetivo:</strong> o vigia, a corda desfiada, e a onda se ele gritar.</p>
 <h2>Entrada</h2>
-<p><strong>Muestra</strong> a <img src="../laminas/08-puente.jpg" alt="ponte">.</p>
+<p><strong>Muestra</strong> a <button type="button" class="mostrar" data-src="../laminas/08-puente.jpg">Mostrar: ponte</button>.</p>
 <blockquote><p>El túnel sigue subiendo. Cada vez se oye más cerca una cascada. Encima, el puente de cuerda cruje. La soga del lado de ustedes está deshilachada, blanca por dentro. Abajo, el agua es blanca.</p><p>Hay alguien agachado en las tablas. Casi es parte de la sombra.</p><p>¿Lo han visto antes de que él los vea a ustedes?</p></blockquote>
 <p>Se ele os vê, lê logo:</p>
 <blockquote><p>Arriba, una sombra agita los brazos y chilla. Un segundo después la montaña truena.</p><p>Un muro de agua negra baja por el túnel, alto como un hombre, derecho hacia ustedes.</p></blockquote>
-<p><strong>Muestra</strong> a <img src="../laminas/09-inundacion.jpg" alt="onda"> nessa frase.</p>
+<p><strong>Muestra</strong> a <button type="button" class="mostrar" data-src="../laminas/09-inundacion.jpg">Mostrar: onda</button> nessa frase.</p>
 <h2>O que há aqui</h2>
 <ul><li>Um goblin. A Furtividade dele contra a Percepção de quem olha para cima. Com luz, ele vê o grupo.</li><li>Ponte: 6 m, CA 5, 10 pontos. A 0 parte. Quem está em cima: Destreza CD 10, ou 2d6 e caído na água. Uma corda atada antes de cruzar segura quem vai preso a ela.</li><li>Escalar a parede: Atletismo CD 15.</li><li>A onda vem no turno seguinte ao grito. Quem está no túnel: Força CD 10, ou vai até a boca, caído, 1d6. <strong>−1 marca</strong> se ainda não viram a <strong>Sera</strong>. A <strong>área 3</strong> está fora da onda. Se a primeira não limpa o túnel, ele pode pedir a segunda.</li></ul>
 <h2>Objetos no combate</h2>
@@ -24,5 +24,26 @@
 <h2>Saída</h2>
 <ul><li>Em silêncio: a água fica nos tanques. Do outro lado, <a href="10-area-6-sera.html">Sera</a> ou <a href="09-area-7-tanques.html">tanques</a>.</li><li>Ele grita: a onda, e a marca se ela ainda não foi vista.</li><li>Atravessar à luz é ser visto. Ele grita, e só depois dispara.</li></ul>
 </main>
+<div id="visor" hidden>
+<img alt="">
+<p>Clica outra vez para fechar</p>
+</div>
+<script>
+const visor = document.getElementById("visor");
+const foto = visor.querySelector("img");
+document.body.addEventListener("click", (e) => {
+  const btn = e.target.closest(".mostrar");
+  if (btn) {
+    foto.src = btn.dataset.src;
+    foto.alt = btn.textContent;
+    visor.hidden = false;
+    return;
+  }
+  if (!visor.hidden) visor.hidden = true;
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") visor.hidden = true;
+});
+</script>
 </body>
 </html>

@@ -18,5 +18,26 @@
 <p>Decisões, só quando a saída o disser: <a href="decisoes/00-mapa.html">mapa</a>.</p>
 <p>Lâminas: <a href="laminas/ONDE-USAR.html">ONDE-USAR</a>. Nas lutas da caverna, a sala é a arma. A regra está em <strong>Objetos no combate</strong>. Não a leias.</p>
 </main>
+<div id="visor" hidden>
+<img alt="">
+<p>Clica outra vez para fechar</p>
+</div>
+<script>
+const visor = document.getElementById("visor");
+const foto = visor.querySelector("img");
+document.body.addEventListener("click", (e) => {
+  const btn = e.target.closest(".mostrar");
+  if (btn) {
+    foto.src = btn.dataset.src;
+    foto.alt = btn.textContent;
+    visor.hidden = false;
+    return;
+  }
+  if (!visor.hidden) visor.hidden = true;
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") visor.hidden = true;
+});
+</script>
 </body>
 </html>

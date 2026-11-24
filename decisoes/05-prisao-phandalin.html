@@ -15,7 +15,7 @@
 <h2>Entrada</h2>
 <p>Não mostres a cela ainda.</p>
 <blockquote><p>Llegan con el carro lleno y el pescante vacío. Al principio la plaza corre hacia la comida. Luego Elmar Barthen mira las riendas sueltas y el jirón de capa gris enganchado en la madera.</p><p>Las puertas se cierran. En un minuto hay horcas, ballestas y antorchas.</p><p>—Doña Sera pagó ese carro para que el pueblo comiera —dice. La voz le tiembla—. Y ustedes la dejaron atrás.</p><p>El hierro de la celda se cierra a la espalda. Afuera piden justicia al alba.</p></blockquote>
-<p><strong>Muestra</strong> a <img src="../laminas/15-prision.jpg" alt="cela">, o <img src="../laminas/personagens/p-harbin.jpg" alt="Harbin"> se alguém perguntar quem mandou fechar, e o <img src="../laminas/personagens/p-pip.jpg" alt="Pip"> no banco. Na fuga, a <img src="../laminas/paisagens/l-noite-vila.jpg" alt="noite">.</p>
+<p><strong>Muestra</strong> a <button type="button" class="mostrar" data-src="../laminas/15-prision.jpg">Mostrar: cela</button>, o <button type="button" class="mostrar" data-src="../laminas/personagens/p-harbin.jpg">Mostrar: Harbin</button> se alguém perguntar quem mandou fechar, e o <button type="button" class="mostrar" data-src="../laminas/personagens/p-pip.jpg">Mostrar: Pip</button> no banco. Na fuga, a <button type="button" class="mostrar" data-src="../laminas/paisagens/l-noite-vila.jpg">Mostrar: noite</button>.</p>
 <blockquote><p>Pip se duerme en el taburete. Las llaves cuelgan de un clavo, no del cinturón. Arriba, alguien arrastra un banco.</p><p>Si quieren salir, es esta noche.</p><p>¿Hablan con el muchacho, o miran el clavo?</p></blockquote>
 <h2>O que há aqui</h2>
 <ul><li>As armas estão num baú ao lado da cela. Fechadura CD 12, ou a chave no prego.</li><li><strong>Pip.</strong> Persuasão CD 12: abre se prometem voltar a procurá-la. Ele ouviu goblins na senda.</li><li>Tirar a chave: Prestidigitação CD 13. Falha por 5 ou mais: acorda e grita.</li><li>Varão podre: Atletismo CD 15, saem pelo postigo, e há perseguição até a horta.</li><li>Ao amanhecer, se ainda estão dentro, <strong>Harbin</strong> leva-os à praça. Falar custa +2 na CD.</li></ul>
@@ -24,5 +24,26 @@
 <h2>Saída</h2>
 <ul><li>Fuga: Furtividade em grupo CD 12, ou um round de corrida e perdem-se no campo. Ficam foragidos.</li><li>Se voltam à caverna na mesma noite, a <strong>Sera</strong> já está na lâmina da morte. <strong>Klarg</strong> ainda tem as caixas. Abre a <a href="../historia-principal/04-area-1-boca.html">boca</a> com o relógio a <strong>0</strong>.</li><li>Provar o nome com as caixas recuperadas é conversa para depois, à porta de <strong>Barthen</strong>, e ele não abre de noite.</li></ul>
 </main>
+<div id="visor" hidden>
+<img alt="">
+<p>Clica outra vez para fechar</p>
+</div>
+<script>
+const visor = document.getElementById("visor");
+const foto = visor.querySelector("img");
+document.body.addEventListener("click", (e) => {
+  const btn = e.target.closest(".mostrar");
+  if (btn) {
+    foto.src = btn.dataset.src;
+    foto.alt = btn.textContent;
+    visor.hidden = false;
+    return;
+  }
+  if (!visor.hidden) visor.hidden = true;
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") visor.hidden = true;
+});
+</script>
 </body>
 </html>

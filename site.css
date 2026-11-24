@@ -35,5 +35,27 @@ li { margin: 0.35rem 0; }
 a { color: #7a2e28; }
 table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.95rem; }
 th, td { text-align: left; padding: 0.4rem 0.5rem; border-bottom: 1px solid var(--line); vertical-align: top; }
-img { display: block; width: 100%; height: auto; margin: 0.8rem 0; border-radius: 2px; }
+button.mostrar {
+  font: inherit;
+  color: #7a2e28;
+  background: transparent;
+  border: 1px solid #8a3b32;
+  border-radius: 2px;
+  padding: 0.05rem 0.45rem;
+  cursor: pointer;
+}
+#visor {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background: rgba(12, 8, 6, 0.94);
+}
+#visor[hidden] { display: none; }
+#visor img { max-width: 100%; max-height: 88vh; width: auto; height: auto; margin: 0; }
+#visor p { color: #f4efe6; margin: 0.7rem 0 0; font-size: 0.9rem; }
 code { font-family: Consolas, monospace; font-size: 0.92em; }

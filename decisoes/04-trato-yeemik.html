@@ -20,5 +20,26 @@
 <h2>Saída</h2>
 <p>A cabeça, o ouro, ou a queda. A <strong>Sera</strong> ou sai na corda, ou sai nos braços de alguém, ou não sai.</p>
 </main>
+<div id="visor" hidden>
+<img alt="">
+<p>Clica outra vez para fechar</p>
+</div>
+<script>
+const visor = document.getElementById("visor");
+const foto = visor.querySelector("img");
+document.body.addEventListener("click", (e) => {
+  const btn = e.target.closest(".mostrar");
+  if (btn) {
+    foto.src = btn.dataset.src;
+    foto.alt = btn.textContent;
+    visor.hidden = false;
+    return;
+  }
+  if (!visor.hidden) visor.hidden = true;
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") visor.hidden = true;
+});
+</script>
 </body>
 </html>

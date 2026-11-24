@@ -13,5 +13,26 @@
 <p>A leitura não para aqui. Só abres um destes arquivos quando a cena o disser.</p>
 <table><thead><tr><th>Quando</th><th>Arquivo</th></tr></thead><tbody><tr><td>Depois da emboscada</td><td><a href="01-perseguir-ou-abandonar.html">Perseguir ou seguir</a></td></tr><tr><td>Diante da boca</td><td><a href="02-sigilo-ou-alerta.html">Sigilo ou alerta</a></td></tr><tr><td>O poste, se o relógio chegou a zero</td><td><a href="03-relogio-viva-ou-morta.html">Viva ou morta</a></td></tr><tr><td>Yeemik oferece a cabeça de Klarg</td><td><a href="04-trato-yeemik.html">O trato</a></td></tr><tr><td>Foram a Phandalin sem ela</td><td><a href="05-prisao-phandalin.html">A praça</a></td></tr></tbody></table>
 </main>
+<div id="visor" hidden>
+<img alt="">
+<p>Clica outra vez para fechar</p>
+</div>
+<script>
+const visor = document.getElementById("visor");
+const foto = visor.querySelector("img");
+document.body.addEventListener("click", (e) => {
+  const btn = e.target.closest(".mostrar");
+  if (btn) {
+    foto.src = btn.dataset.src;
+    foto.alt = btn.textContent;
+    visor.hidden = false;
+    return;
+  }
+  if (!visor.hidden) visor.hidden = true;
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") visor.hidden = true;
+});
+</script>
 </body>
 </html>

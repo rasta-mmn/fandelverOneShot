@@ -12,7 +12,7 @@
 <h1>05 — Os vigias</h1>
 <p><strong>Objetivo:</strong> os dois da clareira, antes que o resto da caverna acorde.</p>
 <h2>Entrada</h2>
-<p><strong>Muestra</strong> os <img src="../laminas/06-vigias-matorral.jpg" alt="vigias">.</p>
+<p><strong>Muestra</strong> os <button type="button" class="mostrar" data-src="../laminas/06-vigias-matorral.jpg">Mostrar: vigias</button>.</p>
 <p>Se ainda não os viram:</p>
 <blockquote><p>Al otro lado del agua, las zarzas se abren como una habitación verde. Huele a piel sucia y a hoja mojada.</p><p>Dos goblins. Uno se rasca una oreja con una flecha negra. El otro cabecea, y el arco se le ha caído al barro. El arroyo suena tan alto que no miran hacia ustedes.</p><p>¿Se quedan entre las espinas, o pisan el claro?</p></blockquote>
 <p>Se a boca já os armou, não leias o cabeceo. Eles estão de pé, arcos erguidos, e disparam primeiro.</p>
@@ -25,5 +25,26 @@
 <h2>Saída</h2>
 <ul><li>Passam ou acabam com eles em silêncio: a caverna não ganha este alarme. <a href="06-area-3-perrera.html">Lobos</a> ou o <a href="07-area-4-pasaje.html">corredor</a>.</li><li>Um foge para dentro: a ponte fica avisada.</li><li>Ignorar o posto não apaga os dois. A <strong>Sera</strong> está mais à frente.</li></ul>
 </main>
+<div id="visor" hidden>
+<img alt="">
+<p>Clica outra vez para fechar</p>
+</div>
+<script>
+const visor = document.getElementById("visor");
+const foto = visor.querySelector("img");
+document.body.addEventListener("click", (e) => {
+  const btn = e.target.closest(".mostrar");
+  if (btn) {
+    foto.src = btn.dataset.src;
+    foto.alt = btn.textContent;
+    visor.hidden = false;
+    return;
+  }
+  if (!visor.hidden) visor.hidden = true;
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") visor.hidden = true;
+});
+</script>
 </body>
 </html>

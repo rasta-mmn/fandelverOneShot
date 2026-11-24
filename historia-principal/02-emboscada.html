@@ -12,7 +12,7 @@
 <h1>02 — A Senda de Triboar</h1>
 <p><strong>Objetivo:</strong> a emboscada, os cavalos de <strong>Gundren</strong>, e a <strong>Sera</strong> levada para o mato.</p>
 <h2>Entrada</h2>
-<p>Meio-dia. Antes da curva, <strong>muestra</strong> a <img src="../laminas/paisagens/l-senda.jpg" alt="senda">. Quando o bosque fechar, troca para o <img src="../laminas/paisagens/l-barranco.jpg" alt="barranco"> e depois para a <img src="../laminas/03-emboscada.jpg" alt="emboscada">.</p>
+<p>Meio-dia. Antes da curva, <strong>muestra</strong> a <button type="button" class="mostrar" data-src="../laminas/paisagens/l-senda.jpg">Mostrar: senda</button>. Quando o bosque fechar, troca para o <button type="button" class="mostrar" data-src="../laminas/paisagens/l-barranco.jpg">Mostrar: barranco</button> e depois para a <button type="button" class="mostrar" data-src="../laminas/03-emboscada.jpg">Mostrar: emboscada</button>.</p>
 <blockquote><p>Llevan medio día por la Senda de Triboar. El bosque se cierra a los dos lados. Espinas, barranco, un paso estrecho. Los pájaros se callan. Solo quedan las ruedas y el resuello de los bueyes.</p><p>La curva apesta a sangre vieja. A quince metros, dos caballos cruzan el camino. La tierra debajo está negra. En los ijares, flechas de pluma negra.</p><p>Sera tira de las riendas. El carro se detiene.</p><p>—Esos son los caballos de Gundren.</p><p>Los matorrales se mueven sin viento. ¿Qué hacen?</p></blockquote>
 <h2>Quando a luta começar</h2>
 <p>Quatro goblins, dois de cada lado. O quinto já está no mato, junto à roda da <strong>Sera</strong>. Não o descrevas até ele a puxar.</p>
@@ -29,5 +29,26 @@
 <p>Há um rastro para noroeste e uma capa nos espinhos. Para aqui. Abre <a href="../decisoes/01-perseguir-ou-abandonar.html">perseguir ou seguir</a>.</p>
 <p>Se o grupo cai, acordam sem a <strong>Sera</strong> e sem as caixas. O relógio corre na mesma.</p>
 </main>
+<div id="visor" hidden>
+<img alt="">
+<p>Clica outra vez para fechar</p>
+</div>
+<script>
+const visor = document.getElementById("visor");
+const foto = visor.querySelector("img");
+document.body.addEventListener("click", (e) => {
+  const btn = e.target.closest(".mostrar");
+  if (btn) {
+    foto.src = btn.dataset.src;
+    foto.alt = btn.textContent;
+    visor.hidden = false;
+    return;
+  }
+  if (!visor.hidden) visor.hidden = true;
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") visor.hidden = true;
+});
+</script>
 </body>
 </html>

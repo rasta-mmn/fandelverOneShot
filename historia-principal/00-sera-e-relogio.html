@@ -15,8 +15,8 @@
 <p>Ter num olhar quem é a Sera, o que vale a carga, e quantas marcas ainda lhe restam.</p>
 <h2>Entrada</h2>
 <p>O retrato entra na <a href="01-alba-neverwinter.html">saída de Neverwinter</a>. Não leias esta caixa se essa cena já foi lida.</p>
-<p><img src="../laminas/02-retrato-sera.jpg" alt="Doña Sera Calder"></p>
-<p>Na imagem: a trança com fios grisalhos, o decote do vestido burdeos, a fenda na coxa, o cinto e a capa curta nos ombros. Sem joias. O mesmo rosto está em <img src="../laminas/personagens/p-sera.jpg" alt="p-sera.jpg">.</p>
+<p><button type="button" class="mostrar" data-src="../laminas/02-retrato-sera.jpg">Mostrar: Doña Sera Calder</button></p>
+<p>Na imagem: a trança com fios grisalhos, o decote do vestido burdeos, a fenda na coxa, o cinto e a capa curta nos ombros. Sem joias. O mesmo rosto está em <button type="button" class="mostrar" data-src="../laminas/personagens/p-sera.jpg">Mostrar: p-sera.jpg</button>.</p>
 <blockquote><p>Doña Sera Calder. Cuarenta y un años. El sol le da en la trenza: castaña, con canas.</p><p>Vestido burdeos, justo. Escote bajo. Manga corta. La falda se abre en un muslo. Cinto de cuero. Capa gris, corta, caída de los hombros. Botas gastadas. Sin joyas.</p><p>La trenza cae a un lado. Las manos van sueltas. Así está en el retrato, de pie en el camino.</p></blockquote>
 <h2>O que há aqui</h2>
 <ul><li><strong>Doña Sera Calder</strong>, 41 anos. Sócia de <strong>Provisiones de Barthen</strong>, em <strong>Phandalin</strong>. Veio a <strong>Neverwinter</strong> buscar o carro e não larga a carga com desconhecidos.</li><li>Corpo forte, ombros largos, cintura marcada, pernas firmes. Pele oliva, olhos castanhos. Vestido burdeos justo, decote baixo, manga curta, fenda alta, cinto de couro, botas gastas, capa curta cinza caída nos ombros. Sem joias.</li><li>Não combate. Com 5 a 3 marcas, anda se a segurarem. Com 2 ou 1, fica a 1 ponto de golpe e precisa ser carregada.</li><li>Pagamento de <strong>Gundren Buscapiedras</strong>: <strong>10 po</strong> para cada personagem, pagos por <strong>Elmar Barthen</strong> na entrega. O carro vale <strong>100 po</strong>.</li><li><strong>Carga:</strong> sacos de farinha, carne salgada, barris de cerveja, pão, empanadas, queijo de cabra, farois e um barril de azeite. Os goblins levam as caixas. Ficam os bois, o carro e dois sacos no mato. O resto está no cubil de <strong>Klarg</strong> (área 8).</li><li><strong>Gundren</strong> e <strong>Sildar Hallwinter</strong> saíram na noite anterior. O mapa já vai para o rei <strong>Grol</strong>, no <strong>Castillo Cragmaw</strong>. Não estão nesta caverna.</li></ul>
@@ -31,5 +31,26 @@
 <h2>Saída</h2>
 <ul><li><strong>Sucesso:</strong> com 5 a 3 marcas ela fala e anda apoiada. <strong>Yeemik</strong> pode oferecer o <a href="../decisoes/04-trato-yeemik.html">trato</a>.</li><li><strong>Falha:</strong> o relógio chega a <strong>0</strong>. Não há trato. O final de <strong>Phandalin</strong> usa o parágrafo do corpo.</li><li><strong>Ignorar:</strong> cada desvio gasta marcas na mesma. Dormir, ou entrar na vila antes do resgate, põe o relógio a zero. Quando olharem o poste, abre a decisão com o número que estiver aqui.</li></ul>
 </main>
+<div id="visor" hidden>
+<img alt="">
+<p>Clica outra vez para fechar</p>
+</div>
+<script>
+const visor = document.getElementById("visor");
+const foto = visor.querySelector("img");
+document.body.addEventListener("click", (e) => {
+  const btn = e.target.closest(".mostrar");
+  if (btn) {
+    foto.src = btn.dataset.src;
+    foto.alt = btn.textContent;
+    visor.hidden = false;
+    return;
+  }
+  if (!visor.hidden) visor.hidden = true;
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") visor.hidden = true;
+});
+</script>
 </body>
 </html>

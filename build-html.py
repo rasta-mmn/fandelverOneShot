@@ -24,7 +24,9 @@ def inline(text):
         return f"\x00{len(slots) - 1}\x00"
 
     def image(alt, url):
-        return park(f'<img src="{html.escape(url, quote=True)}" alt="{html.escape(alt)}">')
+        label = html.escape(alt or "lâmina")
+        src = html.escape(url, quote=True)
+        return park(f'<button type="button" class="mostrar" data-src="{src}">Mostrar: {label}</button>')
 
     def link(label, url):
         href = url[:-3] + ".html" if url.endswith(".md") else url
@@ -131,6 +133,27 @@ def page(title, body, depth):
 <main>
 {body}
 </main>
+<div id="visor" hidden>
+<img alt="">
+<p>Clica outra vez para fechar</p>
+</div>
+<script>
+const visor = document.getElementById("visor");
+const foto = visor.querySelector("img");
+document.body.addEventListener("click", (e) => {{
+  const btn = e.target.closest(".mostrar");
+  if (btn) {{
+    foto.src = btn.dataset.src;
+    foto.alt = btn.textContent;
+    visor.hidden = false;
+    return;
+  }}
+  if (!visor.hidden) visor.hidden = true;
+}});
+document.addEventListener("keydown", (e) => {{
+  if (e.key === "Escape") visor.hidden = true;
+}});
+</script>
 </body>
 </html>
 """
@@ -146,7 +169,7 @@ def main():
         dest = ROOT / "index.html" if path.name == "LEIA-ME.md" else path.with_suffix(".html")
         dest.write_text(page(title, body, 0 if dest.name == "index.html" else depth), encoding="utf-8")
         text = dest.read_text(encoding="utf-8")
-        if "<p></p>" in text or "<h" not in text:
+        if "<p></p>" in text or "<h" not in text or "<img src=" in text:
             raise SystemExit(f"bad html: {dest}")
         print(dest.relative_to(ROOT))
 
