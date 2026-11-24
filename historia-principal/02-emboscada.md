@@ -73,7 +73,7 @@ Si el grupo cae, despiertan sin **Sera** y sin las cajas. El reloj sigue igual.
 ### La huida y el rastro
 
 - Cuando caen tres de los cuatro, el último suelta el arco y huye por la mata cerrada al noroeste, terreno difícil. Deja barro revuelto y marcas de tacones arrastrados.
-- La senda sigue unos 7 km al noroeste y tiene dos trampas. El lazo: Percepción pasiva 12, o CD 12. Si falla, Destreza CD 10 o queda colgado a 3 m, apresado; si lo bajan sin cuidado, 1d6 de contundente. El foso: 2 m de ancho y 3 m de hondo. Percepción pasiva 15, o CD 15. Si falla, Destreza CD 10 o 1d6 de contundente.
+- La senda sigue unos 7 km al noroeste y tiene dos trampas. El lazo: Percepción pasiva 12, o CD 12. Si no la ven, Destreza CD 10 o queda colgado a 3 m, apresado; si lo bajan sin cuidado, 1d6 de contundente. El foso: 2 m de ancho y 3 m de hondo. Percepción pasiva 15, o CD 15. Si no lo ven, Destreza CD 10, o 1d6 de contundente y derribado. Fallar por 5 o más: inconsciente. Cada trampa que salte: −1 marca.
 
 ### Carga, botín y reloj
 
