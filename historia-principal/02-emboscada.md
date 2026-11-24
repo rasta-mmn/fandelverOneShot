@@ -47,9 +47,9 @@ Si capturan a uno y habla:
 
 ## Salida
 
-Hay un rastro al noroeste y una capa en las espinas. Para aquí. Abre [perseguir o seguir](../decisoes/01-perseguir-ou-abandonar.md).
+Hay un rastro al noroeste y una capa en las espinas. Para aquí. Sigue el [rastro](03-senda.md).
 
-Si el grupo cae, despiertan sin **Sera** y sin las cajas. El reloj sigue igual.
+Si el grupo cae, despiertan sin **Sera** y sin las cajas. El rastro sigue en el suelo. El reloj sigue.
 
 ## Notas del máster
 
@@ -79,7 +79,8 @@ Si el grupo cae, despiertan sin **Sera** y sin las cajas. El reloj sigue igual.
 
 - En el sitio quedan los bueyes, el carro y dos sacos. El resto de la carga se va con los goblins que huyen.
 - El reloj de **Sera**, en [00](00-sera-e-relogio.md), empieza ahora en la marca **5**, en cuanto se la llevan al matorral.
-- Si el grupo cae, despiertan inconscientes y robados, sin **Sera** y sin las cajas. Pueden seguir a **Phandalin** o retomar la busca. El reloj sigue.
+- Si el grupo cae, despiertan inconscientes y robados, sin **Sera** y sin las cajas. El rastro sigue en el suelo. El reloj sigue.
+- No ofrezcas irse con el carro. Si lo dicen ellos, el reloj va a **0** y abres la [plaza](../decisoes/05-prisao-phandalin.md).
 
 ### Interrogatorio
 
