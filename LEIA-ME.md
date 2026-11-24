@@ -1,14 +1,12 @@
 # Flechas de goblin
 
-Lê isto em voz alta. Primeiro os dois no carro. A cidade só depois de eles partirem. As fotos só abrem no clique.
+Lê isto em voz alta. As fotos só abrem no clique.
 
 **Muestra** os dois.
 
 ![Gundren y Sildar](laminas/personagens/p-gundren-sildar.jpg)
 
-> El carro avanza rodando y las ruedas marcan el ritmo sobre el camino. A su lado viajan Gundren Buscapiedras y Sildar.
->
-> Gundren es famoso en el Norte igual que un trueno: todo el mundo lo oye, nadie lo invitó y la taberna se alegra cuando entra. Hoy su plan inmediato cabe en el carro: comida para el pueblo de Phandalin. Lo otro va dentro de un tubo de mapas en su cadera, y de eso todavía no habla.
+> El carro avanza rodando y las ruedas marcan el ritmo sobre el camino. A su lado viajan Gundren Buscapiedras y Sildar. Gundren es famoso en el Norte igual que un trueno: todo el mundo lo oye, nadie lo invitó y la taberna se alegra cuando entra. Hoy su plan inmediato cabe en el carro: comida para el pueblo de Phandalin. Lo otro va dentro de un tubo de mapas en su cadera, y de eso todavía no habla.
 >
 > El trato ya está cerrado. Diez monedas de oro para cada uno si la carga llega completa: harina, cerdo salado, cerveza, queso, pan, faroles y aceite. Todo el cargamento vale unas cien monedas de oro, y Gundren no tiene ninguna prisa en que se pongan a contarlas.
 >
@@ -22,7 +20,7 @@ Lê isto em voz alta. Primeiro os dois no carro. A cidade só depois de eles par
 >
 > Gundren y Sildar montan en el carro y el vehículo sigue en marcha, dejando atrás el tramo inicial mientras el tubo del mapa golpea contra la cadera del enano.
 
-**Muestra** a cidade, quando a encosta dobra.
+**Muestra** a cidade.
 
 ![Neverwinter](laminas/portadas/c-partida.jpg)
 
@@ -33,10 +31,6 @@ Lê isto em voz alta. Primeiro os dois no carro. A cidade só depois de eles par
 > Desde aquí arriba parece una postal épica. De cerca va a oler a pescado, a soga mojada y a alguien cobrando por mirar. Disfruten la vista mientras dure: dura lo que tarda un enano en abrir la boca.
 >
 > La ciudad queda abajo. La piedra pesa poco, pero ya es un compromiso. ¿Bajan hacia el puerto o se quedan mirando el paisaje?
-
-## Agora
-
-Abre o [00](historia-principal/00-sera-e-relogio.md) e deixa-o aberto. Não o leias. O carro segue com o **Gundren** até ao pátio. Eles descem a pé. A noite, a pedra na mesa e a **Sera** estão na [01](historia-principal/01-alba-neverwinter.md).
 
 ## Ordem
 
