@@ -26,13 +26,13 @@ def inline(text):
     def image(alt, url):
         label = html.escape(alt or "lâmina")
         src = html.escape(url, quote=True)
-        return park(f'<a class="mostrar" href="{src}">Mostrar: {label}</a>')
+        return park(f'<a class="mostrar" href="{src}" target="_blank" rel="noopener">Mostrar: {label}</a>')
 
     def link(label, url):
         href = url[:-3] + ".html" if url.endswith(".md") else url
         if href.lower().endswith((".jpg", ".jpeg", ".png", ".webp")):
             return image(label, href)
-        return park(f'<a href="{html.escape(href, quote=True)}">{label}</a>')
+        return park(f'<a href="{html.escape(href, quote=True)}" target="_blank" rel="noopener">{label}</a>')
 
     text = IMG.sub(lambda m: image(html.unescape(m.group(1)), html.unescape(m.group(2))), text)
     text = LINK.sub(lambda m: link(m.group(1), html.unescape(m.group(2))), text)
@@ -150,28 +150,9 @@ def page(title, body, depth, aside=None):
 <link rel="stylesheet" href="{"../" * depth}site.css">
 </head>
 <body>
-<header><a href="{home}">Flechas de goblin</a></header>
+<header><a href="{home}" target="_blank" rel="noopener">Flechas de goblin</a></header>
 {content}
-<div id="visor" hidden>
-<img alt="">
-<p>Clica outra vez para fechar</p>
-</div>
 <script>
-const visor = document.getElementById("visor");
-const foto = visor.querySelector("img");
-document.body.addEventListener("click", (e) => {{
-  const start = e.target instanceof Element ? e.target : e.target.parentElement;
-  const btn = start && start.closest(".mostrar");
-  if (!btn) return;
-  e.preventDefault();
-  foto.src = btn.getAttribute("href");
-  foto.alt = btn.textContent;
-  visor.hidden = false;
-}});
-visor.addEventListener("click", () => {{ visor.hidden = true; }});
-document.addEventListener("keydown", (e) => {{
-  if (e.key === "Escape") visor.hidden = true;
-}});
 const relogio = document.querySelector("[data-relogio]");
 if (relogio) {{
   const marcas = [...relogio.querySelectorAll(".marca")];
@@ -212,7 +193,7 @@ def main():
             aside = sheet.replace('href="../', 'href="').replace('src="../', 'src="')
         dest.write_text(page(title, body, 0 if dest.name == "index.html" else depth, aside), encoding="utf-8")
         text = dest.read_text(encoding="utf-8")
-        if "<p></p>" in text or "<h" not in text or "parentElement" not in text:
+        if "<p></p>" in text or "<h" not in text or 'target="_blank"' not in text:
             raise SystemExit(f"bad html: {dest}")
         if "<img src=" in text and 'class="retrato"' not in text:
             raise SystemExit(f"bad html: {dest}")

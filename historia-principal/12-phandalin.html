@@ -7,17 +7,17 @@
 <link rel="stylesheet" href="../site.css">
 </head>
 <body>
-<header><a href="../index.html">Flechas de goblin</a></header>
+<header><a href="../index.html" target="_blank" rel="noopener">Flechas de goblin</a></header>
 <main>
 <h1>12 — Phandalin</h1>
 <p><strong>Objetivo:</strong> fechar, conforme a <strong>Sera</strong> esteja no pescante ou no carro.</p>
 <h2>Entrada</h2>
 <p><strong>Muestra</strong> a portada e depois o vale.</p>
-<p><a class="mostrar" href="../laminas/portadas/c-phandalin.jpg">Mostrar: Phandalin</a></p>
-<p><a class="mostrar" href="../laminas/paisagens/l-vale.jpg">Mostrar: Vale</a></p>
+<p><a class="mostrar" href="../laminas/portadas/c-phandalin.jpg" target="_blank" rel="noopener">Mostrar: Phandalin</a></p>
+<p><a class="mostrar" href="../laminas/paisagens/l-vale.jpg" target="_blank" rel="noopener">Mostrar: Vale</a></p>
 <p>Se ela vive:</p>
 <blockquote><p>Las colinas se abren. Tejados de madera, humo bajo, luz de tarde. Huele a pan.</p><p>En la plaza, frente a Provisiones de Barthen, la gente sale al ver el vestido burdeos, sucio, todavía con la falda abierta en el muslo. Sera baja del pescante. Le tiembla una rodilla. No suelta la rienda hasta que la rueda para.</p><p>Elmar Barthen sale del almacén. Se le queda la boca abierta. Ella habla antes.</p><p>—Estos tres no son simples escoltas. Sin ellos, hoy no hay pan.</p><p>Alguien abre la puerta de la posada. Sale olor a estofado.</p><p>¿Entran, o cuentan primero las cajas?</p></blockquote>
-<p><strong>Muestra</strong> <a class="mostrar" href="../laminas/personagens/p-barthen.jpg">Mostrar: Barthen</a> na porta. Se há caixas do leão, <a class="mostrar" href="../laminas/personagens/p-linene.jpg">Mostrar: Linene</a> aparece depois, sem discurso. Paga e assente.</p>
+<p><strong>Muestra</strong> <a class="mostrar" href="../laminas/personagens/p-barthen.jpg" target="_blank" rel="noopener">Mostrar: Barthen</a> na porta. Se há caixas do leão, <a class="mostrar" href="../laminas/personagens/p-linene.jpg" target="_blank" rel="noopener">Mostrar: Linene</a> aparece depois, sem discurso. Paga e assente.</p>
 <p>Se ela morreu:</p>
 <blockquote><p>El viento que baja de la montaña entra en la plaza antes que el carro. No hay vítores.</p><p>Cuando ven el cuerpo en la parte de atrás, tapado con lo que queda de la capa gris, las puertas se cierran. Elmar Barthen se quita el sombrero. Toma las riendas. No los mira.</p><p>—Descarguen la comida. Cobren. Váyanse antes de que anochezca.</p><p>¿Bajan las cajas, o se quedan en el pescante?</p></blockquote>
 <h2>O que há aqui</h2>
@@ -25,26 +25,7 @@
 <h2>Saída</h2>
 <p>A história acaba na praça. Se ela vive, a porta da posada fica aberta. Se morreu, a praça fica em silêncio e o pagamento é posto na mão, sem brinde.</p>
 </main>
-<div id="visor" hidden>
-<img alt="">
-<p>Clica outra vez para fechar</p>
-</div>
 <script>
-const visor = document.getElementById("visor");
-const foto = visor.querySelector("img");
-document.body.addEventListener("click", (e) => {
-  const start = e.target instanceof Element ? e.target : e.target.parentElement;
-  const btn = start && start.closest(".mostrar");
-  if (!btn) return;
-  e.preventDefault();
-  foto.src = btn.getAttribute("href");
-  foto.alt = btn.textContent;
-  visor.hidden = false;
-});
-visor.addEventListener("click", () => { visor.hidden = true; });
-document.addEventListener("keydown", (e) => {
-  if (e.key === "Escape") visor.hidden = true;
-});
 const relogio = document.querySelector("[data-relogio]");
 if (relogio) {
   const marcas = [...relogio.querySelectorAll(".marca")];

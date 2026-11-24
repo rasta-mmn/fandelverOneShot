@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="../site.css">
 </head>
 <body>
-<header><a href="../index.html">Flechas de goblin</a></header>
+<header><a href="../index.html" target="_blank" rel="noopener">Flechas de goblin</a></header>
 <main>
 <h1>A praça</h1>
 <p><strong>Objetivo:</strong> <strong>Phandalin</strong> sem a <strong>Sera</strong>, a cela, e a noite para sair.</p>
@@ -15,35 +15,16 @@
 <h2>Entrada</h2>
 <p>Não mostres a cela ainda.</p>
 <blockquote><p>Llegan con el carro lleno y el pescante vacío. Al principio la plaza corre hacia la comida. Luego Elmar Barthen mira las riendas sueltas y el jirón de capa gris enganchado en la madera.</p><p>Las puertas se cierran. En un minuto hay horcas, ballestas y antorchas.</p><p>—Doña Sera pagó ese carro para que el pueblo comiera —dice. La voz le tiembla—. Y ustedes la dejaron atrás.</p><p>El hierro de la celda se cierra a la espalda. Afuera piden justicia al alba.</p></blockquote>
-<p><strong>Muestra</strong> a <a class="mostrar" href="../laminas/15-prision.jpg">Mostrar: cela</a>, o <a class="mostrar" href="../laminas/personagens/p-harbin.jpg">Mostrar: Harbin</a> se alguém perguntar quem mandou fechar, e o <a class="mostrar" href="../laminas/personagens/p-pip.jpg">Mostrar: Pip</a> no banco. Na fuga, a <a class="mostrar" href="../laminas/paisagens/l-noite-vila.jpg">Mostrar: noite</a>.</p>
+<p><strong>Muestra</strong> a <a class="mostrar" href="../laminas/15-prision.jpg" target="_blank" rel="noopener">Mostrar: cela</a>, o <a class="mostrar" href="../laminas/personagens/p-harbin.jpg" target="_blank" rel="noopener">Mostrar: Harbin</a> se alguém perguntar quem mandou fechar, e o <a class="mostrar" href="../laminas/personagens/p-pip.jpg" target="_blank" rel="noopener">Mostrar: Pip</a> no banco. Na fuga, a <a class="mostrar" href="../laminas/paisagens/l-noite-vila.jpg" target="_blank" rel="noopener">Mostrar: noite</a>.</p>
 <blockquote><p>Pip se duerme en el taburete. Las llaves cuelgan de un clavo, no del cinturón. Arriba, alguien arrastra un banco.</p><p>Si quieren salir, es esta noche.</p><p>¿Hablan con el muchacho, o miran el clavo?</p></blockquote>
 <h2>O que há aqui</h2>
 <ul><li>As armas estão num baú ao lado da cela. Fechadura CD 12, ou a chave no prego.</li><li><strong>Pip.</strong> Persuasão CD 12: abre se prometem voltar a procurá-la. Ele ouviu goblins na senda.</li><li>Tirar a chave: Prestidigitação CD 13. Falha por 5 ou mais: acorda e grita.</li><li>Varão podre: Atletismo CD 15, saem pelo postigo, e há perseguição até a horta.</li><li>Ao amanhecer, se ainda estão dentro, <strong>Harbin</strong> leva-os à praça. Falar custa +2 na CD.</li></ul>
 <p>Se saem:</p>
 <blockquote><p>Corren entre coles. Detrás, dos antorchas. En la cresta del este arde una fogata verde, breve.</p><p>Phandalin se queda atrás. La fogata no.</p><p>¿Vuelven hacia esa luz, o toman el camino de Neverwinter?</p></blockquote>
 <h2>Saída</h2>
-<ul><li>Fuga: Furtividade em grupo CD 12, ou um round de corrida e perdem-se no campo. Ficam foragidos.</li><li>Se voltam à caverna na mesma noite, a <strong>Sera</strong> já está na lâmina da morte. <strong>Klarg</strong> ainda tem as caixas. Abre a <a href="../historia-principal/04-area-1-boca.html">boca</a> com o relógio a <strong>0</strong>.</li><li>Provar o nome com as caixas recuperadas é conversa para depois, à porta de <strong>Barthen</strong>, e ele não abre de noite.</li></ul>
+<ul><li>Fuga: Furtividade em grupo CD 12, ou um round de corrida e perdem-se no campo. Ficam foragidos.</li><li>Se voltam à caverna na mesma noite, a <strong>Sera</strong> já está na lâmina da morte. <strong>Klarg</strong> ainda tem as caixas. Abre a <a href="../historia-principal/04-area-1-boca.html" target="_blank" rel="noopener">boca</a> com o relógio a <strong>0</strong>.</li><li>Provar o nome com as caixas recuperadas é conversa para depois, à porta de <strong>Barthen</strong>, e ele não abre de noite.</li></ul>
 </main>
-<div id="visor" hidden>
-<img alt="">
-<p>Clica outra vez para fechar</p>
-</div>
 <script>
-const visor = document.getElementById("visor");
-const foto = visor.querySelector("img");
-document.body.addEventListener("click", (e) => {
-  const start = e.target instanceof Element ? e.target : e.target.parentElement;
-  const btn = start && start.closest(".mostrar");
-  if (!btn) return;
-  e.preventDefault();
-  foto.src = btn.getAttribute("href");
-  foto.alt = btn.textContent;
-  visor.hidden = false;
-});
-visor.addEventListener("click", () => { visor.hidden = true; });
-document.addEventListener("keydown", (e) => {
-  if (e.key === "Escape") visor.hidden = true;
-});
 const relogio = document.querySelector("[data-relogio]");
 if (relogio) {
   const marcas = [...relogio.querySelectorAll(".marca")];

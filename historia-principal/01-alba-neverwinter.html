@@ -7,13 +7,13 @@
 <link rel="stylesheet" href="../site.css">
 </head>
 <body>
-<header><a href="../index.html">Flechas de goblin</a></header>
+<header><a href="../index.html" target="_blank" rel="noopener">Flechas de goblin</a></header>
 <main>
 <h1>01 — O alba</h1>
-<p><strong>Objetivo:</strong> a partida. A noite e a <strong>Sera</strong> já aconteceram na <a href="01B-taberna-el-yunque-alegre.html">taberna</a>.</p>
+<p><strong>Objetivo:</strong> a partida. A noite e a <strong>Sera</strong> já aconteceram na <a href="01B-taberna-el-yunque-alegre.html" target="_blank" rel="noopener">taberna</a>.</p>
 <h2>Entrada</h2>
 <p>De manhã, tira a taberna. <strong>Muestra</strong> a saída.</p>
-<p><a class="mostrar" href="../laminas/01-alba-neverwinter.jpg">Mostrar: Alba</a></p>
+<p><a class="mostrar" href="../laminas/01-alba-neverwinter.jpg" target="_blank" rel="noopener">Mostrar: Alba</a></p>
 <blockquote><p>El sol apenas tiñe de naranja los muros de Neverwinter cuando las ruedas de madera comienzan a girar sobre los adoquines y el carro se pone en marcha. El aire huele a pan recién hecho, a salitre del puerto y a buey.</p><p>Sera ya está en el pescante, con la capa gris corta sobre el vestido burdeos y las riendas firmes entre las manos; los nudillos se le ponen blancos al tensar el tiro. Detrás van los sacos de harina, la carne salada, la cerveza, el queso, el pan, los faroles y el barril de aceite.</p><p>Ella mira hacia atrás por encima del hombro, con una expresión seria pero sin malicia, y deja caer la voz sobre el ruido de las ruedas:</p><p>—El pueblo espera esta comida y yo no pienso perder ni un saco. ¿Cómo viajan? ¿Aquí conmigo, abriendo camino adelante, o cubriendo la espalda atrás?</p></blockquote>
 <h2>Diálogos, se falarem na partida</h2>
 <ul><li>Se perguntam o que há no carro:</li></ul>
@@ -27,28 +27,9 @@
 <h2>O que há aqui</h2>
 <ul><li>Conduzir o carro não pede rolagem. A ordem de marcha é a pergunta dela.</li><li><strong>Sera</strong>, 41 anos. Não combate. Orgulhosa. Não larga a carga.</li><li>Carga: <strong>100 po</strong>. Pagamento na entrega: <strong>10 po</strong> cada um, pagos por <strong>Barthen</strong>.</li></ul>
 <h2>Saída</h2>
-<p>Eles respondem à pergunta dela, ou sobem para o carro em silêncio. A estrada abre. Sem encontro até o meio-dia. A seguir, <a href="02-emboscada.html">02</a>.</p>
+<p>Eles respondem à pergunta dela, ou sobem para o carro em silêncio. A estrada abre. Sem encontro até o meio-dia. A seguir, <a href="02-emboscada.html" target="_blank" rel="noopener">02</a>.</p>
 </main>
-<div id="visor" hidden>
-<img alt="">
-<p>Clica outra vez para fechar</p>
-</div>
 <script>
-const visor = document.getElementById("visor");
-const foto = visor.querySelector("img");
-document.body.addEventListener("click", (e) => {
-  const start = e.target instanceof Element ? e.target : e.target.parentElement;
-  const btn = start && start.closest(".mostrar");
-  if (!btn) return;
-  e.preventDefault();
-  foto.src = btn.getAttribute("href");
-  foto.alt = btn.textContent;
-  visor.hidden = false;
-});
-visor.addEventListener("click", () => { visor.hidden = true; });
-document.addEventListener("keydown", (e) => {
-  if (e.key === "Escape") visor.hidden = true;
-});
 const relogio = document.querySelector("[data-relogio]");
 if (relogio) {
   const marcas = [...relogio.querySelectorAll(".marca")];

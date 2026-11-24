@@ -7,12 +7,12 @@
 <link rel="stylesheet" href="../site.css">
 </head>
 <body>
-<header><a href="../index.html">Flechas de goblin</a></header>
+<header><a href="../index.html" target="_blank" rel="noopener">Flechas de goblin</a></header>
 <main>
 <h1>02 — A Senda de Triboar</h1>
 <p><strong>Objetivo:</strong> a emboscada, os cavalos de <strong>Gundren</strong>, e a <strong>Sera</strong> levada para o mato.</p>
 <h2>Entrada</h2>
-<p>Meio-dia. Antes da curva, <strong>muestra</strong> a <a class="mostrar" href="../laminas/paisagens/l-senda.jpg">Mostrar: senda</a>. Quando o bosque fechar, troca para o <a class="mostrar" href="../laminas/paisagens/l-barranco.jpg">Mostrar: barranco</a> e depois para a <a class="mostrar" href="../laminas/03-emboscada.jpg">Mostrar: emboscada</a>.</p>
+<p>Meio-dia. Antes da curva, <strong>muestra</strong> a <a class="mostrar" href="../laminas/paisagens/l-senda.jpg" target="_blank" rel="noopener">Mostrar: senda</a>. Quando o bosque fechar, troca para o <a class="mostrar" href="../laminas/paisagens/l-barranco.jpg" target="_blank" rel="noopener">Mostrar: barranco</a> e depois para a <a class="mostrar" href="../laminas/03-emboscada.jpg" target="_blank" rel="noopener">Mostrar: emboscada</a>.</p>
 <blockquote><p>Llevan medio día por la Senda de Triboar. El bosque se cierra a los dos lados. Espinas, barranco, un paso estrecho. Los pájaros se callan. Solo quedan las ruedas y el resuello de los bueyes.</p><p>La curva apesta a sangre vieja. A quince metros, dos caballos cruzan el camino. La tierra debajo está negra. En los ijares, flechas de pluma negra.</p><p>Sera tira de las riendas. El carro se detiene.</p><p>—Esos son los caballos de Gundren.</p><p>Los matorrales se mueven sin viento. ¿Qué hacen?</p></blockquote>
 <h2>Quando a luta começar</h2>
 <p>Quatro goblins, dois de cada lado. O quinto já está no mato, junto à roda da <strong>Sera</strong>. Não o descrevas até ele a puxar.</p>
@@ -22,33 +22,14 @@
 <p>Quando três dos quatro caem, o último corre para o mesmo mato.</p>
 <blockquote><p>El último suelta el arco y se mete en el verde. Detrás queda barro revuelto, y el rastro de unos tacones arrastrados.</p></blockquote>
 <h2>O que há aqui</h2>
-<ul><li>Cavalos de <strong>Gundren</strong> e <strong>Sildar</strong>. Mortos há um dia. O tubo de mapas está vazio no chão.</li><li>Quatro goblins lutam. Furtividade +6 contra a Percepção passiva. Quem ficar abaixo perde o primeiro turno.</li><li>Dois disparam. Dois vêm ao corpo a corpo.</li><li>O quinto só quer a <strong>Sera</strong>. Foge para noroeste, terreno difícil. A capa fica nos espinhos.</li><li>Ficam os bois, o carro e dois sacos. O resto vai com os que fogem.</li><li>O relógio começa agora, em <strong>5</strong>. Anota em <a href="00-sera-e-relogio.html">00</a>.</li></ul>
+<ul><li>Cavalos de <strong>Gundren</strong> e <strong>Sildar</strong>. Mortos há um dia. O tubo de mapas está vazio no chão.</li><li>Quatro goblins lutam. Furtividade +6 contra a Percepção passiva. Quem ficar abaixo perde o primeiro turno.</li><li>Dois disparam. Dois vêm ao corpo a corpo.</li><li>O quinto só quer a <strong>Sera</strong>. Foge para noroeste, terreno difícil. A capa fica nos espinhos.</li><li>Ficam os bois, o carro e dois sacos. O resto vai com os que fogem.</li><li>O relógio começa agora, em <strong>5</strong>. Anota em <a href="00-sera-e-relogio.html" target="_blank" rel="noopener">00</a>.</li></ul>
 <p>Se capturam um e ele fala:</p>
 <blockquote><p>—¡La cueva del arroyo! ¡Klarg manda! ¡El enano ya se fue con el rey Grol! ¡La mujer está con Yeemik!</p></blockquote>
 <h2>Saída</h2>
-<p>Há um rastro para noroeste e uma capa nos espinhos. Para aqui. Abre <a href="../decisoes/01-perseguir-ou-abandonar.html">perseguir ou seguir</a>.</p>
+<p>Há um rastro para noroeste e uma capa nos espinhos. Para aqui. Abre <a href="../decisoes/01-perseguir-ou-abandonar.html" target="_blank" rel="noopener">perseguir ou seguir</a>.</p>
 <p>Se o grupo cai, acordam sem a <strong>Sera</strong> e sem as caixas. O relógio corre na mesma.</p>
 </main>
-<div id="visor" hidden>
-<img alt="">
-<p>Clica outra vez para fechar</p>
-</div>
 <script>
-const visor = document.getElementById("visor");
-const foto = visor.querySelector("img");
-document.body.addEventListener("click", (e) => {
-  const start = e.target instanceof Element ? e.target : e.target.parentElement;
-  const btn = start && start.closest(".mostrar");
-  if (!btn) return;
-  e.preventDefault();
-  foto.src = btn.getAttribute("href");
-  foto.alt = btn.textContent;
-  visor.hidden = false;
-});
-visor.addEventListener("click", () => { visor.hidden = true; });
-document.addEventListener("keydown", (e) => {
-  if (e.key === "Escape") visor.hidden = true;
-});
 const relogio = document.querySelector("[data-relogio]");
 if (relogio) {
   const marcas = [...relogio.querySelectorAll(".marca")];
