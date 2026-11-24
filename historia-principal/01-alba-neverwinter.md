@@ -1,38 +1,36 @@
 # 01 — A noite e o alba
 
-**Objetivo:** que eles conheçam a **Sera** à mesa, durmam na taberna, e saiam com ela ao alba.
+**Objetivo:** a pedra na mesa, a noite no **Yunque Alegre**, a **Sera**, e a saída ao alba.
+
+A encosta e o **Gundren** já foram lidos na página inicial. Ele e o **Sildar** não estão nesta sala.
 
 ## Entrada
 
-**Muestra** a taberna enquanto ainda é noite.
+**Muestra** a taberna. É noite. A pedra vai para a mesa.
 
 ![Taberna](../laminas/paisagens/l-taverna.jpg)
 
-> La lluvia corre por el cristal. Dentro, la leña cruje y la mesa huele a cerveza y a estofado. Un enano de barba gruesa deja tres monedas junto a las jarras y se sienta sin pedir permiso.
+> El Yunque Alegre no pide perdón. El letrero es un yunque con cara de haberse bebido la forja. Dentro, la lluvia corre por el cristal, la leña cruje, y la mesa huele a cerveza y a estofado de algo que antes tuvo nombre.
 >
-> —Gundren Buscapiedras —dice—. Mañana el carro sale a Phandalin. Diez piezas de oro para cada uno, si la carga llega. Yo me voy esta noche, con Sildar. Ustedes salen al alba.
+> Ponen la piedra. Nadie pregunta. El tabernero mira la muesca, deja tres jarras y una llave, y señala la escalera con la barbilla.
 >
-> Empuja la puerta de la cocina con la bota. Entra una mujer. Vestido burdeos, justo, escote bajo, la falda abierta en un muslo. La capa gris le cuelga de los hombros. No lleva ni un anillo.
+> —Arriba hay camas. El carro está en el patio, con dos bueyes y un muchacho que no se duerme si le pagan la cena. La señora llega cuando llega. La piedra se queda donde está.
 >
-> —Doña Sera Calder —dice Gundren—. La comida del pueblo es suya. Si el carro se pierde, se pierde con ella.
-
-Se olham para o anão, **muestra** o [Gundren](../laminas/personagens/p-gundren.jpg). Se perguntam pelo guerreiro, [Sildar](../laminas/personagens/p-sildar.jpg) está à porta, capa azul, e só levanta a mão. Já vai sair.
+> La noche se gasta en jarras, en la lluvia y en una piedra que nadie se atreve a mover. Arriba, las camas crujen. Abajo, el fuego baja.
+>
+> La puerta de la cocina se abre con una bota. Entra una mujer. Vestido burdeos, justo, escote bajo, la falda abierta en un muslo. La capa gris le cuelga de los hombros. No lleva ni un anillo. Mira la piedra antes de mirarlos a ellos.
 
 **Muestra** a [Sera](../laminas/personagens/p-sera.jpg) quando ela falar.
 
-> Sera apoya una mano en el respaldo de una silla. Los mira uno por uno.
+> Sera apoya una mano en el respaldo de una silla.
 >
-> —No soy un fardo. Viajo en el pescante. Si algo sale mal en el camino, no suelten las riendas… ni a mí. Esta noche duermen aquí. El carro está en el patio, con dos bueyes y un muchacho que no se duerme si le pagan la cena.
+> —Doña Sera Calder. Si Gundren les dio esa piedra, ya me deben el alba. No soy un fardo. Viajo en el pescante. Si algo sale mal en el camino, no suelten las riendas… ni a mí.
 >
-> Gundren se levanta. El tubo de mapas le golpea la cadera.
+> Los mira uno por uno.
 >
-> —Al alba, Phandalin queda a dos días por la Senda de Triboar. Nos vemos allí.
->
-> La puerta se cierra. Afuera, dos caballos se alejan sobre las piedras mojadas. El fuego baja. Las jarras quedan vacías. Arriba, las camas crujen y la lluvia sigue.
+> —Duerman. Yo vigilo el patio hasta el segundo vaso. Al alba, Phandalin queda a dos días por la Senda de Triboar. El enano lleva horas de ventaja, y le encanta.
 
-De manhã, tira a taberna. **Muestra** a portada e depois a saída.
-
-![Partida](../laminas/portadas/c-partida.jpg)
+De manhã, tira a taberna. **Muestra** a saída.
 
 ![Alba](../laminas/01-alba-neverwinter.jpg)
 
@@ -42,20 +40,21 @@ De manhã, tira a taberna. **Muestra** a portada e depois a saída.
 >
 > Ella los mira por encima del hombro.
 >
-> —Gundren lleva horas de ventaja. El pueblo espera esta comida. ¿Cómo viajan? ¿Conmigo, abriendo camino, o cerrando atrás?
+> —El pueblo espera esta comida. ¿Cómo viajan? ¿Conmigo, abriendo camino, o cerrando atrás?
 
 ## Diálogos, se falarem na noite
 
 - Se perguntam o que há no carro: «Harina, cerdo, cerveza, queso, pan, faroles y aceite. Cien piezas de oro, si alguien quiere contarlo. Yo no pienso dejar que lo cuenten.»
 - Se perguntam por Gundren: «El enano encontró algo en las colinas. No es asunto de esta mesa. El asunto es que el carro llegue.»
 - Se oferecem para ir já: «De noche, la Senda se come a los listos. Duerman. Yo vigilo el patio hasta el segundo vaso.»
-- Sildar, se o travam à porta: «Si Gundren corre, yo corro con él. Ustedes cuidan de ella. Es más terca que el enano.»
+- Se perguntam por Sildar: «Se fue con el enano. Corre cuando Gundren corre. Ustedes se quedan conmigo, que es peor.»
 
 ## O que há aqui
 
 - Conduzir o carro não pede rolagem. A ordem de marcha é a pergunta dela.
 - **Sera**, 41 anos. Não combate. Orgulhosa. Não larga a carga.
-- **Gundren** e **Sildar** saem nesta noite. Não voltam nesta história.
+- **Gundren** e **Sildar** já desceram a encosta. Não entram nesta cena.
+- A pedra não é mágica. É o sinal. Se a perderem, a **Sera** não os reconhece e o carro não sai com eles.
 - Carga: **100 po**. Pagamento na entrega: **10 po** cada um, pagos por **Barthen**.
 
 ## Saída

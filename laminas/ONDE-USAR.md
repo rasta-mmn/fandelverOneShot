@@ -41,7 +41,8 @@ Mostra o retrato na primeira vez que o nome importa. Depois podes tirá-lo.
 | Quem | Quando | Arquivo |
 |---|---|---|
 | Doña Sera Calder | No alba, junto à roda | [personagens/p-sera.jpg](personagens/p-sera.jpg) |
-| Gundren Buscapiedras | Se perguntam quem os contratou. Já partiu | [personagens/p-gundren.jpg](personagens/p-gundren.jpg) |
+| Gundren e Sildar | Na encosta, ao abrir a sessão, quando ele entrega a pedra | [personagens/p-gundren-sildar.jpg](personagens/p-gundren-sildar.jpg) |
+| Gundren Buscapiedras | Se perguntam quem os contratou, depois de ele partir | [personagens/p-gundren.jpg](personagens/p-gundren.jpg) |
 | Sildar Hallwinter | Se perguntam pelo guerreiro que ia com Gundren | [personagens/p-sildar.jpg](personagens/p-sildar.jpg) |
 | Goblin da senda | Na emboscada, ou no prisioneiro que fala | [personagens/p-goblin.jpg](personagens/p-goblin.jpg) |
 | Yeemik | Quando a voz do repecho fala | [personagens/p-yeemik.jpg](personagens/p-yeemik.jpg) |

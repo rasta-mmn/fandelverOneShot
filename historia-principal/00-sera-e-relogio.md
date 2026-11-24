@@ -8,7 +8,7 @@ Ter num olhar quem é a Sera, o que vale a carga, e quantas marcas ainda lhe res
 
 ## Entrada
 
-O retrato entra na [saída de Neverwinter](01-alba-neverwinter.md). Não leias esta caixa se essa cena já foi lida.
+O retrato da **Sera** entra na [noite da taberna](01-alba-neverwinter.md), quando ela vê a pedra. A encosta e o **Gundren** já foram lidos na página inicial. Não leias esta caixa à mesa.
 
 ![Doña Sera Calder](../laminas/02-retrato-sera.jpg)
 

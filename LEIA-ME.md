@@ -1,10 +1,40 @@
 # Flechas de goblin
 
-Lê em voz alta, do início da cena 01 até a saída dela. As notas por baixo não se leem. São diálogos que podes usar se eles falarem, e a jogabilidade.
+Lê isto em voz alta. É a abertura, no alto da encosta, antes da taberna. As fotos só abrem no clique.
 
-Narração em espanhol. Notas em português.
+**Muestra** a cidade.
 
-A cena 01 já é a noite na taberna. Não leias uma introdução à parte.
+![Neverwinter](laminas/portadas/c-partida.jpg)
+
+> Desde esta cuesta, Neverwinter no cabe en la boca.
+>
+> Las torres se apilan como si un rey se hubiera puesto todas las coronas y se hubiera sentado en la colina a ver quién pestañea primero. Murallas de piedra vieja. Un río que parte la ciudad. El puerto, allá abajo, suelta humo y mástiles. El bosque se aparta del camino, y el camino, muy educado, baja hacia la puerta.
+>
+> De aquí parece un juramento. De cerca va a oler a pescado, a cuerda mojada y a alguien que cobra por mirar. Disfruten el juramento. Dura lo que tarda un enano en abrir la boca.
+
+**Muestra** os dois. O anão estende a pedra. O guerreiro já está arrependido.
+
+![Gundren y Sildar](laminas/personagens/p-gundren-sildar.jpg)
+
+> Gundren Buscapiedras es famoso en el Norte del mismo modo que un trueno: todo el mundo lo oye, nadie lo invitó, y la taberna sonríe cuando entra. Hoy su objetivo cabe en un carro. Comida para Phandalin. El otro objetivo viaja en el tubo del mapa, y de ese no habla. Todavía.
+>
+> El carro ya es de ustedes. Dijeron que sí. Diez piezas de oro por cabeza si la carga llega entera. Harina, cerdo salado, cerveza, queso, pan, faroles y aceite. Cien piezas, si alguien quiere contarlas. Gundren no va a dejar que las cuenten.
+>
+> Para junto a la carreta. Sildar, capa azul, tiene cara de haberse arrepentido en el primer cuarto de legua y de haber seguido igual.
+>
+> —Aquí se bajan —dice Gundren, y les pone en la mano una piedra gris, de río, con una muesca—. Neverwinter es enorme y yo soy bajito, así que escuchen una sola vez. Taberna El Yunque Alegre, calle del puerto. El letrero es un yunque riéndose de ustedes. Pongan la piedra en la mesa. No la escondan. Doña Sera Calder no busca caras. Busca la piedra. Pasan la noche ahí. Al alba sale el carro, y ella va en el pescante.
+>
+> Sildar ni saluda.
+>
+> —Si se comen la piedra, no los busco.
+>
+> Dos caballos. El tubo del mapa golpea la cadera del enano. Bajan la cuesta sin ustedes.
+>
+> La ciudad queda abajo. La piedra pesa poco y obliga mucho. ¿Bajan ya, o se quedan a discutir con el paisaje?
+
+## Agora
+
+Abre o [00](historia-principal/00-sera-e-relogio.md) e deixa-o aberto. Não o leias. A noite, a pedra na mesa e a **Sera** estão na [01](historia-principal/01-alba-neverwinter.md).
 
 ## Ordem
 
