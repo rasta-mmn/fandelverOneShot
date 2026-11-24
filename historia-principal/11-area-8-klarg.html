@@ -13,7 +13,7 @@
 <p><strong>Objetivo:</strong> o osgo, o lobo, e as caixas do carro.</p>
 <p>Se chegam aqui antes da <strong>área 6</strong>: <strong>−1 marca.</strong> Se o trato já custou <strong>−2</strong>, não marques outra vez.</p>
 <h2>Entrada</h2>
-<p><strong>Muestra</strong> o <button type="button" class="mostrar" data-src="../laminas/13-klarg.jpg">Mostrar: cubil</button> e, quando ele falar, o <button type="button" class="mostrar" data-src="../laminas/personagens/p-klarg.jpg">Mostrar: retrato</button>. O lobo é o <button type="button" class="mostrar" data-src="../laminas/personagens/p-rasgador.jpg">Mostrar: Rasgador</button>.</p>
+<p><strong>Muestra</strong> o <a class="mostrar" href="../laminas/13-klarg.jpg">Mostrar: cubil</a> e, quando ele falar, o <a class="mostrar" href="../laminas/personagens/p-klarg.jpg">Mostrar: retrato</a>. O lobo é o <a class="mostrar" href="../laminas/personagens/p-rasgador.jpg">Mostrar: Rasgador</a>.</p>
 <p>Se ninguém avisou:</p>
 <blockquote><p>Huele a brasa y a saco húmedo. En el centro, un brasero lleno hasta el borde. Detrás, puntas de piedra. Contra la pared, cajas. En varias, un león azul pintado, sin letras.</p><p>Una bestia enorme se golpea el pecho. A los pies, un lobo lleno de cicatrices enseña los dientes. Dos goblins miran el fuego como si les debiera dinero.</p><p>—¿Quién entra en la cueva de Klarg? —ruge, hablando de sí mismo—. ¡Klarg hará un trono con esos huesos!</p></blockquote>
 <p>Se a <strong>área 7</strong> avisou, não leias o discurso. A sala parece vazia. Ele e o lobo estão atrás dos sacos. O primeiro passo para o meio é a emboscada.</p>
@@ -32,15 +32,15 @@
 const visor = document.getElementById("visor");
 const foto = visor.querySelector("img");
 document.body.addEventListener("click", (e) => {
-  const btn = e.target.closest(".mostrar");
-  if (btn) {
-    foto.src = btn.dataset.src;
-    foto.alt = btn.textContent;
-    visor.hidden = false;
-    return;
-  }
-  if (!visor.hidden) visor.hidden = true;
+  const start = e.target instanceof Element ? e.target : e.target.parentElement;
+  const btn = start && start.closest(".mostrar");
+  if (!btn) return;
+  e.preventDefault();
+  foto.src = btn.getAttribute("href");
+  foto.alt = btn.textContent;
+  visor.hidden = false;
 });
+visor.addEventListener("click", () => { visor.hidden = true; });
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") visor.hidden = true;
 });

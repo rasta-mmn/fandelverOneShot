@@ -12,7 +12,7 @@
 <h1>09 — Os tanques</h1>
 <p><strong>Objetivo:</strong> os três das presas, e o que a água faz se a pedra ceder.</p>
 <h2>Entrada</h2>
-<p><strong>Muestra</strong> os <button type="button" class="mostrar" data-src="../laminas/12-tanques.jpg">Mostrar: tanques</button>. A onda, só se a pedra ceder.</p>
+<p><strong>Muestra</strong> os <a class="mostrar" href="../laminas/12-tanques.jpg">Mostrar: tanques</a>. A onda, só se a pedra ceder.</p>
 <blockquote><p>El rugido de la cascada llena el pecho. Casi no se oyen los propios pasos. El agua cae a dos balsas negras, sujetas por muros de piedra apilada a mano.</p><p>En el muro más cercano, una piedra de arriba ya se mueve. Al lado hay un montón de escombros, bajo, a la altura de una rodilla.</p><p>Tres goblins esperan sobre el dique, las lanzas apoyadas en la roca.</p><p>¿Se acercan al muro, o buscan otro túnel?</p></blockquote>
 <h2>O que há aqui</h2>
 <ul><li>Três goblins. O ruído tapa o combate: <strong>Klarg</strong> não ouve esta sala, e esta sala não o ouve.</li><li>No primeiro turno de luta, um corre para leste avisar <strong>Klarg</strong>.</li><li>Se a ponte já deu o sinal, estão prontos e a presa parte no turno seguinte. <strong>−1 marca</strong> se a onda apanha o grupo antes da <strong>Sera</strong>.</li><li>Se o vigia não avisou, as presas ainda seguram a água.</li><li>Partir o dique é a inundação. Quem está no corredor: Força CD 10, ou vai à boca, caído, 1d6.</li></ul>
@@ -29,15 +29,15 @@
 const visor = document.getElementById("visor");
 const foto = visor.querySelector("img");
 document.body.addEventListener("click", (e) => {
-  const btn = e.target.closest(".mostrar");
-  if (btn) {
-    foto.src = btn.dataset.src;
-    foto.alt = btn.textContent;
-    visor.hidden = false;
-    return;
-  }
-  if (!visor.hidden) visor.hidden = true;
+  const start = e.target instanceof Element ? e.target : e.target.parentElement;
+  const btn = start && start.closest(".mostrar");
+  if (!btn) return;
+  e.preventDefault();
+  foto.src = btn.getAttribute("href");
+  foto.alt = btn.textContent;
+  visor.hidden = false;
 });
+visor.addEventListener("click", () => { visor.hidden = true; });
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") visor.hidden = true;
 });

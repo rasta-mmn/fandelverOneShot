@@ -15,7 +15,7 @@
 <h2>Entrada</h2>
 <p>Não mostres a cela ainda.</p>
 <blockquote><p>Llegan con el carro lleno y el pescante vacío. Al principio la plaza corre hacia la comida. Luego Elmar Barthen mira las riendas sueltas y el jirón de capa gris enganchado en la madera.</p><p>Las puertas se cierran. En un minuto hay horcas, ballestas y antorchas.</p><p>—Doña Sera pagó ese carro para que el pueblo comiera —dice. La voz le tiembla—. Y ustedes la dejaron atrás.</p><p>El hierro de la celda se cierra a la espalda. Afuera piden justicia al alba.</p></blockquote>
-<p><strong>Muestra</strong> a <button type="button" class="mostrar" data-src="../laminas/15-prision.jpg">Mostrar: cela</button>, o <button type="button" class="mostrar" data-src="../laminas/personagens/p-harbin.jpg">Mostrar: Harbin</button> se alguém perguntar quem mandou fechar, e o <button type="button" class="mostrar" data-src="../laminas/personagens/p-pip.jpg">Mostrar: Pip</button> no banco. Na fuga, a <button type="button" class="mostrar" data-src="../laminas/paisagens/l-noite-vila.jpg">Mostrar: noite</button>.</p>
+<p><strong>Muestra</strong> a <a class="mostrar" href="../laminas/15-prision.jpg">Mostrar: cela</a>, o <a class="mostrar" href="../laminas/personagens/p-harbin.jpg">Mostrar: Harbin</a> se alguém perguntar quem mandou fechar, e o <a class="mostrar" href="../laminas/personagens/p-pip.jpg">Mostrar: Pip</a> no banco. Na fuga, a <a class="mostrar" href="../laminas/paisagens/l-noite-vila.jpg">Mostrar: noite</a>.</p>
 <blockquote><p>Pip se duerme en el taburete. Las llaves cuelgan de un clavo, no del cinturón. Arriba, alguien arrastra un banco.</p><p>Si quieren salir, es esta noche.</p><p>¿Hablan con el muchacho, o miran el clavo?</p></blockquote>
 <h2>O que há aqui</h2>
 <ul><li>As armas estão num baú ao lado da cela. Fechadura CD 12, ou a chave no prego.</li><li><strong>Pip.</strong> Persuasão CD 12: abre se prometem voltar a procurá-la. Ele ouviu goblins na senda.</li><li>Tirar a chave: Prestidigitação CD 13. Falha por 5 ou mais: acorda e grita.</li><li>Varão podre: Atletismo CD 15, saem pelo postigo, e há perseguição até a horta.</li><li>Ao amanhecer, se ainda estão dentro, <strong>Harbin</strong> leva-os à praça. Falar custa +2 na CD.</li></ul>
@@ -32,15 +32,15 @@
 const visor = document.getElementById("visor");
 const foto = visor.querySelector("img");
 document.body.addEventListener("click", (e) => {
-  const btn = e.target.closest(".mostrar");
-  if (btn) {
-    foto.src = btn.dataset.src;
-    foto.alt = btn.textContent;
-    visor.hidden = false;
-    return;
-  }
-  if (!visor.hidden) visor.hidden = true;
+  const start = e.target instanceof Element ? e.target : e.target.parentElement;
+  const btn = start && start.closest(".mostrar");
+  if (!btn) return;
+  e.preventDefault();
+  foto.src = btn.getAttribute("href");
+  foto.alt = btn.textContent;
+  visor.hidden = false;
 });
+visor.addEventListener("click", () => { visor.hidden = true; });
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") visor.hidden = true;
 });

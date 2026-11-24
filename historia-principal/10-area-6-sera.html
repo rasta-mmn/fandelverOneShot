@@ -14,11 +14,11 @@
 <p>Confere o relógio em <a href="00-sera-e-relogio.html">00</a> antes de leres o repecho.</p>
 <h2>Entrada</h2>
 <p>Não mostres a <strong>Sera</strong> ao entrar. Primeiro a sala.</p>
-<p><strong>Muestra</strong> a <button type="button" class="mostrar" data-src="../laminas/paisagens/l-sala-comum.jpg">Mostrar: sala vazia</button> só até eles olharem para cima. Depois troca.</p>
+<p><strong>Muestra</strong> a <a class="mostrar" href="../laminas/paisagens/l-sala-comum.jpg">Mostrar: sala vazia</a> só até eles olharem para cima. Depois troca.</p>
 <blockquote><p>El humo pica. Huele a cuero mal curtido y a carne que no se sabe de qué es. La caverna se parte en dos. Abajo, un fuego. Unas brasas sueltas brillan en el borde de la piedra, a la altura de las botas.</p><p>Cinco goblins ríen alrededor. Las miradas se les van arriba, a un repecho de tres metros.</p><p>Allí hay un poste. Y una voz que no es de goblin.</p><p>¿Suben, o se quedan con el fuego?</p></blockquote>
-<p>Quando olharem o repecho, se ainda há marcas, <strong>muestra</strong> <button type="button" class="mostrar" data-src="../laminas/personagens/p-yeemik.jpg">Mostrar: Yeemik</button> e a <button type="button" class="mostrar" data-src="../laminas/10-sera-viva.jpg">Mostrar: Sera viva</button>. Lê isto e segue:</p>
+<p>Quando olharem o repecho, se ainda há marcas, <strong>muestra</strong> <a class="mostrar" href="../laminas/personagens/p-yeemik.jpg">Mostrar: Yeemik</a> e a <a class="mostrar" href="../laminas/10-sera-viva.jpg">Mostrar: Sera viva</a>. Lê isto e segue:</p>
 <blockquote><p>Doña Sera está atada al poste, los brazos en alto. El vestido burdeos, de escote bajo, está rasgado en el hombro y en el muslo. Tiene el pómulo negro. Una hoja oxidada le toca el cuello.</p><p>Detrás, un goblin más alto le rodea el cuello con el brazo.</p><p>—¡Un paso más y la dama aprende a volar!</p><p>Ella mantiene la barbilla alta. La voz le sale ronca.</p><p>—No hagan tratos con alimañas por mí. La carga de Phandalin es lo que importa.</p><p>Yeemik escupe al fuego.</p><p>—¡Escuchen! Klarg es un bruto. Tráiganme su cabeza y se la devuelvo entera. Si suben por estas piedras, la empujo ahora. ¿Tenemos un trato?</p></blockquote>
-<p>Se o relógio está em <strong>0</strong>, não leias o diálogo. <strong>Muestra</strong> a <button type="button" class="mostrar" data-src="../laminas/11-sera-muerta.jpg">Mostrar: Sera morta</button> e passa à <a href="../decisoes/03-relogio-viva-ou-morta.html">decisão</a>. É o rosto do retrato, desabada, queixo no peito. Cortes nos braços, no peito e na perna. Lanças no chão, crânios e fogo verde ao fundo. Nada cravado nela.</p>
+<p>Se o relógio está em <strong>0</strong>, não leias o diálogo. <strong>Muestra</strong> a <a class="mostrar" href="../laminas/11-sera-muerta.jpg">Mostrar: Sera morta</a> e passa à <a href="../decisoes/03-relogio-viva-ou-morta.html">decisão</a>. É o rosto do retrato, desabada, queixo no peito. Cortes nos braços, no peito e na perna. Lanças no chão, crânios e fogo verde ao fundo. Nada cravado nela.</p>
 <h2>O que há aqui</h2>
 <ul><li>Cinco goblins em baixo, junto ao fogo. <strong>Yeemik</strong> em cima, 12 pontos de golpe. É o único que fala.</li><li>Com 5 a 3 marcas ela está de pé na corda e pode falar. Com 2 ou 1, pesa na corda, fica a 1 ponto, e tem de ser carregada.</li><li>Se o derrubam antes do turno dele, não a empurra. Cortam as cordas.</li><li>As brasas: pisar custa 1 de fogo. Empurrar alguém para dentro, 1d6. Uma vez por turno.</li></ul>
 <h2>Saída</h2>
@@ -32,15 +32,15 @@
 const visor = document.getElementById("visor");
 const foto = visor.querySelector("img");
 document.body.addEventListener("click", (e) => {
-  const btn = e.target.closest(".mostrar");
-  if (btn) {
-    foto.src = btn.dataset.src;
-    foto.alt = btn.textContent;
-    visor.hidden = false;
-    return;
-  }
-  if (!visor.hidden) visor.hidden = true;
+  const start = e.target instanceof Element ? e.target : e.target.parentElement;
+  const btn = start && start.closest(".mostrar");
+  if (!btn) return;
+  e.preventDefault();
+  foto.src = btn.getAttribute("href");
+  foto.alt = btn.textContent;
+  visor.hidden = false;
 });
+visor.addEventListener("click", () => { visor.hidden = true; });
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") visor.hidden = true;
 });

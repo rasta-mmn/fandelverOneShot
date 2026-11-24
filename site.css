@@ -35,7 +35,7 @@ li { margin: 0.35rem 0; }
 a { color: #7a2e28; }
 table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.95rem; }
 th, td { text-align: left; padding: 0.4rem 0.5rem; border-bottom: 1px solid var(--line); vertical-align: top; }
-button.mostrar {
+a.mostrar {
   font: inherit;
   color: #7a2e28;
   background: transparent;
@@ -43,6 +43,7 @@ button.mostrar {
   border-radius: 2px;
   padding: 0.05rem 0.45rem;
   cursor: pointer;
+  text-decoration: none;
 }
 #visor {
   position: fixed;

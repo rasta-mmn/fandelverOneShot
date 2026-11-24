@@ -13,11 +13,11 @@
 <p><strong>Objetivo:</strong> fechar, conforme a <strong>Sera</strong> esteja no pescante ou no carro.</p>
 <h2>Entrada</h2>
 <p><strong>Muestra</strong> a portada e depois o vale.</p>
-<p><button type="button" class="mostrar" data-src="../laminas/portadas/c-phandalin.jpg">Mostrar: Phandalin</button></p>
-<p><button type="button" class="mostrar" data-src="../laminas/paisagens/l-vale.jpg">Mostrar: Vale</button></p>
+<p><a class="mostrar" href="../laminas/portadas/c-phandalin.jpg">Mostrar: Phandalin</a></p>
+<p><a class="mostrar" href="../laminas/paisagens/l-vale.jpg">Mostrar: Vale</a></p>
 <p>Se ela vive:</p>
 <blockquote><p>Las colinas se abren. Tejados de madera, humo bajo, luz de tarde. Huele a pan.</p><p>En la plaza, frente a Provisiones de Barthen, la gente sale al ver el vestido burdeos, sucio, todavía con la falda abierta en el muslo. Sera baja del pescante. Le tiembla una rodilla. No suelta la rienda hasta que la rueda para.</p><p>Elmar Barthen sale del almacén. Se le queda la boca abierta. Ella habla antes.</p><p>—Estos tres no son simples escoltas. Sin ellos, hoy no hay pan.</p><p>Alguien abre la puerta de la posada. Sale olor a estofado.</p><p>¿Entran, o cuentan primero las cajas?</p></blockquote>
-<p><strong>Muestra</strong> <button type="button" class="mostrar" data-src="../laminas/personagens/p-barthen.jpg">Mostrar: Barthen</button> na porta. Se há caixas do leão, <button type="button" class="mostrar" data-src="../laminas/personagens/p-linene.jpg">Mostrar: Linene</button> aparece depois, sem discurso. Paga e assente.</p>
+<p><strong>Muestra</strong> <a class="mostrar" href="../laminas/personagens/p-barthen.jpg">Mostrar: Barthen</a> na porta. Se há caixas do leão, <a class="mostrar" href="../laminas/personagens/p-linene.jpg">Mostrar: Linene</a> aparece depois, sem discurso. Paga e assente.</p>
 <p>Se ela morreu:</p>
 <blockquote><p>El viento que baja de la montaña entra en la plaza antes que el carro. No hay vítores.</p><p>Cuando ven el cuerpo en la parte de atrás, tapado con lo que queda de la capa gris, las puertas se cierran. Elmar Barthen se quita el sombrero. Toma las riendas. No los mira.</p><p>—Descarguen la comida. Cobren. Váyanse antes de que anochezca.</p><p>¿Bajan las cajas, o se quedan en el pescante?</p></blockquote>
 <h2>O que há aqui</h2>
@@ -33,15 +33,15 @@
 const visor = document.getElementById("visor");
 const foto = visor.querySelector("img");
 document.body.addEventListener("click", (e) => {
-  const btn = e.target.closest(".mostrar");
-  if (btn) {
-    foto.src = btn.dataset.src;
-    foto.alt = btn.textContent;
-    visor.hidden = false;
-    return;
-  }
-  if (!visor.hidden) visor.hidden = true;
+  const start = e.target instanceof Element ? e.target : e.target.parentElement;
+  const btn = start && start.closest(".mostrar");
+  if (!btn) return;
+  e.preventDefault();
+  foto.src = btn.getAttribute("href");
+  foto.alt = btn.textContent;
+  visor.hidden = false;
 });
+visor.addEventListener("click", () => { visor.hidden = true; });
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") visor.hidden = true;
 });

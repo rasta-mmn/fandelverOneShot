@@ -12,7 +12,7 @@
 <h1>07 — A passagem</h1>
 <p><strong>Objetivo:</strong> o túnel, a laje fina, e a ponte lá em cima.</p>
 <h2>Entrada</h2>
-<p>Enquanto sobem, <strong>muestra</strong> o <button type="button" class="mostrar" data-src="../laminas/paisagens/l-corredor.jpg">Mostrar: corredor</button>. Quando olharem para cima, a <button type="button" class="mostrar" data-src="../laminas/16-pasaje-oeste.jpg">Mostrar: passagem</button>.</p>
+<p>Enquanto sobem, <strong>muestra</strong> o <a class="mostrar" href="../laminas/paisagens/l-corredor.jpg">Mostrar: corredor</a>. Quando olharem para cima, a <a class="mostrar" href="../laminas/16-pasaje-oeste.jpg">Mostrar: passagem</a>.</p>
 <blockquote><p>El túnel sube. El arroyo cae a la izquierda en escalones blancos, y el ruido llena la piedra. Sin luz, el suelo se adivina por el agua.</p><p>A un lado, el repecho es una losa más clara y más fina que el resto. Bajo ella, el vacío.</p><p>Muy arriba, una cuerda cruza la bóveda. Está deshilachada. Por dentro, la fibra es blanca.</p><p>¿Pisan esa losa, o siguen el agua?</p></blockquote>
 <h2>O que há aqui</h2>
 <ul><li>Sem luz, a partir daqui, não se vê o chão.</li><li><strong>Escarpa:</strong> mais de 45 kg parte a laje. Destreza CD 10, ou 2d6 e caído. Metade se a salvaguarda passa, e caído na mesma.</li><li>Se levam luz, ou não se escondem, o goblin da ponte vê-os e corre para leste. A água vem no turno seguinte.</li></ul>
@@ -29,15 +29,15 @@
 const visor = document.getElementById("visor");
 const foto = visor.querySelector("img");
 document.body.addEventListener("click", (e) => {
-  const btn = e.target.closest(".mostrar");
-  if (btn) {
-    foto.src = btn.dataset.src;
-    foto.alt = btn.textContent;
-    visor.hidden = false;
-    return;
-  }
-  if (!visor.hidden) visor.hidden = true;
+  const start = e.target instanceof Element ? e.target : e.target.parentElement;
+  const btn = start && start.closest(".mostrar");
+  if (!btn) return;
+  e.preventDefault();
+  foto.src = btn.getAttribute("href");
+  foto.alt = btn.textContent;
+  visor.hidden = false;
 });
+visor.addEventListener("click", () => { visor.hidden = true; });
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") visor.hidden = true;
 });

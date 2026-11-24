@@ -12,11 +12,11 @@
 <h1>Sigilo ou alerta</h1>
 <p><strong>Objetivo:</strong> como entram, sem lhes leres o plano.</p>
 <h2>Entrada</h2>
-<p>A <button type="button" class="mostrar" data-src="../laminas/paisagens/l-gruta.jpg">Mostrar: gruta</button> já está na mesa.</p>
+<p>A <a class="mostrar" href="../laminas/paisagens/l-gruta.jpg">Mostrar: gruta</a> já está na mesa.</p>
 <blockquote><p>El agua sale helada y el rumor tapa la boca. Entre las zarzas del otro lado hay un claro que no se ve desde aquí.</p><p>Pueden pisar como si el barro fuera a delatarlos, o entrar con la luz en alto.</p><p>¿Cuál es el paso?</p></blockquote>
 <p>Não perguntes «vão de sigilo?» se as tochas já o disseram.</p>
 <h2>O que há aqui</h2>
-<ul><li>Sem luz à vista e sem gritos: <strong>muestra</strong> <button type="button" class="mostrar" data-src="../laminas/04-cueva-sigilo.jpg">Mostrar: goblins de costas</button>. Dois caminham para dentro e não se voltam. Sem marca.</li><li>Tochas, gritos, ou vigias que já dispararam: <strong>muestra</strong> <button type="button" class="mostrar" data-src="../laminas/05-cueva-alerta.jpg">Mostrar: a saída deles</button>. Combate na boca. <strong>−1 marca</strong>, uma vez. A <strong>área 2</strong> dispara com surpresa na clareira.</li><li>Furtividade de grupo contra a Percepção passiva dos vigias, se tentam cruzar o claro sem serem vistos.</li></ul>
+<ul><li>Sem luz à vista e sem gritos: <strong>muestra</strong> <a class="mostrar" href="../laminas/04-cueva-sigilo.jpg">Mostrar: goblins de costas</a>. Dois caminham para dentro e não se voltam. Sem marca.</li><li>Tochas, gritos, ou vigias que já dispararam: <strong>muestra</strong> <a class="mostrar" href="../laminas/05-cueva-alerta.jpg">Mostrar: a saída deles</a>. Combate na boca. <strong>−1 marca</strong>, uma vez. A <strong>área 2</strong> dispara com surpresa na clareira.</li><li>Furtividade de grupo contra a Percepção passiva dos vigias, se tentam cruzar o claro sem serem vistos.</li></ul>
 <h2>Saída</h2>
 <p>A <a href="../historia-principal/04-area-1-boca.html">área 1</a> já tem o arroio. Daqui seguem para os <a href="../historia-principal/05-area-2-vigias.html">vigias</a>, os <a href="../historia-principal/06-area-3-perrera.html">lobos</a> ou o <a href="../historia-principal/07-area-4-pasaje.html">corredor</a>.</p>
 </main>
@@ -28,15 +28,15 @@
 const visor = document.getElementById("visor");
 const foto = visor.querySelector("img");
 document.body.addEventListener("click", (e) => {
-  const btn = e.target.closest(".mostrar");
-  if (btn) {
-    foto.src = btn.dataset.src;
-    foto.alt = btn.textContent;
-    visor.hidden = false;
-    return;
-  }
-  if (!visor.hidden) visor.hidden = true;
+  const start = e.target instanceof Element ? e.target : e.target.parentElement;
+  const btn = start && start.closest(".mostrar");
+  if (!btn) return;
+  e.preventDefault();
+  foto.src = btn.getAttribute("href");
+  foto.alt = btn.textContent;
+  visor.hidden = false;
 });
+visor.addEventListener("click", () => { visor.hidden = true; });
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") visor.hidden = true;
 });

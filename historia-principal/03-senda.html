@@ -13,7 +13,7 @@
 <p><strong>Objetivo:</strong> a trilha até a boca, e as duas armadilhas que gastam o relógio.</p>
 <p>Só se foram atrás dela. Se seguiram para <strong>Phandalin</strong>, abre a <a href="../decisoes/05-prisao-phandalin.html">prisão</a>.</p>
 <h2>Entrada</h2>
-<p>Deixa a <button type="button" class="mostrar" data-src="../laminas/paisagens/l-senda.jpg">Mostrar: senda</button> enquanto o carro fica para trás.</p>
+<p>Deixa a <a class="mostrar" href="../laminas/paisagens/l-senda.jpg">Mostrar: senda</a> enquanto o carro fica para trás.</p>
 <blockquote><p>Dejan el camino y se meten en un sendero entre zarzas. Huele a tierra removida y a sudor agrio. En el barro hay pisadas pequeñas, con uñas, y el surco de unos tacones arrastrados.</p><p>La maleza araña la ropa. El desfiladero aprieta. Cada sombra entre los troncos parece un ojo.</p><p>¿Quién va delante, y con qué cuidado?</p></blockquote>
 <h2>Laço</h2>
 <p>Aos dez minutos, se ninguém tem Percepção passiva 12 nem acerta Percepção CD 12:</p>
@@ -38,15 +38,15 @@
 const visor = document.getElementById("visor");
 const foto = visor.querySelector("img");
 document.body.addEventListener("click", (e) => {
-  const btn = e.target.closest(".mostrar");
-  if (btn) {
-    foto.src = btn.dataset.src;
-    foto.alt = btn.textContent;
-    visor.hidden = false;
-    return;
-  }
-  if (!visor.hidden) visor.hidden = true;
+  const start = e.target instanceof Element ? e.target : e.target.parentElement;
+  const btn = start && start.closest(".mostrar");
+  if (!btn) return;
+  e.preventDefault();
+  foto.src = btn.getAttribute("href");
+  foto.alt = btn.textContent;
+  visor.hidden = false;
 });
+visor.addEventListener("click", () => { visor.hidden = true; });
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") visor.hidden = true;
 });
