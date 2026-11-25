@@ -1,5 +1,7 @@
 # 1 — A boca
 
+**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Goblin's Cave](https://sounds.tabletopaudio.com/49_Goblin%27s_Cave.mp3).
+
 **Identidade:** frio, água alta, e um passo que eles escolhem.
 
 Não leias o claro dos vigias. Ainda não se vê. A regra fica em baixo. Em voz alta, só a entrada e o que eles forem olhar.

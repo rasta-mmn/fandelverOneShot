@@ -1,5 +1,7 @@
 # Viva ou morta
 
+**Dispara:** em «Demasiado lentos», [The Breaking of the Fellowship](https://www.youtube.com/watch?v=fowHzOH9rqk). **Fundo, bem baixo:** [Cavern of Lost Souls](https://sounds.tabletopaudio.com/99_Cavern_of_Lost_Souls.mp3).
+
 **Identidade:** chegaram tarde. O fogo ainda arde. Ela já não.
 
 Só se o relógio está em **0**. Se ainda há marcas, não leias esta página. O diálogo está na [área 6](../historia-principal/10-area-6-sera.md).

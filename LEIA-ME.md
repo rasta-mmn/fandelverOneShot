@@ -1,5 +1,7 @@
 # Flechas de goblin
 
+**Dispara:** [An Unexpected Party](https://www.youtube.com/watch?v=u1DWqb44rXw). **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3). Na cidade, o fundo passa a [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3).
+
 Lê em voz alta, em blocos. Não uses o mesmo ritmo o tempo todo.
 
 Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. Deixa uns segundos de silêncio antes de mostrares a cidade. As fotos só abrem no clique.

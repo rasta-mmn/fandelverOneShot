@@ -1,5 +1,7 @@
 # 0.1 — Taberna El Yunque Alegre
 
+**Dispara:** [Kingdom Dance](https://www.youtube.com/watch?v=0X0sLw63KLU), uma vez. **Fundo, bem baixo:** [Tavern Celebration](https://sounds.tabletopaudio.com/342_Tavern_Celebration.mp3).
+
 **Identidade:** calor, barulho, e ninguém à espera deles. A **Sera** ainda não chegou.
 
 Não leias o cenário todo. Em voz alta, a entrada e o que eles forem olhar. A regra fica em baixo.

@@ -1,5 +1,7 @@
 # 8 — Klarg
 
+**Dispara:** [Smaug Suite](https://www.youtube.com/watch?v=SU_rtsb3zA4). Sobe na luta. Sala vazia: [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [Cavern of Lost Souls](https://sounds.tabletopaudio.com/99_Cavern_of_Lost_Souls.mp3) se ele está. [Dungeon I](https://sounds.tabletopaudio.com/65_Dungeon_I.mp3) se está vazia.
+
 **Identidade:** calor no meio, humidade na parede, e uma voz que fala de si. Se a sala foi avisada, a voz não está. Os sacos, sim.
 
 Se chegam antes da **área 6**: **−1 marca.** Se o trato já custou **−2**, não marques outra vez.

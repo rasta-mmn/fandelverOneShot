@@ -179,13 +179,23 @@ if (relogio) {{
 """
 
 
+def wrap_cue(body):
+    return re.sub(
+        r"(<h1>.*?</h1>)\n(<p><strong>Dispara:</strong>.*?</p>)",
+        r'<div class="cena">\1\2</div>',
+        body,
+        count=1,
+        flags=re.DOTALL,
+    )
+
+
 def main():
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
     for path in PAGES:
         md = path.read_text(encoding="utf-8")
         title = next((ln[2:].strip() for ln in md.splitlines() if ln.startswith("# ")), path.stem)
         depth = len(path.relative_to(ROOT).parts) - 1
-        body = convert(md)
+        body = wrap_cue(convert(md))
         dest = ROOT / "index.html" if path.name == "LEIA-ME.md" else path.with_suffix(".html")
         aside = None
         if dest.name == "index.html":

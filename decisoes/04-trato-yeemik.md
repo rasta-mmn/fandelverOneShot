@@ -1,5 +1,7 @@
 # O trato
 
+**Dispara:** [Riddles in the Dark](https://www.youtube.com/watch?v=aKgH4KELcUw). **Fundo, bem baixo:** [Dungeon I](https://sounds.tabletopaudio.com/65_Dungeon_I.mp3).
+
 **Identidade:** a folha não sai do pescoço. Ela olha para eles, não para ele.
 
 Só se ela está viva e **Yeemik** chega ao turno dele. Com o relógio em **0**, esta página não se usa.

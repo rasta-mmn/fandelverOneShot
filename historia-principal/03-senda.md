@@ -1,5 +1,7 @@
 # 0.4 — O rastro
 
+**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Forest: Day](https://sounds.tabletopaudio.com/161_Forest_Day.mp3).
+
 **Identidade:** lama, frio, e um sulco que não pára. As armadilhas não se anunciam.
 
 Não leias a corda nem o fosso na entrada. Só se olharem o chão, ou se o chão ceder.

@@ -1,5 +1,7 @@
 # 0.3 — La Senda de Triboar
 
+**Dispara:** [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Forest: Day](https://sounds.tabletopaudio.com/161_Forest_Day.mp3). No mato: [He's a Pirate](https://www.youtube.com/watch?v=BuYf0taXoNw). O fundo passa a [Goblin Ambush](https://sounds.tabletopaudio.com/316_Goblin_Ambush.mp3).
+
 **Identidade:** o bosque cala. Cheira a sangue de ontem. O mato mexe sem vento.
 
 Não leias o quinto goblin nem o tubo. Só se a cena chegar lá.

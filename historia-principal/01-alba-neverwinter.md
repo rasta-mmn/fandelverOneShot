@@ -1,5 +1,7 @@
 # 0.2 — O alba
 
+**Dispara:** [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3).
+
 **Identidade:** manhã fria, pão e sal. O carro já está na rua. Ela não espera discurso.
 
 A noite já aconteceu na [taberna](01B-taberna-el-yunque-alegre.md).

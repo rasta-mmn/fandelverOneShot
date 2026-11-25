@@ -1,5 +1,7 @@
 # 5 — A ponte
 
+**Dispara:** [Riddles in the Dark](https://www.youtube.com/watch?v=aKgH4KELcUw). **Fundo, bem baixo:** [Rope Bridge](https://sounds.tabletopaudio.com/367_Rope_Bridge.mp3). Se ele grita: [The Bridge of Khazad Dum](https://www.youtube.com/watch?v=vbKy6FuACKg). O fundo passa a [Medieval Battle](https://sounds.tabletopaudio.com/79_Medieval_Battle.mp3).
+
 **Identidade:** altura, uma corda gasta, e alguém que ainda não os viu. A onda só existe se ele gritar.
 
 ## Primeira impressão

@@ -1,5 +1,7 @@
 # A praça
 
+**Dispara:** [The Breaking of the Fellowship](https://www.youtube.com/watch?v=fowHzOH9rqk). **Fundo, bem baixo:** [Ghost Town](https://sounds.tabletopaudio.com/208_Ghost_Town.mp3).
+
 **Identidade:** chegam com pouco. A praça corre, e depois fecha. A cela é fria.
 
 A cela só depois de a porta se fechar. O relógio, se voltarem à caverna, já está em **0**.

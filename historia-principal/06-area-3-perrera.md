@@ -1,5 +1,7 @@
 # 3 — Os lobos
 
+**Dispara:** [The Raptor Attack](https://www.youtube.com/watch?v=V1GRTzQW8u0). Sobe o volume se a corrente parte. **Fundo, bem baixo:** [Wolf Pens](https://sounds.tabletopaudio.com/250_Wolf_Pens.mp3).
+
 **Identidade:** o cheiro chega primeiro. A corrente é o limite. A fenda é a outra saída.
 
 ## Primeira impressão

@@ -66,6 +66,15 @@ h3 { font-size: 1.05rem; margin: 1.4rem 0 0.4rem; }
   aside.ficha { position: static; max-height: none; }
 }
 h1 { font-size: 1.8rem; line-height: 1.2; margin: 0 0 1rem; }
+.cena {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 1.1rem;
+  margin: 0 0 1rem;
+}
+.cena h1 { margin: 0; }
+.cena p { margin: 0; font-size: 0.95rem; flex: 1 1 16rem; }
 h2 { font-size: 1.25rem; margin: 2rem 0 0.6rem; }
 p { margin: 0.7rem 0; }
 blockquote {

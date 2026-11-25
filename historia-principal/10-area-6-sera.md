@@ -1,5 +1,7 @@
 # 6 — Sera e Yeemik
 
+**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [Dungeon I](https://sounds.tabletopaudio.com/65_Dungeon_I.mp3). Quando a virem viva, oito segundos de [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI), e volta. Com o relógio a 0, não toques essa frase.
+
 **Identidade:** calor, fumo, riso em baixo, e uma voz que não é de goblin lá em cima.
 
 Confere o [relógio](00-sera-e-relogio.md) antes do repecho. Com **0**, não leias a oferta.

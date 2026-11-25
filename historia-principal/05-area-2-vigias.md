@@ -1,5 +1,7 @@
 # 2 — Os vigias
 
+**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Goblin's Cave](https://sounds.tabletopaudio.com/49_Goblin%27s_Cave.mp3). Se a boca já os armou: [He's a Pirate](https://www.youtube.com/watch?v=BuYf0taXoNw). Fundo: [Goblin Ambush](https://sounds.tabletopaudio.com/316_Goblin_Ambush.mp3).
+
 **Identidade:** descuido. O arroio tapa os passos. Eles não estão a olhar.
 
 Se a boca já os armou, não leias o cabeceio. Estão de pé, arcos erguidos, e disparam primeiro.
