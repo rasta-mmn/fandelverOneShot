@@ -62,6 +62,8 @@ Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. 
 
 Antes da gruta o número é 0.1, 0.2, 0.3, 0.4. Na gruta, o número é o da sala no mapa.
 
+Cada cena segue o mesmo guião: Preparação, Entrada, O que podem fazer, Como resolver, Como avançar. Lê só o que está em citação.
+
 | | |
 |---|---|
 | [Ficha](historia-principal/00-sera-e-relogio.md) | Relógio. Também está ao lado, nesta página. |

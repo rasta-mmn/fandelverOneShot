@@ -1,8 +1,17 @@
 # 0.4 — O rastro
 
-**Objetivo:** a trilha até a boca, e as duas armadilhas. Cada uma que disparar tira **1 marca**.
+A trilha até a boca. Duas armadilhas. Cada uma que disparar tira **1 marca**.
+
+Não leias estas notas. Lê só o que está em citação, e só a armadilha que disparar.
 
 Só se foram atrás dela. Se seguiram para **Phandalin**, abre a [prisão](../decisoes/05-prisao-phandalin.md).
+
+## Preparação
+
+- Uns 7 km a noroeste. O carro ficou para trás. Se não o esconderam nem ataram os bois, continua à vista na Senda de Triboar.
+- No barro: cerca de uma dúzia de pegadas e um corpo arrastado. É a **Sera**.
+- A ordem de marcha diz quem vê, ou quem cai, primeiro.
+- Laço aos dez minutos. Fosso mais dez. A boca só no fim. Ainda não mostres sigilo nem alerta.
 
 ## Entrada
 
@@ -18,29 +27,42 @@ Quando o desfiladeiro apertar, troca para o [barranco](../laminas/paisagens/l-ba
 >
 > ¿Quién va delante, y con qué cuidado?
 
-## Laço
+## O que podem fazer
 
-Aos dez minutos. Se ninguém tem Percepção passiva 12, Percepção CD 12. Se veem a corda, contornam. Sem marca.
+- Ir à frente com cuidado, ou às cegas. Não forces uma formação.
+- Rastrear. Sobrevivência CD 10 confirma as pegadas e o corpo arrastado.
+- Ver a corda, ou o fosso, e contornar. Isso não gasta marca.
+- Cair. A marca só conta se a armadilha dispara.
 
-Se não veem, a corda salta. Destreza CD 10. Sucesso: saem de lado, o laço fecha no vazio. Falha: lê isto.
+## Como resolver
+
+### Laço
+
+Aos dez minutos. Passiva 12, ou Percepção CD 12.
+
+Se veem a corda, contornam. Sem marca.
+
+Se não veem, a corda salta. Destreza CD 10. Sucesso: saem de lado e o laço fecha no vazio. Falha: lê isto.
 
 > Una cuerda sale del barro y se cierra en el tobillo. Quien iba delante queda colgado a tres metros, cabeza abajo. El rastro sigue fresco debajo.
 
-Fica impedido até cortarem a corda. Baixar sem cuidado: 1d6 de concussão. **−1 marca.**
+Fica impedido até cortarem a corda. Baixar sem cuidado: 1d6 de concussão. **−1 marca.** Cortar a corda não pede outro teste. A trilha continua.
 
-## Fosso
+### Fosso
 
-Mais dez minutos. Passiva 15, ou Percepção CD 15. Se veem o fosso, contornam. Sem marca.
+Mais dez minutos. 2 m de largo por 3 m de fundo. Passiva 15, ou Percepção CD 15.
+
+Se veem o fosso, contornam. Sem marca.
 
 Se não veem:
 
 > El suelo cede. Tres metros de hoyo, paredes de tierra mojada. Abajo huele a hoja podrida.
 
-Destreza CD 10. Sucesso: ficam na borda. Falha: 1d6 de concussão e caído. Falha por 5 ou mais: perde os sentidos no fundo. Sair, acordado, não pede rolagem. **−1 marca.**
+Destreza CD 10. Sucesso: ficam na borda. Falha: 1d6 de concussão e caído. Falha por 5 ou mais: perde os sentidos no fundo. Sair, acordado, não pede rolagem. **−1 marca.** O desmaio não acaba a cena. Os outros puxam-no e seguem.
 
-## A boca, ao fim
+## Como avançar
 
-**Muestra** a [gruta](../laminas/paisagens/l-gruta.jpg). Ainda não mostres sigilo nem alerta.
+**Muestra** a [gruta](../laminas/paisagens/l-gruta.jpg).
 
 > El bosque se abre al pie de una loma. De una boca negra sale un arroyo helado.
 >
@@ -50,15 +72,6 @@ Destreza CD 10. Sucesso: ficam na borda. Falha: 1d6 de concussão e caído. Falh
 >
 > La boca está delante. ¿Quién da el primer paso?
 
-## O que há aqui
-
-- Uns 7 km a noroeste. Sobrevivência CD 10 confirma o rastro: cerca de uma dúzia de pegadas e um corpo arrastado. É a **Sera**.
-- Se não esconderam o carro nem ataram os bois, o veículo continua à vista na Senda de Triboar.
-- A ordem de marcha diz quem vê, ou quem cai, primeiro.
-- Laço: 10 minutos, passiva 12 ou CD 12. Não visto: Destreza CD 10 ou impedido a 3 m. Queda sem cuidado, 1d6. Marca só se a corda dispara.
-- Fosso: mais 10 minutos, 2 m de largo por 3 m de fundo, passiva 15 ou CD 15. Não visto: Destreza CD 10, ou 1d6 e caído. Falha por 5 ou mais: inconsciente. Sair não pede teste. Marca só se o chão cede.
-- Cada armadilha acionada: **−1** no [relógio](00-sera-e-relogio.md), antes da área 6.
-
-## Saída
-
 Estão diante da boca. Abre [sigilo ou alerta](../decisoes/02-sigilo-ou-alerta.md) e segue para a [área 1](04-area-1-boca.md). A pergunta da água ou das sarças é dessa cena. Não a repitas aqui.
+
+Cada armadilha acionada: **−1** no [relógio](00-sera-e-relogio.md), antes da área 6.

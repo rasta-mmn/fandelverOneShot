@@ -1,6 +1,15 @@
 # 4 — A passagem
 
-**Objetivo:** o túnel, a laje fina, e a ponte lá em cima.
+O túnel, a laje fina, e a ponte lá em cima.
+
+Não leias estas notas. Lê só o que está em citação.
+
+## Preparação
+
+- O túnel sobe. O arroio desce à esquerda em degraus brancos. O ruído enche a pedra.
+- Sem luz, a partir daqui, não se vê o chão.
+- A um lado, a escarpa: uma laje mais clara e mais fina. Por baixo não há chão. Mais de 45 kg parte-a.
+- Muito acima, a corda da ponte, desfiada, branca por dentro. O goblin da ponte ainda não é descrito. Está na [área 5](08-area-5-puente.md).
 
 ## Entrada
 
@@ -16,19 +25,20 @@ Enquanto sobem, **muestra** o [corredor](../laminas/paisagens/l-corredor.jpg). Q
 >
 > ¿Pisan esa losa, o siguen el agua?
 
-## O que há aqui
+## O que podem fazer
 
-- Sem luz, a partir daqui, não se vê o chão.
-- **Escarpa:** mais de 45 kg parte a laje. Destreza CD 10, ou 2d6 e caído. Metade se a salvaguarda passa, e caído na mesma.
-- Se levam luz, ou não se escondem, o goblin da ponte vê-os e corre para leste. A água vem no turno seguinte.
+- Pisar a laje, ou seguir a água e não a pisar.
+- Ir às escuras, ou com luz. A luz avisa o vigia da ponte.
+- Não subir à ponte nem pisar a laje. O túnel reparte mais à frente.
 
-## Objetos no combate
+## Como resolver
 
-- **Escarpa:** a laje fina. A regra está em cima.
+- **Escarpa:** mais de 45 kg parte a laje. Destreza CD 10, ou 2d6 e caído. Metade se a salvaguarda passa, e caído na mesma. Quem passa por cima dos que caíram segue.
 - **Rápidos:** empurrar para os degraus de água deixa a criatura caída no degrau de baixo. O ruído tapa um grito curto. Não tapa uma tocha.
+- Se levam luz, ou não se escondem, o goblin da ponte vê-os e corre para leste. A água vem no turno seguinte.
 - **Ponte:** a corda desfiada. Os pontos e a queda estão na [área 5](08-area-5-puente.md).
 
-## Saída
+## Como avançar
 
 - Seguem a água, sem serem vistos: [ponte](08-area-5-puente.md).
 - Ele os vê: abre já os [tanques](09-area-7-tanques.md). **−1 marca** se ainda não chegaram à **Sera** e estão no túnel.

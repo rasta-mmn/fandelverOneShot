@@ -1,10 +1,20 @@
 # 7 — Os tanques
 
-**Objetivo:** os três das presas, e o que a água faz se a pedra ceder.
+Os três das presas, e o que a água faz se a pedra ceder.
+
+Não leias estas notas. Lê só o que está em citação. A onda só se a pedra parte.
+
+## Preparação
+
+- Duas balsas negras, presas por muros de pedra. No muro mais próximo, uma pedra de cima já se mexe.
+- Ao lado, um monte de escombros, à altura de um joelho.
+- Três goblins em cima do dique, lanças apoiadas na rocha.
+- O ruído tapa o combate. **Klarg** não ouve esta sala, e esta sala não o ouve.
+- Se a ponte já deu o sinal, estão prontos e a presa parte no turno seguinte. Não leias a cena como se a água ainda estivesse quieta.
 
 ## Entrada
 
-**Muestra** os [tanques](../laminas/12-tanques.jpg). A onda, só se a pedra ceder.
+**Muestra** os [tanques](../laminas/12-tanques.jpg).
 
 > El ruido de la cascada lo tapa casi todo. Casi no se oyen los propios pasos.
 >
@@ -16,22 +26,21 @@
 >
 > ¿Se acercan al muro, o buscan otro túnel?
 
-## O que há aqui
+## O que podem fazer
 
-- Três goblins. O ruído tapa o combate: **Klarg** não ouve esta sala, e esta sala não o ouve.
-- No primeiro turno de luta, um corre para leste avisar **Klarg**.
-- Se a ponte já deu o sinal, estão prontos e a presa parte no turno seguinte. **−1 marca** se a onda apanha o grupo antes da **Sera**.
-- Se o vigia não avisou, as presas ainda seguram a água.
-- Partir o dique é a inundação. Quem está no corredor: Força CD 10, ou vai à boca, caído, 1d6.
+- Aproximar-se do muro, ou procurar outro túnel.
+- Calar quem corre para leste, ou deixar que avise **Klarg**.
+- Partir o dique, ou espalhar os escombros. Espalhar o monte não parte a presa.
+- Ignorar a sala. A água fica presa enquanto ninguém gritar o sinal.
 
-## Objetos no combate
+## Como resolver
 
+- No primeiro turno de luta, um corre para leste avisar **Klarg**. A cascata tapa a voz. Não tapa quem corre à vista.
 - **Dique:** a pedra que já se mexe. Partir isto é a onda.
-- **Escombros:** terreno difícil e cobertura média. Espalhar o monte não parte a presa.
-- **Cascata:** tapa a voz. Não tapa quem corre para leste à vista.
+- **Escombros:** terreno difícil e cobertura média.
+- Partir o dique, ou a presa já avisada: quem está no corredor faz Força CD 10, ou vai à boca, caído, 1d6. **−1 marca** se a onda apanha o grupo antes da **Sera**. A falha leva-os à boca. Não os tira da aventura.
 
-## Saída
+## Como avançar
 
 - Calam o que corre e a presa fica: **Klarg** não é avisado por aqui. A **Sera**, se ainda não a viram, está na [área 6](10-area-6-sera.md).
-- A onda apanha-os antes: **−1 marca**. O que fugiu para leste abre [Klarg](11-area-8-klarg.md).
-- Ignorar a sala deixa a água presa, enquanto ninguém gritar o sinal.
+- A onda apanha-os antes: a marca, e o que fugiu para leste abre [Klarg](11-area-8-klarg.md).

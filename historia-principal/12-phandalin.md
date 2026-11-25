@@ -1,6 +1,15 @@
 # Phandalin
 
-**Objetivo:** fechar, conforme a **Sera** esteja no pescante ou no carro.
+Fechar, conforme a **Sera** esteja no pescante ou no carro.
+
+Não leias estas notas. Lê só o bloco que corresponde a ela: viva, ou morta.
+
+## Preparação
+
+- A praça, em frente a Provisiones de **Barthen**. Tarde. Cheiro a pão.
+- Se ela vive: desce do pescante. Vestido sujo, joelho a tremer.
+- Se morreu: o corpo vai atrás, tapado com o que resta da capa cinzenta. Ninguém aplaude.
+- **Gundren** continua desaparecido. O mapa já não estava no tubo. Uma frase, só se perguntarem.
 
 ## Entrada
 
@@ -10,7 +19,7 @@
 
 ![Vale](../laminas/paisagens/l-vale.jpg)
 
-Se ela vive:
+Se ela vive, **muestra** [Barthen](../laminas/personagens/p-barthen.jpg) na porta e lê:
 
 > Las colinas se abren. Tejados de madera, humo bajo, luz de tarde. Huele a pan.
 >
@@ -26,9 +35,7 @@ Se ela vive:
 >
 > ¿Entran, o cuentan primero las cajas?
 
-**Muestra** [Barthen](../laminas/personagens/p-barthen.jpg) na porta. Se há caixas do leão, [Linene](../laminas/personagens/p-linene.jpg) aparece depois, sem discurso. Paga e assente.
-
-Se ela morreu:
+Se ela morreu, não leias o bloco de cima.
 
 > El viento de la montaña llega a la plaza antes que el carro. Nadie aplaude.
 >
@@ -40,13 +47,19 @@ Se ela morreu:
 >
 > ¿Bajan las cajas, o se quedan en el pescante?
 
-## O que há aqui
+## O que podem fazer
 
-- **10 po** cada um, vivos ou mortos, se a carga chega.
-- Se ela vive, pode juntar mais **50 po** em **Phandalin**, como prometeu no caminho se a escoltaram até ao fim. Se não o disse na caverna, diz aqui, baixinho, à porta.
-- Caixas do leão: **Linene** paga **50 po**.
-- **Gundren** continua desaparecido. Uma frase, só se perguntarem: o mapa já não estava no tubo.
+- Entrar na posada, ou contar as caixas primeiro.
+- Ficar no pescante. **Barthen** não os persegue sala adentro. Põe o pagamento na mão.
+- Entregar as caixas do leão, se as trouxeram. **Linene** aparece depois, sem discurso.
 
-## Saída
+## Como resolver
+
+- **10 po** cada um, viva ou morta, se a carga chega.
+- Se ela vive, pode juntar mais **50 po**, baixinho, à porta, se ainda não o disse na caverna.
+- Caixas do leão: **Linene** paga **50 po** e assente.
+- Sem as caixas do cubil, ele recebe o que veio no carro. O pagamento das dez moedas não depende de um discurso deles.
+
+## Como avançar
 
 A história acaba na praça. Se ela vive, a porta da posada fica aberta. Se morreu, a praça fica em silêncio e o pagamento é posto na mão, sem brinde.

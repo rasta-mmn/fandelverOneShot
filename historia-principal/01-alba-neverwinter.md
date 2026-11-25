@@ -1,10 +1,19 @@
 # 0.2 — O alba
 
-**Objetivo:** a partida. A noite e a **Sera** já aconteceram na [taberna](01B-taberna-el-yunque-alegre.md).
+A partida. A noite e a **Sera** já aconteceram na [taberna](01B-taberna-el-yunque-alegre.md).
+
+Não leias estas notas. Lê só o que está em citação, e só a resposta da pergunta que eles fizerem.
+
+## Preparação
+
+- De manhã. Tira a taberna da mesa.
+- A **Sera** já está no pescante. Capa cinzenta sobre o vestido burdeos. Não combate. Não larga a carga.
+- Atrás: farinha, carne salgada, cerveja, queijo, pão, farois e o barril de azeite. A carga vale **100 po**.
+- O pagamento, na entrega, é **10 po** cada um, pagos por **Barthen**.
 
 ## Entrada
 
-De manhã, tira a taberna. **Muestra** a saída.
+**Muestra** a saída.
 
 ![Alba](../laminas/01-alba-neverwinter.jpg)
 
@@ -16,17 +25,25 @@ De manhã, tira a taberna. **Muestra** a saída.
 >
 > —El pueblo espera esta comida. Yo no pienso perder ni un saco. ¿Cómo viajan? ¿Aquí conmigo, abriendo camino adelante, o cubriendo la espalda atrás?
 
-## Diálogos, se falarem na partida
+## O que podem fazer
+
+- Responder à pergunta: no pescante, à frente, ou atrás.
+- Subir em silêncio. Também serve. Não forces um discurso.
+- Perguntar pela carga, por **Gundren**, por **Sildar**, ou pelo caminho. Lê só a frase do que perguntarem.
+
+## Como resolver
+
+Conduzir o carro não pede rolagem. A ordem de marcha é a resposta deles.
 
 - Se perguntam o que há no carro:
 
 > —Harina, cerdo salado, cerveza, queso, pan, faroles y aceite. Cien monedas de oro si alguien se pone a contarlas. Yo no pienso dejar que lo cuenten… y menos que nos lo quiten.
 
-- Se perguntam por Gundren:
+- Se perguntam por **Gundren**:
 
 > —El enano va detrás de algo en las colinas. No es asunto nuestro. El trabajo es que la comida llegue entera a Phandalin.
 
-- Se perguntam por Sildar:
+- Se perguntam por **Sildar**:
 
 > —Se fue adelante con Gundren. Cuando el enano corre, Sildar lo sigue. Ustedes se quedan conmigo. Menos gloria, más polvo.
 
@@ -34,12 +51,6 @@ De manhã, tira a taberna. **Muestra** a saída.
 
 > —Hasta ahora no hubo problemas, pero esta senda no es para distraerse. Si mantienen los ojos abiertos y las armas listas, las diez monedas de oro de Gundren les van a parecer bien ganadas.
 
-## O que há aqui
+## Como avançar
 
-- Conduzir o carro não pede rolagem. A ordem de marcha é a pergunta dela.
-- **Sera**, 41 anos. Não combate. Orgulhosa. Não larga a carga.
-- Carga: **100 po**. Pagamento na entrega: **10 po** cada um, pagos por **Barthen**.
-
-## Saída
-
-Eles respondem à pergunta dela, ou sobem para o carro em silêncio. A estrada abre. Sem encontro até o meio-dia. A seguir, [02](02-emboscada.md).
+A estrada abre. Sem encontro até o meio-dia. A seguir, a [emboscada](02-emboscada.md).

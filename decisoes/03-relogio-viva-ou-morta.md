@@ -1,14 +1,18 @@
 # Viva ou morta
 
-**Objetivo:** a frase do poste, quando o relógio chega a zero. Se ainda há marcas, o diálogo já foi lido na [área 6](../historia-principal/10-area-6-sera.md). Não o repitas.
+A frase do poste, quando o relógio chega a zero.
 
-## Se ainda há marcas
+Não leias estas notas. Se ainda há marcas, não leias esta página. O diálogo já foi lido na [área 6](../historia-principal/10-area-6-sera.md).
 
-Não leias outra caixa. Ela está na corda. O [trato](04-trato-yeemik.md) abre se **Yeemik** chega ao turno dele.
+## Preparação
 
-## Se o relógio está em 0
+- Relógio em [00](00-sera-e-relogio.md).
+- Com marcas: ela está na corda. O [trato](04-trato-yeemik.md) abre se **Yeemik** chega ao turno dele.
+- Com **0**: a foto primeiro. É a Sera do retrato, desabada, queixo no peito. Cortes nos braços, no peito e na perna. Lanças no chão, escudos, crânios e um fogo verde ao fundo. Nada cravado nela. A capa voltou aos ombros. Lê o que se vê.
 
-**Muestra** a lâmina. É a Sera do retrato, desabada, queixo no peito. Cortes nos braços, no peito e na perna. À volta: lanças no chão, escudos, crânios e um fogo verde ao fundo. Nada cravado nela. A capa voltou aos ombros. Lê o que se vê.
+## Entrada
+
+Só se o relógio está em **0**. **Muestra** a lâmina.
 
 ![Sera morta](../laminas/11-sera-muerta.jpg)
 
@@ -28,12 +32,16 @@ Não leias outra caixa. Ela está na corda. O [trato](04-trato-yeemik.md) abre s
 >
 > ¿Bajan el cuerpo, o suben a por él?
 
-## O que há aqui
+## O que podem fazer
 
-- Morta. **Yeemik** não oferece trato. Os cinco e ele lutam.
-- **Yeemik** tem 12 pontos de golpe.
-- Se a empurram do repecho ainda viva, noutro momento: 1d6, cai a 0, e morre em três rounds sem estabilização.
+- Descer o corpo, ou subir até ele.
+- Levar o corpo depois. Não há trato para aceitar ou recusar.
 
-## Saída
+## Como resolver
+
+- Morta. **Yeemik** não oferece trato. Os cinco e ele lutam. Ele tem 12 pontos de golpe.
+- Se a empurram do repecho ainda viva, noutro momento: 1d6, cai a 0, e morre em três rounds sem estabilização. Três rounds ainda são uma tentativa. Não saltes para o corpo.
+
+## Como avançar
 
 Podem levar o corpo. As caixas continuam com **Klarg**. O final é o parágrafo frio de [Phandalin](../historia-principal/12-phandalin.md).
