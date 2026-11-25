@@ -1,6 +1,15 @@
 # 0.1 — Taberna El Yunque Alegre
 
-Eventos secundários, enquanto a noite corre. A **Sera** entra quando quiseres puxar a missão.
+Noite na taberna. Eles escolhem o que fazer. A **Sera** entra quando a mesa já teve tempo. Depois, a manhã.
+
+Não leias estas notas. Lê só o que está em citação, e só o jogo a que eles se aproximarem.
+
+## Preparação
+
+- A pedra cinzenta fica visível na mesa. É o sinal de que estão à espera da **Sera**.
+- No pátio está o carro para **Phandalin**, com dois bois.
+- Um rapaz cuida dos animais e deixa o carro pronto. Ajuda em qualquer coisa se lhe pagam o jantar.
+- A **Sera** ainda não está. Entra depois de eles explorarem um bocado.
 
 ## Entrada
 
@@ -22,64 +31,107 @@ Eventos secundários, enquanto a noite corre. A **Sera** entra quando quiseres p
 >
 > ¿Se sientan, piden algo, o se meten en uno de los juegos?
 
-A pedra fica à vista na mesa. O carro já está no pátio, com dois bois e um rapaz que não dorme se lhe pagam o jantar.
+## O que podem fazer
 
-## Eventos secundários
+Não obrigues ninguém a jogar. A sala já está apresentada. Eles apostam, jogam, conversam ou só observam.
 
-Deixa-os escolher se interagem, apostam ou só observam. Cada evento pode render umas moedas, uma pista leve ou confusão, antes de a **Sera** aparecer.
+Não apresentes os três de uma vez. Lê o diálogo só do canto a que se aproximarem.
 
-### 1. Apostando quem bebe mais
+Cada jogo pode dar moedas, uma informação sobre a estrada ou **Phandalin**, um momento de personagem, ou uma confusão sem peso na aventura.
 
-- **Toma-Jarras**, marinheiro alto, careca, gargalhada fácil. **Bramido**, trabalhador do porto, barba rala, camisa suja de fuligem.
-- Cada rodada: Constituição. CD 10 na primeira, 12 na segunda, 14 na terceira, e sobe de dois em dois.
-- Falhar: Envenenado durante 1 hora (desvantagem em ataques e em testes), ou desmaia na mesa. Água ou um descanso tira o veneno.
-- Aposta típica: 2 a 5 po por cabeça, ou uma informação sobre a estrada de **Phandalin**.
+## Como resolver
 
-> —¡Vamos, forasteros! —ruge Bramido, empujando dos jarras oscuras hacia ustedes—. ¡Quien aguante tres rondas sin vomitar en las botas se lleva cinco monedas de oro y el respeto del muelle!
+### 1. Concurso de bebida
 
-### 2. Jogando cartas
+- **Toma-Jarras:** marinheiro alto, careca, gargalhada fácil. Provoca.
+- **Bramido:** trabalhador do porto, barba rala, camisa suja de fuligem. Não gosta de perder.
+- Objetivo: aguentar três rodadas.
+- Teste: Constituição. CD 10, depois 12, depois 14. Cada rodada a mais sobe 2.
+- Falha: perde a rodada e fica Envenenado 1 hora. Falha por 5 ou mais: pode desmaiar. Água ou um descanso tira o veneno.
+- Aposta: 2 a 5 po por cabeça, ou uma informação sobre a estrada de **Phandalin**.
 
-- **Marta «La fina»**, dedos ágeis, sorriso calmo. **Garra**, taciturno, cicatriz no queixo, vê tudo e cala.
-- Uma rodada, 1 a 10 po.
-- Enganação ou Prestidigitação CD 13 para mexer no jogo. Intuição CD 12 para ver que a **Marta** blefa, ou que o **Garra** marca as cartas.
+> —¡Vamos, forasteros! —grita Bramido, empujando dos jarras oscuras hacia ustedes—. ¡Cinco monedas de oro para quien aguante tres rondas sin acabar debajo de la mesa!
+>
+> Toma-Jarras levanta su jarra y se ríe.
+>
+> —¡Y si pierden, pagan la siguiente ronda!
 
-> —Las cartas no mienten, señores —dice Marta barajando con un chasquido seco—. Solo miente quien las mira con miedo. ¿Entran con dos monedas o vienen solo a hacer sombra?
+### 2. Jogo de cartas
 
-### 3. Tirando braço de ferro
+- **Marta «La fina»:** dedos ágeis, sorriso calmo. Gosta de ganhar e disfarça.
+- **Garra:** taciturno, cicatriz no queixo. Fala pouco e vê tudo.
+- Aposta: 1 a 10 po por rodada.
+- Enganação CD 13 para os enganar. Prestidigitação CD 13 para mexer nas cartas sem ser visto.
+- Intuição CD 12: a **Marta** blefa, ou o **Garra** marca as cartas.
+- Se descobrem a trapaça, confrontam, negociam ou levantam-se. Não começa luta sozinha.
 
-- **Torvo**, estivador enorme, antebraços como troncos, tatuagem de âncora. **Rápido**, magricela, recolhe o dinheiro da roda.
-- Força (Atletismo) disputada. Para uma queda longa, Constituição disputada.
-- Vencer por 5 ou mais: dobra a aposta. Perder feio: o público zoa, e o **Rápido** puxa outra aposta para a revanche.
+> —Las cartas no mienten, señores —dice Marta mientras baraja con un rápido movimiento de manos—. Solo pierde quien no sabe jugar.
+>
+> Garra levanta los ojos de sus cartas.
+>
+> —¿Van a jugar o solo han venido a mirar?
 
-> —¡Codo en la mesa y cero lloriqueos! —gruñe Torvo, extendiendo una mano callosa—. Si tumban mi brazo antes de que cuente diez, el bote es suyo. Si les tiembla el pulso… pagan la próxima ronda de todos.
+### 3. Braço de ferro
 
-## Chegada
+- **Torvo:** estivador enorme, antebraços grossos, tatuagem de âncora. Desafia quem entra.
+- **Rápido:** magricela. Recolhe as apostas e procura quem arrisque moedas.
+- Teste: Força (Atletismo) disputada.
+- Empate: continuam. Repete o teste.
+- Vitória: leva o dinheiro apostado.
+- Vitória por 5 ou mais: pode haver uma aposta extra, se eles aceitarem.
+- Derrota: o público ri. O **Rápido** puxa a revanche.
 
-Quando já tiverem jogado, ou quando quiseres puxar o fio, a **Sera** entra.
+> —¡Codo en la mesa y nada de lloriqueos! —gruñe Torvo, extendiendo su enorme mano—. Si consiguen tumbarme, se llevan el dinero.
+>
+> Rápido se acerca con una bolsa de monedas.
+>
+> —¡Vamos, que esto se pone interesante! ¿Quién se atreve?
 
-> La puerta vuelve a abrirse y el murmullo de la taberna baja un tono.
+## Chegada da Sera
 
-**Muestra** a entrada. Ela entra. Não leias a ficha antes da foto.
+Quando acabarem o que estavam a fazer, ou quando já tiveram tempo de olhar a sala, ela entra. Não a uses para explicar a missão antes dessa pausa.
+
+Lê só isto. Ainda sem a descrever.
+
+> La puerta de la taberna vuelve a abrirse. Entre el ruido de las conversaciones, algunos clientes se giran para mirar quién acaba de entrar.
+
+**Muestra** a entrada. Deixa-os ver a foto. Não leias o corpo antes da imagem.
 
 ![Sera entra](../laminas/p-sera-entrada.jpg)
 
-> Entra doña Sera Calder. Unos cuarenta años, piel oliva, hombros anchos, paso firme. Trenza castaña con canas. Vestido burdeos, escote bajo, manga corta, abertura en el muslo, cinturón de cuero, capa gris corta, botas gastadas. No lleva joyas.
->
-> Camina hasta la mesa y mira la piedra gris.
->
-> —Así que ustedes son los escoltas. Soy Sera Calder, socia de Provisiones de Barthen, en Phandalin.
->
-> Se sienta.
->
-> —Gundren y Sildar ya se fueron con el mapa, rumbo al Castillo Cragmaw, a ver al rey Grol. Yo no dejo este carro en manos de desconocidos. Mañana al alba salimos. Yo voy en el pescante. La comida es del pueblo.
->
-> Los mira.
->
-> —¿Listos para ganarse esas diez monedas?
+A foto já mostra o vestido, o decote, a fenda e o cinto. Não acrescentes isso em voz alta. Depois da imagem:
 
-- Se alguém ficou bêbado no concurso, ela lança um olhar curto de reprovação. Não cancela o trabalho. Avisa que ao amanhecer os quer firmes.
-- Se a pedra não está na mesa, ela não os reconhece e o carro não sai com eles.
+> Entra doña Sera Calder. Tiene unos cuarenta años, complexión fuerte y hombros anchos. Lleva el cabello castaño recogido en una trenza, con algunas canas. Viste un vestido burdeos, una capa gris corta y botas de viaje bastante usadas. No lleva joyas ni adornos.
+>
+> Sera cruza la taberna sin detenerse a saludar a nadie. Se acerca a su mesa y observa la piedra gris.
+>
+> —Así que ustedes son los escoltas. Soy Sera Calder, socia de Barthen y responsable de las provisiones que llevamos a Phandalin.
+>
+> Toma asiento y deja sus cosas junto a ella.
+>
+> —Gundren y Sildar ya han salido. Llevan un mapa y tienen asuntos que resolver en el Castillo Cragmaw, donde esperan reunirse con el rey Grol.
 
-## Saída
+Pausa curta. Depois:
 
-A manhã está na [01](01-alba-neverwinter.md).
+> —Yo me encargaré del carro. No pienso dejar una carga de este valor en manos de cualquiera. Mañana, al amanecer, salimos hacia Phandalin. La mercancía es para el pueblo y debe llegar completa.
+>
+> Sera mira a cada uno de ustedes.
+>
+> —Gundren me ha hablado de ustedes. Diez monedas de oro por cabeza, si todo llega en buenas condiciones. ¿Estamos de acuerdo?
+
+- Bêbado: ela vê logo e lança um olhar curto. Não cancela o acordo. Quer essa pessoa firme ao amanhecer.
+- Sem a pedra: ela procura o sinal. Se não o vê, pergunta pela pedra e por **Gundren**. Não pares a aventura. Deixa-os explicar, ou provar que foram contratados.
+- Se perguntam por **Gundren** e **Sildar**: ela sabe que partiram com um mapa e tinham assuntos a resolver. Não sabe o resto.
+- Se perguntam o destino: **Phandalin**, ao amanhecer.
+
+## Como avançar
+
+Não estiques a noite. Se já não há mais nada a fazer, fecha.
+
+> La noche avanza y, poco a poco, la taberna empieza a quedarse más tranquila.
+>
+> El carro ya está preparado en el patio. Los dos bueyes descansan y el joven ayudante termina de revisar los suministros.
+>
+> Mañana será un día largo. Phandalin les espera.
+
+A manhã está no [alba](01-alba-neverwinter.md).
