@@ -4,7 +4,7 @@
 
 ## Primeira impressão
 
-**Muestra** a [ponte](../laminas/08-puente.jpg).
+**Muestra** a [ponte](../laminas/08-ponte-mesma-corda.jpg).
 
 > La cascada está cerca. El aire frío les moja la cara y el ruido baja por el túnel.
 >
@@ -43,9 +43,9 @@ Se olharem para baixo, lê:
 
 ## Informação do mestre
 
-- **Cortar a soga:** a ponte tem CA 5 e 10 pontos. A 0 parte. Quem está em cima: Destreza CD 10, ou 2d6 e caído na água. Quem ia preso a uma corda atada antes, fica.
+- **Cortar a soga:** a ponte tem CA 5 e 10 pontos. A 0 parte. Quem está em cima: Destreza CD 10, ou 2d6 e caído na água. Quem ia preso a uma corda atada antes, fica. Se já viram a fibra na passagem, é a mesma soga, agora à altura da mão. Não a apresentes como outra corda.
 - **Escalar:** Atletismo CD 15. Falhar não os obriga a cruzar por cima.
-- Se ele os vê, lê e **muestra** a [onda](../laminas/09-inundacion.jpg):
+- Se ele os vê, lê e **muestra** a [onda](../laminas/09-onda-na-passagem.jpg):
 
 > Arriba, una sombra agita los brazos y chilla.
 >

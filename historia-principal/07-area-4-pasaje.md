@@ -4,15 +4,15 @@
 
 ## Primeira impressão
 
-**Muestra** o [corredor](../laminas/paisagens/l-corredor.jpg). A [passagem](../laminas/16-pasaje-oeste.jpg), quando olharem para cima.
+**Muestra** o [corredor](../laminas/paisagens/l-passagem-sob-ponte.jpg). A [passagem](../laminas/16-corda-por-baixo.jpg), quando olharem para cima.
 
 > El túnel sube. El aire está húmedo y el ruido del agua no deja oír otra cosa.
 >
-> A la izquierda, el arroyo baja de escalón en escalón, blanco. Sin luz, el suelo solo se ve donde el agua lo moja.
+> A la derecha, el arroyo baja de escalón en escalón, blanco, hacia donde ustedes vinieron. Sin luz, el suelo solo se ve donde el agua lo moja.
 >
-> A un lado, una losa más clara que el resto sobresale sobre el vacío. Bajo la bota se nota más fina que la roca de alrededor.
+> Al borde del agua, una losa más clara que el resto sobresale sobre el vacío. Bajo la bota se nota más fina que la roca de alrededor.
 >
-> Arriba, una cuerda cruza el techo y cruje. Por donde está deshilachada se ve la fibra blanca.
+> Encima, a unos pasos, se ven tablas y una soga. La soga cruje. Por donde está deshilachada se ve la fibra blanca.
 >
 > ¿Siguen junto al agua, o miran dónde apoyan el pie?
 
@@ -47,7 +47,7 @@ Se olharem a água, lê:
 
 - **Laje,** mais de 45 kg: Destreza CD 10, ou 2d6 e caído. Metade do dano se a salvaguarda passa, e caído na mesma. Quem vem atrás pode contornar.
 - **Água:** empurrar deixa a criatura caída no degrau de baixo.
-- **Cortar a corda daqui:** atacar a ponte da [área 5](08-area-5-puente.md). CA 5, 10 pontos. A 0, quem está em cima cai.
+- **Cortar a corda daqui:** atacar a ponte da [área 5](08-area-5-puente.md). CA 5, 10 pontos. A 0, quem está em cima cai. A fibra branca é a soga do lado de cá, a oeste. Cortar aqui ou lá em cima é o mesmo cabo.
 - Luz, ou sem se esconderem: o goblin vê-os e corre para leste. A água vem no turno seguinte.
 
 ## Transição

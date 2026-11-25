@@ -28,7 +28,7 @@ Deixa no ecrã enquanto descreves. Não substituem a lámina do encontro.
 | A manhã na Senda de Triboar, antes da curva | [paisagens/l-senda.jpg](paisagens/l-senda.jpg) |
 | O caminho estreita, barranco dos dois lados | [paisagens/l-barranco.jpg](paisagens/l-barranco.jpg) |
 | A boca da gruta, vista de fora, ainda sem goblins | [paisagens/l-gruta.jpg](paisagens/l-gruta.jpg) |
-| O corredor que sobe, arroio à esquerda | [paisagens/l-corredor.jpg](paisagens/l-corredor.jpg) |
+| A passagem por baixo da ponte, arroio à direita | [paisagens/l-passagem-sob-ponte.jpg](paisagens/l-passagem-sob-ponte.jpg) |
 | Área 6, antes de olharem o poste. A sala está vazia de propósito | [paisagens/l-sala-comum.jpg](paisagens/l-sala-comum.jpg) |
 | O vale, antes de entrarem na rua | [paisagens/l-vale.jpg](paisagens/l-vale.jpg) |
 | A rua de Phandalin | [paisagens/l-rua.jpg](paisagens/l-rua.jpg) |
