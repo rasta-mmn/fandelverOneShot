@@ -8,6 +8,8 @@ Se a boca já os armou, não leias o cabeceio. Estão de pé, arcos erguidos, e 
 
 **Muestra** os [vigias](../laminas/06-vigias-matorral.jpg).
 
+Se a placa de costas já está na mesa, não leias o parágrafo. São os mesmos dois. Esta lâmina é a cara deles.
+
 Se ainda não os viram:
 
 > El claro se abre al otro lado del agua, entre zarzas. El suelo está húmedo. Huele a piel sucia y a hoja mojada.

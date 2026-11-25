@@ -20,11 +20,11 @@ A [gruta](../laminas/paisagens/l-gruta.jpg) e o arroio já estão na [área 1](.
 
 ## Pontos de interesse
 
-Se entrarem sem luz e sem gritos, **muestra** [goblins de costas](../laminas/04-cueva-sigilo.jpg) e lê:
+Se entrarem sem luz e sem gritos, **muestra** [os vigias de costas](../laminas/04-vigias-costas.jpg) e lê:
 
-> Dos goblins caminan hacia dentro. No se vuelven. El barro guarda las pisadas de ustedes un momento y el agua las borra.
+> Desde las zarzas se les ve la espalda. Son los dos del claro, y no miran hacia aquí. Uno se rasca la oreja con una flecha negra. El otro cabecea, sentado, y el arco se le ha caído en el barro. No se vuelven.
 
-Se já há tochas, gritos ou tiros, **muestra** [a saída deles](../laminas/05-cueva-alerta.jpg) e lê:
+Se já há tochas, gritos ou tiros, **muestra** [a saída deles](../laminas/05-saida-goblins.jpg) e lê:
 
 > Del claro salen figuras bajas. Los arcos ya están altos. No preguntan.
 
