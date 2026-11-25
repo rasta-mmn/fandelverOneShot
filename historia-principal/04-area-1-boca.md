@@ -8,9 +8,9 @@ Não leias o claro dos vigias. Ainda não se vê.
 
 **Muestra** a [gruta](../laminas/paisagens/l-gruta.jpg). A lâmina de sigilo ou alerta fica na [decisão](../decisoes/02-sigilo-ou-alerta.md).
 
-> La boca es ancha y oscura. El agua que sale está helada y llega a la rodilla. El rumor llena la entrada.
+> La boca es ancha y oscura. El agua que sale está helada y llega a la rodilla. Junto a las piedras hace ruido, y la corriente tira hacia afuera. Un empujón y se lleva a quien caiga.
 >
-> A la derecha, el barro está pisado por pies pequeños. Al oeste, las zarzas bajan hasta el arroyo y se mueven si alguien las roza.
+> A la derecha, el barro está pisado por pies pequeños. Al oeste, las zarzas bajan hasta el arroyo. Son espesas: dentro se puede uno quedar de pie, y cuesta andar. También se puede disparar desde ahí.
 >
 > Desde aquí no se oye lo que haya más adentro.
 >
@@ -37,7 +37,8 @@ Não leias o claro dos vigias. Ainda não se vê.
 ## Informação do mestre
 
 - Atravessar é fácil.
-- **Rápidos:** um empurrão para a água deixa a criatura caída e a corrente leva-a para a saída.
+- **Se usarem a água:** um empurrão deixa a criatura caída e a corrente leva-a para a saída.
+- **Se usarem as sarças:** cobertura de três quartos e terreno difícil.
 - Combate na boca: **−1 marca**, uma vez. Os vigias disparam com surpresa na clareira.
 - Descanso curto: **−1**. Dormir, ou ir a **Phandalin** e voltar: o relógio vai a **0**. A caverna não se fecha.
 

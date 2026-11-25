@@ -12,7 +12,9 @@ Se ninguém avisou:
 
 > Huele a brasa y a saco húmedo. El aire está seco junto al fuego y húmedo junto a la pared.
 >
-> En el centro, un brasero lleno hasta el borde. Detrás, puntas de piedra. Contra la pared, cajas. En varias, un león azul pintado, sin letras.
+> En el centro, un brasero lleno hasta el borde. El borde está bajo: una bota lo pisa, y un empujón mete a alguien dentro. Detrás, puntas de piedra. Tapan a quien se pone detrás.
+>
+> Contra la pared, cajas. En varias, un león azul pintado, sin letras. Junto a ellas, una grieta oscura sube y huele a pelo mojado. Es estrecha. Cabe una persona.
 >
 > Una bestia enorme se golpea el pecho. A los pies, un lobo lleno de cicatrices enseña los dientes. Dos goblins miran el fuego y no dicen nada.
 >
@@ -20,9 +22,13 @@ Se ninguém avisou:
 
 Se a **área 7** avisou, a primeira impressão é outra. Não leias o rugido.
 
-> Huele a brasa y a saco húmedo. El brasero está encendido. Las cajas siguen contra la pared. No hay nadie a la vista.
+> Huele a brasa y a saco húmedo. El brasero está encendido y el borde queda bajo, a la altura de una bota. Las cajas siguen contra la pared. Los sacos de al lado son altos: tapan a quien esté detrás.
 >
-> ¿Entran, o miran primero detrás de los sacos?
+> Junto a las cajas, una grieta oscura sube.
+>
+> No hay nadie a la vista.
+>
+> ¿Entran al centro, miran detrás de los sacos, o prueban la grieta?
 
 ## O ambiente
 
@@ -44,8 +50,9 @@ Se a **área 7** avisou, a primeira impressão é outra. Não leias o rugido.
 
 ## Informação do mestre
 
-- **Brasas:** 1 de fogo ao pisar, 1d6 se empurrado para dentro. Uma vez por turno.
-- **Chaminé:** Atletismo CD 10 até a **área 3**. Falhar a subida não os prende aqui.
+- **Se usarem as brasas:** 1 de fogo ao pisar, 1d6 se empurrado para dentro. Uma vez por turno.
+- **Se usarem as estalagmites ou os sacos:** cobertura média.
+- **Se subirem a fenda:** Atletismo CD 10 até a **área 3**. Falhar a subida não os prende aqui. Ele não vigia essa entrada.
 - Se **Rasgador** morre, **Klarg** foge pela chaminé até a perrera. O baú fica.
 - Caixas do leão: **50 po** se as devolvem à **Linene**.
 

@@ -10,13 +10,13 @@ Se a ponte já deu o sinal, não leias a água como se ainda estivesse quieta. A
 
 > El ruido de la cascada lo tapa casi todo. Casi no se oyen los propios pasos. El agua salpica y el aire está frío.
 >
-> El agua cae a dos balsas negras, sujetas por muros de piedra apilada a mano.
+> El agua cae a dos balsas negras. Las sujeta un muro de piedras puestas a mano. La de arriba ya se mueve. Si esa piedra sale, el agua no se queda: baja por la grieta del túnel, por los escalones blancos, hacia la boca.
 >
-> En el muro más cercano, una piedra de arriba ya se mueve. Al lado hay un montón de escombros, a la altura de una rodilla.
+> Al lado hay un montón de escombros, a la altura de una rodilla. Detrás se puede uno agachar. Mover el montón no abre el muro.
 >
 > Tres goblins esperan sobre el dique, con las lanzas apoyadas en la roca.
 >
-> ¿Se acercan al muro, o buscan otro túnel?
+> ¿Sacan esa piedra, se cubren en los escombros, o buscan otro túnel?
 
 ## O ambiente
 
@@ -26,9 +26,7 @@ Se a ponte já deu o sinal, não leias a água como se ainda estivesse quieta. A
 
 ## Pontos de interesse
 
-- **Visível:** as duas balsas, o muro, a pedra que se mexe, o monte, os três no dique.
-- **Se olharem a pedra:** é a presa. Partir isto é a inundação.
-- **Se olharem os escombros:** terreno difícil e cobertura média.
+- **Visível:** as duas balsas, a pedra que se mexe, a fenda por onde a água desceria, o monte de escombros, os três no dique.
 - **No primeiro turno de luta:** um corre para leste. Não o anuncies antes de ele correr.
 
 ## Interações
@@ -39,7 +37,8 @@ Se a ponte já deu o sinal, não leias a água como se ainda estivesse quieta. A
 
 ## Informação do mestre
 
-- Partir o dique, ou a presa já avisada: quem está no corredor faz Força CD 10, ou vai à boca, caído, 1d6. **−1 marca** se a onda os apanha antes da **Sera**. A falha leva-os à boca. Não os tira da aventura.
+- **Se tirarem a pedra,** ou a presa já tiver sido avisada: a água desce a fenda do túnel, pelos degraus brancos, até a boca. Quem está no corredor faz Força CD 10, ou vai à boca, caído, 1d6. Quem ficou no dique, acima da água, não é levado. **−1 marca** se a onda os apanha antes da **Sera**. A falha leva-os à boca. Não os tira da aventura.
+- **Se usarem os escombros:** terreno difícil e cobertura média. Espalhar o monte não abre o muro.
 
 ## Transição
 

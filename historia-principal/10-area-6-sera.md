@@ -10,13 +10,13 @@ Não mostres a **Sera**. **Muestra** a [sala vazia](../laminas/paisagens/l-sala-
 
 > El humo pica en los ojos. Huele a cuero mal curtido y a carne que no se sabe de qué es. El aire está caliente.
 >
-> La caverna se parte en dos. Abajo, un fuego. Unas brasas sueltas brillan en el borde de la piedra, a la altura de las botas.
+> La caverna se parte en dos. Abajo, un fuego. Unas brasas sueltas quedan en el borde, a la altura de las botas. Pisarlas quema. Empujar a alguien encima, también.
 >
-> Cinco goblins ríen alrededor. Miran hacia arriba, a un repecho de tres metros.
+> Cinco goblins ríen alrededor. Miran hacia arriba, a un repecho de tres metros. Las piedras del repecho se pueden trepar.
 >
-> Allí hay un poste. Y una voz que no es de goblin.
+> Allí hay un poste, y cuerdas a la vista. Y una voz que no es de goblin.
 >
-> ¿Suben, o se quedan con el fuego?
+> ¿Suben por las piedras, se quedan con el fuego, o miran las cuerdas?
 
 ## O ambiente
 
@@ -57,7 +57,8 @@ Quando olharem e ela vive:
 > —¿Tenemos un trato?
 
 - **Yeemik** tem 12 pontos. É o único que fala.
-- Brasas: 1 de fogo ao pisar. Empurrar alguém, 1d6. Uma vez por turno.
+- **Se usarem as brasas:** 1 de fogo ao pisar. Empurrar alguém, 1d6. Uma vez por turno.
+- **Se cortarem as cordas** antes do turno dele, e ele já não a segura: ela desce. Se ele ainda a tem no braço, cortar a corda não tira a folha do pescoço.
 - Ir ao cubil antes desta sala: **−1**. O trato, se o aceitam: **−2**. Não marques as duas.
 
 ## Transição

@@ -8,11 +8,13 @@ A corda range. Alguém está nas tábuas. A onda só existe se ele gritar.
 
 > El túnel sigue subiendo. Cada vez se oye más cerca una cascada. El aire se vuelve húmedo.
 >
-> Encima, un puente de cuerda cruje. La soga del lado de ustedes está deshilachada, blanca por dentro. Abajo, el agua es blanca.
+> Encima, un puente de cuerda cruje. La soga del lado de ustedes está deshilachada, blanca por dentro. Un cuchillo en esa fibra y el puente pierde ese lado. Abajo, el agua es blanca.
+>
+> La pared de al lado tiene agarres. Se puede subir sin cruzar las tablas. Una cuerda atada antes de cruzar sujeta a quien vaya preso a ella.
 >
 > Hay alguien agachado en las tablas. Casi no se distingue de la sombra.
 >
-> ¿Lo han visto antes de que él los vea a ustedes?
+> ¿Cortan la soga, suben por la pared, o cruzan las tablas?
 
 ## O ambiente
 
@@ -34,8 +36,8 @@ A corda range. Alguém está nas tábuas. A onda só existe se ele gritar.
 
 ## Informação do mestre
 
-- Ponte: CA 5, 10 pontos. A 0 parte. Quem está em cima: Destreza CD 10, ou 2d6 e caído na água. Uma corda atada antes segura quem vai preso a ela.
-- Escalar: Atletismo CD 15. Falhar não os obriga a cruzar por cima.
+- **Se cortarem a soga:** a ponte tem CA 5 e 10 pontos. A 0 parte. Quem está em cima: Destreza CD 10, ou 2d6 e caído na água. Quem ia preso a uma corda atada antes, fica.
+- **Se escalarem a parede:** Atletismo CD 15. Falhar não os obriga a cruzar por cima.
 - Se ele os vê, lê e **muestra** a [onda](../laminas/09-inundacion.jpg):
 
 > Arriba, una sombra agita los brazos y chilla.

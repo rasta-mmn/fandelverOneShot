@@ -8,11 +8,11 @@ A perrera. O cheiro chega antes da sala. As correntes ainda seguram.
 
 > Unos escalones suben a la derecha. Antes de ver la sala, llega el olor: pelo mojado, estiércol y carne podrida. El aire está quieto y caliente.
 >
-> Tres lobos tiran de unas cadenas. El hierro está clavado a una estalagmita. El perno suena cada vez que tiran. No llegan a los escalones. Les cae espuma del hocico.
+> Tres lobos tiran de unas cadenas. El hierro está clavado a una estalagmita, y el perno canta cada vez que tiran. Desde los escalones no los alcanzan. Si el hierro cede, sí. La roca tapa a quien se ponga detrás.
 >
-> A la derecha de la roca, una grieta estrecha sube a oscuras.
+> A la derecha de la roca, una grieta estrecha sube a oscuras y huele a hollín. Cabe una persona.
 >
-> ¿Se quedan en los escalones, o bajan?
+> ¿Se quedan en los escalones, trabajan el perno, o suben por la grieta?
 
 ## O ambiente
 
@@ -35,9 +35,9 @@ A perrera. O cheiro chega antes da sala. As correntes ainda seguram.
 
 - Descer: atacam quem desce.
 - Acalmar: Trato com Animais CD 15. Com comida, CD 10. Falhar não os solta.
-- Provocar de longe: cada turno a corrente faz Atletismo CD 15. O primeiro sucesso baixa a CD a 10. O segundo solta um lobo, e esse pisa os degraus.
-- **Estalagmite:** cobertura média. O perno está nesta pedra.
-- **Chaminé:** Atletismo CD 10, metade da velocidade. 5 ou menos: 1d6 por cada 3 m. Os outros podem seguir pelo corredor. Subir antes de ver a **Sera**: **−1 marca.**
+- **Se usarem a estalagmite:** cobertura média. O perno está nesta pedra.
+- **Se trabalharem o perno,** ou os provocarem de longe: cada turno a corrente faz Atletismo CD 15. O primeiro sucesso baixa a CD a 10. O segundo solta um lobo, e esse pisa os degraus.
+- **Se subirem a fenda:** Atletismo CD 10, 9 m, metade da velocidade. 5 ou menos: 1d6 por cada 3 m. Os outros podem seguir pelo corredor. Subir antes de ver a **Sera**: **−1 marca.**
 
 ## Transição
 

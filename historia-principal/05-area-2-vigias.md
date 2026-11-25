@@ -12,7 +12,9 @@ Se ainda não os viram:
 
 > Al otro lado del agua, las zarzas se abren. Dentro hay un claro húmedo. Huele a piel sucia y a hoja mojada.
 >
-> Dos goblins. Uno se rasca una oreja con una flecha negra. El otro cabecea, y el arco se le ha caído al barro.
+> Dos goblins. Uno se rasca una oreja con una flecha negra. El otro cabecea, y el arco se le ha caído al barro, a la vista, fuera de las zarzas. Se puede recoger.
+>
+> Las zarzas llegan al pecho. Quien se queda dentro queda tapado y puede disparar desde ahí. El agua corre rápido hacia la boca: un empujón y la corriente se lleva a quien caiga.
 >
 > El arroyo suena tan alto que no miran hacia ustedes.
 >
@@ -42,8 +44,8 @@ Se ainda não os viram:
 
 - Furtividade contra a Percepção passiva deles: um turno de surpresa.
 - Atravessar à vista, sem alerta anterior: eles veem o grupo. Ninguém está surpreso.
-- **Sarças:** cobertura de três quartos, terreno difícil, disparo de dentro.
-- **Arroio:** empurrar deixa caído, e a corrente leva para a saída.
+- **Se usarem as sarças:** cobertura de três quartos, terreno difícil, disparo de dentro. O arco no barro está fora dessa cobertura.
+- **Se usarem o arroio:** empurrar deixa caído, e a corrente leva para a saída. Um grito junto à água fica no claro. Longe da água, acorda a boca.
 - Um que fuja para dentro acorda a ponte. **−1 marca.** As áreas 5 e 7 ficam prontas para a água.
 
 ## Transição
