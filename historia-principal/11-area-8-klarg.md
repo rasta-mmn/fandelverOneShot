@@ -1,6 +1,6 @@
 # 8 — Klarg
 
-Braseiro, sacos húmidos, e uma voz que fala de si. Se a sala foi avisada, não leias o discurso: parece vazia.
+**Identidade:** calor no meio, humidade na parede, e uma voz que fala de si. Se a sala foi avisada, a voz não está. Os sacos, sim.
 
 Se chegam antes da **área 6**: **−1 marca.** Se o trato já custou **−2**, não marques outra vez.
 
@@ -10,50 +10,59 @@ Se chegam antes da **área 6**: **−1 marca.** Se o trato já custou **−2**, 
 
 Se ninguém avisou:
 
-> Huele a brasa y a saco húmedo. El aire está seco junto al fuego y húmedo junto a la pared.
+> Huele a brasa y a saco húmedo. Junto al fuego el aire quema. Junto a la pared está húmedo.
 >
-> En el centro, un brasero lleno hasta el borde. El borde está bajo: una bota lo pisa, y un empujón mete a alguien dentro. Detrás, puntas de piedra. Tapan a quien se pone detrás.
+> En el centro, un brasero lleno hasta el borde crepita. El borde queda bajo, a la altura de una bota. Detrás hay puntas de piedra, anchas, y tapan a quien se pone al otro lado.
 >
-> Contra la pared, cajas. En varias, un león azul pintado, sin letras. Junto a ellas, una grieta oscura sube y huele a pelo mojado. Es estrecha. Cabe una persona.
+> Contra la pared, cajas. En varias hay un león azul pintado, sin letras. Junto a ellas, una grieta oscura sube y deja salir olor a pelo mojado.
 >
 > Una bestia enorme se golpea el pecho. A los pies, un lobo lleno de cicatrices enseña los dientes. Dos goblins miran el fuego y no dicen nada.
 >
 > —¿Quién entra en la cueva de Klarg? —ruge. Habla de sí mismo—. ¡Klarg hará un trono con esos huesos!
 
-Se a **área 7** avisou, a primeira impressão é outra. Não leias o rugido.
+Se a **área 7** avisou, não leias o rugido.
 
-> Huele a brasa y a saco húmedo. El brasero está encendido y el borde queda bajo, a la altura de una bota. Las cajas siguen contra la pared. Los sacos de al lado son altos: tapan a quien esté detrás.
+> Huele a brasa y a saco húmedo. El brasero está encendido y el borde queda bajo. Las cajas siguen contra la pared. Los sacos de al lado son altos y no dejan ver qué hay detrás.
 >
 > Junto a las cajas, una grieta oscura sube.
 >
 > No hay nadie a la vista.
 >
-> ¿Entran al centro, miran detrás de los sacos, o prueban la grieta?
+> ¿Entran al centro, o miran detrás de los sacos?
 
 ## O ambiente
 
-- O calor do braseiro é forte no centro. Junto às caixas, os sacos estão húmidos.
-- As estalagmites partem a sala. Dão cobertura para os dois lados.
-- A chaminé, se alguém a procurar junto à parede, sobe até a **área 3**. Ele não a vigia.
+- O braseiro estala sozinho. A sala não fica em silêncio.
+- A fenda é a mesma que desce aos lobos. Ele não a vigia.
 
 ## Pontos de interesse
 
-- **Visível, se não foi avisado:** **Klarg**, **Rasgador**, dois goblins, o braseiro, as caixas com o leão azul.
-- **Visível, se foi avisado:** sala aparentemente vazia, braseiro, caixas. Ele e o lobo estão atrás dos sacos, cobertura média. O primeiro passo para o meio é a emboscada.
-- **Se olharem as caixas:** as da **Sera** e as do leão, de **Linene**, no mesmo monte. Faz falta o carro para as levar.
-- **Se abrirem o baú entre as caixas:** 600 pc, 110 pp, duas poções de cura, um sapo de jade com olhos de ouro (40 po).
+Se olharem o braseiro, lê:
+
+> Está lleno. El borde es bajo. Una bota lo roza, y quien caiga de bruces se mete dentro.
+
+Se olharem a fenda, lê:
+
+> Sube estrecha y huele a los lobos. Cabe una persona. No se ve guardia en la boca.
+
+Se olharem as caixas, lê:
+
+> Hay de dos clases. Unas huelen a harina y a carne salada. Otras llevan un león azul, sin letras. Hace falta el carro para llevárselas.
+
+Se abrirem o baú entre as caixas: 600 pc, 110 pp, duas poções de cura, um sapo de jade com olhos de ouro (40 po). Não o anuncies antes.
 
 ## Interações
 
-- Entrar, desconfiar dos sacos, usar a chaminé, ou deixar as caixas.
+- Entrar, usar as pedras, desconfiar dos sacos, subir a fenda, ou deixar as caixas.
 - Sem as caixas do cubil, **Barthen** recebe só os dois sacos do mato. As dez moedas não dependem de um discurso.
 
 ## Informação do mestre
 
-- **Se usarem as brasas:** 1 de fogo ao pisar, 1d6 se empurrado para dentro. Uma vez por turno.
-- **Se usarem as estalagmites ou os sacos:** cobertura média.
-- **Se subirem a fenda:** Atletismo CD 10 até a **área 3**. Falhar a subida não os prende aqui. Ele não vigia essa entrada.
-- Se **Rasgador** morre, **Klarg** foge pela chaminé até a perrera. O baú fica.
+- Se avisado: ele e o lobo começam atrás dos sacos, cobertura média. O primeiro passo para o meio é a emboscada.
+- **Brasas:** 1 de fogo ao pisar, 1d6 se empurrado para dentro. Uma vez por turno.
+- **Estalagmites e sacos:** cobertura média.
+- **Fenda:** Atletismo CD 10 até a **área 3**. Falhar a subida não os prende aqui.
+- Se **Rasgador** morre, **Klarg** foge pela fenda até a perrera. O baú fica.
 - Caixas do leão: **50 po** se as devolvem à **Linene**.
 
 ## Transição

@@ -1,6 +1,6 @@
 # 7 — Os tanques
 
-A cascata tapa quase tudo. A pedra de cima já se mexe. A onda só se essa pedra parte.
+**Identidade:** o barulho ocupa o peito. Uma pedra já não segura a água. Por baixo, a fenda desce.
 
 Se a ponte já deu o sinal, não leias a água como se ainda estivesse quieta. A presa parte no turno seguinte.
 
@@ -8,37 +8,45 @@ Se a ponte já deu o sinal, não leias a água como se ainda estivesse quieta. A
 
 **Muestra** os [tanques](../laminas/12-tanques.jpg).
 
-> El ruido de la cascada lo tapa casi todo. Casi no se oyen los propios pasos. El agua salpica y el aire está frío.
+> El ruido de la cascada les llena el pecho en cuanto entran. No se oyen los pasos. El agua salpica la cara y el aire está frío.
 >
-> El agua cae a dos balsas negras. Las sujeta un muro de piedras puestas a mano. La de arriba ya se mueve. Si esa piedra sale, el agua no se queda: baja por la grieta del túnel, por los escalones blancos, hacia la boca.
+> Cae en dos balsas negras. Un muro de piedras puestas a mano las sujeta. La piedra de arriba se mueve cada vez que el agua la empuja. Debajo del muro, la grieta del túnel sigue bajando, oscura, hacia donde ustedes vinieron.
 >
-> Al lado hay un montón de escombros, a la altura de una rodilla. Detrás se puede uno agachar. Mover el montón no abre el muro.
+> Al lado hay un montón de escombros, bajo, a la altura de una rodilla.
 >
-> Tres goblins esperan sobre el dique, con las lanzas apoyadas en la roca.
+> Tres goblins están de pie sobre el dique. Apoyan las lanzas en la roca y no hablan. La cascada no los deja.
 >
-> ¿Sacan esa piedra, se cubren en los escombros, o buscan otro túnel?
+> ¿Se acercan al muro, o buscan otro paso?
 
 ## O ambiente
 
-- O peito sente o ruído mais do que os ouvidos. Gritar aqui não chega ao **Klarg**.
-- A sala também não o ouve. Quem corre para leste, à vista, é outra coisa: isso vê-se.
-- Os escombros são baixos. Espalhá-los não parte a presa.
+- Gritar aqui não chega ao **Klarg**, e esta sala não o ouve.
+- Quem corre para leste, à vista, vê-se. A cascata não tapa isso.
 
 ## Pontos de interesse
 
-- **Visível:** as duas balsas, a pedra que se mexe, a fenda por onde a água desceria, o monte de escombros, os três no dique.
-- **No primeiro turno de luta:** um corre para leste. Não o anuncies antes de ele correr.
+Se olharem a pedra de cima, lê:
+
+> Está suelta. Si sale de su sitio, el agua de las balsas no tiene muro: cae por la grieta, escalón a escalón, hacia la boca.
+
+Se olharem os escombros, lê:
+
+> Tapan hasta la rodilla. Detrás se puede uno agachar. Mover este montón no toca el muro.
+
+No primeiro turno de luta, um corre para leste. Não o anuncies antes de ele correr. Aí lê:
+
+> Uno suelta la lanza y echa a correr hacia el este, por donde el túnel sigue. No grita. Con este ruido no hace falta.
 
 ## Interações
 
-- Aproximar-se do muro, ou procurar outro túnel.
+- Aproximar-se do muro, agachar-se nos escombros, tirar a pedra, ou procurar outro túnel.
 - Calar quem corre, ou deixar que avise o **Klarg**.
-- Partir o dique, ou ignorar a sala. Ignorar deixa a água presa, enquanto ninguém gritar o sinal.
+- Ignorar a sala deixa a água presa, enquanto ninguém gritar o sinal.
 
 ## Informação do mestre
 
-- **Se tirarem a pedra,** ou a presa já tiver sido avisada: a água desce a fenda do túnel, pelos degraus brancos, até a boca. Quem está no corredor faz Força CD 10, ou vai à boca, caído, 1d6. Quem ficou no dique, acima da água, não é levado. **−1 marca** se a onda os apanha antes da **Sera**. A falha leva-os à boca. Não os tira da aventura.
-- **Se usarem os escombros:** terreno difícil e cobertura média. Espalhar o monte não abre o muro.
+- **Se tirarem a pedra,** ou a presa já tiver sido avisada: a água desce a fenda, pelos degraus brancos, até a boca. Quem está no corredor faz Força CD 10, ou vai à boca, caído, 1d6. Quem ficou no dique, acima da água, não é levado. **−1 marca** se a onda os apanha antes da **Sera**. A falha leva-os à boca. Não os tira da aventura.
+- **Escombros:** terreno difícil e cobertura média. Espalhar o monte não abre o muro.
 
 ## Transição
 

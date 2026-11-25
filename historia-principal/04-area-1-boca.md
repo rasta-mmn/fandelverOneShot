@@ -1,33 +1,45 @@
 # 1 — A boca
 
-A entrada da gruta. Frio, água e sarças. Eles escolhem o passo.
+**Identidade:** frio, água alta, e um passo que eles escolhem.
 
-Não leias o claro dos vigias. Ainda não se vê.
+Não leias o claro dos vigias. Ainda não se vê. A regra fica em baixo. Em voz alta, só a entrada e o que eles forem olhar.
 
 ## Primeira impressão
 
 **Muestra** a [gruta](../laminas/paisagens/l-gruta.jpg). A lâmina de sigilo ou alerta fica na [decisão](../decisoes/02-sigilo-ou-alerta.md).
 
-> La boca es ancha y oscura. El agua que sale está helada y llega a la rodilla. Junto a las piedras hace ruido, y la corriente tira hacia afuera. Un empujón y se lleva a quien caiga.
+> En cuanto pisan la boca, el agua les llega a la rodilla. Está helada. La corriente empuja hacia afuera, choca contra las piedras y el ruido lo llena todo.
 >
-> A la derecha, el barro está pisado por pies pequeños. Al oeste, las zarzas bajan hasta el arroyo. Son espesas: dentro se puede uno quedar de pie, y cuesta andar. También se puede disparar desde ahí.
+> La abertura es ancha. Unos pasos más adentro se pierde la luz. A la derecha, el barro está blando y marcado por pies pequeños que entran y salen. Al oeste, unas zarzas espesas bajan hasta el arroyo y se mueven cuando el agua las toca.
 >
-> Desde aquí no se oye lo que haya más adentro.
+> Huele a tierra mojada y a hoja verde. El frío sube por las piernas.
 >
-> ¿Pisan el agua, o se meten en las espinas?
+> De lo que haya más adentro no llega ni una voz.
+>
+> ¿Pisan el agua, o se meten entre las zarzas?
 
 ## O ambiente
 
-- A água é fria o bastante para doer nos primeiros passos. Junto às pedras, faz barulho.
-- As sarças são densas até à água. Dentro delas o arroio ouve-se menos.
-- Um grito curto junto à água não chega aos vigias. Tochas e luta à vista, sim.
+Não acrescentes isto sozinho. Sai quando ficarem parados ou perguntarem o que sentem.
+
+- A água dói nos primeiros passos e depois fica só fria.
+- Dentro das sarças o arroio ouve-se menos. Um grito curto junto à água não chega aos vigias. Tocha e luta à vista, sim.
 
 ## Pontos de interesse
 
-- **Visível:** a boca, o arroio, o barro pisado à direita, as sarças a oeste.
-- **Se escutarem por cima da água:** Percepção CD 15. Sucesso: ruído de outra sala, sem palavras claras. Falhar: só a água. Podem entrar na mesma.
-- **Se entrarem nas sarças:** cobertura de três quartos, terreno difícil, e dá para disparar de dentro.
-- Gritos ou tochas deixam a **área 2** pronta. Não o digas.
+Se entrarem na água, lê:
+
+> El fondo es de piedras sueltas. Cada paso suena. La corriente tira de los tobillos hacia la salida.
+
+Se se metem nas sarças, lê:
+
+> Las ramas llegan al pecho. Cuesta dar un paso, y desde fuera casi no se ve a quien está dentro. Entre las hojas cabe asomar un arco.
+
+Se escutam por cima da água: Percepção CD 15. Sucesso:
+
+> Por debajo del agua hay otro ruido, lejos. No se entiende qué es.
+
+Falhar: só a água. Podem entrar na mesma.
 
 ## Interações
 
@@ -37,8 +49,8 @@ Não leias o claro dos vigias. Ainda não se vê.
 ## Informação do mestre
 
 - Atravessar é fácil.
-- **Se usarem a água:** um empurrão deixa a criatura caída e a corrente leva-a para a saída.
-- **Se usarem as sarças:** cobertura de três quartos e terreno difícil.
+- **Se empurrarem alguém à água:** cai, e a corrente leva-o para a saída.
+- **Se lutarem dentro das sarças:** cobertura de três quartos e terreno difícil.
 - Combate na boca: **−1 marca**, uma vez. Os vigias disparam com surpresa na clareira.
 - Descanso curto: **−1**. Dormir, ou ir a **Phandalin** e voltar: o relógio vai a **0**. A caverna não se fecha.
 

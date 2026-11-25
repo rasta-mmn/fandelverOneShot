@@ -1,6 +1,6 @@
 # 6 — Sera e Yeemik
 
-A sala do fogo. O poste só quando olharem para cima.
+**Identidade:** calor, fumo, riso em baixo, e uma voz que não é de goblin lá em cima.
 
 Confere o [relógio](00-sera-e-relogio.md) antes do repecho. Com **0**, não leias a oferta.
 
@@ -8,31 +8,38 @@ Confere o [relógio](00-sera-e-relogio.md) antes do repecho. Com **0**, não lei
 
 Não mostres a **Sera**. **Muestra** a [sala vazia](../laminas/paisagens/l-sala-comum.jpg).
 
-> El humo pica en los ojos. Huele a cuero mal curtido y a carne que no se sabe de qué es. El aire está caliente.
+> El humo pica en los ojos en cuanto entran. Huele a cuero mal curtido y a carne que no se sabe de qué es. Hace calor.
 >
-> La caverna se parte en dos. Abajo, un fuego. Unas brasas sueltas quedan en el borde, a la altura de las botas. Pisarlas quema. Empujar a alguien encima, también.
+> La caverna se parte en dos. Abajo arde un fuego. Unas brasas sueltas brillan en el borde de la piedra, justo donde se apoya una bota, y chisporrotean.
 >
-> Cinco goblins ríen alrededor. Miran hacia arriba, a un repecho de tres metros. Las piedras del repecho se pueden trepar.
+> Cinco goblins ríen alrededor del fuego. No miran la entrada: miran hacia arriba, a un repecho de tres metros. Las piedras de ese repecho están sueltas y hacen de peldaños.
 >
-> Allí hay un poste, y cuerdas a la vista. Y una voz que no es de goblin.
+> Allí hay un poste, con cuerdas a la vista. Y una voz que no es de goblin.
 >
-> ¿Suben por las piedras, se quedan con el fuego, o miran las cuerdas?
+> ¿Suben, o se quedan abajo con el fuego?
 
 ## O ambiente
 
-- O fumo desce e fica à altura da cara. As brasas estalam.
-- Em baixo há cinco. Em cima, a 3 m, o poste. Não descrevas quem está amarrado até olharem.
+- O fumo desce e fica à altura da cara.
 - Com 5 a 3 marcas ela está de pé e pode falar. Com 2 ou 1, pesa na corda, fica a 1 ponto, e tem de ser carregada.
 
 ## Pontos de interesse
 
-- **Visível:** o fogo, as brasas, os cinco, o repecho, o poste, uma voz que não é de goblin.
-- **Se olharem o repecho e ainda há marcas:** a foto primeiro. [Yeemik](../laminas/personagens/p-yeemik.jpg) e a [Sera viva](../laminas/10-sera-viva.jpg). Depois o texto.
-- **Se o relógio está em 0:** não há oferta. A [Sera morta](../laminas/11-sera-muerta.jpg) e a [decisão](../decisoes/03-relogio-viva-ou-morta.md).
+Se olharem as brasas, lê:
+
+> Están sueltas, al borde. Quien pise ahí se quema. Quien caiga encima, más.
+
+Se olharem as cordas, lê:
+
+> Las cuerdas del poste están tensas y al alcance de un cuchillo. Arriba, alguien las tiene cerca del cuello de otra persona. Todavía no se ve quién.
+
+Se olharem o repecho e ainda há marcas: a foto primeiro. [Yeemik](../laminas/personagens/p-yeemik.jpg) e a [Sera viva](../laminas/10-sera-viva.jpg). Depois o diálogo, na informação do mestre.
+
+Se o relógio está em **0**: a [Sera morta](../laminas/11-sera-muerta.jpg) e a [decisão](../decisoes/03-relogio-viva-ou-morta.md). Sem oferta.
 
 ## Interações
 
-- Subir, ficar junto ao fogo, ou falar daí de baixo.
+- Subir pelas pedras, ficar junto ao fogo, ou falar daí de baixo.
 - Derrubar **Yeemik** antes do turno dele: não a empurra. Cortam as cordas.
 - Com **0**: descer o corpo, ou subir até ele. Sem trato.
 
@@ -57,8 +64,8 @@ Quando olharem e ela vive:
 > —¿Tenemos un trato?
 
 - **Yeemik** tem 12 pontos. É o único que fala.
-- **Se usarem as brasas:** 1 de fogo ao pisar. Empurrar alguém, 1d6. Uma vez por turno.
-- **Se cortarem as cordas** antes do turno dele, e ele já não a segura: ela desce. Se ele ainda a tem no braço, cortar a corda não tira a folha do pescoço.
+- **Brasas:** 1 de fogo ao pisar. Empurrar alguém, 1d6. Uma vez por turno.
+- **Cordas:** se ele ainda a tem no braço, cortar a corda não tira a folha do pescoço. Se já não a segura, ela desce.
 - Ir ao cubil antes desta sala: **−1**. O trato, se o aceitam: **−2**. Não marques as duas.
 
 ## Transição

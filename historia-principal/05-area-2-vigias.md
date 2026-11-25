@@ -1,8 +1,8 @@
 # 2 — Os vigias
 
-O claro depois da água. Dois goblins, se ainda não foram avisados.
+**Identidade:** descuido. O arroio tapa os passos. Eles não estão a olhar.
 
-Se a boca já os armou, não leias o cabeceio. Estão de pé e disparam primeiro.
+Se a boca já os armou, não leias o cabeceio. Estão de pé, arcos erguidos, e disparam primeiro.
 
 ## Primeira impressão
 
@@ -10,42 +10,46 @@ Se a boca já os armou, não leias o cabeceio. Estão de pé e disparam primeiro
 
 Se ainda não os viram:
 
-> Al otro lado del agua, las zarzas se abren. Dentro hay un claro húmedo. Huele a piel sucia y a hoja mojada.
+> El claro se abre al otro lado del agua, entre zarzas. El suelo está húmedo. Huele a piel sucia y a hoja mojada.
 >
-> Dos goblins. Uno se rasca una oreja con una flecha negra. El otro cabecea, y el arco se le ha caído al barro, a la vista, fuera de las zarzas. Se puede recoger.
+> Dos goblins ocupan el centro. Uno se rasca una oreja con una flecha negra y no mira a nadie. El otro cabecea, sentado, y el arco se le ha ido de las manos: está en el barro, delante de él.
 >
-> Las zarzas llegan al pecho. Quien se queda dentro queda tapado y puede disparar desde ahí. El agua corre rápido hacia la boca: un empujón y la corriente se lleva a quien caiga.
+> El arroyo suena tan alto que tapa un paso. Ellos no giran la cabeza.
 >
-> El arroyo suena tan alto que no miran hacia ustedes.
+> Las zarzas rodean el claro y llegan a la altura del pecho.
 >
-> ¿Se quedan entre las espinas, o pisan el claro?
+> ¿Se quedan entre las espinas, o entran en el claro?
 
 ## O ambiente
 
-- As sarças chegam ao peito. Dentro, a água ouve-se mais baixa.
-- O chão do claro é lama. O arco caído está à vista, fora da cobertura.
+- O chão do claro é lama. O arco caído está fora das sarças.
 - Um grito junto à água fica no claro. Um grito longe da água sai para a boca.
 
 ## Pontos de interesse
 
-- **Visível:** os dois, o arco no barro, as sarças, o arroio.
-- **Se espiam e eles ainda falam:**
+Se olharem o arco, lê:
+
+> El arco está suelto en el barro, al alcance de la mano. Desde las zarzas no lo tapa nada.
+
+Se ficarem nas sarças, lê:
+
+> Desde dentro se ve el claro. Desde el claro, quien está entre las ramas casi no se distingue.
+
+Se espiam e eles ainda falam:
 
 > —Klarg dice que la mujer vale oro —gruñe uno—. Yeemik tiene esa mirada. Si la tira al agua antes de que vuelva el jefe, nos arranca la cabeza.
 
-- **Se a boca já deu alerta:** não há cabeceio. Arcos erguidos. Eles disparam primeiro.
-
 ## Interações
 
-- Ficar nas espinhas, pisar o claro, ou atravessar à vista.
+- Ficar nas espinhas, pisar o claro, apanhar o arco, ou atravessar à vista.
 - Ignorar o posto. Os dois continuam. A **Sera** está mais à frente.
 
 ## Informação do mestre
 
 - Furtividade contra a Percepção passiva deles: um turno de surpresa.
 - Atravessar à vista, sem alerta anterior: eles veem o grupo. Ninguém está surpreso.
-- **Se usarem as sarças:** cobertura de três quartos, terreno difícil, disparo de dentro. O arco no barro está fora dessa cobertura.
-- **Se usarem o arroio:** empurrar deixa caído, e a corrente leva para a saída. Um grito junto à água fica no claro. Longe da água, acorda a boca.
+- **Sarças:** cobertura de três quartos, terreno difícil, disparo de dentro.
+- **Arroio:** empurrar deixa caído, e a corrente leva para a saída.
 - Um que fuja para dentro acorda a ponte. **−1 marca.** As áreas 5 e 7 ficam prontas para a água.
 
 ## Transição

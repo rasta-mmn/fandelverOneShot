@@ -1,20 +1,20 @@
 # 5 — A ponte
 
-A corda range. Alguém está nas tábuas. A onda só existe se ele gritar.
+**Identidade:** altura, uma corda gasta, e alguém que ainda não os viu. A onda só existe se ele gritar.
 
 ## Primeira impressão
 
 **Muestra** a [ponte](../laminas/08-puente.jpg).
 
-> El túnel sigue subiendo. Cada vez se oye más cerca una cascada. El aire se vuelve húmedo.
+> La cascada está cerca. El aire frío les moja la cara y el ruido baja por el túnel.
 >
-> Encima, un puente de cuerda cruje. La soga del lado de ustedes está deshilachada, blanca por dentro. Un cuchillo en esa fibra y el puente pierde ese lado. Abajo, el agua es blanca.
+> Encima, un puente de cuerda cruje. Las tablas se mueven con el peso de alguien agachado ahí, casi metido en la sombra.
 >
-> La pared de al lado tiene agarres. Se puede subir sin cruzar las tablas. Una cuerda atada antes de cruzar sujeta a quien vaya preso a ella.
+> La soga del lado de ustedes está deshilachada. Por la abertura se ve la fibra blanca. Abajo, el agua es blanca y rápida.
 >
-> Hay alguien agachado en las tablas. Casi no se distingue de la sombra.
+> En la pared de al lado hay huecos, a la altura de una mano.
 >
-> ¿Cortan la soga, suben por la pared, o cruzan las tablas?
+> ¿Lo han visto antes de que él los vea a ustedes?
 
 ## O ambiente
 
@@ -24,20 +24,27 @@ A corda range. Alguém está nas tábuas. A onda só existe se ele gritar.
 
 ## Pontos de interesse
 
-- **Visível:** a ponte, a corda branca por dentro, a cascata mais acima, uma sombra nas tábuas.
-- **Se olharem a corda:** cortá-la é atacar a ponte.
-- **Se olharem a parede:** dá para escalar, em vez de cruzar por cima dele.
-- **Se o virem primeiro:** podem passar sem que ele grite.
+Se olharem a soga, lê:
+
+> La fibra blanca está abierta. Un filo ahí separa este lado del puente. Las tablas se quedarían colgando del otro.
+
+Se olharem a parede, lê:
+
+> Los huecos aguantan una bota y una mano. Se puede subir sin pisar las tablas.
+
+Se olharem para baixo, lê:
+
+> El agua no espera. Quien caiga de las tablas se la lleva el túnel.
 
 ## Interações
 
-- Passar em silêncio, cortar a corda, escalar, ou atar uma corda antes de cruzar.
+- Passar em silêncio, cortar a soga, escalar, ou atar uma corda antes de cruzar.
 - Atravessar à luz é ser visto. Ele grita, e só depois dispara.
 
 ## Informação do mestre
 
-- **Se cortarem a soga:** a ponte tem CA 5 e 10 pontos. A 0 parte. Quem está em cima: Destreza CD 10, ou 2d6 e caído na água. Quem ia preso a uma corda atada antes, fica.
-- **Se escalarem a parede:** Atletismo CD 15. Falhar não os obriga a cruzar por cima.
+- **Cortar a soga:** a ponte tem CA 5 e 10 pontos. A 0 parte. Quem está em cima: Destreza CD 10, ou 2d6 e caído na água. Quem ia preso a uma corda atada antes, fica.
+- **Escalar:** Atletismo CD 15. Falhar não os obriga a cruzar por cima.
 - Se ele os vê, lê e **muestra** a [onda](../laminas/09-inundacion.jpg):
 
 > Arriba, una sombra agita los brazos y chilla.

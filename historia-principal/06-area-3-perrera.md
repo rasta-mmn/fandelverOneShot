@@ -1,43 +1,48 @@
 # 3 — Os lobos
 
-A perrera. O cheiro chega antes da sala. As correntes ainda seguram.
+**Identidade:** o cheiro chega primeiro. A corrente é o limite. A fenda é a outra saída.
 
 ## Primeira impressão
 
 **Muestra** os [lobos](../laminas/07-perrera.jpg).
 
-> Unos escalones suben a la derecha. Antes de ver la sala, llega el olor: pelo mojado, estiércol y carne podrida. El aire está quieto y caliente.
+> El olor llega antes que la sala: pelo mojado, estiércol, carne podrida. El aire está quieto y caliente.
 >
-> Tres lobos tiran de unas cadenas. El hierro está clavado a una estalagmita, y el perno canta cada vez que tiran. Desde los escalones no los alcanzan. Si el hierro cede, sí. La roca tapa a quien se ponga detrás.
+> Tres lobos tiran de unas cadenas. El hierro está clavado a una estalagmita y el perno chirría cada vez que dan un tirón. La cadena no llega a los escalones. Desde arriba, ellos no alcanzan a nadie. Les cae espuma del hocico.
 >
-> A la derecha de la roca, una grieta estrecha sube a oscuras y huele a hollín. Cabe una persona.
+> La roca del medio es ancha. A la derecha, una grieta estrecha sube a oscuras y deja salir un olor a hollín.
 >
-> ¿Se quedan en los escalones, trabajan el perno, o suben por la grieta?
+> ¿Se quedan en los escalones, o bajan hacia ellos?
 
 ## O ambiente
 
 - Os degraus estão secos. A sala em baixo está húmida.
-- A fenda, se alguém se aproxima, cheira a fuligem. São 9 m até a **área 8**.
-- Enquanto a corrente aguenta, os lobos não pisam o cimo dos degraus.
+- A fenda cabe uma pessoa. São 9 m até a **área 8**.
 
 ## Pontos de interesse
 
-- **Visível:** três lobos, a corrente, a estalagmite, os degraus, a fenda.
-- **Se olharem a fenda:** sobe às escuras. É a volta que não passa pela porta do **Klarg**.
-- **Se tiverem comida do carro:** acalmá-los fica mais fácil. Não o digas até alguém oferecer comida.
+Se olharem o perno, lê:
+
+> El hierro está gastado donde muerde la roca. Cada tirón lo hace cantar. Un poco más y la cadena se suelta.
+
+Se olharem a fenda, lê:
+
+> La grieta es estrecha, negra, y huele a humo viejo. Sube recta. No se ve el final.
+
+Se oferecerem comida, não o digas antes. Aí a CD de os acalmar desce.
 
 ## Interações
 
-- Ficar nos degraus, descer, acalmar, provocar de longe, ou subir a fenda.
+- Ficar nos degraus, descer, acalmar, provocar de longe, trabalhar o perno, ou subir a fenda.
 - Ignorar a sala não custa marca. Os lobos ficam.
 
 ## Informação do mestre
 
 - Descer: atacam quem desce.
-- Acalmar: Trato com Animais CD 15. Com comida, CD 10. Falhar não os solta.
-- **Se usarem a estalagmite:** cobertura média. O perno está nesta pedra.
-- **Se trabalharem o perno,** ou os provocarem de longe: cada turno a corrente faz Atletismo CD 15. O primeiro sucesso baixa a CD a 10. O segundo solta um lobo, e esse pisa os degraus.
-- **Se subirem a fenda:** Atletismo CD 10, 9 m, metade da velocidade. 5 ou menos: 1d6 por cada 3 m. Os outros podem seguir pelo corredor. Subir antes de ver a **Sera**: **−1 marca.**
+- Acalmar: Trato com Animais CD 15. Com comida do carro, CD 10. Falhar não os solta.
+- **Estalagmite:** cobertura média.
+- **Perno, ou provocação de longe:** cada turno a corrente faz Atletismo CD 15. O primeiro sucesso baixa a CD a 10. O segundo solta um lobo, e esse pisa os degraus.
+- **Fenda:** Atletismo CD 10, metade da velocidade. 5 ou menos: 1d6 por cada 3 m. Os outros podem seguir pelo corredor. Subir antes de ver a **Sera**: **−1 marca.**
 
 ## Transição
 
