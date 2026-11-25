@@ -6,15 +6,19 @@
 
 Mediodía. Antes de la curva, **muestra** la [senda](../laminas/paisagens/l-senda.jpg). Cuando el bosque se cierre, cambia al [barranco](../laminas/paisagens/l-barranco.jpg) y después a la [emboscada](../laminas/03-emboscada.jpg).
 
-> Llevan medio día por la Senda de Triboar. El bosque se cierra a los dos lados. Espinas, barranco, un paso estrecho. Los pájaros se callan. Solo quedan las ruedas y el resuello de los bueyes.
+> Llevan medio día por la Senda de Triboar. El bosque se cierra a los dos lados. Espinas, barranco, un paso estrecho.
 >
-> La curva apesta a sangre vieja. A quince metros, dos caballos cruzan el camino. La tierra debajo está negra. En los ijares, flechas de pluma negra.
+> Los pájaros se callan. Solo se oyen las ruedas y los bueyes.
+>
+> Al doblar la curva, huele a sangre vieja. A quince metros, dos caballos cruzan el camino. La tierra debajo está negra. En los costados, flechas de pluma negra.
 >
 > Sera tira de las riendas. El carro se detiene.
 >
 > —Esos son los caballos de Gundren.
 >
-> Los matorrales se mueven sin viento. ¿Qué hacen?
+> Los matorrales se mueven. No hay viento.
+>
+> ¿Qué hacen?
 
 ## Cuando empiece la lucha
 
@@ -22,7 +26,9 @@ Cuatro goblins, dos a cada lado. El quinto ya está en el matorral, junto a la r
 
 En el segundo turno, si nadie está en el pescante sujetándola, lee:
 
-> Una mano verde sale de las zarzas, al lado de la rueda. Agarra a Sera por el brazo. Ella suelta las riendas. La capa gris se engancha en las espinas y se queda allí, hecha jirones, mientras la arrastran hacia el noroeste.
+> Una mano verde sale de las zarzas, al lado de la rueda. Agarra a Sera por el brazo.
+>
+> Ella suelta las riendas. La capa gris se engancha en las espinas y se queda allí, hecha jirones, mientras la arrastran hacia el noroeste.
 >
 > —¡Klarg la tendrá igual! —chilla una voz entre las hojas.
 
@@ -30,7 +36,9 @@ Si alguien está junto a ella y la sujeta, el quinto lo intenta igual. Prueba en
 
 Cuando caen tres de los cuatro, el último corre al mismo matorral.
 
-> El último suelta el arco y se mete en el verde. Detrás queda barro revuelto, y el rastro de unos tacones arrastrados.
+> El último suelta el arco y se mete entre los arbustos.
+>
+> Detrás queda barro revuelto, y el rastro de unos tacones arrastrados.
 
 ## Qué hay aquí
 

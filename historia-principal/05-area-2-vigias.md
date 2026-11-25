@@ -8,9 +8,11 @@
 
 Se ainda não os viram:
 
-> Al otro lado del agua, las zarzas se abren como una habitación verde. Huele a piel sucia y a hoja mojada.
+> Al otro lado del agua, las zarzas se abren. Dentro hay un claro. Huele a piel sucia y a hoja mojada.
 >
-> Dos goblins. Uno se rasca una oreja con una flecha negra. El otro cabecea, y el arco se le ha caído al barro. El arroyo suena tan alto que no miran hacia ustedes.
+> Dos goblins. Uno se rasca una oreja con una flecha negra. El otro cabecea, y el arco se le ha caído al barro.
+>
+> El arroyo suena tan alto que no miran hacia ustedes.
 >
 > ¿Se quedan entre las espinas, o pisan el claro?
 

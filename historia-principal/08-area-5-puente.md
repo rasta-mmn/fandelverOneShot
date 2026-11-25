@@ -6,17 +6,19 @@
 
 **Muestra** a [ponte](../laminas/08-puente.jpg).
 
-> El túnel sigue subiendo. Cada vez se oye más cerca una cascada. Encima, el puente de cuerda cruje. La soga del lado de ustedes está deshilachada, blanca por dentro. Abajo, el agua es blanca.
+> El túnel sigue subiendo. Cada vez se oye más cerca una cascada.
 >
-> Hay alguien agachado en las tablas. Casi es parte de la sombra.
+> Encima, el puente de cuerda cruje. La soga del lado de ustedes está deshilachada, blanca por dentro. Abajo, el agua es blanca.
+>
+> Hay alguien agachado en las tablas. Casi no se distingue de la sombra.
 >
 > ¿Lo han visto antes de que él los vea a ustedes?
 
 Se ele os vê, lê logo:
 
-> Arriba, una sombra agita los brazos y chilla. Un segundo después la montaña truena.
+> Arriba, una sombra agita los brazos y chilla.
 >
-> Un muro de agua negra baja por el túnel, alto como un hombre, derecho hacia ustedes.
+> Un segundo después, un muro de agua baja por el túnel. Llega a la altura de un hombre y viene derecho hacia ustedes.
 
 **Muestra** a [onda](../laminas/09-inundacion.jpg) nessa frase.
 

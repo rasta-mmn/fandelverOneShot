@@ -6,11 +6,13 @@
 
 Enquanto sobem, **muestra** o [corredor](../laminas/paisagens/l-corredor.jpg). Quando olharem para cima, a [passagem](../laminas/16-pasaje-oeste.jpg).
 
-> El túnel sube. El arroyo cae a la izquierda en escalones blancos, y el ruido llena la piedra. Sin luz, el suelo se adivina por el agua.
+> El túnel sube. A la izquierda, el arroyo baja en escalones blancos. El ruido llena la piedra.
 >
-> A un lado, el repecho es una losa más clara y más fina que el resto. Bajo ella, el vacío.
+> Sin luz, el suelo solo se adivina por el agua.
 >
-> Muy arriba, una cuerda cruza la bóveda. Está deshilachada. Por dentro, la fibra es blanca.
+> A un lado, el repecho es una losa más clara y más fina que el resto. Debajo no hay suelo.
+>
+> Muy arriba, una cuerda cruza el techo. Está deshilachada. Por dentro, la fibra es blanca.
 >
 > ¿Pisan esa losa, o siguen el agua?
 

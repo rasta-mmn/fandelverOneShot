@@ -10,9 +10,11 @@ Não mostres a **Sera** ao entrar. Primeiro a sala.
 
 **Muestra** a [sala vazia](../laminas/paisagens/l-sala-comum.jpg) só até eles olharem para cima. Depois troca.
 
-> El humo pica. Huele a cuero mal curtido y a carne que no se sabe de qué es. La caverna se parte en dos. Abajo, un fuego. Unas brasas sueltas brillan en el borde de la piedra, a la altura de las botas.
+> El humo pica. Huele a cuero mal curtido y a carne que no se sabe de qué es.
 >
-> Cinco goblins ríen alrededor. Las miradas se les van arriba, a un repecho de tres metros.
+> La caverna se parte en dos. Abajo, un fuego. Unas brasas sueltas brillan en el borde de la piedra, a la altura de las botas.
+>
+> Cinco goblins ríen alrededor. Miran hacia arriba, a un repecho de tres metros.
 >
 > Allí hay un poste. Y una voz que no es de goblin.
 >
@@ -20,19 +22,21 @@ Não mostres a **Sera** ao entrar. Primeiro a sala.
 
 Quando olharem o repecho, se ainda há marcas, **muestra** [Yeemik](../laminas/personagens/p-yeemik.jpg) e a [Sera viva](../laminas/10-sera-viva.jpg). Lê isto e segue:
 
-> Doña Sera está atada al poste, los brazos en alto. El vestido burdeos, de escote bajo, está rasgado en el hombro y en el muslo. Tiene el pómulo negro. Una hoja oxidada le toca el cuello.
+> Doña Sera está atada al poste, los brazos en alto. El vestido burdeos está rasgado en el hombro y en el muslo. Tiene el pómulo negro. Una hoja oxidada le toca el cuello.
 >
 > Detrás, un goblin más alto le rodea el cuello con el brazo.
 >
-> —¡Un paso más y la dama aprende a volar!
+> —¡Un paso más y la empujo!
 >
 > Ella mantiene la barbilla alta. La voz le sale ronca.
 >
-> —No hagan tratos con alimañas por mí. La carga de Phandalin es lo que importa.
+> —No hagan tratos con esta alimaña por mí. La carga de Phandalin es lo que importa.
 >
 > Yeemik escupe al fuego.
 >
-> —¡Escuchen! Klarg es un bruto. Tráiganme su cabeza y se la devuelvo entera. Si suben por estas piedras, la empujo ahora. ¿Tenemos un trato?
+> —Escuchen. Klarg es un bruto. Tráiganme su cabeza y se la devuelvo entera. Si suben por estas piedras, la empujo ahora.
+>
+> —¿Tenemos un trato?
 
 Se o relógio está em **0**, não leias o diálogo. **Muestra** a [Sera morta](../laminas/11-sera-muerta.jpg) e passa à [decisão](../decisoes/03-relogio-viva-ou-morta.md). É o rosto do retrato, desabada, queixo no peito. Cortes nos braços, no peito e na perna. Lanças no chão, crânios e fogo verde ao fundo. Nada cravado nela.
 

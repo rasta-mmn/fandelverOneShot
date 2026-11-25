@@ -10,7 +10,7 @@ Se já lesses a oferta na [área 6](../historia-principal/10-area-6-sera.md), n�
 
 > Yeemik aprieta el brazo. La hoja no se aparta del cuello.
 >
-> —La cabeza del oso. Luego la mujer. Si suben, vuela.
+> —La cabeza del oso. Luego la mujer. Si suben, la empujo.
 >
 > Ella no aparta la mirada de ustedes.
 >

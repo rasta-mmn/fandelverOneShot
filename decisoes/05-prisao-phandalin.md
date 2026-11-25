@@ -8,17 +8,23 @@ O relógio, se algum dia voltarem à caverna, já está em **0**.
 
 Não mostres a cela ainda.
 
-> Llegan con el carro lleno y el pescante vacío. Al principio la plaza corre hacia la comida. Luego Elmar Barthen mira las riendas sueltas y el jirón de capa gris enganchado en la madera.
+> Llegan con el carro, los bueyes y lo que queda de la carga: dos sacos. El pescante va vacío. En la madera hay un jirón de capa gris.
+>
+> Al principio alguien corre hacia la comida. Luego ven lo poco que queda.
+>
+> Elmar Barthen mira las riendas sueltas.
+>
+> —Doña Sera pagó ese carro para que el pueblo comiera. Y ustedes la dejaron atrás.
 >
 > Las puertas se cierran. En un minuto hay horcas, ballestas y antorchas.
->
-> —Doña Sera pagó ese carro para que el pueblo comiera —dice. La voz le tiembla—. Y ustedes la dejaron atrás.
 >
 > El hierro de la celda se cierra a la espalda. Afuera piden justicia al alba.
 
 **Muestra** a [cela](../laminas/15-prision.jpg), o [Harbin](../laminas/personagens/p-harbin.jpg) se alguém perguntar quem mandou fechar, e o [Pip](../laminas/personagens/p-pip.jpg) no banco. Na fuga, a [noite](../laminas/paisagens/l-noite-vila.jpg).
 
-> Pip se duerme en el taburete. Las llaves cuelgan de un clavo, no del cinturón. Arriba, alguien arrastra un banco.
+> Pip se duerme en el taburete. Las llaves cuelgan de un clavo, no del cinturón.
+>
+> Arriba, alguien arrastra un banco.
 >
 > Si quieren salir, es esta noche.
 >
@@ -34,9 +40,11 @@ Não mostres a cela ainda.
 
 Se saem:
 
-> Corren entre coles. Detrás, dos antorchas. En la cresta del este arde una fogata verde, breve.
+> Corren entre coles. Detrás, dos antorchas.
 >
-> Phandalin se queda atrás. La fogata no.
+> En la cresta del este arde una fogata verde, breve.
+>
+> Phandalin se queda atrás. La fogata, no.
 >
 > ¿Vuelven hacia esa luz, o toman el camino de Neverwinter?
 

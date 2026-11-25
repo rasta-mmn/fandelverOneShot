@@ -14,7 +14,9 @@ Não leias outra caixa. Ela está na corda. O [trato](04-trato-yeemik.md) abre s
 
 > Cuando levantan la vista, ya no está de pie.
 >
-> Doña Sera se ha deslizado por el poste. El cuerpo ya no se sostiene. La cabeza le cae hacia adelante, la barbilla contra el pecho. Los ojos están cerrados. Hay cortes en los brazos, en el pecho y en la pierna. Alrededor, lanzas clavadas en el suelo, escudos y calaveras. Al fondo arde un fuego verde.
+> Doña Sera se ha deslizado por el poste. El cuerpo no se sostiene. La cabeza le cae hacia adelante, la barbilla contra el pecho. Los ojos están cerrados.
+>
+> Hay cortes en los brazos, en el pecho y en la pierna. Alrededor, lanzas clavadas en el suelo, escudos y calaveras. Al fondo arde un fuego verde.
 >
 > Ya no respira. Llegaron tarde.
 >
@@ -22,7 +24,9 @@ Não leias outra caixa. Ela está na corda. O [trato](04-trato-yeemik.md) abre s
 >
 > —Demasiado lentos.
 >
-> Los cinco de abajo ya no ríen. ¿Bajan el cuerpo, o suben a por él?
+> Los cinco de abajo ya no ríen.
+>
+> ¿Bajan el cuerpo, o suben a por él?
 
 ## O que há aqui
 

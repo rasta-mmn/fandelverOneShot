@@ -12,9 +12,9 @@ Se ninguém avisou:
 
 > Huele a brasa y a saco húmedo. En el centro, un brasero lleno hasta el borde. Detrás, puntas de piedra. Contra la pared, cajas. En varias, un león azul pintado, sin letras.
 >
-> Una bestia enorme se golpea el pecho. A los pies, un lobo lleno de cicatrices enseña los dientes. Dos goblins miran el fuego como si les debiera dinero.
+> Una bestia enorme se golpea el pecho. A los pies, un lobo lleno de cicatrices enseña los dientes. Dos goblins miran el fuego y no dicen nada.
 >
-> —¿Quién entra en la cueva de Klarg? —ruge, hablando de sí mismo—. ¡Klarg hará un trono con esos huesos!
+> —¿Quién entra en la cueva de Klarg? —ruge. Habla de sí mismo—. ¡Klarg hará un trono con esos huesos!
 
 Se a **área 7** avisou, não leias o discurso. A sala parece vazia. Ele e o lobo estão atrás dos sacos. O primeiro passo para o meio é a emboscada.
 

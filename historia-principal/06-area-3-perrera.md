@@ -6,9 +6,9 @@
 
 **Muestra** os [lobos](../laminas/07-perrera.jpg).
 
-> Unos escalones suben a la derecha. Antes de ver la sala, el olor llega: pelo mojado, estiércol, carne podrida.
+> Unos escalones suben a la derecha. Antes de ver la sala, llega el olor: pelo mojado, estiércol, carne podrida.
 >
-> Tres lobos tiran de unas cadenas. El hierro está clavado a una estalagmita, y el perno canta cada vez que tiran. No llegan a los escalones. La espuma les cae del hocico.
+> Tres lobos tiran de unas cadenas. El hierro está clavado a una estalagmita. El perno suena cada vez que tiran. No llegan a los escalones. Les cae espuma del hocico.
 >
 > A la derecha de la roca, una grieta estrecha sube a oscuras. Huele a hollín.
 >

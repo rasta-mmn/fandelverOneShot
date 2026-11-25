@@ -1,36 +1,62 @@
 # Flechas de goblin
 
-Lê isto em voz alta. As fotos só abrem no clique.
+Lê em voz alta, em blocos. Não uses o mesmo ritmo o tempo todo.
+
+Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. Deixa uns segundos de silêncio antes de mostrares a cidade. As fotos só abrem no clique.
 
 **Muestra** os dois.
 
 ![Gundren y Sildar](laminas/personagens/p-gundren-sildar.jpg)
 
-> El carro avanza rodando y las ruedas marcan el ritmo sobre el camino. A su lado viajan Gundren Buscapiedras y Sildar. Gundren es famoso en el Norte igual que un trueno: todo el mundo lo oye, nadie lo invitó y la taberna se alegra cuando entra. Hoy su plan inmediato cabe en el carro: comida para el pueblo de Phandalin. Lo otro va dentro de un tubo de mapas en su cadera, y de eso todavía no habla.
+> El carro avanza por el camino, con las ruedas crujiendo sobre la tierra. A bordo viajan Gundren Buscapiedras y Sildar, acompañados por una carga de provisiones destinada al pueblo de Phandalin.
 >
-> El trato ya está cerrado. Diez monedas de oro para cada uno si la carga llega completa: harina, cerdo salado, cerveza, queso, pan, faroles y aceite. Todo el cargamento vale unas cien monedas de oro, y Gundren no tiene ninguna prisa en que se pongan a contarlas.
+> Gundren es un enano conocido por casi todo el Norte. Tiene muchos contactos, habla más de la cuenta y, según dicen, nunca ha conocido una taberna en la que no termine discutiendo con alguien.
 >
-> Sildar, de capa azul, tiene cara de haberse arrepentido en el primer cuarto de legua y de haber seguido caminando solo por terquedad.
+> Hoy tiene un encargo sencillo: llevar comida y suministros a Phandalin. Harina, cerdo salado, cerveza, queso, pan, faroles y aceite. Una carga que vale unas cien monedas de oro.
 >
-> —Aquí se bajan —dice Gundren, y les deja en la mano una piedra gris de río, marcada con una muesca—. Neverwinter es gigante y yo soy chaparro, así que escuchen bien: taberna El Yunque Alegre, en la calle del puerto. El cartel es un yunque riéndose de ustedes. Dejen la piedra a la vista en la mesa. Doña Sera Calder no busca caras; busca esa piedra. Duermen ahí esta noche. Al amanecer sale el carro, y ella va en el pescante.
+> El trato con ustedes ya está cerrado: diez monedas de oro para cada uno si la mercancía llega completa. Así que más les vale cuidar el carro. Gundren no parece especialmente dispuesto a pagar por mercancía perdida.
 >
-> Sildar ni siquiera los saluda.
+> Sildar, vestido con una capa azul, viaja junto a él. Es un hombre serio, de pocas palabras y con cara de preferir estar en cualquier otro lugar.
 >
-> —Y por favor, no se coman la piedra —añade Gundren—. Si lo hacen, no los voy a buscar.
+> Después de un rato, Gundren detiene el carro y se vuelve hacia ustedes.
 >
-> Gundren y Sildar montan en el carro y el vehículo sigue en marcha, dejando atrás el tramo inicial mientras el tubo del mapa golpea contra la cadera del enano.
+> —¡Bueno, muchachos! Hasta aquí llega nuestro viaje juntos. Tengo algunos asuntos que resolver en la ciudad y no puedo perder más tiempo.
+>
+> El enano saca una pequeña piedra gris, con una marca tallada en uno de sus lados, y se la entrega a uno de ustedes.
+>
+> —Escuchen bien, porque no pienso repetirlo. Tienen que ir a una taberna llamada El Yunque Alegre, en la calle del puerto. No tiene pérdida: el cartel muestra un yunque riéndose. Bastante ridículo, si me preguntan.
+>
+> —Cuando lleguen, busquen una mesa y dejen esta piedra bien visible. Una mujer llamada Doña Sera Calder los estará esperando. Ella reconocerá la señal. Pasarán la noche allí y mañana, al amanecer, saldrán con el carro hacia Phandalin. Sera irá con ustedes.
+>
+> Gundren mira a cada uno para asegurarse de que han entendido.
+>
+> —Y recuerden: diez monedas de oro por cabeza. Si la carga llega completa, todos contentos.
+>
+> El enano vuelve a subir al carro. Sildar apenas les dedica una mirada antes de acomodarse en su asiento.
+>
+> —¡Ah! ¡Y una última cosa! —grita Gundren antes de ponerse en marcha—. ¡No se coman la piedra! ¡Es importante!
+>
+> El carro arranca y se aleja por el camino, llevándose a Gundren y Sildar. En cuestión de segundos, ambos desaparecen entre el movimiento de viajeros que entran y salen de la ciudad.
+>
+> Ahora están solos, con una piedra extraña, una misión bastante sencilla y una ciudad enorme delante de ustedes.
 
-**Muestra** a cidade.
+**Muestra** a cidade. Silêncio curto antes disto.
 
 ![Neverwinter](laminas/portadas/c-partida.jpg)
 
-> Al doblar la cuesta, Neverwinter aparece entera frente a ustedes y parece enorme hasta para el viento.
+> Al llegar a lo alto de la cuesta, Neverwinter aparece frente a ustedes.
 >
-> Las torres se amontonan sobre la colina como si un rey se hubiera puesto todas las coronas a la vez y mirara quién parpadea primero. Hay murallas de piedra vieja, un río que corta la ciudad en dos y un puerto allá abajo lleno de mástiles y humo. El bosque se abre y el camino baja directo hacia la puerta principal.
+> La ciudad es enorme. Sus murallas rodean edificios de piedra, altas torres y calles llenas de movimiento. A lo lejos, un río atraviesa la ciudad y desemboca en un puerto repleto de barcos.
 >
-> Desde aquí arriba parece una postal épica. De cerca va a oler a pescado, a soga mojada y a alguien cobrando por mirar. Disfruten la vista mientras dure: dura lo que tarda un enano en abrir la boca.
+> Se pueden ver comerciantes descargando mercancías, guardias vigilando las entradas y viajeros que llegan de todos los rincones de la región.
 >
-> La ciudad queda abajo. La piedra pesa poco, pero ya es un compromiso. ¿Bajan hacia el puerto o se quedan mirando el paisaje?
+> Desde aquí, Neverwinter parece una ciudad impresionante. Aunque, viendo el tráfico de carros, los comerciantes gritando y el humo que sale de las chimeneas, probablemente también sea un lugar bastante ruidoso.
+>
+> El camino desciende directamente hacia la entrada principal. Más abajo se encuentra el puerto, donde está la taberna que Gundren les ha indicado.
+>
+> Tienen una dirección, una piedra que no deben perder y una recompensa de diez monedas de oro esperándolos al final del viaje.
+>
+> ¿Qué hacen? ¿Bajan directamente hacia la ciudad o prefieren detenerse un momento a observar Neverwinter?
 
 ## Ordem
 

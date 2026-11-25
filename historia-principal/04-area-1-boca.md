@@ -6,9 +6,11 @@
 
 **Muestra** a [gruta](../laminas/paisagens/l-gruta.jpg). A lâmina de sigilo ou de alerta fica na decisão. Não a mostres ainda.
 
-> La boca es ancha, oscura, y el agua que sale está helada. A la derecha, el barro está pisado por pies pequeños. Al oeste, las zarzas bajan hasta el arroyo y se mueven cuando alguien las roza.
+> La boca es ancha y oscura. El agua que sale está helada.
 >
-> El rumor del agua llena la entrada. Lo que haya más adentro no se oye desde aquí.
+> A la derecha, el barro está pisado por pies pequeños. Al oeste, las zarzas bajan hasta el arroyo y se mueven si alguien las roza.
+>
+> El ruido del agua llena la entrada. Desde aquí no se oye lo que haya más adentro.
 >
 > ¿Pisan el agua, o se meten en las espinas?
 

@@ -6,11 +6,13 @@
 
 **Muestra** os [tanques](../laminas/12-tanques.jpg). A onda, só se a pedra ceder.
 
-> El rugido de la cascada llena el pecho. Casi no se oyen los propios pasos. El agua cae a dos balsas negras, sujetas por muros de piedra apilada a mano.
+> El ruido de la cascada lo tapa casi todo. Casi no se oyen los propios pasos.
+>
+> El agua cae a dos balsas negras, sujetas por muros de piedra apilada a mano.
 >
 > En el muro más cercano, una piedra de arriba ya se mueve. Al lado hay un montón de escombros, bajo, a la altura de una rodilla.
 >
-> Tres goblins esperan sobre el dique, las lanzas apoyadas en la roca.
+> Tres goblins esperan sobre el dique, con las lanzas apoyadas en la roca.
 >
 > ¿Se acercan al muro, o buscan otro túnel?
 

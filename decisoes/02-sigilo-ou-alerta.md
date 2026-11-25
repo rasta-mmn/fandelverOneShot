@@ -6,9 +6,11 @@
 
 A [gruta](../laminas/paisagens/l-gruta.jpg) já está na mesa.
 
-> El agua sale helada y el rumor tapa la boca. Entre las zarzas del otro lado hay un claro que no se ve desde aquí.
+> El agua sale helada. El ruido tapa la boca.
 >
-> Pueden pisar como si el barro fuera a delatarlos, o entrar con la luz en alto.
+> Entre las zarzas del otro lado hay un claro. Desde aquí no se ve.
+>
+> Pueden pisar despacio, como si el barro fuera a delatarlos, o entrar con la luz en alto.
 >
 > ¿Cuál es el paso?
 

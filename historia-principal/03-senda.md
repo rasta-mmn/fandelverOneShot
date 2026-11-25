@@ -8,11 +8,13 @@ Só se foram atrás dela. Se seguiram para **Phandalin**, abre a [prisão](../de
 
 Deixa a [senda](../laminas/paisagens/l-senda.jpg) enquanto o carro fica para trás.
 
-> Dejan el camino y se meten en un sendero entre zarzas. Huele a tierra removida y a sudor agrio. En el barro hay pisadas pequeñas, con uñas, y el surco de unos tacones arrastrados.
+> Dejan el camino y entran en un sendero entre zarzas. Huele a tierra removida y a sudor.
+>
+> En el barro hay pisadas pequeñas, con uñas, y el surco de unos tacones arrastrados.
 
 Quando o desfiladeiro apertar, troca para o [barranco](../laminas/paisagens/l-barranco.jpg).
 
-> La maleza araña la ropa. El desfiladero aprieta. Cada sombra entre los troncos parece un ojo.
+> Las zarzas arañan la ropa. El paso se estrecha. Entre los troncos hay sombra de sobra.
 >
 > ¿Quién va delante, y con qué cuidado?
 
@@ -22,7 +24,7 @@ Aos dez minutos. Se ninguém tem Percepção passiva 12, Percepção CD 12. Se v
 
 Se não veem, a corda salta. Destreza CD 10. Sucesso: saem de lado, o laço fecha no vazio. Falha: lê isto.
 
-> Una cuerda sale del barro. El mundo se pone al revés. Quien iba delante queda colgado a tres metros, con el rastro todavía fresco debajo.
+> Una cuerda sale del barro y se cierra en el tobillo. Quien iba delante queda colgado a tres metros, cabeza abajo. El rastro sigue fresco debajo.
 
 Fica impedido até cortarem a corda. Baixar sem cuidado: 1d6 de concussão. **−1 marca.**
 
@@ -40,9 +42,11 @@ Destreza CD 10. Sucesso: ficam na borda. Falha: 1d6 de concussão e caído. Falh
 
 **Muestra** a [gruta](../laminas/paisagens/l-gruta.jpg). Ainda não mostres sigilo nem alerta.
 
-> El bosque se abre al pie de una loma. De una boca negra sale un arroyo helado. A la derecha del agua, un sendero resbaladizo entra en la sombra.
+> El bosque se abre al pie de una loma. De una boca negra sale un arroyo helado.
 >
-> Al otro lado, las zarzas llegan hasta el agua. El rumor tapa lo que haya dentro.
+> A la derecha del agua, un sendero resbaladizo entra en la sombra. Al otro lado, las zarzas llegan hasta el agua.
+>
+> El ruido del arroyo tapa lo que haya dentro.
 >
 > La boca está delante. ¿Quién da el primer paso?
 

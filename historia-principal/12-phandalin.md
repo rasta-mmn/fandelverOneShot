@@ -14,11 +14,13 @@ Se ela vive:
 
 > Las colinas se abren. Tejados de madera, humo bajo, luz de tarde. Huele a pan.
 >
-> En la plaza, frente a Provisiones de Barthen, la gente sale al ver el vestido burdeos, sucio, todavía con la falda abierta en el muslo. Sera baja del pescante. Le tiembla una rodilla. No suelta la rienda hasta que la rueda para.
+> En la plaza, frente a Provisiones de Barthen, la gente sale al ver el vestido burdeos, sucio, con la falda abierta en el muslo.
+>
+> Sera baja del pescante. Le tiembla una rodilla. No suelta la rienda hasta que la rueda para.
 >
 > Elmar Barthen sale del almacén. Se le queda la boca abierta. Ella habla antes.
 >
-> —Estos tres no son simples escoltas. Sin ellos, hoy no hay pan.
+> —Estos no son simples escoltas. Sin ellos, hoy no hay pan.
 >
 > Alguien abre la puerta de la posada. Sale olor a estofado.
 >
@@ -28,9 +30,11 @@ Se ela vive:
 
 Se ela morreu:
 
-> El viento que baja de la montaña entra en la plaza antes que el carro. No hay vítores.
+> El viento de la montaña llega a la plaza antes que el carro. Nadie aplaude.
 >
-> Cuando ven el cuerpo en la parte de atrás, tapado con lo que queda de la capa gris, las puertas se cierran. Elmar Barthen se quita el sombrero. Toma las riendas. No los mira.
+> Cuando ven el cuerpo atrás, tapado con lo que queda de la capa gris, las puertas se cierran.
+>
+> Elmar Barthen se quita el sombrero. Toma las riendas. No los mira.
 >
 > —Descarguen la comida. Cobren. Váyanse antes de que anochezca.
 >

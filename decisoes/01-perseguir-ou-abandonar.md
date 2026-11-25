@@ -4,13 +4,13 @@
 
 ## Entrada
 
-> El polvo baja. El carro sigue aquí. Los bueyes también. El pescante está vacío. En las zarzas, la capa gris de Sera cuelga hecha jirones.
+> El polvo baja. El carro sigue aquí. Los bueyes también. El pescante está vacío.
 >
-> El rastro de los tacones entra en el bosque, hacia el noroeste. Phandalin queda al este, a un día, con las manos llenas de comida y sin ella.
+> En las zarzas, la capa gris de Sera cuelga hecha jirones.
 >
-> Si dejan el carro aquí, la carga se queda al sol. Si siguen hacia el pueblo, nadie sabe cuánto aguanta ella.
+> El rastro de los tacones entra en el bosque, hacia el noroeste.
 >
-> ¿Qué deciden?
+> ¿Qué hacen?
 
 ## O que há aqui
 
