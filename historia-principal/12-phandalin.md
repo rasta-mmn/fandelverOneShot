@@ -1,17 +1,8 @@
 # Phandalin
 
-Fechar, conforme a **Sera** esteja no pescante ou no carro.
+A praça, conforme a **Sera** venha no pescante ou no carro. Lê só um dos blocos.
 
-Não leias estas notas. Lê só o bloco que corresponde a ela: viva, ou morta.
-
-## Preparação
-
-- A praça, em frente a Provisiones de **Barthen**. Tarde. Cheiro a pão.
-- Se ela vive: desce do pescante. Vestido sujo, joelho a tremer.
-- Se morreu: o corpo vai atrás, tapado com o que resta da capa cinzenta. Ninguém aplaude.
-- **Gundren** continua desaparecido. O mapa já não estava no tubo. Uma frase, só se perguntarem.
-
-## Entrada
+## Primeira impressão
 
 **Muestra** a portada e depois o vale.
 
@@ -19,9 +10,9 @@ Não leias estas notas. Lê só o bloco que corresponde a ela: viva, ou morta.
 
 ![Vale](../laminas/paisagens/l-vale.jpg)
 
-Se ela vive, **muestra** [Barthen](../laminas/personagens/p-barthen.jpg) na porta e lê:
+Se ela vive, **muestra** [Barthen](../laminas/personagens/p-barthen.jpg) na porta.
 
-> Las colinas se abren. Tejados de madera, humo bajo, luz de tarde. Huele a pan.
+> Las colinas se abren. Tejados de madera, humo bajo, luz de tarde. Huele a pan. El aire está tibio después del bosque.
 >
 > En la plaza, frente a Provisiones de Barthen, la gente sale al ver el vestido burdeos, sucio, con la falda abierta en el muslo.
 >
@@ -37,7 +28,7 @@ Se ela vive, **muestra** [Barthen](../laminas/personagens/p-barthen.jpg) na port
 
 Se ela morreu, não leias o bloco de cima.
 
-> El viento de la montaña llega a la plaza antes que el carro. Nadie aplaude.
+> El viento de la montaña llega a la plaza antes que el carro. Huele a polvo, no a pan. Nadie aplaude.
 >
 > Cuando ven el cuerpo atrás, tapado con lo que queda de la capa gris, las puertas se cierran.
 >
@@ -47,19 +38,29 @@ Se ela morreu, não leias o bloco de cima.
 >
 > ¿Bajan las cajas, o se quedan en el pescante?
 
-## O que podem fazer
+## O ambiente
 
-- Entrar na posada, ou contar as caixas primeiro.
-- Ficar no pescante. **Barthen** não os persegue sala adentro. Põe o pagamento na mão.
-- Entregar as caixas do leão, se as trouxeram. **Linene** aparece depois, sem discurso.
+- Viva: portas abrem, gente na praça, fumo baixo das cozinhas.
+- Morta: as portas fecham-se uma a uma. A praça fica sem voz. O vento continua.
 
-## Como resolver
+## Pontos de interesse
+
+- **Visível:** a praça, **Barthen**, o carro, ela ou o corpo.
+- **Se contarem as caixas:** o que trouxeram do cubil, mais os dois sacos do mato.
+- **Se trouxeram as do leão:** a **Linene** aparece depois, sem discurso. Paga **50 po** e assente.
+- **Gundren** continua desaparecido. O mapa já não estava no tubo. Uma frase, só se perguntarem.
+
+## Interações
+
+- Entrar na posada, contar as caixas, ou ficar no pescante.
+- **Barthen** não os persegue sala adentro. Põe o pagamento na mão.
+
+## Informação do mestre
 
 - **10 po** cada um, viva ou morta, se a carga chega.
 - Se ela vive, pode juntar mais **50 po**, baixinho, à porta, se ainda não o disse na caverna.
-- Caixas do leão: **Linene** paga **50 po** e assente.
-- Sem as caixas do cubil, ele recebe o que veio no carro. O pagamento das dez moedas não depende de um discurso deles.
+- Sem as caixas do cubil, ele recebe o que veio no carro. As dez moedas não dependem de um discurso.
 
-## Como avançar
+## Transição
 
-A história acaba na praça. Se ela vive, a porta da posada fica aberta. Se morreu, a praça fica em silêncio e o pagamento é posto na mão, sem brinde.
+A história acaba na praça. Se ela vive, a porta da posada fica aberta. Se morreu, o pagamento fica na mão, sem brinde.

@@ -1,45 +1,45 @@
 # 4 — A passagem
 
-O túnel, a laje fina, e a ponte lá em cima.
+O túnel sobe. A água faz barulho. A laje fina só importa se a pisarem.
 
-Não leias estas notas. Lê só o que está em citação.
+## Primeira impressão
 
-## Preparação
+**Muestra** o [corredor](../laminas/paisagens/l-corredor.jpg). A [passagem](../laminas/16-pasaje-oeste.jpg), quando olharem para cima.
 
-- O túnel sobe. O arroio desce à esquerda em degraus brancos. O ruído enche a pedra.
-- Sem luz, a partir daqui, não se vê o chão.
-- A um lado, a escarpa: uma laje mais clara e mais fina. Por baixo não há chão. Mais de 45 kg parte-a.
-- Muito acima, a corda da ponte, desfiada, branca por dentro. O goblin da ponte ainda não é descrito. Está na [área 5](08-area-5-puente.md).
-
-## Entrada
-
-Enquanto sobem, **muestra** o [corredor](../laminas/paisagens/l-corredor.jpg). Quando olharem para cima, a [passagem](../laminas/16-pasaje-oeste.jpg).
-
-> El túnel sube. A la izquierda, el arroyo baja en escalones blancos. El ruido llena la piedra.
+> El túnel sube. A la izquierda, el arroyo baja en escalones blancos. El ruido llena la piedra y el aire está húmedo.
 >
 > Sin luz, el suelo solo se adivina por el agua.
 >
-> A un lado, el repecho es una losa más clara y más fina que el resto. Debajo no hay suelo.
->
-> Muy arriba, una cuerda cruza el techo. Está deshilachada. Por dentro, la fibra es blanca.
->
-> ¿Pisan esa losa, o siguen el agua?
+> ¿Siguen el agua, o miran dónde pisan?
 
-## O que podem fazer
+## O ambiente
 
-- Pisar a laje, ou seguir a água e não a pisar.
-- Ir às escuras, ou com luz. A luz avisa o vigia da ponte.
-- Não subir à ponte nem pisar a laje. O túnel reparte mais à frente.
+- Sem luz, a partir daqui, não se vê o chão. A água é a referência.
+- O ruído tapa um grito curto. Não tapa uma tocha.
+- Não fales da laje nem da corda até alguém olhar para o lado, ou para cima.
 
-## Como resolver
+## Pontos de interesse
 
-- **Escarpa:** mais de 45 kg parte a laje. Destreza CD 10, ou 2d6 e caído. Metade se a salvaguarda passa, e caído na mesma. Quem passa por cima dos que caíram segue.
-- **Rápidos:** empurrar para os degraus de água deixa a criatura caída no degrau de baixo. O ruído tapa um grito curto. Não tapa uma tocha.
-- Se levam luz, ou não se escondem, o goblin da ponte vê-os e corre para leste. A água vem no turno seguinte.
-- **Ponte:** a corda desfiada. Os pontos e a queda estão na [área 5](08-area-5-puente.md).
+- **Visível:** o túnel, os degraus brancos da água, a escuridão se não há luz.
+- **Se olharem para o lado:** uma laje mais clara e mais fina. Por baixo não há chão.
+- **Se olharem para cima:** uma corda cruza o teto, desfiada, branca por dentro. O goblin ainda não se descreve. Está na [área 5](08-area-5-puente.md).
 
-## Como avançar
+## Interações
 
-- Seguem a água, sem serem vistos: [ponte](08-area-5-puente.md).
-- Ele os vê: abre já os [tanques](09-area-7-tanques.md). **−1 marca** se ainda não chegaram à **Sera** e estão no túnel.
-- O túnel, se não sobem à ponte nem pisam a laje, reparte entre a [área 6](10-area-6-sera.md) e a [área 7](09-area-7-tanques.md). A água não vem enquanto o vigia não gritar.
+- Seguir a água e não pisar a laje.
+- Pisar a laje. Mais de 45 kg parte-a.
+- Ir com luz, ou às escuras. A luz avisa o vigia da ponte.
+- Não subir à ponte. Mais à frente o túnel reparte.
+
+## Informação do mestre
+
+- **Escarpa:** Destreza CD 10, ou 2d6 e caído. Metade do dano se a salvaguarda passa, e caído na mesma. Quem vem atrás pode contornar.
+- **Rápidos:** empurrar deixa a criatura caída no degrau de baixo.
+- Luz, ou sem se esconderem: o goblin vê-os e corre para leste. A água vem no turno seguinte.
+- A corda e a queda da ponte estão na [área 5](08-area-5-puente.md).
+
+## Transição
+
+- Pela água, sem serem vistos: [ponte](08-area-5-puente.md).
+- Ele os vê: [tanques](09-area-7-tanques.md) já. **−1 marca** se ainda não chegaram à **Sera** e estão no túnel.
+- Sem ponte e sem laje: o túnel reparte entre a [área 6](10-area-6-sera.md) e a [área 7](09-area-7-tanques.md). A água não vem enquanto ele não gritar.

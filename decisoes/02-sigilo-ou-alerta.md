@@ -1,18 +1,12 @@
 # Sigilo ou alerta
 
-Como entram. Não lhes leias o plano.
+Como entram. Não perguntes «vão de sigilo?» se as tochas já o disseram.
 
-Não leias estas notas. Lê só o que está em citação. Não perguntes «vão de sigilo?» se as tochas já o disseram.
+A [gruta](../laminas/paisagens/l-gruta.jpg) e o arroio já estão na [área 1](../historia-principal/04-area-1-boca.md).
 
-## Preparação
+## Primeira impressão
 
-- A [gruta](../laminas/paisagens/l-gruta.jpg) já está na mesa.
-- A [área 1](../historia-principal/04-area-1-boca.md) já tem o arroio, as sarças e o barulho da água.
-- O claro do outro lado ainda não se vê daqui.
-
-## Entrada
-
-> El agua sale helada. El ruido tapa la boca.
+> El agua sale helada. El ruido tapa la boca. El barro de la orilla está frío.
 >
 > Entre las zarzas del otro lado hay un claro. Desde aquí no se ve.
 >
@@ -20,18 +14,27 @@ Não leias estas notas. Lê só o que está em citação. Não perguntes «vão 
 >
 > ¿Cuál es el paso?
 
-## O que podem fazer
+## O ambiente
 
-- Pisar devagar, sem luz à vista e sem gritos.
-- Entrar com a luz no alto, ou já terem feito barulho na boca.
-- Tentar cruzar o claro sem serem vistos.
+- A água continua a tapar as vozes de dentro.
+- Luz alta vê-se da clareira. Passo lento, sem tocha, não.
 
-## Como resolver
+## Pontos de interesse
 
-- Sem luz à vista e sem gritos: **muestra** [goblins de costas](../laminas/04-cueva-sigilo.jpg). Dois caminham para dentro e não se voltam. Sem marca.
-- Tochas, gritos, ou vigias que já dispararam: **muestra** [a saída deles](../laminas/05-cueva-alerta.jpg). Combate na boca. **−1 marca**, uma vez. A **área 2** dispara com surpresa na clareira.
-- Furtividade de grupo contra a Percepção passiva dos vigias, se tentam cruzar o claro sem serem vistos. Falhar avisa-os. Não os manda de volta para a estrada.
+- **Visível:** água gelada, sarças, um claro que daqui não se vê.
+- **Se entrarem sem luz e sem gritos:** dois goblins de costas, a caminho de dentro. Não se voltam.
+- **Se já há tochas, gritos, ou tiros:** eles saem. A área 2 fica de pé.
 
-## Como avançar
+## Interações
 
-Daqui seguem para os [vigias](../historia-principal/05-area-2-vigias.md), os [lobos](../historia-principal/06-area-3-perrera.md) ou o [corredor](../historia-principal/07-area-4-pasaje.md).
+- Pisar devagar, entrar com luz, ou tentar cruzar o claro sem serem vistos.
+
+## Informação do mestre
+
+- Sem luz e sem gritos: **muestra** [goblins de costas](../laminas/04-cueva-sigilo.jpg). Sem marca.
+- Tochas, gritos, ou vigias que já dispararam: **muestra** [a saída deles](../laminas/05-cueva-alerta.jpg). Combate na boca. **−1 marca**, uma vez. A **área 2** dispara com surpresa.
+- Furtividade de grupo contra a Percepção passiva dos vigias. Falhar avisa-os. Não os manda de volta à estrada.
+
+## Transição
+
+[Vigias](../historia-principal/05-area-2-vigias.md), [lobos](../historia-principal/06-area-3-perrera.md) ou o [corredor](../historia-principal/07-area-4-pasaje.md).

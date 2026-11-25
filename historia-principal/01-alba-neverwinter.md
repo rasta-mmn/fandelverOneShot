@@ -1,56 +1,66 @@
 # 0.2 — O alba
 
-A partida. A noite e a **Sera** já aconteceram na [taberna](01B-taberna-el-yunque-alegre.md).
+A partida. A noite já aconteceu na [taberna](01B-taberna-el-yunque-alegre.md).
 
-Não leias estas notas. Lê só o que está em citação, e só a resposta da pergunta que eles fizerem.
+Não leias o cenário todo. Lê a primeira impressão. As respostas, só se perguntarem.
 
-## Preparação
+## Primeira impressão
 
-- De manhã. Tira a taberna da mesa.
-- A **Sera** já está no pescante. Capa cinzenta sobre o vestido burdeos. Não combate. Não larga a carga.
-- Atrás: farinha, carne salgada, cerveja, queijo, pão, farois e o barril de azeite. A carga vale **100 po**.
-- O pagamento, na entrega, é **10 po** cada um, pagos por **Barthen**.
-
-## Entrada
-
-**Muestra** a saída.
+Tira a taberna. **Muestra** a saída.
 
 ![Alba](../laminas/01-alba-neverwinter.jpg)
 
-> El sol apenas tiñe de naranja los muros de Neverwinter. Las ruedas empiezan a girar. Huele a pan, a sal del puerto y a buey.
+> El sol apenas tiñe de naranja los muros de Neverwinter. El aire está frío y huele a pan, a sal del puerto y a buey.
 >
-> Sera ya está en el pescante. Capa gris sobre el vestido burdeos. Las riendas firmes. Detrás van los sacos de harina, la carne salada, la cerveza, el queso, el pan, los faroles y el barril de aceite.
+> Las ruedas empiezan a girar sobre los adoquines. El carro ya está en la calle.
+>
+> Sera está en el pescante, con la capa gris sobre el vestido burdeos y las riendas firmes. Detrás se ven sacos, barriles y un tonel de aceite.
 >
 > Mira hacia atrás. Seria, sin mala cara.
 >
 > —El pueblo espera esta comida. Yo no pienso perder ni un saco. ¿Cómo viajan? ¿Aquí conmigo, abriendo camino adelante, o cubriendo la espalda atrás?
 
-## O que podem fazer
+## O ambiente
 
-- Responder à pergunta: no pescante, à frente, ou atrás.
-- Subir em silêncio. Também serve. Não forces um discurso.
-- Perguntar pela carga, por **Gundren**, por **Sildar**, ou pelo caminho. Lê só a frase do que perguntarem.
+- Os muros ainda estão frios. O pão das padarias chega antes do calor.
+- Os bois bufam. O couro das rédeas range quando ela puxa.
+- A rua do porto já tem gente, mas ainda não grita como à noite.
 
-## Como resolver
+## Pontos de interesse
 
-Conduzir o carro não pede rolagem. A ordem de marcha é a resposta deles.
+- **Visível:** a **Sera** no pescante, a carga tapada atrás, a rua que sai da cidade.
+- **Se olharem a carga:** sacos de farinha, carne salgada, cerveja, queijo, pão, farois, barril de azeite.
+- **Se perguntarem o valor:** **100 po**. Ela não quer que contem, nem que mexam.
+- O pagamento, na entrega, é **10 po** cada um, pagos por **Barthen**. Ela não combate.
 
-- Se perguntam o que há no carro:
+## Interações
+
+- Responder: no pescante, à frente, ou atrás. Subir em silêncio também serve.
+- Conduzir não pede rolagem.
+
+Só a frase do que perguntarem.
+
+- A carga:
 
 > —Harina, cerdo salado, cerveza, queso, pan, faroles y aceite. Cien monedas de oro si alguien se pone a contarlas. Yo no pienso dejar que lo cuenten… y menos que nos lo quiten.
 
-- Se perguntam por **Gundren**:
+- **Gundren**:
 
 > —El enano va detrás de algo en las colinas. No es asunto nuestro. El trabajo es que la comida llegue entera a Phandalin.
 
-- Se perguntam por **Sildar**:
+- **Sildar**:
 
 > —Se fue adelante con Gundren. Cuando el enano corre, Sildar lo sigue. Ustedes se quedan conmigo. Menos gloria, más polvo.
 
-- Se puxam o caminho ou o trabalho:
+- O caminho:
 
 > —Hasta ahora no hubo problemas, pero esta senda no es para distraerse. Si mantienen los ojos abiertos y las armas listas, las diez monedas de oro de Gundren les van a parecer bien ganadas.
 
-## Como avançar
+## Informação do mestre
 
-A estrada abre. Sem encontro até o meio-dia. A seguir, a [emboscada](02-emboscada.md).
+- Ela não larga a carga. Uma pergunta não atrasa a saída.
+- O **Jorin** já fez a parte dele. Não volta a entrar, salvo se o chamarem.
+
+## Transição
+
+A cidade fica para trás. Sem encontro até o meio-dia. A seguir, a [emboscada](02-emboscada.md).

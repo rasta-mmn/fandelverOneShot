@@ -1,24 +1,14 @@
 # 6 — Sera e Yeemik
 
-O poste. Se ainda há marcas, a chantagem. Se não há, o silêncio.
+A sala do fogo. O poste só quando olharem para cima.
 
-Não leias estas notas. Lê só o que está em citação, e só depois da imagem que corresponde ao relógio.
+Confere o [relógio](00-sera-e-relogio.md) antes do repecho. Com **0**, não leias a oferta.
 
-Confere o relógio em [00](00-sera-e-relogio.md) antes de olharem o repecho.
+## Primeira impressão
 
-## Preparação
+Não mostres a **Sera**. **Muestra** a [sala vazia](../laminas/paisagens/l-sala-comum.jpg).
 
-- Primeiro a sala. Não mostres a **Sera** ao entrar.
-- Em baixo: fogo, brasas à altura das botas, cinco goblins.
-- Em cima, a 3 m: um poste. **Yeemik** está lá, 12 pontos de golpe. É o único que fala.
-- Com 5 a 3 marcas ela está de pé na corda e pode falar. Com 2 ou 1, pesa na corda, fica a 1 ponto, e tem de ser carregada.
-- Com **0**, não leias o diálogo vivo. A lâmina é a outra.
-
-## Entrada
-
-**Muestra** a [sala vazia](../laminas/paisagens/l-sala-comum.jpg) só até eles olharem para cima.
-
-> El humo pica. Huele a cuero mal curtido y a carne que no se sabe de qué es.
+> El humo pica en los ojos. Huele a cuero mal curtido y a carne que no se sabe de qué es. El aire está caliente.
 >
 > La caverna se parte en dos. Abajo, un fuego. Unas brasas sueltas brillan en el borde de la piedra, a la altura de las botas.
 >
@@ -28,15 +18,27 @@ Confere o relógio em [00](00-sera-e-relogio.md) antes de olharem o repecho.
 >
 > ¿Suben, o se quedan con el fuego?
 
-## O que podem fazer
+## O ambiente
 
-- Subir já, ficar com o fogo, ou falar daí de baixo.
-- Derrubar **Yeemik** antes do turno dele. Aí ele não a empurra. Cortam as cordas.
-- Se o relógio está em **0**, a pergunta muda: descem o corpo, ou sobem até ele. O texto está na [decisão](../decisoes/03-relogio-viva-ou-morta.md). Não leias a oferta.
+- O fumo desce e fica à altura da cara. As brasas estalam.
+- Em baixo há cinco. Em cima, a 3 m, o poste. Não descrevas quem está amarrado até olharem.
+- Com 5 a 3 marcas ela está de pé e pode falar. Com 2 ou 1, pesa na corda, fica a 1 ponto, e tem de ser carregada.
 
-## Como resolver
+## Pontos de interesse
 
-Quando olharem o repecho e ainda há marcas, **muestra** [Yeemik](../laminas/personagens/p-yeemik.jpg) e a [Sera viva](../laminas/10-sera-viva.jpg). A foto primeiro. Depois:
+- **Visível:** o fogo, as brasas, os cinco, o repecho, o poste, uma voz que não é de goblin.
+- **Se olharem o repecho e ainda há marcas:** a foto primeiro. [Yeemik](../laminas/personagens/p-yeemik.jpg) e a [Sera viva](../laminas/10-sera-viva.jpg). Depois o texto.
+- **Se o relógio está em 0:** não há oferta. A [Sera morta](../laminas/11-sera-muerta.jpg) e a [decisão](../decisoes/03-relogio-viva-ou-morta.md).
+
+## Interações
+
+- Subir, ficar junto ao fogo, ou falar daí de baixo.
+- Derrubar **Yeemik** antes do turno dele: não a empurra. Cortam as cordas.
+- Com **0**: descer o corpo, ou subir até ele. Sem trato.
+
+## Informação do mestre
+
+Quando olharem e ela vive:
 
 > Doña Sera está atada al poste, los brazos en alto. El vestido burdeos está rasgado en el hombro y en el muslo. Tiene el pómulo negro. Una hoja oxidada le toca el cuello.
 >
@@ -54,11 +56,11 @@ Quando olharem o repecho e ainda há marcas, **muestra** [Yeemik](../laminas/per
 >
 > —¿Tenemos un trato?
 
-- Brasas: pisar custa 1 de fogo. Empurrar alguém para dentro, 1d6. Uma vez por turno.
-- Relógio a **0**: não há trato. Ele luta. **Muestra** a [Sera morta](../laminas/11-sera-muerta.jpg) e passa à [decisão](../decisoes/03-relogio-viva-ou-morta.md).
-- Ir ao cubil antes desta sala custa **−1**. O trato, se o aceitam, custa **−2**. Não marques as duas.
+- **Yeemik** tem 12 pontos. É o único que fala.
+- Brasas: 1 de fogo ao pisar. Empurrar alguém, 1d6. Uma vez por turno.
+- Ir ao cubil antes desta sala: **−1**. O trato, se o aceitam: **−2**. Não marques as duas.
 
-## Como avançar
+## Transição
 
-- Ela vive e as cordas caem: podem sair, ou ir às caixas em [Klarg](11-area-8-klarg.md). Com ela, ou com o corpo, o carro na estrada abre [Phandalin](12-phandalin.md).
-- **Yeemik** chega ao turno dele e ela vive: abre o [trato](../decisoes/04-trato-yeemik.md). Não repitas a oferta se já a leste aqui.
+- Cordas caem e ela vive: sair, ou as caixas em [Klarg](11-area-8-klarg.md). Com ela, ou com o corpo, o carro abre [Phandalin](12-phandalin.md).
+- Ele chega ao turno e ela vive: o [trato](../decisoes/04-trato-yeemik.md). Não repitas a oferta se já a leste aqui.

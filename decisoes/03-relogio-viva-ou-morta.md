@@ -1,24 +1,16 @@
 # Viva ou morta
 
-A frase do poste, quando o relógio chega a zero.
+Só se o relógio está em **0**. Se ainda há marcas, não leias esta página. O diálogo está na [área 6](../historia-principal/10-area-6-sera.md).
 
-Não leias estas notas. Se ainda há marcas, não leias esta página. O diálogo já foi lido na [área 6](../historia-principal/10-area-6-sera.md).
+## Primeira impressão
 
-## Preparação
-
-- Relógio em [00](00-sera-e-relogio.md).
-- Com marcas: ela está na corda. O [trato](04-trato-yeemik.md) abre se **Yeemik** chega ao turno dele.
-- Com **0**: a foto primeiro. É a Sera do retrato, desabada, queixo no peito. Cortes nos braços, no peito e na perna. Lanças no chão, escudos, crânios e um fogo verde ao fundo. Nada cravado nela. A capa voltou aos ombros. Lê o que se vê.
-
-## Entrada
-
-Só se o relógio está em **0**. **Muestra** a lâmina.
+**Muestra** a lâmina antes do texto. É a Sera do retrato, desabada, queixo no peito. A capa voltou aos ombros. Nada cravado nela.
 
 ![Sera morta](../laminas/11-sera-muerta.jpg)
 
 > Cuando levantan la vista, ya no está de pie.
 >
-> Doña Sera se ha deslizado por el poste. El cuerpo no se sostiene. La cabeza le cae hacia adelante, la barbilla contra el pecho. Los ojos están cerrados.
+> Doña Sera se ha deslizado por el poste. El cuerpo no se sostiene. La cabeza le cae hacia adelante, la barbilla contra el pecho. Los ojos están cerrados. El aire huele a humo y a hierro.
 >
 > Hay cortes en los brazos, en el pecho y en la pierna. Alrededor, lanzas clavadas en el suelo, escudos y calaveras. Al fondo arde un fuego verde.
 >
@@ -32,16 +24,25 @@ Só se o relógio está em **0**. **Muestra** a lâmina.
 >
 > ¿Bajan el cuerpo, o suben a por él?
 
-## O que podem fazer
+## O ambiente
 
-- Descer o corpo, ou subir até ele.
-- Levar o corpo depois. Não há trato para aceitar ou recusar.
+- O fogo verde fica ao fundo. Não está nela.
+- Os cinco deixaram de rir. A sala fica mais quieta do que quando entraram.
 
-## Como resolver
+## Pontos de interesse
 
-- Morta. **Yeemik** não oferece trato. Os cinco e ele lutam. Ele tem 12 pontos de golpe.
-- Se a empurram do repecho ainda viva, noutro momento: 1d6, cai a 0, e morre em três rounds sem estabilização. Três rounds ainda são uma tentativa. Não saltes para o corpo.
+- **Visível:** o corpo no poste, os cortes, as lanças no chão, **Yeemik** com a folha.
+- **Se a empurraram ainda viva, noutro momento:** 1d6, cai a 0, três rounds para estabilizar. Não saltes para este texto antes desses rounds.
 
-## Como avançar
+## Interações
 
-Podem levar o corpo. As caixas continuam com **Klarg**. O final é o parágrafo frio de [Phandalin](../historia-principal/12-phandalin.md).
+- Descer o corpo, ou subir até ele. Não há trato.
+
+## Informação do mestre
+
+- **Yeemik** tem 12 pontos. Os cinco e ele lutam.
+- Podem levar o corpo. As caixas continuam com **Klarg**.
+
+## Transição
+
+O final é o parágrafo frio de [Phandalin](../historia-principal/12-phandalin.md).

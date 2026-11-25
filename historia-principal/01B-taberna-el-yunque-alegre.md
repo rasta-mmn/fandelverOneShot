@@ -1,54 +1,60 @@
 # 0.1 — Taberna El Yunque Alegre
 
-Noite na taberna. Eles escolhem o que fazer. A **Sera** entra quando a mesa já teve tempo. Depois, a manhã.
+Noite no porto de Neverwinter. Encontro com a **Sera**, se quiserem olhar a sala antes.
 
-Não leias estas notas. Lê só o que está em citação, e só o jogo a que eles se aproximarem.
+Não leias o cenário todo. Lê a primeira impressão. O resto só quando eles se aproximarem.
 
-## Preparação
+## Primeira impressão
 
-- A pedra cinzenta fica visível na mesa. É o sinal de que estão à espera da **Sera**.
-- No pátio está o carro para **Phandalin**, com dois bois.
-- Um rapaz cuida dos animais e deixa o carro pronto. Ajuda em qualquer coisa se lhe pagam o jantar.
-- A **Sera** ainda não está. Entra depois de eles explorarem um bocado.
-
-## Entrada
-
-**Muestra** a taberna. Há gente.
+**Muestra** a taberna.
 
 ![El Yunque Alegre](../laminas/paisagens/l-yunque.jpg)
 
-> La puerta de El Yunque Alegre se abre. Huele a humo, a grasa y a cerveza.
+> La taberna El Yunque Alegre se encuentra en una calle concurrida, no muy lejos del puerto. Desde fuera se escucha el ruido de las conversaciones y el golpeteo de las jarras sobre las mesas.
 >
-> El cartel de afuera es un yunque con cara de risa. Gundren no exageraba.
+> Al abrir la puerta, los recibe una corriente de aire caliente. El interior huele a cerveza, carne asada y madera quemada. Una gran chimenea mantiene caliente el salón, mientras varias lámparas de aceite iluminan las mesas y dejan algunas esquinas en penumbra.
 >
-> A la izquierda, unos hombres golpean la mesa con jarras y cuentan rondas. Dos ya no articulan bien.
+> La taberna está bastante concurrida. Marineros, comerciantes y trabajadores del puerto ocupan casi todas las mesas. Algunos comen, otros beben y varios discuten a voces.
 >
-> Cerca del fuego, cuatro juegan a las cartas. Las monedas suenan más que las palabras.
+> Al fondo hay una barra de madera oscura. Detrás, una mujer sirve bebidas y no deja de mirar a los clientes.
 >
-> Al fondo, sobre un tablón, dos se agarran la mano. Alrededor, la gente grita y apuesta.
+> Cerca de la chimenea, dos hombres se sientan frente a frente con jarras grandes. En otra mesa, un grupo pequeño juega a las cartas.
 >
-> El tabernero seca un vaso y señala una mesa libre.
+> Hay algunas mesas libres. Una está junto a una ventana, desde donde se ve parte de la calle.
 >
-> ¿Se sientan, piden algo, o se meten en uno de los juegos?
+> Nadie parece especialmente interesado en su llegada.
+>
+> Tienen la piedra de Gundren y una noche por delante, antes de partir hacia Phandalin.
 
-## O que podem fazer
+## O ambiente
 
-Não obrigues ninguém a jogar. A sala já está apresentada. Eles apostam, jogam, conversam ou só observam.
+Não leias isto a seguir. Acrescenta quando ficarem, ou quando perguntarem o que sentem.
 
-Não apresentes os três de uma vez. Lê o diálogo só do canto a que se aproximarem.
+- Calor da lareira ao fundo. Cantos em sombra.
+- Chão com lama seca de quem entrou da rua. Uma corrente fria entra cada vez que a porta abre.
+- Jarras, pão partido, pratos sujos, poças de cerveja nas mesas do centro.
+- A corrente do letreiro chia lá fora quando há vento. O letreiro é um yunque a rir, com a tinta gasta.
 
-Cada jogo pode dar moedas, uma informação sobre a estrada ou **Phandalin**, um momento de personagem, ou uma confusão sem peso na aventura.
+## Pontos de interesse
 
-## Como resolver
+- **Visível:** porta da rua, lareira, balcão, mesa das cartas, mesa livre à janela.
+- **Se olharem a janela:** a rua, e um pátio atrás com movimento de animais e alguém a trabalhar num carro.
+- **Se saírem ao pátio:** o carro, dois bois num bebedouro, caixas e sacos, e o **Jorin**.
+- **Se forem à lareira:** o concurso de bebida já vai a meio. O público junta-se.
+- **Se forem à mesa das cartas:** moedas, uma bolsa, a **Marta** a baralhar, o **Garra** calado.
+- **Se passarem pelo centro e alguém mostrar força:** o **Torvo** desafia. O **Rápido** tem a bolsa das apostas.
+- A pedra cinzenta fica visível na mesa deles. A **Sera** entra pela porta da rua, não pelo pátio. Não digas o nome dela antes.
 
-### 1. Concurso de bebida
+## Interações
 
-- **Toma-Jarras:** marinheiro alto, careca, gargalhada fácil. Provoca.
-- **Bramido:** trabalhador do porto, barba rala, camisa suja de fuligem. Não gosta de perder.
-- Objetivo: aguentar três rodadas.
-- Teste: Constituição. CD 10, depois 12, depois 14. Cada rodada a mais sobe 2.
-- Falha: perde a rodada e fica Envenenado 1 hora. Falha por 5 ou mais: pode desmaiar. Água ou um descanso tira o veneno.
-- Aposta: 2 a 5 po por cabeça, ou uma informação sobre a estrada de **Phandalin**.
+Não obrigues ninguém. Lê o diálogo só da zona a que se aproximarem.
+
+- **Balcão:** comida, bebida, ou um rumor do porto. A mulher não conhece **Gundren** nem a **Sera**. Não mete nas apostas, desde que não partam a mobília.
+- **Jorin**, no pátio: jovem, fala depressa, quer o jantar mais do que a conversa. Aceita uma gorjeta.
+
+> —¿Son ustedes los que van a viajar con el carro? Perfecto. Yo me encargo de los animales, pero si quieren que mañana esté despierto antes del amanecer, espero que alguien se acuerde de invitarme a cenar.
+
+- **Bebida**, na lareira. **Toma-Jarras** provoca. **Bramido** não gosta de perder. Três rodadas. Constituição CD 10, 12 e 14. Cada rodada a mais sobe 2. Falha: perde a rodada e fica Envenenado 1 hora, desvantagem em ataques e em testes. Água não tira a condição. Passa com o tempo, ou com um descanso. Falha por 5 ou mais: pode desmaiar. Aposta: 2 a 5 po, ou uma informação sobre a estrada de **Phandalin**.
 
 > —¡Vamos, forasteros! —grita Bramido, empujando dos jarras oscuras hacia ustedes—. ¡Cinco monedas de oro para quien aguante tres rondas sin acabar debajo de la mesa!
 >
@@ -56,82 +62,77 @@ Cada jogo pode dar moedas, uma informação sobre a estrada ou **Phandalin**, um
 >
 > —¡Y si pierden, pagan la siguiente ronda!
 
-### 2. Jogo de cartas
+- **Cartas.** **Marta «La fina»** sorri e controla o jogo. **Garra** quase não fala e olha para as mãos. Aposta 1 a 10 po. Enganação CD 13 para os enganar. Prestidigitação CD 13 para mexer nas cartas. Intuição CD 12: ela blefa, ou ele marca as cartas. Se descobrem, confrontam, negociam ou levantam-se. Não começa luta sozinha.
 
-- **Marta «La fina»:** dedos ágeis, sorriso calmo. Gosta de ganhar e disfarça.
-- **Garra:** taciturno, cicatriz no queixo. Fala pouco e vê tudo.
-- Aposta: 1 a 10 po por rodada.
-- Enganação CD 13 para os enganar. Prestidigitação CD 13 para mexer nas cartas sem ser visto.
-- Intuição CD 12: a **Marta** blefa, ou o **Garra** marca as cartas.
-- Se descobrem a trapaça, confrontam, negociam ou levantam-se. Não começa luta sozinha.
-
-> —Las cartas no mienten, señores —dice Marta mientras baraja con un rápido movimiento de manos—. Solo pierde quien no sabe jugar.
+> —Las cartas no mienten, señores —dice Marta mientras baraja—. Solo pierde quien no sabe jugar.
 >
-> Garra levanta los ojos de sus cartas.
+> Garra levanta los ojos.
 >
 > —¿Van a jugar o solo han venido a mirar?
 
-### 3. Braço de ferro
+- **Braço de ferro**, nas mesas do centro, só se alguém aceitar ou mostrar força. **Torvo** desafia. **Rápido** recolhe o dinheiro. Força (Atletismo) disputada. Empate: repetem. Vitória: leva a aposta. Vitória por 5 ou mais: pode haver outra aposta, se aceitarem. Derrota: riem, e o **Rápido** puxa a revanche.
 
-- **Torvo:** estivador enorme, antebraços grossos, tatuagem de âncora. Desafia quem entra.
-- **Rápido:** magricela. Recolhe as apostas e procura quem arrisque moedas.
-- Teste: Força (Atletismo) disputada.
-- Empate: continuam. Repete o teste.
-- Vitória: leva o dinheiro apostado.
-- Vitória por 5 ou mais: pode haver uma aposta extra, se eles aceitarem.
-- Derrota: o público ri. O **Rápido** puxa a revanche.
-
-> —¡Codo en la mesa y nada de lloriqueos! —gruñe Torvo, extendiendo su enorme mano—. Si consiguen tumbarme, se llevan el dinero.
+> —¡Codo en la mesa y nada de lloriqueos! —gruñe Torvo—. Si consiguen tumbarme, se llevan el dinero.
 >
-> Rápido se acerca con una bolsa de monedas.
+> Rápido se acerca con una bolsa.
 >
-> —¡Vamos, que esto se pone interesante! ¿Quién se atreve?
+> —¿Quién se atreve?
 
-## Chegada da Sera
+## Informação do mestre
 
-Quando acabarem o que estavam a fazer, ou quando já tiveram tempo de olhar a sala, ela entra. Não a uses para explicar a missão antes dessa pausa.
+- Os clientes estão habituados a viajantes. Não olham duas vezes para o grupo.
+- Uma falha num jogo não cancela a viagem nem a noite.
+- Quando já tiverem feito o que queriam, baixa os outros jogos. Não anuncies a **Sera**.
 
 Lê só isto. Ainda sem a descrever.
 
-> La puerta de la taberna vuelve a abrirse. Entre el ruido de las conversaciones, algunos clientes se giran para mirar quién acaba de entrar.
+> La puerta de la taberna se abre de nuevo.
+>
+> Una corriente de aire frío entra desde la calle. Una mujer acaba de cruzar la entrada. Se detiene un instante para observar el salón y después camina entre las mesas.
+>
+> No parece tener prisa, pero tampoco se detiene a mirar a los demás.
+>
+> Al pasar junto a la chimenea, algunos apartan un poco la silla. Ella sigue hasta su mesa. La mirada se le queda en la piedra gris.
+>
+> —Así que ustedes son los escoltas.
+>
+> Acerca una silla y se sienta.
+>
+> —Soy Sera Calder. Socia de Provisiones de Barthen, en Phandalin.
 
-**Muestra** a entrada. Deixa-os ver a foto. Não leias o corpo antes da imagem.
+**Muestra** a entrada. A foto mostra o vestido, a capa e a trança. Não descrevas o corpo por cima dela.
 
 ![Sera entra](../laminas/p-sera-entrada.jpg)
 
-A foto já mostra o vestido, o decote, a fenda e o cinto. Não acrescentes isso em voz alta. Depois da imagem:
+> Sera deja las manos sobre la mesa y los mira.
+>
+> —Gundren y Sildar ya han salido. Llevan un mapa y tienen asuntos que resolver en el Castillo Cragmaw. Van a reunirse con el rey Grol.
 
-> Entra doña Sera Calder. Tiene unos cuarenta años, complexión fuerte y hombros anchos. Lleva el cabello castaño recogido en una trenza, con algunas canas. Viste un vestido burdeos, una capa gris corta y botas de viaje bastante usadas. No lleva joyas ni adornos.
->
-> Sera cruza la taberna sin detenerse a saludar a nadie. Se acerca a su mesa y observa la piedra gris.
->
-> —Así que ustedes son los escoltas. Soy Sera Calder, socia de Barthen y responsable de las provisiones que llevamos a Phandalin.
->
-> Toma asiento y deja sus cosas junto a ella.
->
-> —Gundren y Sildar ya han salido. Llevan un mapa y tienen asuntos que resolver en el Castillo Cragmaw, donde esperan reunirse con el rey Grol.
+Pausa curta.
 
-Pausa curta. Depois:
-
-> —Yo me encargaré del carro. No pienso dejar una carga de este valor en manos de cualquiera. Mañana, al amanecer, salimos hacia Phandalin. La mercancía es para el pueblo y debe llegar completa.
+> —Yo me encargaré del carro. La mercancía es para la gente de Phandalin y debe llegar completa. No pienso dejarla en manos de cualquiera.
 >
-> Sera mira a cada uno de ustedes.
+> —Mañana, al amanecer, salimos. Yo viajaré en el pescante. Ustedes protegen la carga.
 >
-> —Gundren me ha hablado de ustedes. Diez monedas de oro por cabeza, si todo llega en buenas condiciones. ¿Estamos de acuerdo?
-
-- Bêbado: ela vê logo e lança um olhar curto. Não cancela o acordo. Quer essa pessoa firme ao amanhecer.
-- Sem a pedra: ela procura o sinal. Se não o vê, pergunta pela pedra e por **Gundren**. Não pares a aventura. Deixa-os explicar, ou provar que foram contratados.
-- Se perguntam por **Gundren** e **Sildar**: ela sabe que partiram com um mapa e tinham assuntos a resolver. Não sabe o resto.
-- Se perguntam o destino: **Phandalin**, ao amanhecer.
-
-## Como avançar
-
-Não estiques a noite. Se já não há mais nada a fazer, fecha.
-
-> La noche avanza y, poco a poco, la taberna empieza a quedarse más tranquila.
+> —Gundren me ha dicho que puedo confiar en ustedes. Diez monedas de oro por cabeza, si todo llega en buenas condiciones.
 >
-> El carro ya está preparado en el patio. Los dos bueyes descansan y el joven ayudante termina de revisar los suministros.
+> —¿Tenemos un trato?
+
+- Bêbado: ela vê logo. Não cancela. Quer essa pessoa firme ao amanhecer.
+- Sem a pedra: pergunta pela marca. Não os reconhece de imediato. Deixa-os explicar. A viagem não para.
+- **Gundren** e **Sildar**: ela só sabe que partiram com o mapa.
+- A estrada: floresta e pouco movimento, até **Phandalin**.
+
+## Transição
+
+Quando quiserem fechar a noite:
+
+> La noche avanza y la taberna empieza a quedarse en silencio. Algunos clientes se marchan. Otros suben a las habitaciones.
 >
-> Mañana será un día largo. Phandalin les espera.
+> En el patio, el joven ayudante termina de preparar el carro. Los dos bueyes descansan junto al bebedero. Las provisiones están bien sujetas.
+>
+> La ciudad sigue despierta, pero su jornada ha terminado por hoy.
+>
+> Mañana los espera el camino hacia Phandalin.
 
 A manhã está no [alba](01-alba-neverwinter.md).
