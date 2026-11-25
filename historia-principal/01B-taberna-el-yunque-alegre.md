@@ -1,8 +1,8 @@
 # 0.1 — Taberna El Yunque Alegre
 
-Noite no porto de Neverwinter. Encontro com a **Sera**, se quiserem olhar a sala antes.
+**Identidade:** calor, barulho, e ninguém à espera deles. A **Sera** ainda não chegou.
 
-Não leias o cenário todo. Lê a primeira impressão. O resto só quando eles se aproximarem.
+Não leias o cenário todo. Em voz alta, a entrada e o que eles forem olhar. A regra fica em baixo.
 
 ## Primeira impressão
 
@@ -10,89 +10,90 @@ Não leias o cenário todo. Lê a primeira impressão. O resto só quando eles s
 
 ![El Yunque Alegre](../laminas/paisagens/l-yunque.jpg)
 
-> La taberna El Yunque Alegre se encuentra en una calle concurrida, no muy lejos del puerto. Desde fuera se escucha el ruido de las conversaciones y el golpeteo de las jarras sobre las mesas.
+> Desde la calle ya se oyen las jarras y las voces. El Yunque Alegre está cerca del puerto. El letrero, un yunque con cara de risa, chirría cuando pasa el viento.
 >
-> Al abrir la puerta, los recibe una corriente de aire caliente. El interior huele a cerveza, carne asada y madera quemada. Una gran chimenea mantiene caliente el salón, mientras varias lámparas de aceite iluminan las mesas y dejan algunas esquinas en penumbra.
+> Al abrir la puerta, les da en la cara una bocanada caliente. Huele a cerveza, a carne asada y a madera quemada. Una chimenea grande arde al fondo. Las lámparas de aceite dejan las esquinas a oscuras.
 >
-> La taberna está bastante concurrida. Marineros, comerciantes y trabajadores del puerto ocupan casi todas las mesas. Algunos comen, otros beben y varios discuten a voces.
+> Casi no hay mesa libre. Marineros y gente del puerto comen, beben y discuten. Cerca del fuego, dos hombres se enfrentan con jarras grandes y la gente empieza a juntarse. En otra mesa, las cartas caen deprisa y las monedas suenan.
 >
-> Al fondo hay una barra de madera oscura. Detrás, una mujer sirve bebidas y no deja de mirar a los clientes.
+> Al fondo, una mujer sirve detrás de una barra oscura y no deja de mirar la sala.
 >
-> Cerca de la chimenea, dos hombres se sientan frente a frente con jarras grandes. En otra mesa, un grupo pequeño juega a las cartas.
+> Hay una mesa junto a una ventana. Desde ahí se ve un trozo de calle. Nadie se gira a mirarlos.
 >
-> Hay algunas mesas libres. Una está junto a una ventana, desde donde se ve parte de la calle.
+> Tienen la piedra de Gundren y la noche por delante.
 >
-> Nadie parece especialmente interesado en su llegada.
->
-> Tienen la piedra de Gundren y una noche por delante, antes de partir hacia Phandalin.
+> ¿Dónde se sientan?
 
 ## O ambiente
 
-Não leias isto a seguir. Acrescenta quando ficarem, ou quando perguntarem o que sentem.
+Não acrescentes isto sozinho.
 
-- Calor da lareira ao fundo. Cantos em sombra.
-- Chão com lama seca de quem entrou da rua. Uma corrente fria entra cada vez que a porta abre.
-- Jarras, pão partido, pratos sujos, poças de cerveja nas mesas do centro.
-- A corrente do letreiro chia lá fora quando há vento. O letreiro é um yunque a rir, com a tinta gasta.
+- O chão tem lama seca. Cada vez que a porta abre, entra um fio de frio da rua.
+- Nas mesas do centro há pão partido, pratos sujos e cerveja derramada.
 
 ## Pontos de interesse
 
-- **Visível:** porta da rua, lareira, balcão, mesa das cartas, mesa livre à janela.
-- **Se olharem a janela:** a rua, e um pátio atrás com movimento de animais e alguém a trabalhar num carro.
-- **Se saírem ao pátio:** o carro, dois bois num bebedouro, caixas e sacos, e o **Jorin**.
-- **Se forem à lareira:** o concurso de bebida já vai a meio. O público junta-se.
-- **Se forem à mesa das cartas:** moedas, uma bolsa, a **Marta** a baralhar, o **Garra** calado.
-- **Se passarem pelo centro e alguém mostrar força:** o **Torvo** desafia. O **Rápido** tem a bolsa das apostas.
-- A pedra cinzenta fica visível na mesa deles. A **Sera** entra pela porta da rua, não pelo pátio. Não digas o nome dela antes.
+Se olharem a janela, lê:
 
-## Interações
+> Se ve la calle y, detrás, un patio. Hay movimiento de animales y alguien trabaja en un carro.
 
-Não obrigues ninguém. Lê o diálogo só da zona a que se aproximarem.
+Se saírem ao pátio, lê:
 
-- **Balcão:** comida, bebida, ou um rumor do porto. A mulher não conhece **Gundren** nem a **Sera**. Não mete nas apostas, desde que não partam a mobília.
-- **Jorin**, no pátio: jovem, fala depressa, quer o jantar mais do que a conversa. Aceita uma gorjeta.
+> El suelo es de tierra. El carro está bajo un techo de madera. Dos bueyes descansan junto a un bebedero. Un joven revisa las correas.
+
+É o **Jorin**. Fala depressa. Quer o jantar.
 
 > —¿Son ustedes los que van a viajar con el carro? Perfecto. Yo me encargo de los animales, pero si quieren que mañana esté despierto antes del amanecer, espero que alguien se acuerde de invitarme a cenar.
 
-- **Bebida**, na lareira. **Toma-Jarras** provoca. **Bramido** não gosta de perder. Três rodadas. Constituição CD 10, 12 e 14. Cada rodada a mais sobe 2. Falha: perde a rodada e fica Envenenado 1 hora, desvantagem em ataques e em testes. Água não tira a condição. Passa com o tempo, ou com um descanso. Falha por 5 ou mais: pode desmaiar. Aposta: 2 a 5 po, ou uma informação sobre a estrada de **Phandalin**.
+Se forem à lareira, lê:
 
-> —¡Vamos, forasteros! —grita Bramido, empujando dos jarras oscuras hacia ustedes—. ¡Cinco monedas de oro para quien aguante tres rondas sin acabar debajo de la mesa!
->
-> Toma-Jarras levanta su jarra y se ríe.
+> La competición ya va por la mitad. Uno es alto, calvo, y se ríe. El otro tiene la barba rala y la camisa sucia de hollín. Empuja dos jarras hacia quien se acerca.
+
+> —¡Vamos, forasteros! ¡Cinco monedas de oro para quien aguante tres rondas sin acabar debajo de la mesa!
 >
 > —¡Y si pierden, pagan la siguiente ronda!
 
-- **Cartas.** **Marta «La fina»** sorri e controla o jogo. **Garra** quase não fala e olha para as mãos. Aposta 1 a 10 po. Enganação CD 13 para os enganar. Prestidigitação CD 13 para mexer nas cartas. Intuição CD 12: ela blefa, ou ele marca as cartas. Se descobrem, confrontam, negociam ou levantam-se. Não começa luta sozinha.
+Se forem às cartas, lê:
 
-> —Las cartas no mienten, señores —dice Marta mientras baraja—. Solo pierde quien no sabe jugar.
->
-> Garra levanta los ojos.
+> Hay monedas y una bolsa pequeña. Ella baraja sin mirar las manos. Él casi no habla y no aparta los ojos de los demás.
+
+> —Las cartas no mienten, señores. Solo pierde quien no sabe jugar.
 >
 > —¿Van a jugar o solo han venido a mirar?
 
-- **Braço de ferro**, nas mesas do centro, só se alguém aceitar ou mostrar força. **Torvo** desafia. **Rápido** recolhe o dinheiro. Força (Atletismo) disputada. Empate: repetem. Vitória: leva a aposta. Vitória por 5 ou mais: pode haver outra aposta, se aceitarem. Derrota: riem, e o **Rápido** puxa a revanche.
+Se alguém mostrar força no centro, lê:
 
-> —¡Codo en la mesa y nada de lloriqueos! —gruñe Torvo—. Si consiguen tumbarme, se llevan el dinero.
->
-> Rápido se acerca con una bolsa.
+> Un hombre enorme, con un ancla tatuada en el antebrazo, planta el codo en la mesa. Otro, flaco, sostiene la bolsa de las apuestas.
+
+> —¡Codo en la mesa y nada de lloriqueos! Si consiguen tumbarme, se llevan el dinero.
 >
 > —¿Quién se atreve?
 
+A pedra fica visível na mesa deles. Não digas o nome da **Sera** antes de ela entrar.
+
+## Interações
+
+Não obrigues ninguém. Lê só a zona a que se aproximarem.
+
+- Balcão: comida, bebida, ou um rumor do porto.
+- Pátio: o **Jorin**, os bois, o carro.
+- Lareira, cartas, ou braço de ferro, se eles forem lá.
+
 ## Informação do mestre
 
-- Os clientes estão habituados a viajantes. Não olham duas vezes para o grupo.
-- Uma falha num jogo não cancela a viagem nem a noite.
-- Quando já tiverem feito o que queriam, baixa os outros jogos. Não anuncies a **Sera**.
+- A mulher do balcão não conhece **Gundren** nem a **Sera**. Não mete nas apostas, desde que não partam a mobília.
+- Os clientes estão habituados a viajantes. Uma falha num jogo não cancela a noite nem a viagem.
+- **Bebida:** **Toma-Jarras** e **Bramido**. Três rodadas. Constituição CD 10, 12 e 14. Cada rodada a mais sobe 2. Falha: perde a rodada e fica Envenenado 1 hora. Água não tira a condição. Passa com o tempo, ou com um descanso. Falha por 5 ou mais: pode desmaiar. Aposta: 2 a 5 po, ou uma informação da estrada.
+- **Cartas:** **Marta «La fina»** e **Garra**. 1 a 10 po. Enganação CD 13. Prestidigitação CD 13. Intuição CD 12: ela blefa, ou ele marca as cartas. Se descobrem, confrontam, negociam ou levantam-se. Não começa luta sozinha.
+- **Braço de ferro:** **Torvo** e **Rápido**. Força (Atletismo) disputada. Empate: repetem. Vitória: a aposta. Por 5 ou mais: pode haver outra, se aceitarem. Derrota: riem, e ele puxa a revanche.
 
-Lê só isto. Ainda sem a descrever.
+Quando já tiverem feito o que queriam, baixa os outros jogos. Lê só isto. Ainda sem a descrever.
 
-> La puerta de la taberna se abre de nuevo.
+> La puerta se abre de nuevo. Entra un golpe de aire frío.
 >
-> Una corriente de aire frío entra desde la calle. Una mujer acaba de cruzar la entrada. Se detiene un instante para observar el salón y después camina entre las mesas.
+> Una mujer cruza el umbral, mira el salón un instante y camina entre las mesas. No saluda a nadie. Al pasar junto al fuego, algunos apartan la silla.
 >
-> No parece tener prisa, pero tampoco se detiene a mirar a los demás.
->
-> Al pasar junto a la chimenea, algunos apartan un poco la silla. Ella sigue hasta su mesa. La mirada se le queda en la piedra gris.
+> Llega a su mesa. La mirada se le queda en la piedra gris.
 >
 > —Así que ustedes son los escoltas.
 >
@@ -119,19 +120,17 @@ Pausa curta.
 > —¿Tenemos un trato?
 
 - Bêbado: ela vê logo. Não cancela. Quer essa pessoa firme ao amanhecer.
-- Sem a pedra: pergunta pela marca. Não os reconhece de imediato. Deixa-os explicar. A viagem não para.
+- Sem a pedra: pergunta pela marca. Deixa-os explicar. A viagem não para.
 - **Gundren** e **Sildar**: ela só sabe que partiram com o mapa.
-- A estrada: floresta e pouco movimento, até **Phandalin**.
+- A estrada: floresta e pouco movimento, até **Phandalin**. Ela entra pela porta da rua, não pelo pátio.
 
 ## Transição
 
 Quando quiserem fechar a noite:
 
-> La noche avanza y la taberna empieza a quedarse en silencio. Algunos clientes se marchan. Otros suben a las habitaciones.
+> La noche avanza y la taberna se queda más quieta. Unos se van. Otros suben.
 >
-> En el patio, el joven ayudante termina de preparar el carro. Los dos bueyes descansan junto al bebedero. Las provisiones están bien sujetas.
->
-> La ciudad sigue despierta, pero su jornada ha terminado por hoy.
+> En el patio, el joven termina con el carro. Los bueyes descansan junto al bebedero.
 >
 > Mañana los espera el camino hacia Phandalin.
 

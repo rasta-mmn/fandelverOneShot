@@ -1,5 +1,7 @@
 # Viva ou morta
 
+**Identidade:** chegaram tarde. O fogo ainda arde. Ela já não.
+
 Só se o relógio está em **0**. Se ainda há marcas, não leias esta página. O diálogo está na [área 6](../historia-principal/10-area-6-sera.md).
 
 ## Primeira impressão
@@ -12,9 +14,9 @@ Só se o relógio está em **0**. Se ainda há marcas, não leias esta página. 
 >
 > Doña Sera se ha deslizado por el poste. El cuerpo no se sostiene. La cabeza le cae hacia adelante, la barbilla contra el pecho. Los ojos están cerrados. El aire huele a humo y a hierro.
 >
-> Hay cortes en los brazos, en el pecho y en la pierna. Alrededor, lanzas clavadas en el suelo, escudos y calaveras. Al fondo arde un fuego verde.
+> Hay cortes en los brazos, en el pecho y en la pierna. Alrededor, lanzas clavadas en el suelo, escudos y calaveras. Al fondo el fuego verde sigue ardiendo. Nadie lo atiende.
 >
-> Ya no respira. Llegaron tarde.
+> Ya no respira.
 >
 > Yeemik se limpia la hoja en su propia túnica.
 >
@@ -27,12 +29,15 @@ Só se o relógio está em **0**. Se ainda há marcas, não leias esta página. 
 ## O ambiente
 
 - O fogo verde fica ao fundo. Não está nela.
-- Os cinco deixaram de rir. A sala fica mais quieta do que quando entraram.
+- A sala está mais quieta do que quando entraram. O fumo continua.
 
 ## Pontos de interesse
 
-- **Visível:** o corpo no poste, os cortes, as lanças no chão, **Yeemik** com a folha.
-- **Se a empurraram ainda viva, noutro momento:** 1d6, cai a 0, três rounds para estabilizar. Não saltes para este texto antes desses rounds.
+Se olharem as lanças, lê:
+
+> Están clavadas en el suelo, no en ella. Alrededor hay escudos y calaveras. La capa gris está otra vez sobre sus hombros.
+
+Se a empurraram ainda viva, noutro momento, não saltes para este texto. Primeiro: 1d6, cai a 0, três rounds para estabilizar.
 
 ## Interações
 

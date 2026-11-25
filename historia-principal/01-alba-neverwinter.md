@@ -1,8 +1,10 @@
 # 0.2 — O alba
 
-A partida. A noite já aconteceu na [taberna](01B-taberna-el-yunque-alegre.md).
+**Identidade:** manhã fria, pão e sal. O carro já está na rua. Ela não espera discurso.
 
-Não leias o cenário todo. Lê a primeira impressão. As respostas, só se perguntarem.
+A noite já aconteceu na [taberna](01B-taberna-el-yunque-alegre.md).
+
+Não leias o cenário todo. Em voz alta, a entrada. As respostas, só se perguntarem.
 
 ## Primeira impressão
 
@@ -10,11 +12,11 @@ Tira a taberna. **Muestra** a saída.
 
 ![Alba](../laminas/01-alba-neverwinter.jpg)
 
-> El sol apenas tiñe de naranja los muros de Neverwinter. El aire está frío y huele a pan, a sal del puerto y a buey.
+> El sol apenas tiñe de naranja los muros. El aire está frío. Huele a pan recién hecho, a sal del puerto y a buey.
 >
-> Las ruedas empiezan a girar sobre los adoquines. El carro ya está en la calle.
+> Las ruedas ya giran sobre los adoquines. El carro está en la calle. Detrás van sacos, barriles y un tonel.
 >
-> Sera está en el pescante, con la capa gris sobre el vestido burdeos y las riendas firmes. Detrás se ven sacos, barriles y un tonel de aceite.
+> Sera está en el pescante. La capa gris sobre el vestido burdeos. Las riendas firmes. El cuero cruje cuando tira.
 >
 > Mira hacia atrás. Seria, sin mala cara.
 >
@@ -22,16 +24,18 @@ Tira a taberna. **Muestra** a saída.
 
 ## O ambiente
 
-- Os muros ainda estão frios. O pão das padarias chega antes do calor.
-- Os bois bufam. O couro das rédeas range quando ela puxa.
-- A rua do porto já tem gente, mas ainda não grita como à noite.
+- Os muros ainda estão frios. A rua do porto já tem gente, mas ainda não grita como à noite.
+- Os bois bufam. Não há pressa dela para além de sair.
 
 ## Pontos de interesse
 
-- **Visível:** a **Sera** no pescante, a carga tapada atrás, a rua que sai da cidade.
-- **Se olharem a carga:** sacos de farinha, carne salgada, cerveja, queijo, pão, farois, barril de azeite.
-- **Se perguntarem o valor:** **100 po**. Ela não quer que contem, nem que mexam.
-- O pagamento, na entrega, é **10 po** cada um, pagos por **Barthen**. Ela não combate.
+Se olharem a carga, lê:
+
+> Harina, carne salada, cerveza, queso, pan, faroles y un barril de aceite. Va todo sujeto. Ella no aparta la vista de quien se acerca a contarlo.
+
+Se olharem a rua, lê:
+
+> La calle baja hacia la puerta de la ciudad. Más allá, el camino se abre y el ruido del puerto se queda atrás.
 
 ## Interações
 
@@ -58,8 +62,9 @@ Só a frase do que perguntarem.
 
 ## Informação do mestre
 
-- Ela não larga a carga. Uma pergunta não atrasa a saída.
-- O **Jorin** já fez a parte dele. Não volta a entrar, salvo se o chamarem.
+- Ela não combate e não larga a carga. Uma pergunta não atrasa a saída.
+- Carga: **100 po**. Na entrega, **10 po** cada um, pagos por **Barthen**.
+- O **Jorin** já fez a parte dele. Não volta, salvo se o chamarem.
 
 ## Transição
 

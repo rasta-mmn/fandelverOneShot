@@ -1,6 +1,8 @@
 # Phandalin
 
-A praça, conforme a **Sera** venha no pescante ou no carro. Lê só um dos blocos.
+**Identidade:** fim de tarde. Se ela vive, a praça abre. Se morreu, as portas fecham.
+
+Lê só um dos blocos. A regra do pagamento fica em baixo.
 
 ## Primeira impressão
 
@@ -12,11 +14,9 @@ A praça, conforme a **Sera** venha no pescante ou no carro. Lê só um dos bloc
 
 Se ela vive, **muestra** [Barthen](../laminas/personagens/p-barthen.jpg) na porta.
 
-> Las colinas se abren. Tejados de madera, humo bajo, luz de tarde. Huele a pan. El aire está tibio después del bosque.
+> Las colinas se abren. Tejados de madera, humo bajo, luz de tarde. Huele a pan. Después del bosque, el aire está tibio.
 >
-> En la plaza, frente a Provisiones de Barthen, la gente sale al ver el vestido burdeos, sucio, con la falda abierta en el muslo.
->
-> Sera baja del pescante. Le tiembla una rodilla. No suelta la rienda hasta que la rueda para.
+> En la plaza, frente a Provisiones de Barthen, la gente sale al ver el vestido burdeos, sucio. Sera baja del pescante. Le tiembla una rodilla. No suelta la rienda hasta que la rueda para.
 >
 > Elmar Barthen sale del almacén. Se le queda la boca abierta. Ella habla antes.
 >
@@ -28,9 +28,9 @@ Se ela vive, **muestra** [Barthen](../laminas/personagens/p-barthen.jpg) na port
 
 Se ela morreu, não leias o bloco de cima.
 
-> El viento de la montaña llega a la plaza antes que el carro. Huele a polvo, no a pan. Nadie aplaude.
+> El viento de la montaña llega a la plaza antes que el carro. Huele a polvo, no a pan. Nadie sale a recibirlos.
 >
-> Cuando ven el cuerpo atrás, tapado con lo que queda de la capa gris, las puertas se cierran.
+> Cuando ven el cuerpo atrás, tapado con lo que queda de la capa gris, las puertas se cierran una a una. La plaza se queda sin voz.
 >
 > Elmar Barthen se quita el sombrero. Toma las riendas. No los mira.
 >
@@ -40,15 +40,20 @@ Se ela morreu, não leias o bloco de cima.
 
 ## O ambiente
 
-- Viva: portas abrem, gente na praça, fumo baixo das cozinhas.
-- Morta: as portas fecham-se uma a uma. A praça fica sem voz. O vento continua.
+- Viva: as portas ficam abertas. O fumo das cozinhas continua.
+- Morta: o vento não para. Ninguém brinda.
 
 ## Pontos de interesse
 
-- **Visível:** a praça, **Barthen**, o carro, ela ou o corpo.
-- **Se contarem as caixas:** o que trouxeram do cubil, mais os dois sacos do mato.
-- **Se trouxeram as do leão:** a **Linene** aparece depois, sem discurso. Paga **50 po** e assente.
-- **Gundren** continua desaparecido. O mapa já não estava no tubo. Uma frase, só se perguntarem.
+Se contarem as caixas, lê:
+
+> Están las que trajeron de la cueva, y los dos sacos que quedaron en el camino. Barthen las mira una a una. No discute el número en la plaza.
+
+Se trouxeram as do leão, a **Linene** aparece depois, sem discurso. Assente e paga.
+
+Se perguntarem por **Gundren**, lê:
+
+> Barthen niega con la cabeza. El mapa ya no estaba en el tubo. El enano no ha llegado.
 
 ## Interações
 
@@ -59,6 +64,7 @@ Se ela morreu, não leias o bloco de cima.
 
 - **10 po** cada um, viva ou morta, se a carga chega.
 - Se ela vive, pode juntar mais **50 po**, baixinho, à porta, se ainda não o disse na caverna.
+- Caixas do leão: **Linene** paga **50 po**.
 - Sem as caixas do cubil, ele recebe o que veio no carro. As dez moedas não dependem de um discurso.
 
 ## Transição

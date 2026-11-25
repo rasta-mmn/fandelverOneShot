@@ -1,29 +1,32 @@
 # Sigilo ou alerta
 
-Como entram. Não perguntes «vão de sigilo?» se as tochas já o disseram.
+**Identidade:** a água tapa a boca. O claro ainda não se vê. Não perguntes «vão de sigilo?» se as tochas já o disserem.
 
 A [gruta](../laminas/paisagens/l-gruta.jpg) e o arroio já estão na [área 1](../historia-principal/04-area-1-boca.md).
 
 ## Primeira impressão
 
-> El agua sale helada. El ruido tapa la boca. El barro de la orilla está frío.
+> El agua sale helada y les moja las botas. El ruido tapa cualquier voz que venga de dentro. El barro de la orilla está frío.
 >
-> Entre las zarzas del otro lado hay un claro. Desde aquí no se ve.
+> Entre las zarzas del otro lado hay un hueco. Desde aquí no se ve qué hay.
 >
-> Pueden pisar despacio, como si el barro fuera a delatarlos, o entrar con la luz en alto.
+> Una luz en alto se vería desde ese hueco. Un paso lento, sin antorcha, no.
 >
 > ¿Cuál es el paso?
 
 ## O ambiente
 
-- A água continua a tapar as vozes de dentro.
-- Luz alta vê-se da clareira. Passo lento, sem tocha, não.
+- A água não pára. Enquanto falarem baixo, o claro não responde.
 
 ## Pontos de interesse
 
-- **Visível:** água gelada, sarças, um claro que daqui não se vê.
-- **Se entrarem sem luz e sem gritos:** dois goblins de costas, a caminho de dentro. Não se voltam.
-- **Se já há tochas, gritos, ou tiros:** eles saem. A área 2 fica de pé.
+Se entrarem sem luz e sem gritos, **muestra** [goblins de costas](../laminas/04-cueva-sigilo.jpg) e lê:
+
+> Dos goblins caminan hacia dentro. No se vuelven. El barro guarda las pisadas de ustedes un momento y el agua las borra.
+
+Se já há tochas, gritos ou tiros, **muestra** [a saída deles](../laminas/05-cueva-alerta.jpg) e lê:
+
+> Del claro salen figuras bajas. Los arcos ya están altos. No preguntan.
 
 ## Interações
 
@@ -31,8 +34,8 @@ A [gruta](../laminas/paisagens/l-gruta.jpg) e o arroio já estão na [área 1](.
 
 ## Informação do mestre
 
-- Sem luz e sem gritos: **muestra** [goblins de costas](../laminas/04-cueva-sigilo.jpg). Sem marca.
-- Tochas, gritos, ou vigias que já dispararam: **muestra** [a saída deles](../laminas/05-cueva-alerta.jpg). Combate na boca. **−1 marca**, uma vez. A **área 2** dispara com surpresa.
+- Sem luz e sem gritos: sem marca.
+- Tochas, gritos, ou vigias que já dispararam: combate na boca. **−1 marca**, uma vez. A **área 2** dispara com surpresa.
 - Furtividade de grupo contra a Percepção passiva dos vigias. Falhar avisa-os. Não os manda de volta à estrada.
 
 ## Transição

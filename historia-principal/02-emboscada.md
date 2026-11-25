@@ -1,8 +1,8 @@
 # 0.3 — La Senda de Triboar
 
-Meio-dia. A estrada fecha. Os cavalos de **Gundren**. A **Sera** ainda está no carro.
+**Identidade:** o bosque cala. Cheira a sangue de ontem. O mato mexe sem vento.
 
-Não leias o cenário todo. O quinto goblin e o tubo só aparecem se a cena chegar lá.
+Não leias o quinto goblin nem o tubo. Só se a cena chegar lá.
 
 ## Primeira impressão
 
@@ -12,9 +12,9 @@ Antes da curva, **muestra** a [senda](../laminas/paisagens/l-senda.jpg). Quando 
 >
 > Los pájaros se callan. Solo se oyen las ruedas y el resuello de los bueyes.
 >
-> Al doblar la curva, huele a sangre vieja. A quince metros, dos caballos cruzan el camino. La tierra debajo está negra. En los costados, flechas de pluma negra.
+> Al doblar la curva, huele a sangre vieja. A quince metros, dos caballos cruzan el camino. La tierra debajo está negra y húmeda. En los costados, flechas de pluma negra.
 >
-> Sera tira de las riendas. El carro se detiene.
+> Sera tira de las riendas. El cuero cruje. El carro se detiene.
 >
 > —Esos son los caballos de Gundren.
 >
@@ -24,28 +24,34 @@ Antes da curva, **muestra** a [senda](../laminas/paisagens/l-senda.jpg). Quando 
 
 ## O ambiente
 
-- O barranco aperta dos dois lados. Os espinhos agarram a roupa se alguém sai da senda.
-- A terra debaixo dos cavalos está escura e húmida. O cheiro é de sangue de ontem, não de agora.
-- Quando a luta começa, o mato range. Não há pássaros.
+- Se alguém sai da senda, os espinhos agarram a roupa.
+- O cheiro é de ontem, não de um golpe acabado de dar.
+- Quando a luta começa, o mato range. Os pássaros não voltam.
 
 ## Pontos de interesse
 
-- **Visível:** dois cavalos mortos no caminho, flechas de pena negra, o carro parado, a **Sera** no pescante.
-- **Se olharem os cavalos:** mortos há cerca de um dia. São de **Gundren** e **Sildar**.
-- **Se procurarem junto deles:** alforges vazias e um tubo de mapas vazio no chão. Não o anuncies antes.
-- **Se olharem o mato:** quatro vultos, dois de cada lado. Ainda não os descrevas como goblins até se mexerem.
-- O quinto está junto à roda dela. Não existe na narração até ao segundo turno.
+Se olharem os cavalos, lê:
+
+> Llevan muertos cerca de un día. Las alforjas están abiertas y vacías. Son los caballos de Gundren y de Sildar.
+
+Se procurarem no chão junto deles, lê:
+
+> Hay un tubo de mapas vacío, caído entre la tierra negra. No tiene nada dentro.
+
+Se olharem o mato antes de se mexer, lê:
+
+> Hay bultos bajos, dos a cada lado. Todavía no se levantan. El quinto no está ahí: está junto a la rueda de Sera, y no se nombra hasta que tire de ella.
 
 ## Interações
 
 - Aproximar-se dos cavalos, procurar, ou preparar armas. A luta começa quando o mato se mexe.
-- Dois goblins avançam. Dois ficam a uns 9 m e disparam.
-- Alguém no pescante pode segurá-la. Se ninguém está, o quinto puxa-a no segundo turno.
+- Alguém no pescante pode segurá-la.
 - Interrogar, só se capturarem um e o acordarem. Não ofereças.
 
 ## Informação do mestre
 
 - Sigilo +6, uma vez, contra a Percepção passiva. Quem ficar abaixo perde o primeiro turno.
+- Dois avançam. Dois ficam a uns 9 m e disparam.
 - Segundo turno, se ninguém a segura:
 
 > Una mano verde sale de las zarzas, al lado de la rueda. Agarra a Sera por el brazo.
@@ -63,7 +69,7 @@ Antes da curva, **muestra** a [senda](../laminas/paisagens/l-senda.jpg). Quando 
 
 - Ficam os bois, o carro e dois sacos. O resto vai com quem foge.
 - O relógio começa em **5**, no [00](00-sera-e-relogio.md), quando a levam.
-- Se o grupo cai: acordam roubados, sem ela e sem as caixas. O rastro continua. O relógio segue. A cena não acaba.
+- Se o grupo cai: acordam roubados, sem ela e sem as caixas. O rastro continua. O relógio segue.
 - Não ofereças ir embora no carro. Se o disserem, o relógio vai a **0** e abres a [praça](../decisoes/05-prisao-phandalin.md).
 - Interrogatório, se cai a 0 por ataque corpo a corpo: menos de vinte goblins. **Klarg** serve o rei **Grol**, que trabalha para a **Aranha Negra**. **Gundren** e o mapa já foram ao **Castillo Cragmaw**, uns 30 km a noroeste. Ela está na área 6, com **Yeemik**.
 

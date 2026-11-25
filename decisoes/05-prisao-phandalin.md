@@ -1,24 +1,26 @@
 # A praça
 
-**Phandalin** sem a **Sera**. A cela só depois de a porta se fechar. O relógio, se voltarem à caverna, já está em **0**.
+**Identidade:** chegam com pouco. A praça corre, e depois fecha. A cela é fria.
+
+A cela só depois de a porta se fechar. O relógio, se voltarem à caverna, já está em **0**.
 
 ## Primeira impressão
 
 > Llegan con el carro, los bueyes y dos sacos. El pescante va vacío. En la madera hay un jirón de capa gris. Huele a polvo y a lo poco que queda de la comida.
 >
-> Al principio alguien corre hacia el carro. Luego ven lo poco que hay.
+> Al principio alguien corre hacia el carro. Luego ven los dos sacos y se detiene.
 >
-> Elmar Barthen mira las riendas sueltas.
+> Elmar Barthen mira las riendas sueltas. La voz le tiembla.
 >
 > —Doña Sera pagó ese carro para que el pueblo comiera. Y ustedes la dejaron atrás.
 >
-> Las puertas se cierran. En un minuto hay horcas, ballestas y antorchas. El aire de la plaza se queda atrás.
+> Las puertas se cierran. En un minuto hay horcas, ballestas y antorchas. El ruido de la plaza se queda fuera.
 >
 > El hierro de la celda se cierra a la espalda. Afuera piden justicia al alba.
 
 **Muestra** a [cela](../laminas/15-prision.jpg) e o [Pip](../laminas/personagens/p-pip.jpg). O [Harbin](../laminas/personagens/p-harbin.jpg), só se perguntarem quem mandou fechar.
 
-> Pip se duerme en el taburete. Las llaves cuelgan de un clavo, no del cinturón. Arriba, alguien arrastra un banco. La madera cruje.
+> Pip se duerme en el taburete. La cabeza le cae. Las llaves cuelgan de un clavo, no del cinturón. Arriba, alguien arrastra un banco. La madera cruje.
 >
 > Si quieren salir, es esta noche.
 >
@@ -26,24 +28,35 @@
 
 ## O ambiente
 
-- A cela é fria depois da praça. O banco de cima arrasta-se de vez em quando.
-- Na fuga, **muestra** a [noite](../laminas/paisagens/l-noite-vila.jpg): horta, terra molhada, duas tochas atrás.
+- A cela é fria depois da praça. O banco de cima arrasta-se de vez em quando e depois pára.
+- Na fuga, **muestra** a [noite](../laminas/paisagens/l-noite-vila.jpg).
 
 ## Pontos de interesse
 
-- **Visível:** o **Pip** a dormir, o prego com as chaves, o banco lá em cima.
-- **Se olharem ao lado:** um baú com as armas. Fechadura CD 12, ou a chave do prego.
-- **Se falarem com o Pip:** ele ouviu goblins na senda. Persuasão CD 12, se prometem voltar a procurá-la.
+Se olharem o prego, lê:
+
+> Las llaves están a un brazo de distancia. El clavo está torcido. Pip respira hondo y no se mueve.
+
+Se olharem ao lado, lê:
+
+> Hay un baúl junto a la reja. Dentro están las armas. La cerradura es mala. La misma llave del clavo la abre.
+
+Se falarem com o **Pip** e ele acordar por bem, lê:
+
+> Parpadea. Ha oído goblins en la senda. Mira la puerta antes de mirarlos a ustedes.
 
 ## Interações
 
 - Falar, tirar a chave, forçar o varão, ou esperar. Uma falha não fecha a noite.
-- De manhã, se ainda estão dentro, **Harbin** leva-os à praça. Falar com ele custa +2 na CD.
+- De manhã, se ainda estão dentro, **Harbin** leva-os à praça.
 
 ## Informação do mestre
 
-- Chave: Prestidigitação CD 13. Falha por 5 ou mais: ele acorda e grita. Menos do que isso, a chave não sai e ele continua a dormir.
+- Fechadura do baú: CD 12, ou a chave do prego.
+- **Pip:** Persuasão CD 12, se prometem voltar a procurá-la. Abre.
+- Chave: Prestidigitação CD 13. Falha por 5 ou mais: acorda e grita. Menos do que isso, a chave não sai e ele continua a dormir.
 - Varão: Atletismo CD 15. Saem pelo postigo. Há perseguição até a horta.
+- Falar com **Harbin** de manhã custa +2 na CD.
 - Fuga: Furtividade de grupo CD 12, ou um round de corrida e perdem-se no campo. Ficam foragidos.
 
 Se saem:

@@ -1,31 +1,35 @@
 # Perseguir ou seguir
 
-O carro parado e a capa nas sarças. Eles dizem. Não ofereças o povoado.
+**Identidade:** o pó ainda não assentou. O pescante está vazio. Eles dizem. Não ofereças o povoado.
 
 ## Primeira impressão
 
-> El polvo baja. El aire huele a sangre vieja y a buey. El carro sigue aquí. Los bueyes también. El pescante está vacío.
+> El polvo baja despacio. Huele a sangre vieja y a buey. El carro sigue aquí. Los bueyes no se mueven. El pescante está vacío.
 >
-> En las zarzas, la capa gris de Sera cuelga hecha jirones.
+> En las zarzas, la capa gris de Sera cuelga hecha jirones. No está en el suelo: está enganchada.
 >
-> El rastro de los tacones entra en el bosque, hacia el noroeste. El suelo está blando.
+> El rastro de los tacones entra en el bosque, hacia el noroeste. El barro está blando.
 >
 > ¿Qué hacen?
 
-Se ela ficou no carro, não leias o bloco de cima como se o pescante estivesse vazio. Ela aponta o mato:
+Se ela ficou no carro, não leias o pescante vazio. Ela aponta o mato:
 
 > —Se llevaron el tubo, y volverán por mí. O vamos ahora, o esta capa no sirve de nada.
 
 ## O ambiente
 
-- O pó ainda está no ar. Os bois não se mexem se ninguém lhes tocar.
-- A capa está presa nos espinhos, não no chão.
+- Os bois só se mexem se alguém lhes tocar.
+- O sulco no chão continua visível sem teste.
 
 ## Pontos de interesse
 
-- **Visível:** carro, bois, pescante vazio, capa, o sulco para noroeste.
-- **Se olharem o carro:** dois sacos. O resto da carga já não está.
-- **Se a seguraram na emboscada:** ela está no pescante. A pergunta é dela.
+Se olharem o carro, lê:
+
+> Quedan dos sacos. El resto de la carga ya no está.
+
+Se olharem a capa, lê:
+
+> Está rasgada y firme en las espinas. Tirar de ella no la desprende entera.
 
 ## Interações
 
