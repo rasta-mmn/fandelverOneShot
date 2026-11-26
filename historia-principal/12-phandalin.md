@@ -14,7 +14,7 @@ Concerning Hobbits na descida. Quando a faixa acabar, o fundo da vila continua. 
 
 > Las colinas se abren. Tejados de madera, humo bajo, luz de tarde. Huele a pan. Después del bosque, el aire está tibio. Las ruedas bajan solas. Nadie tiene que gritar a los bueyes.
 
-Deixa a flauta seguir. **Muestra** a [chegada](../laminas/12-sera-chegada.jpg).
+Deixa a flauta seguir. **Muestra** a [chegada](../laminas/12-sera-em-casa.jpg).
 
 > En la plaza, frente a Provisiones de Barthen, Sera baja del pescante. Le tiembla una rodilla. El vestido burdeos está rasgado, sucio de barro y de sangre seca. No suelta la rienda hasta que la rueda para.
 >
