@@ -1,6 +1,6 @@
 # Viva ou morta
 
-**Dispara:** em «Demasiado lentos», [Inside a Dream](https://www.youtube.com/watch?v=xAyrYgQ9gVk). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3).
+**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3). Não troques.
 
 **Identidade:** chegaram tarde. O fogo ainda arde. Ela já não.
 
@@ -8,25 +8,41 @@ Só se o relógio está em **0**. Se ainda há marcas, não leias esta página. 
 
 ## Primeira impressão
 
-**Muestra** a lâmina antes do texto. É a Sera do retrato, desabada, queixo no peito. A capa voltou aos ombros. Nada cravado nela.
+**Muestra** a lâmina antes do texto. Ela está no poste.
 
 ![Sera morta](../laminas/11-sera-muerta.jpg)
 
-> Cuando levantan la vista, ya no está de pie.
+> Cuando levantáis la vista, Sera ya no está de pie.
 >
-> Doña Sera se ha deslizado por el poste. El cuerpo no se sostiene. La cabeza le cae hacia adelante, la barbilla contra el pecho. Los ojos están cerrados. El aire huele a humo y a hierro.
+> Su cuerpo cuelga del poste, sujeto por las ataduras que le mantienen los brazos levantados. La cabeza cae hacia delante y su trenza, ahora deshecha y cubierta de sangre, le oculta parte del rostro.
 >
-> Hay cortes en los brazos, en el pecho y en la pierna. Alrededor, lanzas clavadas en el suelo, escudos y calaveras. Al fondo el fuego verde sigue ardiendo. Nadie lo atiende.
+> Su vestido burdeos está rasgado y empapado. La tela se pega a las heridas de su pecho y sus costados. Tiene cortes profundos en los brazos, marcas de golpes en el rostro y una herida abierta en el muslo. Una de sus botas ha desaparecido. La otra apenas se mantiene sujeta al pie.
 >
-> Ya no respira.
+> La sangre ha caído por el poste y se ha mezclado con la tierra bajo sus pies. Hay manchas oscuras en el suelo y salpicaduras en las piedras cercanas.
 >
-> Yeemik se limpia la hoja en su propia túnica.
+> No parece que los goblins hayan tenido prisa. Han dejado sus lanzas clavadas alrededor del poste, como si hubieran preparado una exhibición. Uno de sus escudos descansa junto a una calavera. Otro tiene manchas de sangre seca.
+>
+> La trenza de Sera sigue llevando el pequeño cordón de cuero que sujetaba su cabello cuando la conocisteis.
+>
+> El fuego verde continúa ardiendo al fondo. Su luz ilumina el cuerpo de Sera, pero no llega a calentar la cueva.
+>
+> No hay movimiento. No hay respiración.
+>
+> Sera Calder está muerta.
+>
+> Yeemik se limpia la hoja de su cuchillo con un trozo de la túnica de Sera. Después levanta la mirada hacia vosotros.
 >
 > —Demasiado lentos.
 >
-> Los cinco de abajo ya no ríen.
+> Durante unos segundos, nadie dice nada.
 >
-> ¿Bajan el cuerpo, o suben a por él?
+> Los cinco goblins que permanecen abajo han dejado de reír. Uno de ellos mira el cuerpo y después a vosotros. Otro retrocede un paso.
+>
+> Yeemik sonríe.
+>
+> —¿Queríais salvarla? Ahora podéis llevaros lo que queda.
+>
+> El cuerpo de Sera sigue colgado del poste.
 
 ## O ambiente
 
@@ -34,10 +50,6 @@ Só se o relógio está em **0**. Se ainda há marcas, não leias esta página. 
 - A sala está mais quieta do que quando entraram. O fumo continua.
 
 ## Pontos de interesse
-
-Se olharem as lanças, lê:
-
-> Están clavadas en el suelo, no en ella. Alrededor hay escudos y calaveras. La capa gris está otra vez sobre sus hombros.
 
 Se a empurraram ainda viva, noutro momento, não saltes para este texto. Primeiro: 1d6, cai a 0, três rounds para estabilizar.
 

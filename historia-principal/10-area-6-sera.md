@@ -1,6 +1,6 @@
 # 6 — Sera e Yeemik
 
-**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Quando a virem viva, oito segundos de [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI), e volta. Com o relógio a 0, não toques essa frase.
+**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Ao salvá-la: [The Bridge of Khazad Dum](https://www.youtube.com/watch?v=vbKy6FuACKg). Se a virem viva e não a salvarem, essa faixa ao vê-la. Morta: não troques.
 
 **Identidade:** calor, fumo, riso em baixo, e uma voz que não é de goblin lá em cima.
 
@@ -47,7 +47,7 @@ Se o relógio está em **0**: a [Sera morta](../laminas/11-sera-muerta.jpg) e a 
 
 ## Informação do mestre
 
-Quando olharem e ela vive:
+Quando olharem e ela vive, se este olhar não a tira do poste: Khazad Dum agora. Se as cordas vão cair, espera por esse momento.
 
 > Doña Sera está atada al poste, los brazos en alto. El vestido burdeos está rasgado en el hombro y en el muslo. Tiene el pómulo negro. Una hoja oxidada le toca el cuello.
 >
@@ -72,5 +72,5 @@ Quando olharem e ela vive:
 
 ## Transição
 
-- Cordas caem e ela vive: sair, ou as caixas em [Klarg](11-area-8-klarg.md). Com ela, ou com o corpo, o carro abre [Phandalin](12-phandalin.md).
+- Cordas caem e ela vive: Khazad Dum. Sair, ou as caixas em [Klarg](11-area-8-klarg.md). Com ela, ou com o corpo, o carro abre [Phandalin](12-phandalin.md).
 - Ele chega ao turno e ela vive: o [trato](../decisoes/04-trato-yeemik.md). Não repitas a oferta se já a leste aqui.

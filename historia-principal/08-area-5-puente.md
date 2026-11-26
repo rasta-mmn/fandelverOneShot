@@ -1,6 +1,6 @@
 # 5 — A ponte
 
-**Dispara:** [Riddles in the Dark](https://www.youtube.com/watch?v=aKgH4KELcUw). **Fundo, bem baixo:** [Underground Lake](https://sounds.tabletopaudio.com/184_Underground_Lake.mp3). Se ele grita: [The Bridge of Khazad Dum](https://www.youtube.com/watch?v=vbKy6FuACKg).
+**Dispara:** [Riddles in the Dark](https://www.youtube.com/watch?v=aKgH4KELcUw). **Fundo, bem baixo:** [Underground Lake](https://sounds.tabletopaudio.com/184_Underground_Lake.mp3).
 
 **Identidade:** altura, uma corda gasta, e alguém que ainda não os viu. A onda só existe se ele gritar.
 
