@@ -1,6 +1,6 @@
 # Phandalin
 
-**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3). Se morreu, [The Breaking of the Fellowship](https://www.youtube.com/watch?v=fowHzOH9rqk). **Fundo:** [Ghost Town](https://sounds.tabletopaudio.com/208_Ghost_Town.mp3).
+**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3). Se morreu, [Inside a Dream](https://www.youtube.com/watch?v=xAyrYgQ9gVk). **Fundo:** [Ghost Town](https://sounds.tabletopaudio.com/208_Ghost_Town.mp3).
 
 **Identidade:** fim de tarde. Se ela vive, a praça abre. Se morreu, as portas fecham.
 

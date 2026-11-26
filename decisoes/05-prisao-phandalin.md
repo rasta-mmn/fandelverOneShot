@@ -1,6 +1,6 @@
 # A praça
 
-**Dispara:** [The Breaking of the Fellowship](https://www.youtube.com/watch?v=fowHzOH9rqk). **Fundo, bem baixo:** [Ghost Town](https://sounds.tabletopaudio.com/208_Ghost_Town.mp3).
+**Dispara:** [Inside a Dream](https://www.youtube.com/watch?v=xAyrYgQ9gVk). **Fundo, bem baixo:** [Ghost Town](https://sounds.tabletopaudio.com/208_Ghost_Town.mp3).
 
 **Identidade:** chegam com pouco. A praça corre, e depois fecha. A cela é fria.
 
