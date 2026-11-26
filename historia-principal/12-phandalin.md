@@ -1,8 +1,8 @@
 # Phandalin
 
-**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3). Se morreu, [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw). **Fundo:** [Ghost Town](https://sounds.tabletopaudio.com/208_Ghost_Town.mp3).
+**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3). Se morreu, ou se não a trouxeram, [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw). **Fundo:** [Ghost Town](https://sounds.tabletopaudio.com/208_Ghost_Town.mp3).
 
-Lê um bloco só. A história acaba com a música. Não há pergunta no fim.
+Lê um bloco só. Viva, com o corpo, ou sem ela. A história acaba com a música. Não há pergunta no fim.
 
 ## Se ela vive
 
@@ -52,13 +52,11 @@ O tema triste dura perto de dois minutos. **Muestra** a portada. Não mostres o 
 
 > El viento de la montaña llega a la plaza antes que el carro. Huele a polvo, no a pan. Nadie sale a recibirlos.
 
-**Muestra** a [Sera morta](../laminas/11-sera-muerta.jpg).
+**Muestra** as [tábuas](../laminas/13-sera-tabuas.jpg).
 
 > Cuando ven el cuerpo atrás, tapado con lo que queda de la capa gris, las puertas se cierran una a una. La plaza se queda sin voz.
 
-Deixa o canto ir sozinho.
-
-**Muestra** o [Barthen](../laminas/personagens/p-barthen.jpg).
+Deixa o canto ir sozinho. Não mostres o retrato da caverna.
 
 > Elmar Barthen se quita el sombrero. Toma las riendas. No los mira. Entre dos, bajan a Sera y la dejan sobre las tablas, frente al almacén. La capa gris no la cubre entera. Alguien trae una vela. Otro deja, a su lado, un pan que no se parte.
 >
@@ -69,5 +67,23 @@ Deixa o canto ir sozinho.
 > —La comida queda. Ella, también. Cobren. Váyanse antes de que anochezca.
 >
 > El carro se vacía en silencio. Cuando miran atrás, la plaza sigue cerrada. En una ventana, una sola vela. El camino está oscuro, y no hay nadie que los llame.
+>
+> Aquí se acaba.
+
+## Se não a trouxeram
+
+O tema triste, o mesmo. **Muestra** a portada, não o vale.
+
+![Phandalin](../laminas/portadas/c-phandalin.jpg)
+
+**Muestra** a [carroça](../laminas/14-carroca-sem-sera.jpg).
+
+> El pescante va vacío. En la madera hay un jirón de capa gris. Huele a polvo y a lo poco que queda de la comida. Nadie corre hacia el carro.
+>
+> Elmar Barthen no sale del umbral. Mira las riendas sueltas, luego a ustedes, y da un paso atrás. La voz le sale baja.
+>
+> —La comida está. Ella, no. Descarguen. Cuento los sacos. Cobren lo de Gundren y váyanse antes de que anochezca. La posada no abre.
+>
+> Las monedas quedan en la palma. Él no cierra los dedos. El carro se vacía en silencio. Cuando miran atrás, la puerta del almacén ya está cerrada. No hay vela en la ventana.
 >
 > Aquí se acaba.
