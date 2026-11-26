@@ -42,7 +42,7 @@ Aí a festa.
 >
 > Barthen no da un discurso. Cuenta diez monedas de oro en cada palma. Cierra los dedos de ustedes sobre las monedas, uno por uno.
 >
-> —Gundren paga lo prometido. El pueblo paga la cena.
+> —El enano no va a volver. El trato lo cumplo yo. El pueblo paga la cena.
 >
 > Les ponen una jarra en la mano. Sera está sentada junto al fuego, con una manta sobre los hombros. Por primera vez desde que salieron de Neverwinter, parece tranquila.
 >
@@ -70,7 +70,7 @@ O tema triste dura perto de dois minutos. A festa que ia haver não acontece. **
 >
 > Barthen cuenta diez monedas de oro en cada palma. Esta vez no hay agradecimiento ni celebración.
 >
-> —Gundren pagará lo prometido. Yo me ocuparé de ella.
+> —El enano no está. El trato lo cumplo yo. De ella me ocupo yo.
 >
 > La plaza permanece en silencio mientras la gente se acerca. Algunas puertas quedan abiertas. Otras se cierran.
 >
@@ -116,7 +116,7 @@ Se mostram algo dela, a capa rasgada, a pedra do Gundren, ou um goblin que a viu
 
 > Barthen mira lo que le ponen en la mano. No discute. Cuenta diez monedas, sin cerrarles los dedos.
 >
-> —Gundren pagará esto. Yo no celebro.
+> —El trato era suyo. Él no está. Esto lo pago yo. Yo no celebro.
 >
 > —Marchaos de Phandalin antes de que anochezca.
 >
@@ -127,5 +127,5 @@ Se mostram algo dela, a capa rasgada, a pedra do Gundren, ou um goblin que a viu
 ## Para ti
 
 - Viva: alívio e recompensa. A vila reconhece o esforço e celebra o pão.
-- Morta: luto. As dez moedas de Gundren ficam na mão, e a festa não acontece.
+- Morta: luto. As dez moedas ficam na mão, pagas pelo Barthen, e a festa não acontece.
 - Sem ela: fracasso. Sem prova, não há pagamento nem porta aberta. Com prova dela, as dez moedas, e mesmo assim saem antes da noite.
