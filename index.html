@@ -10,7 +10,7 @@
 <header><a href="index.html" target="_blank" rel="noopener">Flechas de goblin</a></header>
 <div class="mesa">
 <main>
-<div class="cena"><h1>Flechas de goblin</h1><p><strong>Dispara:</strong> <a href="https://www.youtube.com/watch?v=LRLdhFVzqt4" target="_blank" rel="noopener">Heart of Courage</a>, quando entrega a pedra e quando a cidade aparece. <strong>Fundo, bem baixo:</strong> <a href="https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3" target="_blank" rel="noopener">Overland with Oxen</a>. Na cidade, <a href="https://sounds.tabletopaudio.com/56_Medieval_Town.mp3" target="_blank" rel="noopener">Medieval Town</a>. <strong>Golpe:</strong> <a href="https://www.youtube.com/watch?v=4Nvzmkg-CGw" target="_blank" rel="noopener">Música de batalha</a>. Dez segundos, salta a 1:10, mais dez. No 20 de um deles, e quando cai o último inimigo. O botão está na ficha da Sera.</p></div>
+<div class="cena"><h1>Flechas de goblin</h1><p><strong>Dispara:</strong> <a href="https://www.youtube.com/watch?v=LRLdhFVzqt4" target="_blank" rel="noopener">Heart of Courage</a>, quando entrega a pedra e quando a cidade aparece. <strong>Fundo, bem baixo:</strong> <a href="https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3" target="_blank" rel="noopener">Overland with Oxen</a>. Na cidade, <a href="https://sounds.tabletopaudio.com/56_Medieval_Town.mp3" target="_blank" rel="noopener">Medieval Town</a>. <strong>Golpe:</strong> <a href="https://www.youtube.com/watch?v=4Nvzmkg-CGw" target="_blank" rel="noopener">Música de batalha</a>. Quinze segundos, salta a 1:10, mais dez. No 20 de um deles, e quando cai o último inimigo. O botão está na ficha da Sera.</p></div>
 <p>Lê em voz alta, em blocos. Não uses o mesmo ritmo o tempo todo.</p>
 <p>Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. Deixa uns segundos de silêncio antes de mostrares a cidade. As fotos só abrem no clique.</p>
 <p><strong>Muestra</strong> os dois.</p>
@@ -93,7 +93,7 @@ if (golpe) {
     golpe.textContent = "Cortar";
     timer = setInterval(() => {
       const t = player.getCurrentTime();
-      if (!jumped && t >= 10) {
+      if (!jumped && t >= 15) {
         jumped = true;
         player.seekTo(70, true);
         fim = setTimeout(() => { if (playing) stop(); }, 12000);

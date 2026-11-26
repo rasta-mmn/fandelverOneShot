@@ -81,7 +81,7 @@ if (golpe) {
     golpe.textContent = "Cortar";
     timer = setInterval(() => {
       const t = player.getCurrentTime();
-      if (!jumped && t >= 10) {
+      if (!jumped && t >= 15) {
         jumped = true;
         player.seekTo(70, true);
         fim = setTimeout(() => { if (playing) stop(); }, 12000);
