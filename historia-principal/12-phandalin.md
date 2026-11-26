@@ -1,6 +1,6 @@
 # Phandalin
 
-**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). Sem fundo. Se morreu, [Sadness and Sorrow](https://www.youtube.com/watch?v=_kr7pv2fin8). Se não a trouxeram, [Light of the Seven](https://www.youtube.com/watch?v=6LASz6HAL7E). Nas duas últimas, corta em «Aquí se acaba el camino.»
+**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). Sem fundo. Se morreu, [Sadness and Sorrow](https://www.youtube.com/watch?v=_kr7pv2fin8). Se não a trouxeram, [Apple Seed](https://www.youtube.com/watch?v=zgn9kVbHObs). Nas duas últimas, corta em «Aquí se acaba el camino.»
 
 Lê um bloco só. Viva, com o corpo, ou sem ela. Os três acabam com a mesma frase. No terceiro, para em «¿Dónde está Sera?» e deixa-os falar.
 
@@ -82,7 +82,7 @@ Deixa o canto ir sozinho.
 
 ## Se não a trouxeram
 
-Light of the Seven. Começa no piano e cresce. Não mostres o vale.
+Apple Seed. Graves e agressiva. Não mostres o vale.
 
 ![Phandalin](../laminas/portadas/c-phandalin.jpg)
 
