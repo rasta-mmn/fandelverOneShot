@@ -55,4 +55,4 @@ Mostra o retrato na primeira vez que o nome importa. Depois podes tirá-lo.
 | Harbin Wester | Na acusação | [personagens/p-harbin.jpg](personagens/p-harbin.jpg) |
 | Pip | Na cela | [personagens/p-pip.jpg](personagens/p-pip.jpg) |
 
-Sera viva e Sera morta continuam em `10-sera-viva.jpg` e `11-sera-muerta.jpg`, na pasta de cima. Esses dois só entram quando o relógio se resolve.
+| Sera viva e Sera morta continuam em `10-sera-viva.jpg` e `11-sera-muerta.jpg`, na pasta de cima. A chegada a Phandalin, viva, é `12-sera-chegada.jpg`. Esses três só entram quando o relógio se resolve.

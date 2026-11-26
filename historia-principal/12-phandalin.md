@@ -6,7 +6,7 @@ Lê um bloco só. A história acaba com a música. Não há pergunta no fim.
 
 ## Se ela vive
 
-Concerning Hobbits dura perto de três minutos. **Muestra** a portada e o vale antes da primeira frase.
+Concerning Hobbits na descida. Quando a faixa acabar, o fundo da vila continua. **Muestra** a portada e o vale antes da primeira frase.
 
 ![Phandalin](../laminas/portadas/c-phandalin.jpg)
 
@@ -14,19 +14,27 @@ Concerning Hobbits dura perto de três minutos. **Muestra** a portada e o vale a
 
 > Las colinas se abren. Tejados de madera, humo bajo, luz de tarde. Huele a pan. Después del bosque, el aire está tibio. Las ruedas bajan solas. Nadie tiene que gritar a los bueyes.
 
-Deixa a flauta seguir.
+Deixa a flauta seguir. **Muestra** a [chegada](../laminas/12-sera-chegada.jpg).
 
-**Muestra** a [Sera](../laminas/10-sera-viva.jpg) e o [Barthen](../laminas/personagens/p-barthen.jpg).
-
-> En la plaza, frente a Provisiones de Barthen, la gente sale al ver el vestido burdeos, sucio de barro y de sangre seca. Alguien deja caer un cesto. Nadie grita. Sera baja del pescante. Le tiembla una rodilla. No suelta la rienda hasta que la rueda para.
+> En la plaza, frente a Provisiones de Barthen, Sera baja del pescante. Le tiembla una rodilla. El vestido burdeos está rasgado, sucio de barro y de sangre seca. No suelta la rienda hasta que la rueda para.
 >
-> Elmar Barthen sale del almacén con harina en las manos. Se le queda la boca abierta. Ella habla antes.
+> Elmar Barthen sale del almacén con una manta gris. No pregunta qué pasó. Se la pone sobre los hombros y cierra la tela con las dos manos.
+>
+> —Entrad. Primero agua caliente. La plaza puede esperar.
+>
+> Ella habla antes de que alguien llore.
 >
 > —Estos no son simples escoltas. Sin ellos, hoy no hay pan.
+>
+> —Lo sé. Por eso hay baño, y después hay cena.
 
-A porta da posada abre. Deixa o tema crescer.
+O banho é uma porta fechada. Não descrevas a água.
 
-> Una mujer abre la puerta de la posada. Sale olor a estofado y a madera caliente. Alguien ríe, corto, como si no se atreviera, y después ríe de verdad. Traen bancos a la plaza. El pan que iba en el carro se parte ahí mismo, todavía con el polvo del camino. Se lo pasan de mano en mano.
+> Detrás de la posada hay cubos, vapor y una puerta que se cierra. El vestido rasgado se queda en un banco. Cuando salen, el barro ya no está. Huele a jabón y a pan.
+
+Aí a festa. **Muestra** a [rua](../laminas/paisagens/l-rua.jpg).
+
+> Traen bancos a la plaza. El pan que iba en el carro se parte ahí mismo. Se lo pasan de mano en mano. Alguien ríe, corto, y después ríe de verdad.
 >
 > Barthen no da un discurso. Cuenta diez monedas de oro en cada palma. Cierra los dedos de ustedes sobre las monedas, uno por uno.
 >
