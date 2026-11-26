@@ -9,7 +9,7 @@
 <body>
 <header><a href="../index.html" target="_blank" rel="noopener">Flechas de goblin</a></header>
 <main>
-<div class="cena"><h1>0.3 — La Senda de Triboar</h1><p><strong>Dispara:</strong> <a href="https://www.youtube.com/watch?v=CL_3mlOPnGI" target="_blank" rel="noopener">Concerning Hobbits</a>. <strong>Fundo, bem baixo:</strong> <a href="https://sounds.tabletopaudio.com/161_Forest_Day.mp3" target="_blank" rel="noopener">Forest: Day</a>. No mato: <a href="https://www.youtube.com/watch?v=BLqktDBIew8" target="_blank" rel="noopener">Steel for Humans</a>. <strong>Golpe:</strong> <a href="https://www.youtube.com/watch?v=4Nvzmkg-CGw" target="_blank" rel="noopener">Música de batalha</a>, 8 segundos, no 20 e na vitória.</p></div>
+<div class="cena"><h1>0.3 — La Senda de Triboar</h1><p><strong>Dispara:</strong> <a href="https://www.youtube.com/watch?v=CL_3mlOPnGI" target="_blank" rel="noopener">Concerning Hobbits</a>. <strong>Fundo, bem baixo:</strong> <a href="https://sounds.tabletopaudio.com/161_Forest_Day.mp3" target="_blank" rel="noopener">Forest: Day</a>. No mato: <a href="https://www.youtube.com/watch?v=BLqktDBIew8" target="_blank" rel="noopener">Steel for Humans</a>. <strong>Golpe:</strong> <a href="https://www.youtube.com/watch?v=4Nvzmkg-CGw" target="_blank" rel="noopener">Música de batalha</a>, no 20 e na vitória. O botão está na ficha.</p></div>
 <p><strong>Identidade:</strong> o bosque cala. Cheira a sangue de ontem. O mato mexe sem vento.</p>
 <p>Não leias o quinto goblin nem o tubo. Só se a cena chegar lá.</p>
 <h2>Primeira impressão</h2>
@@ -62,10 +62,13 @@ if (golpe) {
   let player = null;
   let ready = false;
   let playing = false;
+  let jumped = false;
   let timer = 0;
+  let fim = 0;
   const stop = () => {
     playing = false;
-    clearTimeout(timer);
+    clearInterval(timer);
+    clearTimeout(fim);
     golpe.textContent = "Golpe";
     if (ready) {
       player.pauseVideo();
@@ -73,12 +76,20 @@ if (golpe) {
     }
   };
   const play = () => {
+    clearInterval(timer);
+    jumped = false;
     player.seekTo(0, true);
     player.playVideo();
     playing = true;
     golpe.textContent = "Cortar";
-    clearTimeout(timer);
-    timer = setTimeout(stop, 8000);
+    timer = setInterval(() => {
+      const t = player.getCurrentTime();
+      if (!jumped && t >= 10) {
+        jumped = true;
+        player.seekTo(70, true);
+        fim = setTimeout(() => { if (playing) stop(); }, 12000);
+      } else if (jumped && t >= 80) stop();
+    }, 200);
   };
   const boot = () => {
     player = new YT.Player("golpe-yt", {

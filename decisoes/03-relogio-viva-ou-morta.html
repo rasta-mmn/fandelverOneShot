@@ -55,10 +55,13 @@ if (golpe) {
   let player = null;
   let ready = false;
   let playing = false;
+  let jumped = false;
   let timer = 0;
+  let fim = 0;
   const stop = () => {
     playing = false;
-    clearTimeout(timer);
+    clearInterval(timer);
+    clearTimeout(fim);
     golpe.textContent = "Golpe";
     if (ready) {
       player.pauseVideo();
@@ -66,12 +69,20 @@ if (golpe) {
     }
   };
   const play = () => {
+    clearInterval(timer);
+    jumped = false;
     player.seekTo(0, true);
     player.playVideo();
     playing = true;
     golpe.textContent = "Cortar";
-    clearTimeout(timer);
-    timer = setTimeout(stop, 8000);
+    timer = setInterval(() => {
+      const t = player.getCurrentTime();
+      if (!jumped && t >= 10) {
+        jumped = true;
+        player.seekTo(70, true);
+        fim = setTimeout(() => { if (playing) stop(); }, 12000);
+      } else if (jumped && t >= 80) stop();
+    }, 200);
   };
   const boot = () => {
     player = new YT.Player("golpe-yt", {

@@ -1,7 +1,7 @@
 # Flechas de goblin
 
 **Dispara:** [Heart of Courage](https://www.youtube.com/watch?v=LRLdhFVzqt4), quando entrega a pedra e quando a cidade aparece. **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3). Na cidade, [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3).
-**Golpe, 8 segundos:** [Música de batalha](https://www.youtube.com/watch?v=4Nvzmkg-CGw). No 20 de um deles, e quando cai o último inimigo. Corta e volta à luta.
+**Golpe:** [Música de batalha](https://www.youtube.com/watch?v=4Nvzmkg-CGw). Dez segundos, salta a 1:10, mais dez. No 20 de um deles, e quando cai o último inimigo. O botão está na ficha da Sera.
 
 Lê em voz alta, em blocos. Não uses o mesmo ritmo o tempo todo.
 

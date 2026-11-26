@@ -1,6 +1,6 @@
 # Sigilo ou alerta
 
-**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Com tochas ou gritos: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Golpe:** [Música de batalha](https://www.youtube.com/watch?v=4Nvzmkg-CGw), 8 segundos, no 20 e na vitória.
+**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Com tochas ou gritos: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Golpe:** [Música de batalha](https://www.youtube.com/watch?v=4Nvzmkg-CGw), no 20 e na vitória. O botão está na ficha.
 
 **Identidade:** a água tapa a boca. O claro ainda não se vê. Não perguntes «vão de sigilo?» se as tochas já o disserem.
 

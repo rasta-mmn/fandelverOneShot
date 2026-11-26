@@ -1,6 +1,6 @@
 # 8 — Klarg
 
-**Dispara:** [Smaug Suite](https://www.youtube.com/watch?v=SU_rtsb3zA4). Na luta: [Forth Eorlingas](https://www.youtube.com/watch?v=lIHFBJGj-yQ). Sala vazia: [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3). **Golpe:** [Música de batalha](https://www.youtube.com/watch?v=4Nvzmkg-CGw), 8 segundos, no 20 e na vitória.
+**Dispara:** [Smaug Suite](https://www.youtube.com/watch?v=SU_rtsb3zA4). Na luta: [Forth Eorlingas](https://www.youtube.com/watch?v=lIHFBJGj-yQ). Sala vazia: [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3). **Golpe:** [Música de batalha](https://www.youtube.com/watch?v=4Nvzmkg-CGw), no 20 e na vitória. O botão está na ficha.
 
 **Identidade:** calor no meio, humidade na parede, e uma voz que fala de si. Se a sala foi avisada, a voz não está. Os sacos, sim.
 
