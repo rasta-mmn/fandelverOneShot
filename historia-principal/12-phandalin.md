@@ -1,6 +1,6 @@
 # Phandalin
 
-**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3). Se morreu, ou se não a trouxeram, [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw). **Fundo:** [Ghost Town](https://sounds.tabletopaudio.com/208_Ghost_Town.mp3).
+**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). Sem fundo. Se morreu, [Sadness and Sorrow](https://www.youtube.com/watch?v=_kr7pv2fin8). Se não a trouxeram, [Light of the Seven](https://www.youtube.com/watch?v=6LASz6HAL7E). Nas duas últimas, corta em «Aquí se acaba el camino.»
 
 Lê um bloco só. Viva, com o corpo, ou sem ela. Os três acabam com a mesma frase. No terceiro, para em «¿Dónde está Sera?» e deixa-os falar.
 
@@ -50,7 +50,7 @@ O banho é uma porta fechada. Não descrevas a água.
 
 ## Se ela morreu
 
-O tema triste. Não mostres o vale nem o retrato da caverna.
+Sadness and Sorrow. Não mostres o vale nem o retrato da caverna.
 
 ![Phandalin](../laminas/portadas/c-phandalin.jpg)
 
@@ -82,7 +82,7 @@ Deixa o canto ir sozinho.
 
 ## Se não a trouxeram
 
-O tema triste, o mesmo. Não mostres o vale.
+Light of the Seven. Começa no piano e cresce. Não mostres o vale.
 
 ![Phandalin](../laminas/portadas/c-phandalin.jpg)
 
