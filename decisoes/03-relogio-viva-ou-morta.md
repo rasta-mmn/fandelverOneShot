@@ -1,6 +1,6 @@
 # Viva ou morta
 
-**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3). Não troques.
+**Dispara:** [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3).
 
 **Identidade:** chegaram tarde. O fogo ainda arde. Ela já não.
 

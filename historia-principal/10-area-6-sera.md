@@ -1,6 +1,6 @@
 # 6 — Sera e Yeemik
 
-**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Ao salvá-la: [The Bridge of Khazad Dum](https://www.youtube.com/watch?v=vbKy6FuACKg). Se a virem viva e não a salvarem, essa faixa ao vê-la. Morta: não troques.
+**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Ao salvá-la: [The Bridge of Khazad Dum](https://www.youtube.com/watch?v=vbKy6FuACKg). Se a virem viva e não a salvarem, essa faixa ao vê-la. Morta: [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw).
 
 **Identidade:** calor, fumo, riso em baixo, e uma voz que não é de goblin lá em cima.
 

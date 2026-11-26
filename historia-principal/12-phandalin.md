@@ -1,6 +1,6 @@
 # Phandalin
 
-**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3). Se morreu, [Inside a Dream](https://www.youtube.com/watch?v=xAyrYgQ9gVk). **Fundo:** [Ghost Town](https://sounds.tabletopaudio.com/208_Ghost_Town.mp3).
+**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3). Se morreu, [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw). **Fundo:** [Ghost Town](https://sounds.tabletopaudio.com/208_Ghost_Town.mp3).
 
 Lê um bloco só. A história acaba com a música. Não há pergunta no fim.
 
@@ -38,7 +38,7 @@ A porta da posada abre. Deixa o tema crescer.
 
 ## Se ela morreu
 
-Inside a Dream dura perto de dois minutos. **Muestra** a portada. Não mostres o vale.
+O tema triste dura perto de dois minutos. **Muestra** a portada. Não mostres o vale.
 
 ![Phandalin](../laminas/portadas/c-phandalin.jpg)
 
