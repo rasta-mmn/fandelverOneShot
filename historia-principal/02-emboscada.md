@@ -1,6 +1,6 @@
 # 0.3 — La Senda de Triboar
 
-**Dispara:** [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Forest: Day](https://sounds.tabletopaudio.com/161_Forest_Day.mp3). No mato: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Golpe:** [Pegasus Fantasy](https://www.youtube.com/watch?v=t1jHn7zJaAU), 8 segundos, no 20 e na vitória.
+**Dispara:** [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Forest: Day](https://sounds.tabletopaudio.com/161_Forest_Day.mp3). No mato: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Golpe:** [Música de batalha](https://www.youtube.com/watch?v=4Nvzmkg-CGw), 8 segundos, no 20 e na vitória.
 
 **Identidade:** o bosque cala. Cheira a sangue de ontem. O mato mexe sem vento.
 

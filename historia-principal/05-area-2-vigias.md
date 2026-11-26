@@ -1,6 +1,6 @@
 # 2 — Os vigias
 
-**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Se a boca já os armou: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Golpe:** [Pegasus Fantasy](https://www.youtube.com/watch?v=t1jHn7zJaAU), 8 segundos, no 20 e na vitória.
+**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Se a boca já os armou: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Golpe:** [Música de batalha](https://www.youtube.com/watch?v=4Nvzmkg-CGw), 8 segundos, no 20 e na vitória.
 
 **Identidade:** descuido. O arroio tapa os passos. Eles não estão a olhar.
 
