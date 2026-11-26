@@ -1,6 +1,6 @@
 # Sigilo ou alerta
 
-**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Goblin's Cave](https://sounds.tabletopaudio.com/49_Goblin%27s_Cave.mp3). Com tochas ou gritos: [He's a Pirate](https://www.youtube.com/watch?v=BuYf0taXoNw). O fundo passa a [Goblin Ambush](https://sounds.tabletopaudio.com/316_Goblin_Ambush.mp3).
+**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Com tochas ou gritos: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Golpe:** [Pegasus Fantasy](https://www.youtube.com/watch?v=t1jHn7zJaAU), 8 segundos, no 20 e na vitória.
 
 **Identidade:** a água tapa a boca. O claro ainda não se vê. Não perguntes «vão de sigilo?» se as tochas já o disserem.
 

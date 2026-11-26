@@ -1,6 +1,6 @@
 # 1 — A boca
 
-**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Goblin's Cave](https://sounds.tabletopaudio.com/49_Goblin%27s_Cave.mp3).
+**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3).
 
 **Identidade:** frio, água alta, e um passo que eles escolhem.
 

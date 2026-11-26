@@ -1,6 +1,6 @@
 # 2 — Os vigias
 
-**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Goblin's Cave](https://sounds.tabletopaudio.com/49_Goblin%27s_Cave.mp3). Se a boca já os armou: [He's a Pirate](https://www.youtube.com/watch?v=BuYf0taXoNw). Fundo: [Goblin Ambush](https://sounds.tabletopaudio.com/316_Goblin_Ambush.mp3).
+**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Se a boca já os armou: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Golpe:** [Pegasus Fantasy](https://www.youtube.com/watch?v=t1jHn7zJaAU), 8 segundos, no 20 e na vitória.
 
 **Identidade:** descuido. O arroio tapa os passos. Eles não estão a olhar.
 

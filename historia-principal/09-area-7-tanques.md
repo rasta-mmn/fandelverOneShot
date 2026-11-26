@@ -1,6 +1,6 @@
 # 7 — Os tanques
 
-**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). Se a onda já vem, [The Bridge of Khazad Dum](https://www.youtube.com/watch?v=vbKy6FuACKg). **Fundo, bem baixo:** [Ice Cavern](https://sounds.tabletopaudio.com/55_Ice_Cavern.mp3). Com a onda, [Medieval Battle](https://sounds.tabletopaudio.com/79_Medieval_Battle.mp3).
+**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). Se a onda já vem, [The Bridge of Khazad Dum](https://www.youtube.com/watch?v=vbKy6FuACKg). **Fundo, bem baixo:** [Underground Lake](https://sounds.tabletopaudio.com/184_Underground_Lake.mp3).
 
 **Identidade:** o barulho ocupa o peito. Uma pedra já não segura a água. Por baixo, a fenda desce.
 

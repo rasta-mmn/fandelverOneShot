@@ -1,6 +1,6 @@
 # 8 — Klarg
 
-**Dispara:** [Smaug Suite](https://www.youtube.com/watch?v=SU_rtsb3zA4). Sobe na luta. Sala vazia: [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [Cavern of Lost Souls](https://sounds.tabletopaudio.com/99_Cavern_of_Lost_Souls.mp3) se ele está. [Dungeon I](https://sounds.tabletopaudio.com/65_Dungeon_I.mp3) se está vazia.
+**Dispara:** [Smaug Suite](https://www.youtube.com/watch?v=SU_rtsb3zA4). Na luta: [Forth Eorlingas](https://www.youtube.com/watch?v=lIHFBJGj-yQ). Sala vazia: [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3). **Golpe:** [Pegasus Fantasy](https://www.youtube.com/watch?v=t1jHn7zJaAU), 8 segundos, no 20 e na vitória.
 
 **Identidade:** calor no meio, humidade na parede, e uma voz que fala de si. Se a sala foi avisada, a voz não está. Os sacos, sim.
 

@@ -1,6 +1,7 @@
 # Flechas de goblin
 
-**Dispara:** [An Unexpected Party](https://www.youtube.com/watch?v=u1DWqb44rXw). **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3). Na cidade, o fundo passa a [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3).
+**Dispara:** [Heart of Courage](https://www.youtube.com/watch?v=LRLdhFVzqt4), quando entrega a pedra e quando a cidade aparece. **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3). Na cidade, [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3).
+**Golpe, 8 segundos:** [Pegasus Fantasy](https://www.youtube.com/watch?v=t1jHn7zJaAU). No 20 de um deles, e quando cai o último inimigo. Corta e volta à luta.
 
 Lê em voz alta, em blocos. Não uses o mesmo ritmo o tempo todo.
 
