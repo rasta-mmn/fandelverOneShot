@@ -52,4 +52,4 @@ Se a empurraram ainda viva, noutro momento, não saltes para este texto. Primeir
 
 ## Transição
 
-O final é o parágrafo frio de [Phandalin](../historia-principal/12-phandalin.md).
+O final é o velório de [Phandalin](../historia-principal/12-phandalin.md).
