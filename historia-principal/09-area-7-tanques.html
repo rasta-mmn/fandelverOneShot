@@ -52,6 +52,48 @@ if (relogio) {
     pintar();
   });
 }
+const golpe = document.querySelector("[data-golpe]");
+if (golpe) {
+  let player = null;
+  let ready = false;
+  let playing = false;
+  let timer = 0;
+  const stop = () => {
+    playing = false;
+    clearTimeout(timer);
+    golpe.textContent = "Golpe";
+    if (ready) {
+      player.pauseVideo();
+      player.seekTo(0, true);
+    }
+  };
+  const play = () => {
+    player.seekTo(0, true);
+    player.playVideo();
+    playing = true;
+    golpe.textContent = "Cortar";
+    clearTimeout(timer);
+    timer = setTimeout(stop, 8000);
+  };
+  const boot = () => {
+    player = new YT.Player("golpe-yt", {
+      videoId: "4Nvzmkg-CGw",
+      width: "200",
+      height: "113",
+      playerVars: { origin: location.origin, rel: 0, modestbranding: 1, playsinline: 1 },
+      events: { onReady() { ready = true; golpe.disabled = false; } }
+    });
+  };
+  golpe.addEventListener("click", () => {
+    if (!ready) return;
+    if (playing) stop();
+    else play();
+  });
+  window.onYouTubeIframeAPIReady = boot;
+  const tag = document.createElement("script");
+  tag.src = "https://www.youtube.com/iframe_api";
+  document.head.appendChild(tag);
+}
 </script>
 </body>
 </html>

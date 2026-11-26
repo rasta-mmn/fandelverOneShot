@@ -1,5 +1,7 @@
 # Sera e o relógio
 
+[[golpe]]
+
 [[retrato]]
 
 Ficha e relógio. Não leias à mesa. Marca com um X cada círculo que cair.

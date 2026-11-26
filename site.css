@@ -58,6 +58,34 @@ button.marca {
 }
 button.marca.gasta { background: #8a3b32; }
 button.marca.gasta::after { content: "×"; color: #fffaf3; font-size: 1.3rem; line-height: 1; }
+.golpe {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--speak);
+  padding: 0.45rem 0 0.55rem;
+  border-bottom: 1px solid var(--line);
+}
+button[data-golpe] {
+  width: 100%;
+  font: inherit;
+  font-weight: 700;
+  color: #fffaf3;
+  background: #8a3b32;
+  border: 0;
+  border-radius: 2px;
+  padding: 0.45rem 0.8rem;
+  cursor: pointer;
+}
+button[data-golpe]:disabled { opacity: 0.55; cursor: wait; }
+.golpe-yt {
+  position: absolute;
+  width: 200px;
+  height: 113px;
+  overflow: hidden;
+  opacity: 0.01;
+  pointer-events: none;
+}
 aside.ficha h2, aside.ficha h3 { font-size: 1rem; }
 aside.ficha blockquote { font-size: 1rem; }
 h3 { font-size: 1.05rem; margin: 1.4rem 0 0.4rem; }
