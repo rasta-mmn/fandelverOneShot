@@ -1,10 +1,10 @@
 # Flechas de goblin
 
-**Dispara:** [Heart of Courage](https://www.youtube.com/watch?v=LRLdhFVzqt4), quando entrega a pedra e quando a cidade aparece. **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3). Na cidade, [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3).
+**Dispara:** [Heart of Courage](https://www.youtube.com/watch?v=LRLdhFVzqt4), quando entrega a pedra. **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3).
 
 Lê em voz alta, em blocos. Não uses o mesmo ritmo o tempo todo.
 
-Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. Deixa uns segundos de silêncio antes de mostrares a cidade. As fotos só abrem no clique.
+Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. As fotos só abrem no clique. A cidade está no [01](historia-principal/01A-neverwinter.md).
 
 **Muestra** os dois.
 
@@ -36,33 +36,16 @@ Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. 
 >
 > El carro arranca y se aleja por el camino.
 
-**Muestra** a cidade. Silêncio curto antes disto.
-
-![Neverwinter](laminas/portadas/c-partida.jpg)
-
-> Al llegar a lo alto de la cuesta, Neverwinter aparece frente a ustedes.
->
-> La ciudad es enorme. Sus murallas rodean edificios de piedra, altas torres y calles llenas de movimiento. A lo lejos, un río atraviesa la ciudad y desemboca en un puerto repleto de barcos.
->
-> Se pueden ver comerciantes descargando mercancías, guardias vigilando las entradas y viajeros que llegan de todos los rincones de la región.
->
-> Desde aquí, Neverwinter parece una ciudad impresionante. Aunque, viendo el tráfico de carros, los comerciantes gritando y el humo que sale de las chimeneas, probablemente también sea un lugar bastante ruidoso.
->
-> El camino desciende directamente hacia la entrada principal. Más abajo se encuentra el puerto, donde está la taberna que Gundren les ha indicado.
->
-> Tienen una dirección, una piedra que no deben perder y una recompensa de diez monedas de oro esperándolos al final del viaje.
->
-> ¿Qué hacen? ¿Bajan directamente hacia la ciudad o prefieren detenerse un momento a observar Neverwinter?
-
 ## Ordem
 
-Antes da gruta o número é 0.1, 0.2, 0.3, 0.4. Na gruta, o número é o da sala no mapa.
+Antes da gruta o número é 01, 0.1, 0.2, 0.3, 0.4. Na gruta, o número é o da sala no mapa.
 
 Cada cena segue o mesmo método. **Identidade**, depois a **primeira impressão** em voz alta. O resto só quando olham: uma frase nova, não a regra. A regra está em **Informação do mestre**.
 
 | | |
 |---|---|
 | [Ficha](historia-principal/00-sera-e-relogio.md) | Relógio. Também está ao lado, nesta página. |
+| [01](historia-principal/01A-neverwinter.md) | Neverwinter, antes da taberna |
 | [0.1](historia-principal/01B-taberna-el-yunque-alegre.md) | Taberna, Neverwinter |
 | [0.2](historia-principal/01-alba-neverwinter.md) | Alba, saída da cidade |
 | [0.3](historia-principal/02-emboscada.md) | Emboscada, Senda de Triboar |
