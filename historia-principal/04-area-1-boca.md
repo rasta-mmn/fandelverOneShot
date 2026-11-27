@@ -1,14 +1,24 @@
 # 1 — A boca
 
-**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3).
+**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Com tochas ou gritos: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8).
 
-**Identidade:** frio, água alta, e um passo que eles escolhem.
+**Identidade:** frio, água alta, e um passo que eles escolhem. A água tapa a boca. O claro ainda não se vê.
 
-Não leias o claro dos vigias. Ainda não se vê. A regra fica em baixo. Em voz alta, só a entrada e o que eles forem olhar.
+Não leias o claro dos vigias. Não perguntes «vão de sigilo?» se as tochas já o disserem. Em voz alta, a entrada e o que eles forem olhar.
 
 ## Primeira impressão
 
-**Muestra** a [gruta](../laminas/paisagens/l-gruta.jpg). A lâmina de sigilo ou alerta fica na [decisão](../decisoes/02-sigilo-ou-alerta.md).
+**Muestra** a [gruta](../laminas/paisagens/l-gruta.jpg).
+
+> El bosque se abre al pie de una loma. De una boca negra sale un arroyo helado. El aire junto al agua está frío.
+>
+> A la derecha del agua, un sendero resbaladizo entra en la sombra. Al otro lado, las zarzas llegan hasta el agua.
+>
+> El ruido del arroyo tapa lo que haya dentro.
+>
+> La boca está delante. ¿Quién da el primer paso?
+
+Quando pisarem:
 
 > En cuanto pisan la boca, el agua les llega a la rodilla. Está helada. La corriente empuja hacia afuera, choca contra las piedras y el ruido lo llena todo.
 >
@@ -47,18 +57,24 @@ Falhar: só a água. Podem entrar na mesma.
 
 - Pisar a água, meter-se nas sarças, ou procurar outro passo.
 - Voltar para trás. A **Sera** continua lá dentro.
+- Sem luz e sem gritos, **muestra** [os vigias de costas](../laminas/04-vigias-costas.jpg) e lê:
+
+> Desde las zarzas se les ve la espalda. Son los dos del claro, y no miran hacia aquí. Uno se rasca la oreja con una flecha negra. El otro cabecea, sentado, y el arco se le ha caído en el barro. No se vuelven.
+
+- Tochas, gritos ou tiros, **muestra** [a saída deles](../laminas/05-saida-goblins.jpg) e lê:
+
+> Del claro salen figuras bajas. Los arcos ya están altos. No preguntan.
 
 ## Informação do mestre
 
 - Atravessar é fácil.
+- Sem luz e sem gritos: sem marca. Furtividade de grupo contra a Percepção passiva dos vigias. Falhar avisa-os. Não os manda de volta à estrada.
 - **Se empurrarem alguém à água:** cai, e a corrente leva-o para a saída.
 - **Se lutarem dentro das sarças:** cobertura de três quartos e terreno difícil.
-- Combate na boca: **−1 marca**, uma vez. Os vigias disparam com surpresa na clareira.
+- Tochas, gritos, ou vigias que já dispararam: combate na boca. **−1 marca**, uma vez. A **área 2** dispara com surpresa.
 - Descanso curto: **−1**. Dormir, ou ir a **Phandalin** e voltar: o relógio vai a **0**. A caverna não se fecha.
 
 ## Transição
-
-[Sigilo ou alerta](../decisoes/02-sigilo-ou-alerta.md).
 
 - Em sigilo, sem marca: [vigias](05-area-2-vigias.md), [lobos](06-area-3-perrera.md) ou o [corredor](07-area-4-pasaje.md).
 - Combate aqui: a marca, uma vez, e os vigias já estão de pé.

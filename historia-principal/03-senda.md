@@ -48,16 +48,4 @@ Se não veem, 2 m por 3 m:
 
 Destreza CD 10. Sucesso: ficam na borda. Falha: 1d6 e caído. Falha por 5 ou mais: sem sentidos no fundo. Sair, acordado, não pede rolagem. Os outros puxam quem desmaiou. A trilha continua.
 
-## Transição
-
-**Muestra** a [gruta](../laminas/paisagens/l-gruta.jpg). Ainda sem sigilo nem alerta.
-
-> El bosque se abre al pie de una loma. De una boca negra sale un arroyo helado. El aire junto al agua está frío.
->
-> A la derecha del agua, un sendero resbaladizo entra en la sombra. Al otro lado, las zarzas llegan hasta el agua.
->
-> El ruido del arroyo tapa lo que haya dentro.
->
-> La boca está delante. ¿Quién da el primer paso?
-
-Abre [sigilo ou alerta](../decisoes/02-sigilo-ou-alerta.md) e a [área 1](04-area-1-boca.md). A água ou as sarças são dessa cena.
+O rasto acaba na [boca](04-area-1-boca.md).
