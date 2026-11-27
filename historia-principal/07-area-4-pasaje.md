@@ -2,58 +2,44 @@
 
 **Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3).
 
-**Identidade:** escuro e húmido. O chão mente. Lá em cima há uma corda gasta.
+**Identidade:** um túnel escuro e húmido. O chão esconde um perigo e, por cima, uma corda sustenta a ponte.
 
 ## Primeira impressão
 
-**Muestra** o [corredor](../laminas/paisagens/l-passagem-sob-ponte.jpg). A [passagem](../laminas/16-corda-por-baixo.jpg), quando olharem para cima.
+**Muestra** o [corredor](../laminas/paisagens/l-passagem-sob-ponte.jpg).
 
-> El túnel sube. El aire está húmedo y el ruido del agua no deja oír otra cosa.
+> El túnel asciende siguiendo el curso del arroyo. El aire está húmedo y el ruido del agua llena el pasaje.
 >
-> A la derecha, el arroyo baja de escalón en escalón, blanco, hacia donde ustedes vinieron. Sin luz, el suelo solo se ve donde el agua lo moja.
+> A la derecha, el agua baja por unos escalones de piedra y continúa hacia la entrada de la cueva. Sin luz, apenas se distingue el suelo.
 >
-> Al borde del agua, una losa más clara que el resto sobresale sobre el vacío. Bajo la bota se nota más fina que la roca de alrededor.
+> Más adelante, una losa clara sobresale junto al agua. Por encima de ustedes se ven unas tablas y una cuerda vieja que cruje suavemente.
 >
-> Encima, a unos pasos, se ven tablas y una soga. La soga cruje. Por donde está deshilachada se ve la fibra blanca.
->
-> ¿Siguen junto al agua, o miran dónde apoyan el pie?
+> ¿Cómo avanzan?
 
-## O ambiente
-
-- Sem luz, a partir daqui, a água é a referência do chão.
-- O ruído tapa um grito curto. Não tapa uma tocha.
-- O goblin da ponte ainda não se descreve. Está na [área 5](08-area-5-puente.md).
-
-## Pontos de interesse
+## Se examinam a passagem
 
 Se olharem a laje, lê:
 
-> Debajo no hay suelo. El borde de la losa está suelto. Con más peso, se abre.
+> Debajo de la losa no hay suelo. El borde está suelto y parece ceder con el peso.
 
-Se olharem a corda, lê:
+Se olharem a corda, **muestra** a [passagem por baixo da ponte](../laminas/16-corda-por-baixo.jpg).
 
-> La fibra blanca está a un palmo de un filo. Si se corta, este lado del puente de arriba se queda sin sostén.
+> La cuerda está deshilachada. Entre las fibras oscuras destaca una parte blanca, muy cerca de un filo.
 
 Se olharem a água, lê:
 
-> Los escalones están resbaladizos. Quien caiga aquí no se detiene en el mismo peldaño: el agua lo baja al siguiente.
-
-## Interações
-
-- Seguir a água e não pisar a laje.
-- Pisar a laje, cortar a corda, ou empurrar alguém para os degraus.
-- Ir com luz, ou às escuras. A luz avisa o vigia da ponte.
-- Não subir à ponte. Mais à frente o túnel reparte.
+> Los escalones están resbaladizos. La corriente empuja hacia abajo y arrastra todo lo que cae sobre ellos.
 
 ## Informação do mestre
 
-- **Laje,** mais de 45 kg: Destreza CD 10, ou 2d6 e caído. Metade do dano se a salvaguarda passa, e caído na mesma. Quem vem atrás pode contornar.
-- **Água:** empurrar deixa a criatura caída no degrau de baixo.
-- **Cortar a corda daqui:** atacar a ponte da [área 5](08-area-5-puente.md). CA 5, 10 pontos. A 0, quem está em cima cai. A fibra branca é a soga do lado de cá, a oeste. Cortar aqui ou lá em cima é o mesmo cabo.
-- Luz, ou sem se esconderem: o goblin vê-os e corre para leste. A água vem no turno seguinte.
+- Sem luz, a água ajuda a perceber onde está o chão. O ruído do arroio abafa gritos curtos, mas não esconde a luz de uma tocha.
+- **Laje:** aguenta até 45 kg. Acima disso, Destreza CD 10. Falha: 2d6 e caído. Sucesso: metade do dano, e caído na mesma. Quem vem atrás pode contornar.
+- **Água:** quem for empurrado cai no degrau seguinte.
+- **Corda:** corta-se daqui ou na ponte da [área 5](08-area-5-puente.md). CA 5, 10 pontos. A 0, quem está na ponte cai. É o mesmo cabo, do lado oeste.
+- Com luz, ou sem se esconderem, o goblin da ponte vê-os e corre para leste. A água chega no turno seguinte.
 
 ## Transição
 
-- Pela água, sem serem vistos: [ponte](08-area-5-puente.md).
-- Ele os vê: [tanques](09-area-7-tanques.md) já. **−1 marca** se ainda não chegaram à **Sera** e estão no túnel.
-- Sem ponte e sem laje: o túnel reparte entre a [área 6](10-area-6-sera.md) e a [área 7](09-area-7-tanques.md). A água não vem enquanto ele não gritar.
+- Sem serem vistos: a [ponte](08-area-5-puente.md).
+- O goblin dá o alerta: os [tanques](09-area-7-tanques.md). **−1 marca** se ainda não encontraram a **Sera**.
+- Sem subir à ponte e sem acionar a laje: o túnel divide-se entre a [área 6](10-area-6-sera.md) e a [área 7](09-area-7-tanques.md). A água não chega enquanto o goblin não der o alerta.
