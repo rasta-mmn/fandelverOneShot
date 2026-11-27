@@ -6,16 +6,7 @@
 
 Ficha e relógio. Não leias à mesa. Marca com um X cada círculo que cair.
 
-## O que há aqui
-
-- **Doña Sera Calder**, 41 anos. Sócia de **Provisiones de Barthen**, em **Phandalin**. Veio a **Neverwinter** buscar o carro e não larga a carga com desconhecidos.
-- Corpo forte, ombros largos, cintura marcada, pernas firmes. Pele oliva, olhos castanhos. Trança castanha com fios grisalhos. Vestido burdeos justo, decote baixo, manga curta, fenda alta, cinto de couro, botas gastas, capa curta cinza caída nos ombros. Sem joias.
-- Não combate. Com 5 a 3 marcas, anda se a segurarem. Com 2 ou 1, fica a 1 ponto de golpe e precisa ser carregada.
-- Pagamento de **Gundren Buscapiedras**: **10 po** para cada personagem, pagos por **Elmar Barthen** na entrega. O carro vale **100 po**.
-- **Carga:** sacos de farinha, carne salgada, barris de cerveja, pão, empanadas, queijo de cabra, farois e um barril de azeite. Os goblins levam as caixas. Ficam os bois, o carro e dois sacos no mato. O resto está no cubil de **Klarg** (área 8).
-- **Gundren** e **Sildar Hallwinter** já partiram com o mapa, a caminho do **Castillo Cragmaw**, para o rei **Grol**. Não estão na taberna nem na caverna.
-
-### Relógio — 5 marcas
+## Relógio — 5 marcas
 
 Começa em 5 quando a emboscada termina.
 
