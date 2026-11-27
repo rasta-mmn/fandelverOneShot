@@ -2,33 +2,21 @@
 
 **Dispara:** [Minas Morgul](https://www.youtube.com/watch?v=7tLzOE0GpYs&list=PL480A36B593520453&index=43). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Com tochas ou gritos: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8).
 
-**Identidade:** frio, água alta, e um passo que eles escolhem. A água tapa a boca. O claro ainda não se vê.
-
-Não leias o claro dos vigias. Não perguntes «vão de sigilo?» se as tochas já o disserem. Em voz alta, a entrada e o que eles forem olhar.
-
 ## Primeira impressão
 
 **Muestra** a [gruta](../laminas/paisagens/l-gruta.jpg).
 
-> El bosque se abre al pie de una loma. De una boca negra sale un arroyo helado. El aire junto al agua está frío.
+> El bosque termina al pie de una loma rocosa. Frente a ustedes se abre una cueva oscura, de la que sale un arroyo de agua helada. Al entrar en la gruta, el agua les llega hasta las rodillas y la corriente empuja contra sus piernas.
 >
-> A la derecha del agua, un sendero resbaladizo entra en la sombra. Al otro lado, las zarzas llegan hasta el agua.
+> El ruido del arroyo llena la entrada y apenas permite escuchar nada más. El aire es frío y huele a tierra mojada y hojas podridas.
 >
-> El ruido del arroyo tapa lo que haya dentro.
+> A la derecha, junto a la pared de roca, hay un sendero estrecho de barro. Está lleno de pequeñas huellas que entran y salen de la cueva. A la izquierda, unas zarzas espesas cubren parte de la orilla y llegan hasta el agua.
 >
-> La boca está delante. ¿Quién da el primer paso?
-
-Quando pisarem:
-
-> En cuanto pisan la boca, el agua les llega a la rodilla. Está helada. La corriente empuja hacia afuera, choca contra las piedras y el ruido lo llena todo.
+> Unos metros más adentro, la oscuridad oculta el resto de la gruta. No se oyen voces ni se ve movimiento.
 >
-> La abertura es ancha. Unos pasos más adentro se pierde la luz. A la derecha, el barro está blando y marcado por pies pequeños que entran y salen. Al oeste, unas zarzas espesas bajan hasta el arroyo y se mueven cuando el agua las toca.
+> El rastro de Sera termina aquí.
 >
-> Huele a tierra mojada y a hoja verde. El frío sube por las piernas.
->
-> De lo que haya más adentro no llega ni una voz.
->
-> ¿Pisan el agua, o se meten entre las zarzas?
+> **¿Cómo vais a entrar?**
 
 ## O ambiente
 
