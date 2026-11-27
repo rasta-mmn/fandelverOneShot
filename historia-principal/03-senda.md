@@ -12,15 +12,19 @@ Só se foram atrás dela. Se foram a **Phandalin**, abre a [prisão](../decisoes
 
 Deixa a [senda](../laminas/paisagens/l-senda.jpg). O carro fica para trás. Quando o passo apertar, o [barranco](../laminas/paisagens/l-barranco.jpg). Sem pausa no meio.
 
-> Dejan el camino y el aire cambia. El carro se queda atrás. Huele a tierra removida y a sudor. Está más frío que en la senda.
+> Dejan el camino atrás y el aire cambia. El carro queda lejos. Huele a tierra removida y a sudor. Aquí hace más frío que en la senda.
 >
-> El barro está blando. A los dos lados de un surco largo hay pisadas pequeñas, con uñas. El surco es de unos tacones arrastrados y no se corta. Son cerca de una docena de pisadas, y un cuerpo arrastrado. El surco es de ella. Sigue hacia el noroeste, fresco, sin volver atrás.
+> El barro está blando y conserva las marcas con claridad. En medio del terreno hay un rastro largo, como si alguien hubiera sido arrastrado. A ambos lados aparecen pequeñas huellas de pies, con marcas de uñas. Son cerca de una docena. Todas siguen la misma dirección.
 >
-> Las zarzas rozan la ropa en cuanto se salen del medio. El paso se estrecha. Las zarzas arañan. Entre los troncos hay sombra de sobra y no se oye a nadie delante.
+> El cuerpo que arrastraron es el de Sera. El rastro continúa hacia el noroeste. Parece reciente. No hay señales de que nadie haya regresado.
 >
-> El barro guarda cada paso. Las uñas no se apartan del surco. Quien va en medio no pierde la marca. Quien se abre, la pierde entre las zarzas. Nadie sale al encuentro. Delante no hay voces, solo el frío y el peso de quien arrastran por el barro.
+> Al apartarse del sendero, las zarzas empiezan a rozarles la ropa. El paso se estrecha entre los árboles y las ramas arañan brazos y piernas. A medida que avanzan, la luz desaparece bajo las copas. No se oyen voces ni movimientos delante.
 >
-> ¿Quién va delante?
+> El barro permite seguir el rastro, pero no todos podrán hacerlo igual. Quien avance por el centro verá las huellas con claridad. Quien se aparte demasiado puede perderlas entre la maleza.
+>
+> El rastro sigue hacia el noroeste. El frío aumenta y el bosque permanece en silencio.
+>
+> **¿Quién va delante?**
 
 ## Interações da marcha
 
