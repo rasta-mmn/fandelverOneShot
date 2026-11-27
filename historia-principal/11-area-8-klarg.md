@@ -1,73 +1,65 @@
 # 8 — Klarg
 
-**Dispara:** [Smaug Suite](https://www.youtube.com/watch?v=SU_rtsb3zA4). Na luta: [Forth Eorlingas](https://www.youtube.com/watch?v=lIHFBJGj-yQ). Sala vazia: [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3).
+**Dispara:** [Smaug Suite](https://www.youtube.com/watch?v=SU_rtsb3zA4). Durante o combate: [Forth Eorlingas](https://www.youtube.com/watch?v=lIHFBJGj-yQ). Sala vazia: [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3).
 
-**Identidade:** calor no meio, humidade na parede, e uma voz que fala de si. Se a sala foi avisada, a voz não está. Os sacos, sim.
+**Identidade:** calor junto ao fogo, humidade nas paredes e uma criatura que fala de si própria. Se a sala foi alertada, a voz desaparece. Os sacos continuam lá.
 
-Se chegam antes da **área 6**: **−1 marca.** Se o trato já custou **−2**, não marques outra vez.
+Se chegarem antes da **área 6**, aplica **−1 marca**. Se o trato com o **Yeemik** já custou **−2**, não apliques outra penalização.
 
 ## Primeira impressão
 
-**Muestra** o [cubil](../laminas/13-klarg.jpg). O [retrato](../laminas/personagens/p-klarg.jpg) quando ele falar. O lobo é o [Rasgador](../laminas/personagens/p-rasgador.jpg).
+Sem alerta, **muestra** o [cubil](../laminas/13-klarg.jpg).
 
-Se ninguém avisou:
+> Huele a brasas y a sacos húmedos. Junto al fuego, el aire quema. Cerca de las paredes, la humedad se pega a la roca.
+>
+> En el centro hay un gran brasero encendido. Detrás se levantan varias estalagmitas anchas que ocultan lo que hay al otro lado.
+>
+> Contra la pared se amontonan cajas y sacos. Algunas cajas tienen pintado un león azul, sin ninguna inscripción. Junto a ellas, una grieta oscura asciende por la roca.
+>
+> Una criatura enorme se golpea el pecho. A sus pies, un lobo lleno de cicatrices enseña los dientes. Dos goblins permanecen cerca del fuego.
+>
+> —¿Quién entra en la cueva de Klarg? —ruge la criatura—. ¡Klarg hará un trono con vuestros huesos!
 
-> Huele a brasa y a saco húmedo. Junto al fuego el aire quema. Junto a la pared está húmedo.
->
-> En el centro, un brasero lleno hasta el borde crepita. El borde queda bajo, a la altura de una bota. Detrás hay puntas de piedra, anchas, y tapan a quien se pone al otro lado.
->
-> Contra la pared, cajas. En varias hay un león azul pintado, sin letras. Junto a ellas, una grieta oscura sube y deja salir olor a pelo mojado.
->
-> Una bestia enorme se golpea el pecho. A los pies, un lobo lleno de cicatrices enseña los dientes. Dos goblins miran el fuego y no dicen nada.
->
-> —¿Quién entra en la cueva de Klarg? —ruge. Habla de sí mismo—. ¡Klarg hará un trono con esos huesos!
+Quando o **Klarg** falar, **muestra** o [retrato](../laminas/personagens/p-klarg.jpg) e o [Rasgador](../laminas/personagens/p-rasgador.jpg).
 
-Se a **área 7** avisou, não leias o rugido.
+Com alerta, mostra o mesmo cubil e não leias o rugido.
 
-> Huele a brasa y a saco húmedo. El brasero está encendido y el borde queda bajo. Las cajas siguen contra la pared. Los sacos de al lado son altos y no dejan ver qué hay detrás.
+> Huele a brasas y a sacos húmedos. El brasero sigue encendido y las estalagmitas rodean el centro de la sala.
 >
-> Junto a las cajas, una grieta oscura sube.
+> Contra la pared se amontonan cajas y sacos. Junto a ellos, una grieta oscura asciende por la roca.
 >
-> No hay nadie a la vista.
+> No hay nadie a la vista. Los sacos son lo bastante altos para ocultar lo que hay detrás.
 >
-> ¿Entran al centro, o miran detrás de los sacos?
+> ¿Entran en la sala o se acercan a los sacos?
 
-## O ambiente
-
-- O braseiro estala sozinho. A sala não fica em silêncio.
-- A fenda é a mesma que desce aos lobos. Ele não a vigia.
-
-## Pontos de interesse
+## O que podem explorar
 
 Se olharem o braseiro, lê:
 
-> Está lleno. El borde es bajo. Una bota lo roza, y quien caiga de bruces se mete dentro.
+> Está lleno de brasas. El borde queda a la altura de una bota. Si alguien cae dentro, el fuego lo alcanza por completo.
 
 Se olharem a fenda, lê:
 
-> Sube estrecha y huele a los lobos. Cabe una persona. No se ve guardia en la boca.
+> Es estrecha y asciende por la roca. Se parece a la grieta por la que llegaron los lobos. No se ve a nadie vigilándola.
 
-Se olharem as caixas, lê:
+Se olharem as caixas e os sacos, lê:
 
-> Hay de dos clases. Unas huelen a harina y a carne salada. Otras llevan un león azul, sin letras. Hace falta el carro para llevárselas.
+> Hay dos tipos de carga. Unas cajas contienen harina y carne salada. Otras llevan un león azul pintado, sin letras. Son demasiado pesadas para transportarlas sin el carro.
 
-Se abrirem o baú entre as caixas: 600 pc, 110 pp, duas poções de cura, um sapo de jade com olhos de ouro (40 po). Não o anuncies antes.
+Se abrirem o baú escondido entre as caixas: 600 pc, 110 pp, duas poções de cura e uma rã de jade com olhos de ouro, no valor de 40 po. Não reveles o conteúdo antes de o abrirem.
 
-## Interações
+## Possibilidades
 
-- Entrar, usar as pedras, desconfiar dos sacos, subir a fenda, ou deixar as caixas.
-- Sem as caixas do cubil, **Barthen** recebe só os dois sacos do mato. As dez moedas não dependem de um discurso.
+- Podem avançar para o **Klarg** ou procurar cobertura antes de se aproximarem.
+- Sala alertada: o **Klarg** e o **Rasgador** estão atrás dos sacos, com meia cobertura. O primeiro personagem que avançar para o centro desencadeia a emboscada.
+- Estalagmites e sacos dão meia cobertura.
+- **Brasero:** pisar nas brasas causa 1 de dano de fogo. Cair ou ser empurrado para dentro causa 1d6. No máximo uma vez por turno.
+- **Fenda:** Atletismo CD 10 até à área 3. Falhar não impede outra tentativa nem os prende na sala.
+- Se o **Rasgador** cair, o **Klarg** foge pela fenda até à perrera. O baú fica.
+- As caixas do leão azul valem 50 po quando devolvidas à **Linene**.
 
-## Informação do mestre
+## Consequências
 
-- Se avisado: ele e o lobo começam atrás dos sacos, cobertura média. O primeiro passo para o meio é a emboscada.
-- **Brasas:** 1 de fogo ao pisar, 1d6 se empurrado para dentro. Uma vez por turno.
-- **Estalagmites e sacos:** cobertura média.
-- **Fenda:** Atletismo CD 10 até a **área 3**. Falhar a subida não os prende aqui.
-- Se **Rasgador** morre, **Klarg** foge pela fenda até a perrera. O baú fica.
-- Caixas do leão: **50 po** se as devolvem à **Linene**.
-
-## Transição
-
-- Caem, ou ele foge: as caixas podem ir no carro. Com a **Sera**, ou com o corpo, abre [Phandalin](12-phandalin.md).
-- Se ela ainda está no poste, volta à [área 6](10-area-6-sera.md) e lê o relógio outra vez.
+- **Klarg** derrotado ou em fuga: podem recolher o baú e as caixas. As caixas vão no carro.
+- Com a **Sera**, ou com o corpo, o regresso abre [Phandalin](12-phandalin.md).
+- Se ela ainda está no poste, voltam à [área 6](10-area-6-sera.md) e leem o relógio outra vez.
