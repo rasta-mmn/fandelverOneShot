@@ -20,49 +20,68 @@
 
 ## O ambiente
 
-Não acrescentes isto sozinho. Sai quando ficarem parados ou perguntarem o que sentem.
+Não acrescentes isto sozinho. Sai se ficarem parados, investigarem, ou perguntarem o que sentem.
 
-- A água dói nos primeiros passos e depois fica só fria.
-- Dentro das sarças o arroio ouve-se menos. Um grito curto junto à água não chega aos vigias. Tocha e luta à vista, sim.
+- A água dói nos primeiros passos. Depois o frio fica.
+- Dentro das silvas, o arroio ouve-se mais abafado.
+- Um grito curto junto à água não chega aos vigias. Tochas, disparos ou combate à vista denunciam o grupo.
 
 ## Pontos de interesse
 
-Se entrarem na água, lê:
+**Arroio.** Se entrarem na água, lê:
 
-> El fondo es de piedras sueltas. Cada paso suena. La corriente tira de los tobillos hacia la salida.
+> El fondo está lleno de piedras sueltas. Cada paso hace ruido y la corriente tira de los tobillos hacia la salida.
 
-Se se metem nas sarças, lê:
+Atravessar não pede teste. O terreno só é difícil se a corrente ou as pedras o tornarem, naquele momento.
 
-> Las ramas llegan al pecho. Cuesta dar un paso, y desde fuera casi no se ve a quien está dentro. Entre las hojas cabe asomar un arco.
+**Silvas.** Se entrarem nas silvas, lê:
 
-Se escutam por cima da água: Percepção CD 15. Sucesso:
+> Las ramas llegan hasta el pecho. Avanzar cuesta y las espinas se enganchan en la ropa. Desde fuera apenas se distingue a quien está dentro. Entre las hojas hay espacio para asomarse y utilizar un arco.
 
-> Por debajo del agua hay otro ruido, lejos. No se entiende qué es.
+Terreno difícil. Três quartos de cobertura contra ataques de fora. Dá para ver os vigias sem ficar à vista.
 
-Falhar: só a água. Podem entrar na mesma.
+**Escutar.** Se pararem junto à água e tentarem ouvir mais adiante: Percepção CD 15. Sucesso:
+
+> Por debajo del ruido del agua se escucha otro sonido, lejano. No consigues distinguir qué es.
+
+Falhar: só o arroio. Podem entrar na mesma.
+
+## Os vigias
+
+**Discretos.** Sem tochas, gritos ou combate à vista. Se os virem das silvas, **muestra** [os vigias de costas](../laminas/04-vigias-costas.jpg) e lê:
+
+> Desde las zarzas se les ve de espaldas. Son los dos goblins del claro y no miran hacia aquí. Uno se rasca la oreja con una flecha negra. El otro cabecea, sentado, con el arco caído en el barro. Ninguno parece haberse dado cuenta de vuestra presencia.
+
+Furtividade de grupo contra a Percepção passiva dos vigias. Pelo menos metade tem de passar. Sucesso: não dão por eles. Falha: detetam e dão o alerta.
+
+**Descobertos.** Tochas, disparos, combate à vista, ou o alerta. **Muestra** [a saída deles](../laminas/05-saida-goblins.jpg) e lê:
+
+> Del claro salen varias figuras bajas. Los goblins levantan sus arcos y apuntan hacia la entrada. No preguntan quiénes sois.
+
+Começa o combate na boca.
 
 ## Interações
 
-- Pisar a água, meter-se nas sarças, ou procurar outro passo.
-- Voltar para trás. A **Sera** continua lá dentro.
-- Sem luz e sem gritos, **muestra** [os vigias de costas](../laminas/04-vigias-costas.jpg) e lê:
+| Ação | Resultado |
+|---|---|
+| Atravessar o arroio | Avançam sem teste. |
+| Entrar nas silvas | Terreno difícil e cobertura. |
+| Procurar outro acesso | Investigam. |
+| Voltar para trás | Recuam. A **Sera** continua lá dentro. |
+| Empurrar alguém à água | Cai. A corrente leva-o para a saída. |
+| Lutar nas silvas | Terreno difícil e três quartos de cobertura. |
 
-> Desde las zarzas se les ve la espalda. Son los dos del claro, y no miran hacia aquí. Uno se rasca la oreja con una flecha negra. El otro cabecea, sentado, y el arco se le ha caído en el barro. No se vuelven.
+## Relógio
 
-- Tochas, gritos ou tiros, **muestra** [a saída deles](../laminas/05-saida-goblins.jpg) e lê:
+Uma marca, uma vez, se esta entrada acabar em alerta ou combate. Alerta que passa logo a combate é o mesmo incidente: **−1**, não dois. No [relógio](00-sera-e-relogio.md).
 
-> Del claro salen figuras bajas. Los arcos ya están altos. No preguntan.
-
-## Informação do mestre
-
-- Atravessar é fácil.
-- Sem luz e sem gritos: sem marca. Furtividade de grupo contra a Percepção passiva dos vigias. Falhar avisa-os. Não os manda de volta à estrada.
-- **Se empurrarem alguém à água:** cai, e a corrente leva-o para a saída.
-- **Se lutarem dentro das sarças:** cobertura de três quartos e terreno difícil.
-- Tochas, gritos, ou vigias que já dispararam: combate na boca. **−1 marca**, uma vez. A **área 2** dispara com surpresa.
-- Descanso curto: **−1**. Dormir, ou ir a **Phandalin** e voltar: o relógio vai a **0**. A caverna não se fecha.
+- Passagem discreta: sem marca.
+- Vigias detetam, ou combate na boca: **−1**.
+- Descanso curto: **−1**.
+- Descanso longo, ou ida a **Phandalin** e regresso: o relógio vai a **0**. A caverna não se fecha.
 
 ## Transição
 
-- Em sigilo, sem marca: [vigias](05-area-2-vigias.md), [lobos](06-area-3-perrera.md) ou o [corredor](07-area-4-pasaje.md).
-- Combate aqui: a marca, uma vez, e os vigias já estão de pé.
+Sem serem detetados: [vigias](05-area-2-vigias.md), [lobos](06-area-3-perrera.md) ou o [corredor](07-area-4-pasaje.md).
+
+Combate na entrada: a marca, uma vez. Os vigias ficam de pé. A [área 2](05-area-2-vigias.md) já sabe que entraram. Não é surpresa: estão prontos e disparam primeiro.
