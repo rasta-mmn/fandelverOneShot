@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).parent
-PAGES = [ROOT / "LEIA-ME.md"]
+PAGES = [ROOT / "LEIA-ME.md", ROOT / "musicas.md"]
 PAGES += sorted((ROOT / "historia-principal").glob("*.md"))
 PAGES += sorted((ROOT / "decisoes").glob("*.md"))
 PAGES += [ROOT / "laminas" / "ONDE-USAR.md"]

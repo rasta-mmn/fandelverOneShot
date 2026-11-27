@@ -60,4 +60,6 @@ Cada cena segue o mesmo método. **Identidade**, depois a **primeira impressão*
 
 Decisões, só quando a saída o disser: [mapa](decisoes/00-mapa.md).
 
+Músicas, para ouvir: [tabela](musicas.md).
+
 Lâminas: [ONDE-USAR](laminas/ONDE-USAR.md). Nas lutas da caverna, a sala é a arma. A regra está em **Objetos no combate**. Não a leias.
