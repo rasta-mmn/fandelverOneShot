@@ -1,6 +1,6 @@
 # 0.3 — La Senda de Triboar
 
-**Dispara:** **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3). Carroça na estrada. No mato: [Power of the Triforce](https://www.youtube.com/watch?v=_PIycyniXmg). Metal, sem canto.
+**Dispara:** **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3). Carroça na estrada. No mato: [Power Metal Instrumentals](https://www.youtube.com/watch?v=VI2P9TjF1ls&list=PLpDHDXkmLw4XX2BORO3o77W8EYhOJQA9z). Playlist, sem canto. O primeiro volume dura cerca de uma hora e meia.
 
 **Identidade:** o bosque cala. Cheira a sangue de ontem. O mato mexe sem vento.
 
