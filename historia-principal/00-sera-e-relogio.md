@@ -33,6 +33,6 @@ Se o grupo cai na emboscada, acordam roubados. O carro e a **Sera** já não est
 
 ## Saída
 
-- **Sucesso:** com 5 a 3 marcas ela fala e anda apoiada. **Yeemik** pode oferecer o [trato](../decisoes/04-trato-yeemik.md).
+- **Sucesso:** com 5 a 3 marcas ela fala e anda apoiada. **Yeemik** pode oferecer o trato na [área 6](10-area-6-sera.md).
 - **Falha:** o relógio chega a **0**. Não há trato. O final de **Phandalin** usa o parágrafo do corpo.
 - **Ignorar:** cada desvio gasta marcas na mesma. Dormir, ou entrar na vila antes do resgate, põe o relógio a zero. Quando olharem o poste, abre a decisão com o número que estiver aqui.

@@ -1,6 +1,6 @@
 # 6 — Sera e Yeemik
 
-**Dispara:** **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Ao salvar a **Sera**: [The Bridge of Khazad Dum](https://www.youtube.com/watch?v=vbKy6FuACKg). Se a encontrarem viva e não a salvarem, toca quando a virem. Morta: [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw).
+**Dispara:** **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). No trato: [Riddles in the Dark](https://www.youtube.com/watch?v=aKgH4KELcUw). Ao salvar a **Sera**: [The Bridge of Khazad Dum](https://www.youtube.com/watch?v=vbKy6FuACKg). Se a encontrarem viva e não a salvarem, toca quando a virem. Morta: [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw).
 
 **Identidade:** calor, fumo, goblins a rir e uma voz humana no alto da caverna.
 
@@ -55,11 +55,23 @@ Com **0**, **muestra** a [Sera morta](../laminas/11-sera-muerta.jpg) e abre a [d
 >
 > —¿Tenemos un trato?
 
-## A oferta
+## O trato
 
-- Se aceitarem, abre o [trato com Yeemik](../decisoes/04-trato-yeemik.md).
-- Aceitar o trato custa **−2 marcas**.
-- Ir ao covil de **Klarg** antes desta sala custa **−1 marca**. Não apliques os dois custos.
+Só se ela está viva e ele chega ao turno. Com **0**, não há oferta. Se a fala de cima já foi lida, não a repitas.
+
+> Yeemik aprieta el brazo. La hoja no se aparta del cuello.
+>
+> —La cabeza del oso. Luego la mujer. Si suben, la empujo.
+>
+> Ella no aparta la mirada de ustedes.
+>
+> ¿Aceptan?
+
+- Aceitam: ela fica com ele. Vão ao [covil de Klarg](11-area-8-klarg.md). **−2 marcas** agora. Não acumules com a marca de entrar no covil antes desta sala.
+- Se o relógio chega a **0** no caminho, ao voltarem ela está morta. Ele encolhe os ombros.
+- Recusam ou sobem: empurrão de 3 m, 1d6, cai a 0. Três rounds para estabilizar. O combate começa.
+- Se o derrubam antes do turno: não há trato e não há empurrão.
+- Com a cabeça e ela viva, ele pede o ouro do baú antes de soltar. Negociar, pagar ou lutar. Uma recusa aqui não a mata.
 
 ## Informação do mestre
 
@@ -75,4 +87,3 @@ Com **0**, **muestra** a [Sera morta](../laminas/11-sera-muerta.jpg) e abre a [d
 - Viva, mas não salva: toca a mesma faixa quando a virem. A decisão fica com eles.
 - Morta: podem descer o corpo ou seguir até às caixas no covil.
 - Com ela, ou com o corpo, o regresso abre [Phandalin](12-phandalin.md).
-- Se o **Yeemik** chega ao turno e ela continua viva, abre o [trato](../decisoes/04-trato-yeemik.md). Não repitas a oferta se já foi apresentada.
