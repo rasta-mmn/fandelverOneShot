@@ -1,6 +1,6 @@
 # 0.3 — La Senda de Triboar
 
-**Dispara:** **Fundo, bem baixo:** [Forest: Day](https://sounds.tabletopaudio.com/161_Forest_Day.mp3). No mato: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8).
+**Dispara:** **Fundo, bem baixo:** [Forest: Day](https://sounds.tabletopaudio.com/161_Forest_Day.mp3). No mato: [Power of the Triforce](https://www.youtube.com/watch?v=_PIycyniXmg). Metal, sem canto.
 
 **Identidade:** o bosque cala. Cheira a sangue de ontem. O mato mexe sem vento.
 
