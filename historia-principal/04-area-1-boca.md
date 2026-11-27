@@ -1,6 +1,6 @@
 # 1 — A boca
 
-**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Com tochas ou gritos: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8).
+**Dispara:** [Minas Morgul](https://www.youtube.com/watch?v=7tLzOE0GpYs&list=PL480A36B593520453&index=43). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Com tochas ou gritos: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8).
 
 **Identidade:** frio, água alta, e um passo que eles escolhem. A água tapa a boca. O claro ainda não se vê.
 
