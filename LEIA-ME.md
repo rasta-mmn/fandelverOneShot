@@ -38,7 +38,7 @@ Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. 
 
 ## Ordem
 
-Antes da gruta o número é 0.1, 0.2, 0.3, 0.4. Na gruta, o número é o da sala no mapa.
+Antes da gruta o número é 0.1, 0.2, 0.3. Na gruta, o número é o da sala no mapa.
 
 Cada cena segue o mesmo método. **Identidade**, depois a **primeira impressão** em voz alta. O resto só quando olham: uma frase nova, não a regra. A regra está em **Informação do mestre**.
 
@@ -46,9 +46,8 @@ Cada cena segue o mesmo método. **Identidade**, depois a **primeira impressão*
 |---|---|
 | [Ficha](historia-principal/00-sera-e-relogio.md) | Relógio. Também está ao lado, nesta página. |
 | [0.1](historia-principal/01B-taberna-el-yunque-alegre.md) | Cidade e taberna, Neverwinter |
-| [0.2](historia-principal/01-alba-neverwinter.md) | Alba, saída da cidade |
-| [0.3](historia-principal/02-emboscada.md) | Emboscada, Senda de Triboar |
-| [0.4](historia-principal/03-senda.md) | Rastro até a boca |
+| [0.2](historia-principal/01-alba-neverwinter.md) | Alba e emboscada, Senda de Triboar |
+| [0.3](historia-principal/03-senda.md) | Rastro até a boca |
 | [1](historia-principal/04-area-1-boca.md) | Boca |
 | [2](historia-principal/05-area-2-vigias.md) | Vigias |
 | [3](historia-principal/06-area-3-perrera.md) | Lobos |

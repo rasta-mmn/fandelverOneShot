@@ -1,4 +1,4 @@
-# 0.4 — O rastro
+# 0.3 — O rastro
 
 **Dispara:** [New War Clouds](https://www.youtube.com/watch?v=VQX37GpFM7Y). **Fundo, bem baixo:** [Forest: Day](https://sounds.tabletopaudio.com/161_Forest_Day.mp3).
 

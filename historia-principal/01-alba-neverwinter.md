@@ -1,14 +1,14 @@
-# 0.2 — O alba
+# 0.2 — Alba e a Senda de Triboar
 
-**Dispara:** [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3).
+**Dispara:** na saída, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3). No mato: [Power Metal Instrumentals](https://www.youtube.com/watch?v=VI2P9TjF1ls&list=PLpDHDXkmLw4XX2BORO3o77W8EYhOJQA9z). Playlist, sem canto. O primeiro volume dura cerca de uma hora e meia.
 
-**Identidade:** manhã fria, pão e sal. O carro já está na rua. Ela não espera discurso.
+**Identidade:** manhã fria, pão e sal. Ao meio-dia o bosque cala. Cheira a sangue de ontem.
 
 A noite já aconteceu na [taberna](01B-taberna-el-yunque-alegre.md).
 
-Não leias o cenário todo. Em voz alta, a entrada. As respostas, só se perguntarem.
+## Alba
 
-## Primeira impressão
+Não leias o cenário todo. Em voz alta, a entrada. As respostas, só se perguntarem.
 
 Tira a taberna. **Muestra** a saída.
 
@@ -24,12 +24,12 @@ Tira a taberna. **Muestra** a saída.
 >
 > —El pueblo espera esta comida. Yo no pienso perder ni un saco. ¿Cómo viajan? ¿Aquí conmigo, abriendo camino adelante, o cubriendo la espalda atrás?
 
-## O ambiente
+### O ambiente
 
 - Os muros ainda estão frios. A rua do porto já tem gente, mas ainda não grita como à noite.
 - Os bois bufam. Não há pressa dela para além de sair.
 
-## Pontos de interesse
+### Pontos de interesse
 
 Se olharem a carga, lê:
 
@@ -39,7 +39,7 @@ Se olharem a rua, lê:
 
 > La calle baja hacia la puerta de la ciudad. Más allá, el camino se abre y el ruido del puerto se queda atrás.
 
-## Interações
+### Interações
 
 - Responder: no pescante, à frente, ou atrás. Subir em silêncio também serve.
 - Conduzir não pede rolagem.
@@ -62,12 +62,89 @@ Só a frase do que perguntarem.
 
 > —Hasta ahora no hubo problemas, pero esta senda no es para distraerse. Si mantienen los ojos abiertos y las armas listas, las diez monedas de oro de Gundren les van a parecer bien ganadas.
 
-## Informação do mestre
+### Informação do mestre
 
 - Ela não combate e não larga a carga. Uma pergunta não atrasa a saída.
 - Carga: **100 po**. Na entrega, **10 po** cada um, pagos por **Barthen**.
 - O **Jorin** já fez a parte dele. Não volta, salvo se o chamarem.
 
+A cidade fica para trás. Sem encontro até o meio-dia. Segue neste slide.
+
+## A senda
+
+Não leias o quinto goblin nem o tubo. Só se a cena chegar lá.
+
+Antes da curva, **muestra** a [senda](../laminas/paisagens/l-senda.jpg). Quando o bosque fechar, o [barranco](../laminas/paisagens/l-barranco.jpg). Na luta, a [emboscada](../laminas/03-emboscada.jpg).
+
+> Llevan medio día por la Senda de Triboar. El bosque se cierra a los dos lados. Espinas, barranco, un paso estrecho. El aire está quieto.
+>
+> Los pájaros se callan. Solo se oyen las ruedas y el resuello de los bueyes.
+>
+> Al doblar la curva, huele a sangre vieja. A quince metros, dos caballos cruzan el camino. La tierra debajo está negra y húmeda. En los costados, flechas de pluma negra.
+>
+> Sera tira de las riendas. El cuero cruje. El carro se detiene.
+>
+> —Esos son los caballos de Gundren y de Sildar.
+>
+> Baja del carro y camina hacia ellos.
+>
+> Los matorrales se mueven. No hay viento.
+>
+> ¿Qué hacen ustedes?
+
+### O ambiente
+
+- Se alguém sai da senda, os espinhos agarram a roupa.
+- O cheiro é de ontem, não de um golpe acabado de dar.
+- Quando a luta começa, o mato range. Os pássaros não voltam.
+
+### Pontos de interesse
+
+Se olharem os cavalos, lê:
+
+> Llevan muertos cerca de un día. Las alforjas están abiertas y vacías.
+
+Se procurarem no chão junto deles, lê:
+
+> Hay un tubo de mapas vacío, caído entre la tierra negra. No tiene nada dentro.
+
+Se olharem o mato antes de se mexer, lê:
+
+> Hay bultos bajos, dos a cada lado. Todavía no se levantan. El quinto no está ahí: está junto a la rueda de Sera, y no se nombra hasta que tire de ella.
+
+### Interações
+
+- Ela já desceu. Seguir, ficar no carro, procurar, ou preparar armas. A luta começa quando o mato se mexe.
+- Alguém ainda pode segurá-la antes de chegar aos cavalos.
+- Interrogar, só se capturarem um e o acordarem. Não ofereças.
+
+### Informação do mestre
+
+- Sigilo +6, uma vez, contra a Percepção passiva. Quem ficar abaixo perde o primeiro turno.
+- Dois avançam. Dois ficam a uns 9 m e disparam.
+- Segundo turno, se ninguém a segurou. Se ela ainda está junto do carro, lê isto. Se já chegou aos cavalos, a mão sai do mato ao lado dela.
+
+> Una mano verde sale de las zarzas, al lado de la rueda. Agarra a Sera por el brazo.
+>
+> Ella suelta las riendas. La capa gris se engancha en las espinas y se queda allí, hecha jirones, mientras la arrastran hacia el noroeste.
+>
+> —¡Klarg la tendrá igual!
+
+- Se alguém a segura: Atletismo do goblin contra essa pessoa. Se ele perde, ela fica no carro, sem capa, e ele foge a gritar a mesma frase. O rastro continua.
+- Quando caem três dos quatro:
+
+> El último suelta el arco y se mete entre los arbustos.
+>
+> Detrás queda barro revuelto, y el rastro de unos tacones arrastrados.
+
+- Ficam os bois, o carro e dois sacos. O resto vai com quem foge.
+- O relógio começa em **5**, no [00](00-sera-e-relogio.md), quando a levam.
+- Se o grupo cai: acordam roubados, sem ela e sem as caixas. O rastro continua. O relógio segue.
+- Não ofereças ir embora no carro. Se o disserem, o relógio vai a **0** e abres a [praça](../decisoes/05-prisao-phandalin.md).
+- Interrogatório, se cai a 0 por ataque corpo a corpo: menos de vinte goblins. **Klarg** serve o rei **Grol**, que trabalha para a **Aranha Negra**. **Gundren** e o mapa já foram ao **Castillo Cragmaw**, uns 30 km a noroeste. Ela está na área 6, com **Yeemik**.
+
+> —¡La cueva del arroyo! ¡Klarg manda! ¡El enano ya se fue con el rey Grol! ¡La mujer está con Yeemik!
+
 ## Transição
 
-A cidade fica para trás. Sem encontro até o meio-dia. A seguir, a [emboscada](02-emboscada.md).
+Capa nas espinhas. Rastro a noroeste. Segue o [rastro](03-senda.md). As armadilhas são dessa cena.

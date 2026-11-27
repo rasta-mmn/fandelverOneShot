@@ -11,7 +11,7 @@ Mostra a portada ao abrir o bloco, antes de leres. Tira-a quando a cena concreta
 | Quando | Arquivo |
 |---|---|
 | No 0.1, a cidade vista de cima, antes da taberna | [portadas/c-partida.jpg](portadas/c-partida.jpg) |
-| Começa a emboscada | [portadas/c-emboscada.jpg](portadas/c-emboscada.jpg) |
+| No 0.2, quando o mato se mexe | [portadas/c-emboscada.jpg](portadas/c-emboscada.jpg) |
 | Chegam à gruta | [portadas/c-caverna.jpg](portadas/c-caverna.jpg) |
 | Vão entrar na sala da Sera | [portadas/c-resgate.jpg](portadas/c-resgate.jpg) |
 | A estrada de Phandalin, no fim | [portadas/c-phandalin.jpg](portadas/c-phandalin.jpg) |
