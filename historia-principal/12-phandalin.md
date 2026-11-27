@@ -1,6 +1,6 @@
 # Phandalin
 
-**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). Sem fundo. Se morreu, [Sadness and Sorrow](https://www.youtube.com/watch?v=_kr7pv2fin8). Se não a trouxeram, [Apple Seed](https://www.youtube.com/watch?v=zgn9kVbHObs). Nas duas últimas, corta em «Aquí se acaba el camino.»
+**Dispara:** se ela vive, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). Sem fundo. Se morreu, [Tema triste, parte 2](https://www.youtube.com/watch?v=7q6vIYRsP9E). Se não a trouxeram, [Apple Seed](https://www.youtube.com/watch?v=zgn9kVbHObs). Nas duas últimas, corta em «Aquí se acaba el camino.»
 
 Lê um bloco só. Viva, com o corpo, ou sem ela. Os três acabam com a mesma frase. No terceiro, para em «¿Dónde está Sera?» e deixa-os falar.
 
@@ -50,7 +50,7 @@ O banho é uma porta fechada. Não descrevas a água.
 
 ## Se ela morreu
 
-Sadness and Sorrow. Não mostres o vale nem o retrato da caverna.
+Tema triste, parte 2. Não mostres o vale nem o retrato da caverna.
 
 ![Phandalin](../laminas/portadas/c-phandalin.jpg)
 

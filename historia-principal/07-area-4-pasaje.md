@@ -1,6 +1,6 @@
 # 4 — A passagem
 
-**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3).
+**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [Underground Lake](https://sounds.tabletopaudio.com/184_Underground_Lake.mp3).
 
 **Identidade:** um túnel escuro e húmido. O chão esconde um perigo e, por cima, uma corda sustenta a ponte.
 

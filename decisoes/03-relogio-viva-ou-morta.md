@@ -1,6 +1,6 @@
 # Viva ou morta
 
-**Dispara:** [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3).
+**Dispara:** [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3).
 
 **Identidade:** chegaram tarde. O fogo ainda arde. Ela já não.
 

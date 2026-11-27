@@ -1,6 +1,6 @@
 # 2 — Os vigias
 
-**Dispara:** [Minas Morgul](https://www.youtube.com/watch?v=7tLzOE0GpYs&list=PL480A36B593520453&index=43). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Se a boca já os armou: [The Avengers](https://www.youtube.com/watch?v=QtxeJ703w18&list=PLcc3kR96phsT5DFtT5TeIuwlljHZ2Zt3P).
+**Dispara:** se forem furtivos, [The Avengers](https://www.youtube.com/watch?v=QtxeJ703w18&list=PLcc3kR96phsT5DFtT5TeIuwlljHZ2Zt3P). Se alertarem, [Minas Morgul](https://www.youtube.com/watch?v=7tLzOE0GpYs&list=PL480A36B593520453&index=43). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3).
 
 Se a boca já os armou, não leias o tédio. Estão de pé, arcos erguidos, e disparam primeiro.
 
