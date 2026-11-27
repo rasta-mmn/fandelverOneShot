@@ -60,14 +60,6 @@ Só a frase do que perguntarem.
 
 > —Hasta ahora no hubo problemas, pero esta senda no es para distraerse. Si mantienen los ojos abiertos y las armas listas, las diez monedas de oro de Gundren les van a parecer bien ganadas.
 
-### Informação do mestre
-
-- Ela não combate e não larga a carga. Uma pergunta não atrasa a saída.
-- Carga: **100 po**. Na entrega, **10 po** cada um, pagos por **Barthen**.
-- O **Jorin** já fez a parte dele. Não volta, salvo se o chamarem.
-
-A cidade fica para trás. Sem encontro até o meio-dia. Segue neste slide.
-
 ## A senda
 
 Não leias o quinto goblin nem o tubo. Só se a cena chegar lá.
