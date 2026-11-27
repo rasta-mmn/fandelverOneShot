@@ -18,7 +18,7 @@ Deixa a [senda](../laminas/paisagens/l-senda.jpg). O carro fica para trás. Quan
 >
 > Al apartarse del sendero, las zarzas empiezan a rozarles la ropa. El paso se estrecha entre los árboles y las ramas arañan brazos y piernas. A medida que avanzan, la luz desaparece bajo las copas. No se oyen voces ni movimientos delante.
 >
-> El barro permite seguir el rastro, pero no todos podrán hacerlo igual. Quien avance por el centro verá las huellas con claridad. Quien se aparte demasiado puede perderlas entre la maleza.
+> El barro permite seguir el rastro, pero no todos podrán hacerlo igual.
 >
 > El rastro sigue hacia el noroeste. El frío aumenta y el bosque permanece en silencio.
 >
