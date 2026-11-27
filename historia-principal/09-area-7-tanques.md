@@ -1,6 +1,6 @@
 # 7 — Os tanques
 
-**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [Underground Lake](https://sounds.tabletopaudio.com/184_Underground_Lake.mp3).
+**Dispara:** [Kuronue](https://www.youtube.com/watch?v=2wYPiNJcXFY&list=RDlRezaTVzkGk&index=14). **Fundo, bem baixo:** [Underground Lake](https://sounds.tabletopaudio.com/184_Underground_Lake.mp3).
 
 **Identidade:** o barulho ocupa o peito. Uma pedra já não segura a água. Por baixo, a fenda desce.
 
