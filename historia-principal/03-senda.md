@@ -26,28 +26,77 @@ Deixa a [senda](../laminas/paisagens/l-senda.jpg). O carro fica para trás. Quan
 
 ## Interações da marcha
 
-A ordem diz quem vê, ou quem cai, primeiro. Contornar não gasta marca. Cair, sim. Cada laço ou fosso acionado: **−1** no [relógio](00-sera-e-relogio.md). Os espinhos não gastam.
+Antes de seguirem o rasto, pergunta como querem avançar e fixa a ordem.
 
-**Espinhos.** Se o da frente sai do meio do sulco, as silvas agarram a roupa. Não há teste. Volta ao sulco e o rasto continua. Se insistirem fora dele, perdem a marca até regressarem.
+Exemplo:
 
-**Laço.** Aos dez minutos o chão muda de cor, quase como a corda. Não o digas a quem não olha para baixo. Passiva 12, ou Percepção CD 12. Sucesso:
+- 1.º Guerreiro, à frente.
+- 2.º Ladino, no rasto.
+- 3.º Clérigo, no meio.
+- 4.º Mago, fecha a marcha.
+
+A ordem diz quem encontra o perigo primeiro. Os outros podem ajudar.
+
+- Avançam pelo rasto.
+- Describes o terreno e o que dá para ver.
+- Quem procura armadilhas faz Percepção.
+- Se ninguém deteta, o da frente pode acionar.
+- Armadilha acionada: **−1** no [relógio](00-sera-e-relogio.md).
+- Os espinhos não são armadilha.
+
+Contornar uma armadilha já vista não gasta marca. A marca só cai quando a armadilha dispara.
+
+### Espinhos
+
+Servem para os manter no sulco.
+
+- No sulco, seguem.
+- Nas silvas, ficam presos e têm de voltar.
+- Não há teste nem marca.
+- Se insistirem fora do rasto, deixam de ver as pegadas.
+
+Se cortarem caminho:
+
+> Las ramas se enganchan en tu ropa y te arañan los brazos. Entre las zarzas no consigues distinguir las huellas. Para seguir el rastro, tendrás que volver al camino de barro.
+
+### Laço
+
+Aos dez minutos. A corda é quase da cor do barro. Não a digas a quem não olha para baixo.
+
+- Percepção passiva 12 ou mais: vê sozinho.
+- Se procura armadilhas: Percepção CD 12.
+- Se ninguém vê, o da frente aciona.
+
+Se alguém vê:
 
 > Hay una cuerda casi del color del barro, tensa, a la altura del tobillo. Se puede rodear.
 
-Se não veem: Destreza CD 10. Sucesso, saem de lado. Falha:
+Contornam. Sem teste e sem marca.
 
-> Una cuerda sale del barro y se cierra en el tobillo. Quien iba delante queda colgado a tres metros, cabeza abajo. El rastro sigue fresco debajo.
+Se ninguém vê, o da frente faz Destreza CD 10. Sucesso: desvia-se. Falha:
 
-Impedido até cortarem a corda. Baixar sem cuidado: 1d6. Cortar não pede outro teste.
+> Una cuerda sale del barro y se cierra en tu tobillo. De repente, el suelo desaparece bajo tus pies. Quedas colgado a tres metros del suelo, cabeza abajo.
 
-**Fosso.** Mais dez minutos: uma faixa mais escura, de dois metros. Também não se anuncia. Passiva 15, ou Percepção CD 15. Sucesso:
+Preso até o libertarem. Cortar a corda não pede teste. Baixar sem cuidado: 1d6. **−1** no relógio.
 
-> Esa franja no es suelo firme. Son dos metros de ancho. Debajo hay un hoyo.
+### Fosso
 
-Se não veem, 2 m por 3 m:
+Aos vinte minutos. Uma faixa mais escura no caminho. Também não se anuncia.
 
-> El suelo cede bajo los pies. Tres metros de hoyo, paredes de tierra mojada. Abajo huele a hoja podrida.
+- Percepção passiva 15 ou mais: vê sozinho.
+- Se procura armadilhas: Percepção CD 15.
+- Se ninguém vê, o da frente pisa a cobertura.
 
-Destreza CD 10. Sucesso: ficam na borda. Falha: 1d6 e caído. Falha por 5 ou mais: sem sentidos no fundo. Sair, acordado, não pede rolagem. Os outros puxam quem desmaiou. A trilha continua.
+Se alguém vê:
+
+> Esa franja no parece suelo firme. Tiene unos dos metros de ancho. Debajo hay un hoyo.
+
+Podem contornar ou procurar por onde passar. Sem marca.
+
+Se ninguém vê:
+
+> El suelo cede bajo tus pies. La tierra se rompe y caes en un hoyo de tres metros de profundidad. Las paredes están húmedas y resbaladizas. Abajo huele a hojas podridas.
+
+Destreza CD 10. Sucesso: agarra a borda. Falha: 1d6 e caído. Falha por 5 ou mais: inconsciente. Quem está acordado sai sem teste. Os outros puxam quem desmaiou. **−1** no relógio.
 
 O rasto acaba na [boca](04-area-1-boca.md).
