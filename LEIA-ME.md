@@ -4,7 +4,7 @@
 
 Lê em voz alta, em blocos. Não uses o mesmo ritmo o tempo todo.
 
-Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. As fotos só abrem no clique. A cidade está no [01](historia-principal/01A-neverwinter.md).
+Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. As fotos só abrem no clique. A cidade abre o [0.1](historia-principal/01B-taberna-el-yunque-alegre.md), antes da taberna.
 
 **Muestra** os dois.
 
@@ -38,15 +38,14 @@ Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. 
 
 ## Ordem
 
-Antes da gruta o número é 01, 0.1, 0.2, 0.3, 0.4. Na gruta, o número é o da sala no mapa.
+Antes da gruta o número é 0.1, 0.2, 0.3, 0.4. Na gruta, o número é o da sala no mapa.
 
 Cada cena segue o mesmo método. **Identidade**, depois a **primeira impressão** em voz alta. O resto só quando olham: uma frase nova, não a regra. A regra está em **Informação do mestre**.
 
 | | |
 |---|---|
 | [Ficha](historia-principal/00-sera-e-relogio.md) | Relógio. Também está ao lado, nesta página. |
-| [01](historia-principal/01A-neverwinter.md) | Neverwinter, antes da taberna |
-| [0.1](historia-principal/01B-taberna-el-yunque-alegre.md) | Taberna, Neverwinter |
+| [0.1](historia-principal/01B-taberna-el-yunque-alegre.md) | Cidade e taberna, Neverwinter |
 | [0.2](historia-principal/01-alba-neverwinter.md) | Alba, saída da cidade |
 | [0.3](historia-principal/02-emboscada.md) | Emboscada, Senda de Triboar |
 | [0.4](historia-principal/03-senda.md) | Rastro até a boca |

@@ -1,8 +1,30 @@
 # 0.1 — Taberna El Yunque Alegre
 
-**Dispara:** [Kingdom Dance](https://www.youtube.com/watch?v=0X0sLw63KLU), uma vez. **Fundo, bem baixo:** [The Bog Standard](https://sounds.tabletopaudio.com/131_The_Bog_Standard.mp3). Ambiente, sem música.
+**Dispara:** na cidade, [Heart of Courage](https://www.youtube.com/watch?v=LRLdhFVzqt4). **Fundo, bem baixo:** [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3). Na taberna, [Kingdom Dance](https://www.youtube.com/watch?v=0X0sLw63KLU), uma vez. **Fundo:** [The Bog Standard](https://sounds.tabletopaudio.com/131_The_Bog_Standard.mp3). Ambiente, sem música.
 
-**Identidade:** calor, barulho, e ninguém à espera deles. A **Sera** ainda não chegou.
+**Identidade:** primeiro a cidade, vista de cima. Depois a taberna: calor, barulho, e ninguém à espera deles. A **Sera** ainda não chegou.
+
+## A cidade
+
+**Muestra** a cidade. Silêncio curto antes disto.
+
+![Neverwinter](../laminas/portadas/c-partida.jpg)
+
+> Al llegar a lo alto de la cuesta, Neverwinter aparece frente a ustedes.
+>
+> La ciudad es enorme. Sus murallas rodean edificios de piedra, altas torres y calles llenas de movimiento. A lo lejos, un río atraviesa la ciudad y desemboca en un puerto repleto de barcos.
+>
+> Se pueden ver comerciantes descargando mercancías, guardias vigilando las entradas y viajeros que llegan de todos los rincones de la región.
+>
+> Desde aquí, Neverwinter parece una ciudad impresionante. Aunque, viendo el tráfico de carros, los comerciantes gritando y el humo que sale de las chimeneas, probablemente también sea un lugar bastante ruidoso.
+>
+> El camino desciende directamente hacia la entrada principal. Más abajo se encuentra el puerto, donde está la taberna que Gundren les ha indicado.
+>
+> Tienen una dirección, una piedra que no deben perder y una recompensa de diez monedas de oro esperándolos al final del viaje.
+>
+> ¿Qué hacen? ¿Bajan directamente hacia la ciudad o prefieren detenerse un momento a observar Neverwinter?
+
+Quando descerem, segue neste slide.
 
 Não leias o cenário todo. Em voz alta, a entrada e o que eles forem olhar. A regra fica em baixo.
 

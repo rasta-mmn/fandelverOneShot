@@ -10,7 +10,7 @@ Mostra a portada ao abrir o bloco, antes de leres. Tira-a quando a cena concreta
 
 | Quando | Arquivo |
 |---|---|
-| Slide 01, a cidade vista de cima, antes da taberna | [portadas/c-partida.jpg](portadas/c-partida.jpg) |
+| No 0.1, a cidade vista de cima, antes da taberna | [portadas/c-partida.jpg](portadas/c-partida.jpg) |
 | Começa a emboscada | [portadas/c-emboscada.jpg](portadas/c-emboscada.jpg) |
 | Chegam à gruta | [portadas/c-caverna.jpg](portadas/c-caverna.jpg) |
 | Vão entrar na sala da Sera | [portadas/c-resgate.jpg](portadas/c-resgate.jpg) |
