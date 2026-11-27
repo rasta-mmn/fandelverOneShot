@@ -18,11 +18,13 @@ Antes da curva, **muestra** a [senda](../laminas/paisagens/l-senda.jpg). Quando 
 >
 > Sera tira de las riendas. El cuero cruje. El carro se detiene.
 >
-> —Esos son los caballos de Gundren.
+> —Esos son los caballos de Gundren y de Sildar.
+>
+> Baja del carro y camina hacia ellos.
 >
 > Los matorrales se mueven. No hay viento.
 >
-> ¿Qué hacen?
+> ¿Qué hacen ustedes?
 
 ## O ambiente
 
@@ -34,7 +36,7 @@ Antes da curva, **muestra** a [senda](../laminas/paisagens/l-senda.jpg). Quando 
 
 Se olharem os cavalos, lê:
 
-> Llevan muertos cerca de un día. Las alforjas están abiertas y vacías. Son los caballos de Gundren y de Sildar.
+> Llevan muertos cerca de un día. Las alforjas están abiertas y vacías.
 
 Se procurarem no chão junto deles, lê:
 
@@ -46,15 +48,15 @@ Se olharem o mato antes de se mexer, lê:
 
 ## Interações
 
-- Aproximar-se dos cavalos, procurar, ou preparar armas. A luta começa quando o mato se mexe.
-- Alguém no pescante pode segurá-la.
+- Ela já desceu. Seguir, ficar no carro, procurar, ou preparar armas. A luta começa quando o mato se mexe.
+- Alguém ainda pode segurá-la antes de chegar aos cavalos.
 - Interrogar, só se capturarem um e o acordarem. Não ofereças.
 
 ## Informação do mestre
 
 - Sigilo +6, uma vez, contra a Percepção passiva. Quem ficar abaixo perde o primeiro turno.
 - Dois avançam. Dois ficam a uns 9 m e disparam.
-- Segundo turno, se ninguém a segura:
+- Segundo turno, se ninguém a segurou. Se ela ainda está junto do carro, lê isto. Se já chegou aos cavalos, a mão sai do mato ao lado dela.
 
 > Una mano verde sale de las zarzas, al lado de la rueda. Agarra a Sera por el brazo.
 >
