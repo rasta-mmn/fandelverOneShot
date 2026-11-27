@@ -1,6 +1,6 @@
 # 3 — Os lobos
 
-**Dispara:** [The Raptor Attack](https://www.youtube.com/watch?v=V1GRTzQW8u0). Se a corrente se soltar: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Fundo, bem baixo:** [Cave of Time](https://sounds.tabletopaudio.com/13_Cave_of_Time.mp3).
+**Dispara:** [The Raptor Attack](https://www.youtube.com/watch?v=V1GRTzQW8u0). **Fundo, bem baixo:** [Cave of Time](https://sounds.tabletopaudio.com/13_Cave_of_Time.mp3).
 
 **Identidade:** o cheiro anuncia a sala. As correntes limitam os lobos. A fenda oferece outra saída.
 
