@@ -34,7 +34,7 @@ Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. 
 >
 > —¡Ah! ¡Y una última cosa! —grita Gundren antes de ponerse en marcha—. ¡No se coman la piedra! ¡Es importante!
 >
-> El carro arranca y se aleja por el camino, llevándose a Gundren y Sildar. En cuestión de segundos, ambos desaparecen entre el movimiento de viajeros que entran y salen de la ciudad.
+> El carro arranca y se aleja por el camino.
 
 **Muestra** a cidade. Silêncio curto antes disto.
 
