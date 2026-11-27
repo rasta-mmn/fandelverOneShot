@@ -1,6 +1,6 @@
 # 1 — A boca
 
-**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Com tochas ou gritos: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8).
+**Dispara:** [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3).
 
 ## Primeira impressão
 
