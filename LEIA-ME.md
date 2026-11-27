@@ -14,11 +14,9 @@ Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. 
 >
 > Gundren es un enano conocido por casi todo el Norte. Tiene muchos contactos, habla más de la cuenta y, según dicen, nunca ha conocido una taberna en la que no termine discutiendo con alguien.
 >
-> Hoy tiene un encargo sencillo: llevar comida y suministros a Phandalin. Harina, cerdo salado, cerveza, queso, pan, faroles y aceite. Una carga que vale unas cien monedas de oro.
+> Hoy tiene un encargo sencillo: llevar comida y suministros a Phandalin.
 >
 > El trato con ustedes ya está cerrado: diez monedas de oro para cada uno si la mercancía llega completa. Así que más les vale cuidar el carro. Gundren no parece especialmente dispuesto a pagar por mercancía perdida.
->
-> Sildar, vestido con una capa azul, viaja junto a él. Es un hombre serio, de pocas palabras y con cara de preferir estar en cualquier otro lugar.
 >
 > Después de un rato, Gundren detiene el carro y se vuelve hacia ustedes.
 >
@@ -28,19 +26,15 @@ Pausa depois de Gundren entregar a pedra. Sobe um pouco a voz no último grito. 
 >
 > —Escuchen bien, porque no pienso repetirlo. Tienen que ir a una taberna llamada El Yunque Alegre, en la calle del puerto. No tiene pérdida: el cartel muestra un yunque riéndose. Bastante ridículo, si me preguntan.
 >
-> —Cuando lleguen, busquen una mesa y dejen esta piedra bien visible. Una mujer llamada Doña Sera Calder los estará esperando. Ella reconocerá la señal. Pasarán la noche allí y mañana, al amanecer, saldrán con el carro hacia Phandalin. Sera irá con ustedes.
+> —Cuando lleguen, busquen una mesa y dejen esta piedra bien visible. Una mujer llamada Doña Sera Calder los estará esperando. Ella reconocerá la señal y les dará instrucciones.
 >
 > Gundren mira a cada uno para asegurarse de que han entendido.
->
-> —Y recuerden: diez monedas de oro por cabeza. Si la carga llega completa, todos contentos.
 >
 > El enano vuelve a subir al carro. Sildar apenas les dedica una mirada antes de acomodarse en su asiento.
 >
 > —¡Ah! ¡Y una última cosa! —grita Gundren antes de ponerse en marcha—. ¡No se coman la piedra! ¡Es importante!
 >
 > El carro arranca y se aleja por el camino, llevándose a Gundren y Sildar. En cuestión de segundos, ambos desaparecen entre el movimiento de viajeros que entran y salen de la ciudad.
->
-> Ahora están solos, con una piedra extraña, una misión bastante sencilla y una ciudad enorme delante de ustedes.
 
 **Muestra** a cidade. Silêncio curto antes disto.
 
