@@ -20,9 +20,11 @@ Tira a taberna. **Muestra** a saída.
 >
 > Sera está en el pescante. La capa gris sobre el vestido burdeos. Las riendas firmes. El cuero cruje cuando tira.
 >
-> Mira hacia atrás. Seria, sin mala cara.
+> Vosotros vais detrás, siguiendo el pescante. La calle baja hacia la puerta de la ciudad. Más allá, el camino se abre y el ruido del puerto se queda atrás.
 >
-> —El pueblo espera esta comida. Yo no pienso perder ni un saco. ¿Cómo viajan? ¿Aquí conmigo, abriendo camino adelante, o cubriendo la espalda atrás?
+> Sera mira hacia atrás. Seria, sin mala cara.
+>
+> —El pueblo espera esta comida. Yo no pienso perder ni un saco. ¿Venís?
 
 ### O ambiente
 
@@ -35,13 +37,9 @@ Se olharem a carga, lê:
 
 > Harina, carne salada, cerveza, queso, pan, faroles y un barril de aceite. Va todo sujeto. Ella no aparta la vista de quien se acerca a contarlo.
 
-Se olharem a rua, lê:
-
-> La calle baja hacia la puerta de la ciudad. Más allá, el camino se abre y el ruido del puerto se queda atrás.
-
 ### Interações
 
-- Responder: no pescante, à frente, ou atrás. Subir em silêncio também serve.
+- Responder a «¿Venís?»: no pescante, à frente, ou atrás. Subir em silêncio também serve.
 - Conduzir não pede rolagem.
 
 Só a frase do que perguntarem.
