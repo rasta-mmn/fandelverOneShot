@@ -1,52 +1,37 @@
 # 3 — Os lobos
 
-**Dispara:** [The Raptor Attack](https://www.youtube.com/watch?v=V1GRTzQW8u0). Se a corrente parte: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Fundo, bem baixo:** [Cave of Time](https://sounds.tabletopaudio.com/13_Cave_of_Time.mp3).
+**Dispara:** [The Raptor Attack](https://www.youtube.com/watch?v=V1GRTzQW8u0). Se a corrente se soltar: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8). **Fundo, bem baixo:** [Cave of Time](https://sounds.tabletopaudio.com/13_Cave_of_Time.mp3).
 
-**Identidade:** o cheiro chega primeiro. A corrente é o limite. A fenda é a outra saída.
+**Identidade:** o cheiro anuncia a sala. As correntes limitam os lobos. A fenda oferece outra saída.
 
 ## Primeira impressão
 
 **Muestra** os [lobos](../laminas/07-perrera.jpg).
 
-> El olor llega antes que la sala: pelo mojado, estiércol, carne podrida. El aire está quieto y caliente.
+> El olor llega antes que la sala: pelo mojado, estiércol y carne podrida. El aire está caliente y cargado.
 >
-> Tres lobos tiran de unas cadenas. El hierro está clavado a una estalagmita y el perno chirría cada vez que dan un tirón. La cadena no llega a los escalones. Desde arriba, ellos no alcanzan a nadie. Les cae espuma del hocico.
+> Tres lobos forcejean con unas cadenas. Las cadenas están sujetas a una estalagmita por un perno de hierro que chirría cada vez que tiran. No llegan hasta los escalones.
 >
-> La roca del medio es ancha. A la derecha, una grieta estrecha sube a oscuras y deja salir un olor a hollín.
+> En el centro, una formación de roca divide la sala. A la derecha, una grieta estrecha sube hacia la oscuridad. De ella sale un débil olor a humo.
 >
-> ¿Se quedan en los escalones, o bajan hacia ellos?
+> ¿Qué hacen?
 
 ## O ambiente
 
-- Os degraus estão secos. A sala em baixo está húmida.
-- A fenda cabe uma pessoa. São 9 m até a **área 8**.
-
-## Pontos de interesse
-
-Se olharem o perno, lê:
-
-> El hierro está gastado donde muerde la roca. Cada tirón lo hace cantar. Un poco más y la cadena se suelta.
-
-Se olharem a fenda, lê:
-
-> La grieta es estrecha, negra, y huele a humo viejo. Sube recta. No se ve el final.
-
-Se oferecerem comida, não o digas antes. Aí a CD de os acalmar desce.
-
-## Interações
-
-- Ficar nos degraus, descer, acalmar, provocar de longe, trabalhar o perno, ou subir a fenda.
-- Ignorar a sala não custa marca. Os lobos ficam.
+- Os degraus estão secos. O chão da sala é húmido.
+- A fenda é estreita e leva à área 8, a cerca de 9 m.
 
 ## Informação do mestre
 
-- Descer: atacam quem desce.
+- Descer até aos lobos: atacam quem entrar no alcance das correntes.
 - Acalmar: Trato com Animais CD 15. Com comida do carro, CD 10. Falhar não os solta.
-- **Estalagmite:** cobertura média.
-- **Perno, ou provocação de longe:** cada turno a corrente faz Atletismo CD 15. O primeiro sucesso baixa a CD a 10. O segundo solta um lobo, e esse pisa os degraus.
-- **Fenda:** Atletismo CD 10, metade da velocidade. 5 ou menos: 1d6 por cada 3 m. Os outros podem seguir pelo corredor. Subir antes de ver a **Sera**: **−1 marca.**
+- A estalagmite dá meia cobertura.
+- Cada turno em que alguém trabalha o perno, ou provoca os lobos de longe, a corrente faz Atletismo CD 15. No primeiro sucesso, a CD passa a 10. No segundo, um lobo solta-se e chega aos degraus.
+- Fenda: Atletismo CD 10, a metade da velocidade. Falha por 5 ou mais: 1d6 por cada 3 m percorridos.
+- Subir pela fenda antes de encontrar a **Sera**: **−1 marca.**
+- Ignorar a sala não custa marca. Os lobos continuam presos.
 
 ## Transição
 
-- Sem luta, ou nos degraus: o [corredor](07-area-4-pasaje.md).
-- Pela fenda: [Klarg](11-area-8-klarg.md), com a marca se ela ainda não foi vista.
+- Pela entrada ou pelos degraus: o [corredor](07-area-4-pasaje.md).
+- Pela fenda: [Klarg](11-area-8-klarg.md). Se a **Sera** ainda não foi encontrada, a marca mantém-se.
