@@ -1,6 +1,6 @@
 # 0.2 — Alba e a Senda de Triboar
 
-**Dispara:** na saída, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3). No mato: [Power Metal Instrumentals](https://www.youtube.com/watch?v=VI2P9TjF1ls&list=PLpDHDXkmLw4XX2BORO3o77W8EYhOJQA9z). Playlist, sem canto. O primeiro volume dura cerca de uma hora e meia.
+**Dispara:** na saída, [Concerning Hobbits](https://www.youtube.com/watch?v=CL_3mlOPnGI). **Fundo, bem baixo:** [Overland with Oxen](https://sounds.tabletopaudio.com/48_Overland_with_Oxen.mp3). No mato: [Power Metal Instrumentals](https://www.youtube.com/watch?v=1scsVRovHWg&list=PLpDHDXkmLw4XX2BORO3o77W8EYhOJQA9z&index=2). Playlist, sem canto. Começa no volume 2.
 
 **Identidade:** manhã fria, pão e sal. Ao meio-dia o bosque cala. Cheira a sangue de ontem.
 
