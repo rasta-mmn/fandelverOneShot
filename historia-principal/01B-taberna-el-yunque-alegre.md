@@ -1,6 +1,6 @@
 # 0.1 — Taberna El Yunque Alegre
 
-**Dispara:** na cidade, [Heart of Courage](https://www.youtube.com/watch?v=LRLdhFVzqt4). **Fundo, bem baixo:** [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3). Na taberna, [Kingdom Dance](https://www.youtube.com/watch?v=0X0sLw63KLU), uma vez. **Fundo:** [The Bog Standard](https://sounds.tabletopaudio.com/131_The_Bog_Standard.mp3). Ambiente, sem música.
+**Dispara:** na cidade, **fundo, bem baixo:** [Medieval Town](https://sounds.tabletopaudio.com/56_Medieval_Town.mp3). Na taberna, [Kingdom Dance](https://www.youtube.com/watch?v=0X0sLw63KLU), uma vez. **Fundo:** [The Bog Standard](https://sounds.tabletopaudio.com/131_The_Bog_Standard.mp3). Ambiente, sem música.
 
 **Identidade:** primeiro a cidade, vista de cima. Depois a taberna: calor, barulho, e ninguém à espera deles. A **Sera** ainda não chegou.
 
