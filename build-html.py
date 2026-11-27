@@ -41,7 +41,7 @@ def inline(text):
     return re.sub(r"\x00(\d+)\x00", lambda m: slots[int(m.group(1))], text)
 
 
-def convert(md):
+def convert(md, golpe=False):
     out = []
     para, quote, items, table = [], [], [], []
 
@@ -90,12 +90,13 @@ def convert(md):
             continue
         if line.strip() == "[[golpe]]":
             flush()
-            out.append(
-                '<div class="golpe">'
-                '<button type="button" data-golpe disabled>Golpe</button>'
-                '<div class="golpe-yt"><div id="golpe-yt"></div></div>'
-                "</div>"
-            )
+            if golpe:
+                out.append(
+                    '<div class="golpe">'
+                    '<button type="button" data-golpe disabled>Golpe</button>'
+                    '<div class="golpe-yt"><div id="golpe-yt"></div></div>'
+                    "</div>"
+                )
             continue
         if line.strip() == "[[retrato]]":
             flush()
@@ -261,7 +262,7 @@ def main():
         dest = ROOT / "index.html" if path.name == "LEIA-ME.md" else path.with_suffix(".html")
         aside = None
         if dest.name == "index.html":
-            sheet = convert((ROOT / "historia-principal" / "00-sera-e-relogio.md").read_text(encoding="utf-8"))
+            sheet = convert((ROOT / "historia-principal" / "00-sera-e-relogio.md").read_text(encoding="utf-8"), golpe=True)
             aside = sheet.replace('href="../', 'href="').replace('src="../', 'src="')
         dest.write_text(page(title, body, 0 if dest.name == "index.html" else depth, aside), encoding="utf-8")
         text = dest.read_text(encoding="utf-8")
