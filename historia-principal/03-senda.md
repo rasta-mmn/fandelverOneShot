@@ -1,6 +1,6 @@
 # 0.3 — O rastro
 
-**Dispara:** [New War Clouds](https://www.youtube.com/watch?v=VQX37GpFM7Y). **Fundo, bem baixo:** [Forest: Day](https://sounds.tabletopaudio.com/161_Forest_Day.mp3). Lê seguido. A faixa dura 1:21. A pergunta é o fim.
+**Dispara:** [New War Clouds](https://www.youtube.com/watch?v=VQX37GpFM7Y&t=8s). Abre aos 8 s. **Fundo, bem baixo:** [Forest: Day](https://sounds.tabletopaudio.com/161_Forest_Day.mp3). Lê seguido. A pergunta é o fim.
 
 **Identidade:** lama, frio, e um sulco que não pára. As armadilhas não se anunciam.
 
