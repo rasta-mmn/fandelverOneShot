@@ -64,7 +64,7 @@ Só a frase do que perguntarem.
 
 Não leias o quinto goblin nem o tubo. Só se a cena chegar lá.
 
-Antes da curva, **muestra** a [senda](../laminas/paisagens/l-senda.jpg). Quando o bosque fechar, o [barranco](../laminas/paisagens/l-barranco.jpg). Na luta, a [emboscada](../laminas/03-emboscada.jpg).
+Antes da curva, **muestra** a [senda](../laminas/paisagens/l-senda.jpg). Quando o bosque fechar, o [barranco](../laminas/paisagens/l-barranco.jpg). Na luta, a [emboscada](../laminas/03-emboscada-cavalos.jpg).
 
 > Llevan medio día por la Senda de Triboar. El bosque se cierra a los dos lados. Espinas, barranco, un paso estrecho. El aire está quieto.
 >
