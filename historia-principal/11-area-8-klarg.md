@@ -1,6 +1,6 @@
 # 8 — Klarg
 
-**Dispara:** [Smaug Suite](https://www.youtube.com/watch?v=SU_rtsb3zA4). Durante o combate: [Forth Eorlingas](https://www.youtube.com/watch?v=lIHFBJGj-yQ). Sala vazia: [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3).
+**Dispara:** [The Fighting Uruk-hai](https://www.youtube.com/watch?v=eWgXxjyJwfE&list=OLAK5uy_mVqV7beAf-57WLucgUHR8aVQcJ_JexWeg&index=33). Durante o combate: [Forth Eorlingas](https://www.youtube.com/watch?v=lIHFBJGj-yQ). Sala vazia: [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [The Underdark](https://sounds.tabletopaudio.com/170_The_Underdark.mp3).
 
 **Identidade:** calor junto ao fogo, humidade nas paredes e uma criatura que fala de si própria. Se a sala foi alertada, a voz desaparece. Os sacos continuam lá.
 
