@@ -1,76 +1,78 @@
 # 6 — Sera e Yeemik
 
-**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Ao salvá-la: [The Bridge of Khazad Dum](https://www.youtube.com/watch?v=vbKy6FuACKg). Se a virem viva e não a salvarem, essa faixa ao vê-la. Morta: [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw).
+**Dispara:** [A Journey in the Dark](https://www.youtube.com/watch?v=MW5w0-xOXu8). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Ao salvar a **Sera**: [The Bridge of Khazad Dum](https://www.youtube.com/watch?v=vbKy6FuACKg). Se a encontrarem viva e não a salvarem, toca quando a virem. Morta: [Tema triste](https://www.youtube.com/watch?v=eV0OZf-dCuw).
 
-**Identidade:** calor, fumo, riso em baixo, e uma voz que não é de goblin lá em cima.
+**Identidade:** calor, fumo, goblins a rir e uma voz humana no alto da caverna.
 
-Confere o [relógio](00-sera-e-relogio.md) antes do repecho. Com **0**, não leias a oferta.
+Antes de começar, confere o [relógio](00-sera-e-relogio.md). Com **0**, não há oferta nem negociação.
 
 ## Primeira impressão
 
-Não mostres a **Sera**. **Muestra** a [sala vazia](../laminas/paisagens/l-sala-comum.jpg).
+Não mostres a **Sera**. **Muestra** a [sala](../laminas/paisagens/l-sala-comum.jpg).
 
-> El humo pica en los ojos en cuanto entran. Huele a cuero mal curtido y a carne que no se sabe de qué es. Hace calor.
+> El humo les pica en los ojos al entrar. Huele a cuero mal curtido y a carne quemada. Hace calor.
 >
-> La caverna se parte en dos. Abajo arde un fuego. Unas brasas sueltas brillan en el borde de la piedra, justo donde se apoya una bota, y chisporrotean.
+> La caverna se divide en dos niveles. Abajo, cinco goblins ríen alrededor de una hoguera. Algunas brasas han saltado hasta el borde de la piedra.
 >
-> Cinco goblins ríen alrededor del fuego. No miran la entrada: miran hacia arriba, a un repecho de tres metros. Las piedras de ese repecho están sueltas y hacen de peldaños.
+> Todos miran hacia un repecho de unos tres metros de altura. Unas piedras sueltas forman una subida irregular. Arriba hay un poste con varias cuerdas atadas.
 >
-> Allí hay un poste, con cuerdas a la vista. Y una voz que no es de goblin.
+> Desde lo alto llega una voz humana.
 >
-> ¿Suben, o se quedan abajo con el fuego?
+> ¿Qué hacen?
 
-## O ambiente
+## O que podem fazer
 
-- O fumo desce e fica à altura da cara.
-- Com 5 a 3 marcas ela está de pé e pode falar. Com 2 ou 1, pesa na corda, fica a 1 ponto, e tem de ser carregada.
+- Observar o alto: revela a **Sera** e o **Yeemik**. Mostra as imagens e lê o diálogo, conforme o relógio.
+- Subir pelas pedras: aproxima-os do **Yeemik**, mas pode provocar uma reação imediata.
+- Ficar junto ao fogo: podem falar ou agir de baixo, perto das brasas e dos goblins.
+- Negociar: se a **Sera** estiver viva e o relógio ainda tiver marcas, o **Yeemik** apresenta a oferta.
+- Atacar o **Yeemik**: se o derrotarem antes do turno dele, não consegue empurrá-la. Podem cortar as cordas.
+- Cortar as cordas: podem tentar libertá-la. Se o **Yeemik** ainda a ameaça com a lâmina, o corte não afasta a folha.
 
-## Pontos de interesse
+## Quando observarem o alto
 
-Se olharem as brasas, lê:
+Com 5 a 3 marcas, a **Sera** está de pé e consegue falar. **Muestra** [Yeemik](../laminas/personagens/p-yeemik.jpg) e a [Sera viva](../laminas/10-sera-viva.jpg).
 
-> Están sueltas, al borde. Quien pise ahí se quema. Quien caiga encima, más.
+Com 2 ou 1 marca, mostra as mesmas lâminas. Ela está suspensa pelas cordas, quase sem forças. Tem 1 ponto de vida e precisa de ser carregada.
 
-Se olharem as cordas, lê:
+Com **0**, **muestra** a [Sera morta](../laminas/11-sera-muerta.jpg) e abre a [decisão do relógio](../decisoes/03-relogio-viva-ou-morta.md). Não há oferta.
 
-> Las cuerdas del poste están tensas y al alcance de un cuchillo. Arriba, alguien las tiene cerca del cuello de otra persona. Todavía no se ve quién.
+## Se a Sera estiver viva
 
-Se olharem o repecho e ainda há marcas: a foto primeiro. [Yeemik](../laminas/personagens/p-yeemik.jpg) e a [Sera viva](../laminas/10-sera-viva.jpg). Depois o diálogo, na informação do mestre.
-
-Se o relógio está em **0**: a [Sera morta](../laminas/11-sera-muerta.jpg) e a [decisão](../decisoes/03-relogio-viva-ou-morta.md). Sem oferta.
-
-## Interações
-
-- Subir pelas pedras, ficar junto ao fogo, ou falar daí de baixo.
-- Derrubar **Yeemik** antes do turno dele: não a empurra. Cortam as cordas.
-- Com **0**: descer o corpo, ou subir até ele. Sem trato.
-
-## Informação do mestre
-
-Quando olharem e ela vive, se este olhar não a tira do poste: Khazad Dum agora. Se as cordas vão cair, espera por esse momento.
-
-> Doña Sera está atada al poste, los brazos en alto. El vestido burdeos está rasgado en el hombro y en el muslo. Tiene el pómulo negro. Una hoja oxidada le toca el cuello.
+> Doña Sera está atada al poste, con los brazos en alto. El vestido burdeos está rasgado en el hombro y en el muslo. Tiene un pómulo amoratado.
 >
-> Detrás, un goblin más alto le rodea el cuello con el brazo.
+> Detrás de ella, un goblin más alto le rodea el cuello con un brazo. Una hoja oxidada le toca la garganta.
 >
 > —¡Un paso más y la empujo!
 >
-> Ella mantiene la barbilla alta. La voz le sale ronca.
+> Sera levanta la barbilla. Su voz sale ronca.
 >
-> —No hagan tratos con esta alimaña por mí. La carga de Phandalin es lo que importa.
+> —No hagan tratos con esta alimaña por mí. Lo importante es que la carga llegue a Phandalin.
 >
-> Yeemik escupe al fuego.
+> Yeemik escupe hacia el fuego.
 >
-> —Escuchen. Klarg es un bruto. Tráiganme su cabeza y se la devuelvo entera. Si suben por estas piedras, la empujo ahora.
+> —Escuchen. Klarg es un bruto. Tráiganme su cabeza y se la devolveré entera. Si suben por estas piedras, la empujo ahora.
 >
 > —¿Tenemos un trato?
 
-- **Yeemik** tem 12 pontos. É o único que fala.
-- **Brasas:** 1 de fogo ao pisar. Empurrar alguém, 1d6. Uma vez por turno.
-- **Cordas:** se ele ainda a tem no braço, cortar a corda não tira a folha do pescoço. Se já não a segura, ela desce.
-- Ir ao cubil antes desta sala: **−1**. O trato, se o aceitam: **−2**. Não marques as duas.
+## A oferta
+
+- Se aceitarem, abre o [trato com Yeemik](../decisoes/04-trato-yeemik.md).
+- Aceitar o trato custa **−2 marcas**.
+- Ir ao covil de **Klarg** antes desta sala custa **−1 marca**. Não apliques os dois custos.
+
+## Informação do mestre
+
+- **Yeemik:** 12 pontos. É o único goblin que fala.
+- Se chegar ao turno dele enquanto ainda a controla, pode empurrá-la.
+- Se o derrotarem antes desse turno, não a empurra. As cordas podem ser cortadas.
+- Cortar as cordas não afasta a lâmina. Se ele ainda a segura, a ameaça continua. Se já não a controla, ela pode ser libertada.
+- **Brasas:** pisar causa 1 de dano de fogo. Empurrar alguém para cima delas causa 1d6. No máximo uma vez por turno.
 
 ## Transição
 
-- Cordas caem e ela vive: Khazad Dum. Sair, ou as caixas em [Klarg](11-area-8-klarg.md). Com ela, ou com o corpo, o carro abre [Phandalin](12-phandalin.md).
-- Ele chega ao turno e ela vive: o [trato](../decisoes/04-trato-yeemik.md). Não repitas a oferta se já a leste aqui.
+- **Sera** salva: toca Khazad Dum. Podem sair com ela ou seguir até às caixas no [covil de Klarg](11-area-8-klarg.md).
+- Viva, mas não salva: toca a mesma faixa quando a virem. A decisão fica com eles.
+- Morta: podem descer o corpo ou seguir até às caixas no covil.
+- Com ela, ou com o corpo, o regresso abre [Phandalin](12-phandalin.md).
+- Se o **Yeemik** chega ao turno e ela continua viva, abre o [trato](../decisoes/04-trato-yeemik.md). Não repitas a oferta se já foi apresentada.
