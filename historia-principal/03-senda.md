@@ -16,15 +16,13 @@ Deixa a [senda](../laminas/paisagens/l-senda.jpg). O carro fica para trás. Quan
 >
 > El barro está blando y conserva las marcas con claridad. En medio del terreno hay un rastro largo, como si alguien hubiera sido arrastrado. A ambos lados aparecen pequeñas huellas de pies, con marcas de uñas. Son cerca de una docena. Todas siguen la misma dirección.
 >
-> El cuerpo que arrastraron es el de Sera. El rastro continúa hacia el noroeste. Parece reciente. No hay señales de que nadie haya regresado.
->
 > Al apartarse del sendero, las zarzas empiezan a rozarles la ropa. El paso se estrecha entre los árboles y las ramas arañan brazos y piernas. A medida que avanzan, la luz desaparece bajo las copas. No se oyen voces ni movimientos delante.
 >
 > El barro permite seguir el rastro, pero no todos podrán hacerlo igual. Quien avance por el centro verá las huellas con claridad. Quien se aparte demasiado puede perderlas entre la maleza.
 >
 > El rastro sigue hacia el noroeste. El frío aumenta y el bosque permanece en silencio.
 >
-> **¿Quién va delante?**
+> ¿Quién va delante?
 
 ## Interações da marcha
 
