@@ -1,6 +1,6 @@
 # 1 — A boca
 
-**Dispara:** [Minas Morgul](https://www.youtube.com/watch?v=7tLzOE0GpYs&list=PL480A36B593520453&index=43). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Com tochas ou gritos: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8).
+**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Com tochas ou gritos: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8).
 
 ## Primeira impressão
 
@@ -18,58 +18,27 @@
 >
 > **¿Cómo vais a entrar?**
 
-## O ambiente
+## A entrada
 
-Não acrescentes isto sozinho. Sai se ficarem parados, investigarem, ou perguntarem o que sentem.
+Não descrevas os dois goblins aqui. O claro, o arco e as silvas estão nos [vigias](05-area-2-vigias.md).
 
-- A água dói nos primeiros passos. Depois o frio fica.
-- Dentro das silvas, o arroio ouve-se mais abafado.
-- Um grito curto junto à água não chega aos vigias. Tochas, disparos ou combate à vista denunciam o grupo.
-
-## Pontos de interesse
-
-**Arroio.** Se entrarem na água, lê:
+- A água dói nos primeiros passos. Depois o frio fica. Atravessar não pede teste. O terreno só é difícil se a corrente ou as pedras o tornarem, naquele momento.
+- Se entrarem na água, lê:
 
 > El fondo está lleno de piedras sueltas. Cada paso hace ruido y la corriente tira de los tobillos hacia la salida.
 
-Atravessar não pede teste. O terreno só é difícil se a corrente ou as pedras o tornarem, naquele momento.
+- Empurrar alguém à água: cai. A corrente leva-o para a saída.
+- As silvas da esquerda são o caminho quieto. A cobertura está nos vigias.
+- Um grito curto junto à água não chega aos vigias. Tochas, disparos ou combate à vista denunciam o grupo.
+- Voltar para trás: a **Sera** continua lá dentro.
 
-**Silvas.** Se entrarem nas silvas, lê:
-
-> Las ramas llegan hasta el pecho. Avanzar cuesta y las espinas se enganchan en la ropa. Desde fuera apenas se distingue a quien está dentro. Entre las hojas hay espacio para asomarse y utilizar un arco.
-
-Terreno difícil. Três quartos de cobertura contra ataques de fora. Dá para ver os vigias sem ficar à vista.
-
-**Escutar.** Se pararem junto à água e tentarem ouvir mais adiante: Percepção CD 15. Sucesso:
+**Escutar.** Junto à água, Percepção CD 15. Sucesso:
 
 > Por debajo del ruido del agua se escucha otro sonido, lejano. No consigues distinguir qué es.
 
 Falhar: só o arroio. Podem entrar na mesma.
 
-## Os vigias
-
-**Discretos.** Sem tochas, gritos ou combate à vista. Se os virem das silvas, **muestra** [os vigias de costas](../laminas/04-vigias-costas.jpg) e lê:
-
-> Desde las zarzas se les ve de espaldas. Son los dos goblins del claro y no miran hacia aquí. Uno se rasca la oreja con una flecha negra. El otro cabecea, sentado, con el arco caído en el barro. Ninguno parece haberse dado cuenta de vuestra presencia.
-
-Furtividade de grupo contra a Percepção passiva dos vigias. Pelo menos metade tem de passar. Sucesso: não dão por eles. Falha: detetam e dão o alerta.
-
-**Descobertos.** Tochas, disparos, combate à vista, ou o alerta. **Muestra** [a saída deles](../laminas/05-saida-goblins.jpg) e lê:
-
-> Del claro salen varias figuras bajas. Los goblins levantan sus arcos y apuntan hacia la entrada. No preguntan quiénes sois.
-
-Começa o combate na boca.
-
-## Interações
-
-| Ação | Resultado |
-|---|---|
-| Atravessar o arroio | Avançam sem teste. |
-| Entrar nas silvas | Terreno difícil e cobertura. |
-| Procurar outro acesso | Investigam. |
-| Voltar para trás | Recuam. A **Sera** continua lá dentro. |
-| Empurrar alguém à água | Cai. A corrente leva-o para a saída. |
-| Lutar nas silvas | Terreno difícil e três quartos de cobertura. |
+**Furtividade** de grupo contra a Percepção passiva dos vigias. Pelo menos metade tem de passar. Sucesso: não dão por eles. Falha: alerta.
 
 ## Relógio
 
@@ -84,4 +53,4 @@ Uma marca, uma vez, se esta entrada acabar em alerta ou combate. Alerta que pass
 
 Sem serem detetados: [vigias](05-area-2-vigias.md), [lobos](06-area-3-perrera.md) ou o [corredor](07-area-4-pasaje.md).
 
-Combate na entrada: a marca, uma vez. Os vigias ficam de pé. A [área 2](05-area-2-vigias.md) já sabe que entraram. Não é surpresa: estão prontos e disparam primeiro.
+Detetados: a marca, uma vez. Abre os [vigias](05-area-2-vigias.md) e não leias o tédio. Estão de pé e disparam primeiro.

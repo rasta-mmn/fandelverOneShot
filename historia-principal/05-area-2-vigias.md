@@ -1,6 +1,6 @@
 # 2 — Os vigias
 
-**Dispara:** [The Adventure Begins](https://www.youtube.com/watch?v=Ygz0wKBcv34). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Se a boca já os armou: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8).
+**Dispara:** [Minas Morgul](https://www.youtube.com/watch?v=7tLzOE0GpYs&list=PL480A36B593520453&index=43). **Fundo, bem baixo:** [Lost Mine](https://sounds.tabletopaudio.com/98_Lost_Mine.mp3). Se a boca já os armou: [Steel for Humans](https://www.youtube.com/watch?v=BLqktDBIew8).
 
 Se a boca já os armou, não leias o tédio. Estão de pé, arcos erguidos, e disparam primeiro.
 
@@ -8,9 +8,7 @@ Se a boca já os armou, não leias o tédio. Estão de pé, arcos erguidos, e di
 
 **Muestra** os [vigias](../laminas/06-vigias-matorral.jpg).
 
-Se já viram a imagem dos dois de costas, não repitas a descrição. São os mesmos goblins.
-
-Se ainda não os viram, lê:
+Lê:
 
 > El sendero desemboca en un pequeño claro rodeado de zarzas. El suelo está cubierto de barro y hojas mojadas.
 >
